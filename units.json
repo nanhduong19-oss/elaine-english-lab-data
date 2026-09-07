@@ -1,0 +1,26 @@
+{
+  "units": [
+    {
+      "id": 3,
+      "name": "Unit 3: Environment",
+      "skills": {
+        "vocab": true,
+        "wordFormation": false,
+        "ueo": false,
+        "reading": false,
+        "listening": false
+      }
+    },
+    {
+      "id": 4,
+      "name": "Unit 4: Technology",
+      "skills": {
+        "vocab": false,
+        "wordFormation": false,
+        "ueo": false,
+        "reading": false,
+        "listening": false
+      }
+    }
+  ]
+}
