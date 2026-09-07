@@ -14,7 +14,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_football.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_football_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_football_example.mp3",
+      "ipa": "/fˈʊtbɔːl/",
+      "definition": "a team sport in which players kick a ball and try to score goals",
+      "example": "Football is the most popular sport at our school."
     },
     {
       "id": "U4_core_rugby",
@@ -30,7 +33,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_rugby.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_rugby_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_rugby_example.mp3",
+      "ipa": "/ɹˈʌɡbi/",
+      "definition": "a team sport played with an oval ball that may be carried or kicked",
+      "example": "Rugby players need strength, speed and teamwork."
     },
     {
       "id": "U4_core_volleyball",
@@ -46,7 +52,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_volleyball.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_volleyball_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_volleyball_example.mp3",
+      "ipa": "/vˈɒlɪbˌɔːl/",
+      "definition": "a team sport in which players hit a ball over a high net",
+      "example": "Our class plays volleyball in the sports hall."
     },
     {
       "id": "U4_core_hockey",
@@ -62,7 +71,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_hockey.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_hockey_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_hockey_example.mp3",
+      "ipa": "/hˈɒki/",
+      "definition": "a team sport in which players use sticks to hit a ball or puck",
+      "example": "The hockey team practises twice a week."
     },
     {
       "id": "U4_core_tennis",
@@ -78,7 +90,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_tennis.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_tennis_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_tennis_example.mp3",
+      "ipa": "/tˈɛnɪs/",
+      "definition": "a sport in which players use rackets to hit a ball across a net",
+      "example": "She has played tennis since she was eight."
     },
     {
       "id": "U4_core_badminton",
@@ -94,7 +109,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_badminton.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_badminton_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_badminton_example.mp3",
+      "ipa": "/bˈadmɪntən/",
+      "definition": "a sport in which players use rackets to hit a shuttlecock over a net",
+      "example": "We booked a court for a game of badminton."
     },
     {
       "id": "U4_core_table_tennis",
@@ -110,7 +128,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_table_tennis.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_table_tennis_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_table_tennis_example.mp3",
+      "ipa": "/tˈeɪbəl tˈɛnɪs/",
+      "definition": "a game in which players hit a small light ball across a table",
+      "example": "Table tennis can be played indoors in a small space."
     },
     {
       "id": "U4_core_golf",
@@ -126,7 +147,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_golf.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_golf_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_golf_example.mp3",
+      "ipa": "/ɡˈɒlf/",
+      "definition": "a sport in which players hit a small ball into a series of holes",
+      "example": "The golf course has eighteen holes."
     },
     {
       "id": "U4_core_running",
@@ -142,7 +166,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_running.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_running_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_running_example.mp3",
+      "ipa": "/ɹˈʌnɪŋ/",
+      "definition": "the activity or sport of moving quickly on foot",
+      "example": "Running regularly can improve your fitness."
     },
     {
       "id": "U4_core_cycling",
@@ -158,7 +185,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_cycling.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_cycling_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_cycling_example.mp3",
+      "ipa": "/sˈaɪklɪŋ/",
+      "definition": "the activity or sport of riding a bicycle",
+      "example": "Cycling is a convenient way to stay active."
     },
     {
       "id": "U4_core_swimming",
@@ -174,7 +204,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_swimming.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_swimming_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_swimming_example.mp3",
+      "ipa": "/swˈɪmɪŋ/",
+      "definition": "the activity or sport of moving through water",
+      "example": "Swimming exercises most of the body."
     },
     {
       "id": "U4_core_yoga",
@@ -190,7 +223,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_yoga.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_yoga_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_yoga_example.mp3",
+      "ipa": "/jˈəʊɡə/",
+      "definition": "a system of exercises involving controlled movement and breathing",
+      "example": "Yoga helps her relax after a busy day."
     },
     {
       "id": "U4_core_gymnastics",
@@ -206,7 +242,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_gymnastics.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_gymnastics_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_gymnastics_example.mp3",
+      "ipa": "/dʒɪmnˈastɪks/",
+      "definition": "a sport involving physical exercises that require strength and control",
+      "example": "Gymnastics requires flexibility and balance."
     },
     {
       "id": "U4_core_climbing",
@@ -222,7 +261,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_climbing.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_climbing_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_climbing_example.mp3",
+      "ipa": "/klˈaɪmɪŋ/",
+      "definition": "the sport or activity of moving up rocks, walls or mountains",
+      "example": "Indoor climbing is a safe way to learn basic techniques."
     },
     {
       "id": "U4_core_hiking",
@@ -238,7 +280,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_hiking.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_hiking_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_hiking_example.mp3",
+      "ipa": "/hˈaɪkɪŋ/",
+      "definition": "the activity of taking long walks in the countryside",
+      "example": "They went hiking in the hills at the weekend. Page 332"
     },
     {
       "id": "U4_core_sailing",
@@ -254,7 +299,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_sailing.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_sailing_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_sailing_example.mp3",
+      "ipa": "/sˈeɪlɪŋ/",
+      "definition": "the activity or sport of travelling in a boat using sails",
+      "example": "Sailing lessons are available at the lake."
     },
     {
       "id": "U4_core_surfing",
@@ -270,7 +318,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_surfing.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_surfing_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_surfing_example.mp3",
+      "ipa": "/sˈɜːfɪŋ/",
+      "definition": "the sport of riding on waves while standing on a board",
+      "example": "The beach is popular with people who enjoy surfing."
     },
     {
       "id": "U4_core_diving",
@@ -286,7 +337,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_diving.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_diving_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_diving_example.mp3",
+      "ipa": "/dˈaɪvɪŋ/",
+      "definition": "the sport of jumping into water or swimming below the surface",
+      "example": "Diving from the highest board takes confidence."
     },
     {
       "id": "U4_core_skiing",
@@ -302,7 +356,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_skiing.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_skiing_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_skiing_example.mp3",
+      "ipa": "/skˈiːɪŋ/",
+      "definition": "the sport of travelling over snow on skis",
+      "example": "They learned skiing during a winter holiday."
     },
     {
       "id": "U4_core_snowboarding",
@@ -318,7 +375,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_snowboarding.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_snowboarding_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_snowboarding_example.mp3",
+      "ipa": "/snˈəʊbɔːdɪŋ/",
+      "definition": "the sport of travelling over snow while standing on a single board",
+      "example": "Snowboarding is exciting but difficult for beginners."
     },
     {
       "id": "U4_core_skateboarding",
@@ -334,7 +394,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_skateboarding.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_skateboarding_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_skateboarding_example.mp3",
+      "ipa": "/skˈeɪtbɔːdɪŋ/",
+      "definition": "the activity or sport of riding on a board with small wheels",
+      "example": "The park has a special area for skateboarding."
     },
     {
       "id": "U4_core_snorkelling",
@@ -350,7 +413,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_snorkelling.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_snorkelling_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_snorkelling_example.mp3",
+      "ipa": "/snˈɔːkəlɪŋ/",
+      "definition": "swimming near the surface while breathing through a tube",
+      "example": "We went snorkelling and saw colourful fish."
     },
     {
       "id": "U4_core_scuba_diving",
@@ -366,7 +432,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_scuba_diving.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_scuba_diving_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_scuba_diving_example.mp3",
+      "ipa": "/skˈuːbə dˈaɪvɪŋ/",
+      "definition": "swimming underwater using breathing equipment",
+      "example": "Scuba diving requires proper training and equipment."
     },
     {
       "id": "U4_core_windsurfing",
@@ -382,7 +451,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_windsurfing.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_windsurfing_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_windsurfing_example.mp3",
+      "ipa": "/wˈɪndsɜːfɪŋ/",
+      "definition": "a sport in which a person sails on a board fitted with a sail",
+      "example": "Strong winds made windsurfing especially challenging."
     },
     {
       "id": "U4_core_hang_gliding",
@@ -398,7 +470,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_hang_gliding.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_hang_gliding_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_hang_gliding_example.mp3",
+      "ipa": "/hˈaŋɡlˈaɪdɪŋ/",
+      "definition": "the sport of flying through the air while hanging from a light glider",
+      "example": "Hang-gliding offers impressive views of the countryside."
     },
     {
       "id": "U4_core_archery",
@@ -414,7 +489,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_archery.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_archery_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_archery_example.mp3",
+      "ipa": "/ˈɑːtʃəɹi/",
+      "definition": "the sport of shooting arrows at a target with a bow",
+      "example": "Archery requires concentration and steady hands."
     },
     {
       "id": "U4_core_fencing",
@@ -430,7 +508,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_fencing.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_fencing_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_fencing_example.mp3",
+      "ipa": "/fˈɛnsɪŋ/",
+      "definition": "the sport of fighting with a thin sword while wearing protective clothing",
+      "example": "Students wore masks and jackets during the fencing lesson."
     },
     {
       "id": "U4_core_showjumping",
@@ -446,7 +527,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_showjumping.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_showjumping_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_showjumping_example.mp3",
+      "ipa": "/ʃˈəʊdʒʌmpɪŋ/",
+      "definition": "a sport in which a rider guides a horse over a series of fences",
+      "example": "Showjumping tests both the rider and the horse."
     },
     {
       "id": "U4_core_motor_racing",
@@ -462,7 +546,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_motor_racing.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_motor_racing_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_motor_racing_example.mp3",
+      "ipa": "/mˈəʊtə ɹˈeɪsɪŋ/",
+      "definition": "the sport of racing cars or motorcycles around a track",
+      "example": "Motor racing attracts large crowds at the circuit."
     },
     {
       "id": "U4_core_bowling",
@@ -478,7 +565,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_bowling.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_bowling_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_bowling_example.mp3",
+      "ipa": "/bˈəʊlɪŋ/",
+      "definition": "a game in which players roll a heavy ball to knock down pins",
+      "example": "We went bowling after the football match."
     },
     {
       "id": "U4_core_snooker",
@@ -494,7 +584,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_snooker.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_snooker_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_snooker_example.mp3",
+      "ipa": "/snˈuːkə/",
+      "definition": "a game played on a large table using a cue and coloured balls",
+      "example": "Snooker players must plan several shots ahead."
     },
     {
       "id": "U4_core_billiards",
@@ -510,7 +603,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_billiards.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_billiards_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_billiards_example.mp3",
+      "ipa": "/bˈɪlɪədz/",
+      "definition": "a group of games played on a table by striking balls with a cue",
+      "example": "Billiards demands accuracy and careful control."
     },
     {
       "id": "U4_core_athletics",
@@ -526,7 +622,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_athletics.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_athletics_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_athletics_example.mp3",
+      "ipa": "/aθlˈɛtɪks/",
+      "definition": "sports that include running, jumping and throwing events",
+      "example": "Athletics is one of the main events at the school festival."
     },
     {
       "id": "U4_core_sprint",
@@ -542,7 +641,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_sprint.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_sprint_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_sprint_example.mp3",
+      "ipa": "/spɹˈɪnt/",
+      "definition": "a short race that is run at very high speed",
+      "example": "She won the 100-metre sprint."
     },
     {
       "id": "U4_core_marathon",
@@ -558,7 +660,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_marathon.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_marathon_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_marathon_example.mp3",
+      "ipa": "/mˈaɹəθən/",
+      "definition": "a running race of about 42 kilometres",
+      "example": "Training for a marathon takes several months."
     },
     {
       "id": "U4_core_race",
@@ -574,7 +679,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_race.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_race_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_race_example.mp3",
+      "ipa": "/ɹˈeɪs/",
+      "definition": "a competition to see who can move fastest or finish first",
+      "example": "The final race began shortly after noon."
     },
     {
       "id": "U4_core_high_jump",
@@ -590,7 +698,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_high_jump.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_high_jump_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_high_jump_example.mp3",
+      "ipa": "/hˈaɪ dʒˈʌmp/",
+      "definition": "an athletics event in which competitors jump over a high bar",
+      "example": "He cleared the bar in the high jump."
     },
     {
       "id": "U4_core_long_jump",
@@ -606,7 +717,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_long_jump.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_long_jump_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_long_jump_example.mp3",
+      "ipa": "/lˈɒŋ dʒˈʌmp/",
+      "definition": "an athletics event in which competitors jump as far as possible",
+      "example": "The long jump takes place beside the running track."
     },
     {
       "id": "U4_core_pole_vault",
@@ -622,7 +736,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_pole_vault.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_pole_vault_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_pole_vault_example.mp3",
+      "ipa": "/pˈəʊl vˈɒlt/",
+      "definition": "an athletics event in which a long pole is used to jump over a high bar",
+      "example": "Pole vault athletes need speed, strength and confidence."
     },
     {
       "id": "U4_core_javelin",
@@ -638,7 +755,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_javelin.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_javelin_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_javelin_example.mp3",
+      "ipa": "/dʒˈavəlɪn/",
+      "definition": "a long light spear thrown in an athletics event",
+      "example": "The javelin landed beyond the previous mark."
     },
     {
       "id": "U4_core_discus",
@@ -654,7 +774,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_discus.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_discus_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_discus_example.mp3",
+      "ipa": "/dˈɪskəs/",
+      "definition": "a heavy flat object thrown in an athletics event",
+      "example": "The athlete improved her discus technique."
     },
     {
       "id": "U4_core_course",
@@ -670,7 +793,10 @@
       "keyChunk": "a golf course",
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_course.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_course_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_course_example.mp3",
+      "ipa": "/kˈɔːs/",
+      "definition": "an area of land designed for a sport such as golf",
+      "example": "The golf course follows the edge of the lake."
     },
     {
       "id": "U4_core_court",
@@ -686,7 +812,10 @@
       "keyChunk": "a tennis/badminton court",
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_court.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_court_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_court_example.mp3",
+      "ipa": "/kˈɔːt/",
+      "definition": "a marked area where games such as tennis or badminton are played",
+      "example": "The tennis court was wet after the rain."
     },
     {
       "id": "U4_core_pitch",
@@ -702,7 +831,10 @@
       "keyChunk": "a football pitch",
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_pitch.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_pitch_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_pitch_example.mp3",
+      "ipa": "/pˈɪtʃ/",
+      "definition": "a marked outdoor area where team sports are played",
+      "example": "The players ran onto the football pitch."
     },
     {
       "id": "U4_core_track",
@@ -718,7 +850,10 @@
       "keyChunk": "a running track",
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_track.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_track_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_track_example.mp3",
+      "ipa": "/tɹˈak/",
+      "definition": "a prepared path used for running, cycling or motor racing",
+      "example": "The runners completed four laps of the track."
     },
     {
       "id": "U4_core_pool",
@@ -734,7 +869,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_pool.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_pool_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_pool_example.mp3",
+      "ipa": "/pˈuːl/",
+      "definition": "a game played on a table using a cue and numbered balls",
+      "example": "They played pool in the games room."
     },
     {
       "id": "U4_core_bat",
@@ -750,7 +888,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_bat.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_bat_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_bat_example.mp3",
+      "ipa": "/bˈat/",
+      "definition": "a piece of equipment used to hit a ball in sports such as cricket",
+      "example": "The batter held the bat firmly."
     },
     {
       "id": "U4_core_racket",
@@ -766,7 +907,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_racket.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_racket_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_racket_example.mp3",
+      "ipa": "/ɹˈakɪt/",
+      "definition": "an oval frame with strings used to hit a ball or shuttlecock",
+      "example": "Her tennis racket is light and easy to control."
     },
     {
       "id": "U4_core_club",
@@ -782,7 +926,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_club.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_club_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_club_example.mp3",
+      "ipa": "/klˈʌb/",
+      "definition": "a long piece of equipment used for hitting a golf ball",
+      "example": "He selected a different club for the next shot."
     },
     {
       "id": "U4_core_stick",
@@ -798,7 +945,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_stick.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_stick_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_stick_example.mp3",
+      "ipa": "/stˈɪk/",
+      "definition": "a long narrow piece of equipment used to hit or control a ball",
+      "example": "Each hockey player carried a stick. Page 334"
     },
     {
       "id": "U4_core_bow",
@@ -814,7 +964,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_bow.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_bow_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_bow_example.mp3",
+      "ipa": "/bˈəʊ/",
+      "definition": "a curved weapon used for shooting arrows",
+      "example": "The archer raised the bow towards the target."
     },
     {
       "id": "U4_core_dart",
@@ -830,7 +983,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_dart.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_dart_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_dart_example.mp3",
+      "ipa": "/dˈɑːt/",
+      "definition": "a small pointed object thrown at a circular board",
+      "example": "Each player threw three darts."
     },
     {
       "id": "U4_core_cue",
@@ -846,7 +1002,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_cue.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_cue_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_cue_example.mp3",
+      "ipa": "/kjˈuː/",
+      "definition": "a long thin stick used to strike balls in snooker, pool or billiards",
+      "example": "She used the cue to make a difficult shot."
     },
     {
       "id": "U4_core_paddle",
@@ -862,7 +1021,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_paddle.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_paddle_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_paddle_example.mp3",
+      "ipa": "/pˈadəl/",
+      "definition": "a short pole with a broad blade used to move a small boat",
+      "example": "Every canoeist must carry a paddle."
     },
     {
       "id": "U4_core_oar",
@@ -878,7 +1040,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_oar.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_oar_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_oar_example.mp3",
+      "ipa": "/ˈɔː/",
+      "definition": "a long pole with a flat end used for rowing a boat",
+      "example": "The rowers moved their oars at the same speed."
     },
     {
       "id": "U4_core_athlete",
@@ -894,7 +1059,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_athlete.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_athlete_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_athlete_example.mp3",
+      "ipa": "/ˈaθliːt/",
+      "definition": "a person who is trained or skilled in sports, especially athletics",
+      "example": "Every athlete completed a warm-up before competing."
     },
     {
       "id": "U4_core_player",
@@ -910,7 +1078,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_player.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_player_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_player_example.mp3",
+      "ipa": "/plˈeɪə/",
+      "definition": "a person who takes part in a sport or game",
+      "example": "Each player wore the colours of their school."
     },
     {
       "id": "U4_core_runner",
@@ -926,7 +1097,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_runner.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_runner_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_runner_example.mp3",
+      "ipa": "/ɹˈʌnə/",
+      "definition": "a person who runs, especially in races",
+      "example": "The runner increased her speed near the finish."
     },
     {
       "id": "U4_core_swimmer",
@@ -942,7 +1116,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_swimmer.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_swimmer_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_swimmer_example.mp3",
+      "ipa": "/swˈɪmə/",
+      "definition": "a person who swims, especially in competitions",
+      "example": "The swimmer broke the school record."
     },
     {
       "id": "U4_core_gymnast",
@@ -958,7 +1135,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_gymnast.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_gymnast_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_gymnast_example.mp3",
+      "ipa": "/dʒˈɪmnast/",
+      "definition": "a person who takes part in gymnastics",
+      "example": "The gymnast completed a difficult routine."
     },
     {
       "id": "U4_core_cyclist",
@@ -974,7 +1154,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_cyclist.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_cyclist_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_cyclist_example.mp3",
+      "ipa": "/sˈaɪklɪst/",
+      "definition": "a person who rides a bicycle, especially in a race",
+      "example": "The cyclist led the race for the final kilometre."
     },
     {
       "id": "U4_core_referee",
@@ -990,7 +1173,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_referee.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_referee_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_referee_example.mp3",
+      "ipa": "/ɹˌɛfəɹˈiː/",
+      "definition": "an official who controls a match and makes sure the rules are followed",
+      "example": "The referee stopped the match after the injury."
     },
     {
       "id": "U4_core_spectator",
@@ -1006,7 +1192,10 @@
       "keyChunk": "every spectator watched closely",
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_spectator.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_spectator_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_spectator_example.mp3",
+      "ipa": "/spɛktˈeɪtə/",
+      "definition": "a person who watches a sporting event",
+      "example": "Every spectator stood to applaud the winners."
     },
     {
       "id": "U4_core_opponent",
@@ -1022,7 +1211,10 @@
       "keyChunk": "respect every opponent",
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_opponent.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_opponent_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_opponent_example.mp3",
+      "ipa": "/əpˈəʊnənt/",
+      "definition": "a person or team that you compete against",
+      "example": "She congratulated her opponent after the race."
     },
     {
       "id": "U4_core_rival",
@@ -1038,7 +1230,10 @@
       "keyChunk": "a traditional rival",
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_rival.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_rival_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_rival_example.mp3",
+      "ipa": "/ɹˈaɪvəl/",
+      "definition": "a person or team that regularly competes with another",
+      "example": "The two schools have been sporting rivals for years."
     },
     {
       "id": "U4_core_sprinter",
@@ -1054,7 +1249,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_sprinter.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_sprinter_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_sprinter_example.mp3",
+      "ipa": "/spɹˈɪntə/",
+      "definition": "a runner who competes in short, fast races",
+      "example": "The sprinter reacted quickly to the starting signal."
     },
     {
       "id": "U4_core_fan",
@@ -1070,7 +1268,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_fan.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_fan_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_fan_example.mp3",
+      "ipa": "/fˈan/",
+      "definition": "a person who strongly supports a team, player or sport",
+      "example": "The fans cheered throughout the final."
     },
     {
       "id": "U4_core_competition",
@@ -1086,7 +1287,10 @@
       "keyChunk": "an athletics competition",
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_competition.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_competition_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_competition_example.mp3",
+      "ipa": "/kˌɒmpətˈɪʃən/",
+      "definition": "an organised event in which people try to win",
+      "example": "The athletics competition included six events."
     },
     {
       "id": "U4_core_tournament",
@@ -1102,7 +1306,10 @@
       "keyChunk": "an inter-school tournament",
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_tournament.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_tournament_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_tournament_example.mp3",
+      "ipa": "/tˈʊənəmənt/",
+      "definition": "a series of matches or games that produces an overall winner",
+      "example": "Eight schools entered the football tournament. Page 335"
     },
     {
       "id": "U4_core_match",
@@ -1118,7 +1325,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_match.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_match_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_match_example.mp3",
+      "ipa": "/mˈatʃ/",
+      "definition": "a sports event in which two people or teams compete",
+      "example": "The match ended in a one-all draw."
     },
     {
       "id": "U4_core_round",
@@ -1134,7 +1344,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_round.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_round_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_round_example.mp3",
+      "ipa": "/ɹˈaʊnd/",
+      "definition": "one stage in a competition or tournament",
+      "example": "Riverside won its first-round match."
     },
     {
       "id": "U4_core_final",
@@ -1150,7 +1363,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_final.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_final_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_final_example.mp3",
+      "ipa": "/fˈaɪnəl/",
+      "definition": "the last match or event that decides the winner",
+      "example": "The final will be played on Saturday."
     },
     {
       "id": "U4_core_semi_final",
@@ -1166,7 +1382,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_semi_final.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_semi_final_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_semi_final_example.mp3",
+      "ipa": "/sˈɛmifˈaɪnəl/",
+      "definition": "one of the two matches that decide who reaches the final",
+      "example": "They qualified for the semi- final after a close game."
     },
     {
       "id": "U4_core_record",
@@ -1182,7 +1401,10 @@
       "keyChunk": "break / set a record",
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_record.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_record_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_record_example.mp3",
+      "ipa": "/ɹˈɛkɔːd/",
+      "definition": "the best result that has ever been officially achieved",
+      "example": "Mia set a new school record in the sprint."
     },
     {
       "id": "U4_core_medal",
@@ -1198,7 +1420,10 @@
       "keyChunk": "receive a medal",
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_medal.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_medal_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_medal_example.mp3",
+      "ipa": "/mˈɛdəl/",
+      "definition": "a metal award given for success in a competition",
+      "example": "Each winner received a gold medal."
     },
     {
       "id": "U4_core_trophy",
@@ -1214,7 +1439,10 @@
       "keyChunk": "lift the trophy",
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_trophy.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_trophy_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_trophy_example.mp3",
+      "ipa": "/tɹˈəʊfi/",
+      "definition": "a cup or decorative object awarded to a winner",
+      "example": "The captain lifted the trophy above her head."
     },
     {
       "id": "U4_core_cup",
@@ -1230,7 +1458,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_cup.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_cup_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_cup_example.mp3",
+      "ipa": "/kˈʌp/",
+      "definition": "a trophy, often cup-shaped, given to the winner of a competition",
+      "example": "The team hopes to win the cup this year."
     },
     {
       "id": "U4_core_prize",
@@ -1246,7 +1477,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_prize.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_prize_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_prize_example.mp3",
+      "ipa": "/pɹˈaɪz/",
+      "definition": "something awarded to a person who wins or performs well",
+      "example": "The first prize was a set of sports equipment."
     },
     {
       "id": "U4_core_qualify",
@@ -1262,7 +1496,10 @@
       "keyChunk": "qualify for the semi-final/final",
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_qualify.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_qualify_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_qualify_example.mp3",
+      "ipa": "/kwˈɒlɪfˌaɪ/",
+      "definition": "to reach the necessary standard or stage to continue in a competition",
+      "example": "The fastest runners qualify for the final."
     },
     {
       "id": "U4_core_win",
@@ -1278,7 +1515,10 @@
       "keyChunk": null,
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_win.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_win_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_win_example.mp3",
+      "ipa": "/wˈɪn/",
+      "definition": "to be the most successful person or team in a competition",
+      "example": "Riverside hopes to win the tournament."
     },
     {
       "id": "U4_core_beat",
@@ -1294,7 +1534,10 @@
       "keyChunk": "beat an opponent/team",
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_beat.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_beat_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_beat_example.mp3",
+      "ipa": "/bˈiːt/",
+      "definition": "to defeat a person or team in a game or competition",
+      "example": "They beat their main rivals by two goals."
     },
     {
       "id": "U4_core_defeat",
@@ -1310,7 +1553,10 @@
       "keyChunk": "defeat a team 2–1",
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_defeat.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_defeat_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_defeat_example.mp3",
+      "ipa": "/dɪfˈiːt/",
+      "definition": "to win against a person or team, especially in a formal competition",
+      "example": "The champions defeated every opponent in their group."
     },
     {
       "id": "U4_core_competitive",
@@ -1326,7 +1572,10 @@
       "keyChunk": "a highly competitive team",
       "passageId": "U4_CORE",
       "audioWord": "assets/audio/vocab/U4_core_competitive.mp3",
-      "audioExample": "assets/audio/vocab/U4_core_competitive_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_core_competitive_example.mp3",
+      "ipa": "/kəmpˈɛtɪtˌɪv/",
+      "definition": "wanting to win or involving strong competition",
+      "example": "The final was exciting and highly competitive. Page 336"
     },
     {
       "id": "U5_core_groan",
@@ -1454,7 +1703,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_dart.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_dart_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_dart_example.mp3",
+      "ipa": "/dˈɑːt/",
+      "definition": "a small pointed object thrown at a circular board",
+      "example": "Each player threw three darts."
     },
     {
       "id": "U5_core_dash",
@@ -1758,7 +2010,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_literature.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_literature_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_literature_example.mp3",
+      "ipa": "/ˈlɪtrətʃə/",
+      "definition": "written works considered as an art form, especially novels, poetry and drama",
+      "example": "The festival display introduced students to literature from several countries."
     },
     {
       "id": "U5_core_novel",
@@ -1774,7 +2029,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_novel.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_novel_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_novel_example.mp3",
+      "ipa": "/ˈnɒvl/",
+      "definition": "a long written story about imaginary characters and events",
+      "example": "Leo recommended a historical novel for the festival reading list."
     },
     {
       "id": "U5_core_biography",
@@ -1790,7 +2048,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_biography.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_biography_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_biography_example.mp3",
+      "ipa": "/baɪˈɒɡrəfi/",
+      "definition": "a book that tells the story of a real person’s life",
+      "example": "Maya chose a biography of a successful Olympic athlete."
     },
     {
       "id": "U5_core_short_story",
@@ -1806,7 +2067,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_short_story.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_short_story_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_short_story_example.mp3",
+      "ipa": "/ˌʃɔːt ˈstɔːri/",
+      "definition": "a brief work of fiction that usually focuses on one main event",
+      "example": "The magazine published a short story written by a Year 9 student."
     },
     {
       "id": "U5_core_drama",
@@ -1822,7 +2086,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_drama.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_drama_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_drama_example.mp3",
+      "ipa": "/ˈdrɑːmə/",
+      "definition": "a play or serious work written for performance; plays as a type of literature",
+      "example": "The reading programme included a modern drama about family relationships."
     },
     {
       "id": "U5_core_poetry",
@@ -1838,7 +2105,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_poetry.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_poetry_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_poetry_example.mp3",
+      "ipa": "/ˈpəʊətri/",
+      "definition": "poems considered as a form of literature",
+      "example": "A local writer read poetry during the opening ceremony."
     },
     {
       "id": "U5_core_fiction",
@@ -1854,7 +2124,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_fiction.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_fiction_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_fiction_example.mp3",
+      "ipa": "/ˈfɪkʃn/",
+      "definition": "stories about imaginary people and events",
+      "example": "The Book Corner offered both contemporary fiction and classic novels."
     },
     {
       "id": "U5_core_non_fiction",
@@ -1870,7 +2143,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_non_fiction.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_non_fiction_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_non_fiction_example.mp3",
+      "ipa": "/ˌnɒn ˈfɪkʃn/",
+      "definition": "writing based on real people, events or facts",
+      "example": "The non-fiction section included travel, science and history books."
     },
     {
       "id": "U5_core_e_book",
@@ -1886,7 +2162,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_e_book.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_e_book_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_e_book_example.mp3",
+      "ipa": "/ˈiː bʊk/",
+      "definition": "a book published in a digital form that can be read on a screen",
+      "example": "Visitors could request an e- book at the information desk."
     },
     {
       "id": "U5_core_detective_story",
@@ -1902,7 +2181,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_detective_story.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_detective_story_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_detective_story_example.mp3",
+      "ipa": "/dɪˈtektɪv ˌstɔːri/",
+      "definition": "a story in which a detective solves a crime or mystery",
+      "example": "Hana borrowed a detective story with an unexpected ending."
     },
     {
       "id": "U5_core_fantasy",
@@ -1918,7 +2200,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_fantasy.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_fantasy_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_fantasy_example.mp3",
+      "ipa": "/ˈfæntəsi/",
+      "definition": "fiction involving magic, imaginary worlds or impossible events",
+      "example": "Ben selected a fantasy set in a city above the clouds."
     },
     {
       "id": "U5_core_ghost_story",
@@ -1934,7 +2219,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_ghost_story.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_ghost_story_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_ghost_story_example.mp3",
+      "ipa": "/ˈɡəʊst ˌstɔːri/",
+      "definition": "a frightening story about ghosts or supernatural events",
+      "example": "The ghost story was popular with readers who enjoyed suspense."
     },
     {
       "id": "U5_core_romance",
@@ -1950,7 +2238,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_romance.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_romance_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_romance_example.mp3",
+      "ipa": "/rəʊˈmæns/",
+      "definition": "a story whose main subject is love and a romantic relationship",
+      "example": "The romance follows two musicians who meet at a summer festival."
     },
     {
       "id": "U5_core_science_fiction_novel",
@@ -1966,7 +2257,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_science_fiction_novel.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_science_fiction_novel_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_science_fiction_novel_example.mp3",
+      "ipa": "/ˌsaɪəns ˈfɪkʃn ˌnɒvl/",
+      "definition": "a novel based on imagined scientific or technological developments",
+      "example": "The science fiction novel describes life on a distant planet."
     },
     {
       "id": "U5_core_thriller",
@@ -1982,7 +2276,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_thriller.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_thriller_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_thriller_example.mp3",
+      "ipa": "/ˈθrɪlə/",
+      "definition": "an exciting story involving danger, crime or mystery",
+      "example": "The thriller kept Leo reading until the final chapter."
     },
     {
       "id": "U5_core_psychological_thriller",
@@ -1998,7 +2295,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_psychological_thriller.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_psychological_thriller_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_psychological_thriller_example.mp3",
+      "ipa": "/ˌsaɪkəˈlɒdʒɪkl ˈθrɪlə/",
+      "definition": "a thriller that focuses on characters’ thoughts, fears and mental conflict",
+      "example": "The psychological thriller explores how memory can be unreliable."
     },
     {
       "id": "U5_core_atlas",
@@ -2014,7 +2314,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_atlas.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_atlas_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_atlas_example.mp3",
+      "ipa": "/ˈætləs/",
+      "definition": "a book containing maps of the world or a particular region",
+      "example": "Maya used an atlas to locate the places mentioned in the travel books."
     },
     {
       "id": "U5_core_brochure",
@@ -2030,7 +2333,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_brochure.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_brochure_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_brochure_example.mp3",
+      "ipa": "/ˈbrəʊʃə/",
+      "definition": "a small booklet that provides information or advertises something",
+      "example": "Hana wrote a brochure describing the Book Corner activities."
     },
     {
       "id": "U5_core_catalogue",
@@ -2046,7 +2352,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_catalogue.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_catalogue_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_catalogue_example.mp3",
+      "ipa": "/ˈkætəlɒɡ/",
+      "definition": "a list of items, often with descriptions, arranged in a systematic way",
+      "example": "Ben designed a catalogue of books available at the festival."
     },
     {
       "id": "U5_core_cookery_book",
@@ -2062,7 +2371,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_cookery_book.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_cookery_book_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_cookery_book_example.mp3",
+      "ipa": "/ˈkʊkəri bʊk/",
+      "definition": "a book containing recipes and instructions for preparing food",
+      "example": "The cookery book included simple recipes for teenage readers."
     },
     {
       "id": "U5_core_guidebook",
@@ -2078,7 +2390,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_guidebook.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_guidebook_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_guidebook_example.mp3",
+      "ipa": "/ˈɡaɪdbʊk/",
+      "definition": "a book giving practical information about a place, subject or activity",
+      "example": "The guidebook suggested several literary places to visit in London."
     },
     {
       "id": "U5_core_textbook",
@@ -2094,7 +2409,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_textbook.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_textbook_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_textbook_example.mp3",
+      "ipa": "/ˈtekstbʊk/",
+      "definition": "a book used for studying a particular school or academic subject",
+      "example": "The history textbook contained a useful section on printing."
     },
     {
       "id": "U5_core_novelist",
@@ -2110,7 +2428,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_novelist.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_novelist_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_novelist_example.mp3",
+      "ipa": "/ˈnɒvəlɪst/",
+      "definition": "a person who writes novels",
+      "example": "The novelist answered questions about her new book."
     },
     {
       "id": "U5_core_journalist",
@@ -2126,7 +2447,10 @@
       "keyChunk": "a local journalist",
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_journalist.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_journalist_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_journalist_example.mp3",
+      "ipa": "/ˈdʒɜːnəlɪst/",
+      "definition": "a person who writes or reports news for newspapers, television or online media",
+      "example": "A local journalist reported on the festival book launch."
     },
     {
       "id": "U5_core_critic",
@@ -2142,7 +2466,10 @@
       "keyChunk": "a visiting critic",
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_critic.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_critic_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_critic_example.mp3",
+      "ipa": "/ˈkrɪtɪk/",
+      "definition": "a person whose job is to give professional opinions about books, films or art",
+      "example": "The critic praised the novel’s believable characters."
     },
     {
       "id": "U5_core_series",
@@ -2158,7 +2485,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_series.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_series_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_series_example.mp3",
+      "ipa": "/ˈsɪəriːz/",
+      "definition": "a set of books or stories that are connected and published in sequence",
+      "example": "The novel is the first title in a planned series."
     },
     {
       "id": "U5_core_setting",
@@ -2174,7 +2504,10 @@
       "keyChunk": "a seaside/historical setting",
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_setting.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_setting_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_setting_example.mp3",
+      "ipa": "/ˈsetɪŋ/",
+      "definition": "the place and time in which the events of a story happen",
+      "example": "The seaside setting creates a mysterious atmosphere."
     },
     {
       "id": "U5_core_plot",
@@ -2190,7 +2523,10 @@
       "keyChunk": "the plot follows...",
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_plot.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_plot_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_plot_example.mp3",
+      "ipa": "/plɒt/",
+      "definition": "the connected events that form the story of a book, play or film",
+      "example": "The plot becomes more complicated in the final chapters."
     },
     {
       "id": "U5_core_character",
@@ -2206,7 +2542,10 @@
       "keyChunk": "the main character",
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_character.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_character_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_character_example.mp3",
+      "ipa": "/ˈkærəktə/",
+      "definition": "a person or figure who appears in a story, play or film",
+      "example": "The main character discovers a secret room beneath the theatre."
     },
     {
       "id": "U5_core_relationship",
@@ -2222,7 +2561,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_relationship.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_relationship_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_relationship_example.mp3",
+      "ipa": "/rɪˈleɪʃnʃɪp/",
+      "definition": "the way in which two people or characters are connected and behave towards each other",
+      "example": "The relationship between the two sisters changes during the story."
     },
     {
       "id": "U5_core_chapter",
@@ -2238,7 +2580,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_chapter.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_chapter_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_chapter_example.mp3",
+      "ipa": "/ˈtʃæptə/",
+      "definition": "one of the main sections into which a book is divided",
+      "example": "Leo read the opening chapter before the author interview."
     },
     {
       "id": "U5_core_verse",
@@ -2254,7 +2599,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_verse.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_verse_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_verse_example.mp3",
+      "ipa": "/vɜːs/",
+      "definition": "writing arranged in lines with a regular rhythm; a section of a poem or song",
+      "example": "The poet explained the meaning of the final verse. Page 338"
     },
     {
       "id": "U5_core_passage",
@@ -2270,7 +2618,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_passage.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_passage_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_passage_example.mp3",
+      "ipa": "/ˈpæsɪdʒ/",
+      "definition": "a short section taken from a written work",
+      "example": "The teacher selected a short passage for close reading."
     },
     {
       "id": "U5_core_extract",
@@ -2286,7 +2637,10 @@
       "keyChunk": "an extract from the opening chapter",
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_extract.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_extract_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_extract_example.mp3",
+      "ipa": "/ˈekstrækt/",
+      "definition": "a short part taken from a book, article or other written work",
+      "example": "The novelist read an extract from her latest thriller."
     },
     {
       "id": "U5_core_copy",
@@ -2302,7 +2656,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_copy.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_copy_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_copy_example.mp3",
+      "ipa": "/ˈkɒpi/",
+      "definition": "one individual book, newspaper or other printed item",
+      "example": "The bookshop sold every copy before the event ended."
     },
     {
       "id": "U5_core_bestseller",
@@ -2318,7 +2675,10 @@
       "keyChunk": "become a bestseller",
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_bestseller.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_bestseller_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_bestseller_example.mp3",
+      "ipa": "/ˌbestˈselə/",
+      "definition": "a book that sells a very large number of copies",
+      "example": "The publisher expects the new novel to become a bestseller."
     },
     {
       "id": "U5_core_publication",
@@ -2334,7 +2694,10 @@
       "keyChunk": "before / after publication",
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_publication.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_publication_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_publication_example.mp3",
+      "ipa": "/ˌpʌblɪˈkeɪʃn/",
+      "definition": "the process of producing a book or article for the public; a published work",
+      "example": "The final catalogue was ready for publication on Friday."
     },
     {
       "id": "U5_core_review",
@@ -2350,7 +2713,10 @@
       "keyChunk": "write a review",
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_review.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_review_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_review_example.mp3",
+      "ipa": "/rɪˈvjuː/",
+      "definition": "a written or spoken opinion about a book; to write or give such an opinion",
+      "example": "Maya wrote a positive review for the festival magazine."
     },
     {
       "id": "U5_core_literary",
@@ -2366,7 +2732,10 @@
       "keyChunk": "literary qualities",
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_literary.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_literary_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_literary_example.mp3",
+      "ipa": "/ˈlɪtərəri/",
+      "definition": "connected with literature, writing or the study of literature",
+      "example": "The festival welcomed guests from the local literary community."
     },
     {
       "id": "U5_core_predictable",
@@ -2382,7 +2751,10 @@
       "keyChunk": "a predictable ending",
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_predictable.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_predictable_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_predictable_example.mp3",
+      "ipa": "/prɪˈdɪktəbl/",
+      "definition": "easy to guess because it follows an expected pattern",
+      "example": "The ending was enjoyable, although slightly predictable."
     },
     {
       "id": "U5_core_entertaining",
@@ -2398,7 +2770,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_entertaining.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_entertaining_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_entertaining_example.mp3",
+      "ipa": "/ˌentəˈteɪnɪŋ/",
+      "definition": "interesting and enjoyable in a way that holds people’s attention",
+      "example": "The critic described the novel as an entertaining read."
     },
     {
       "id": "U5_core_borrow",
@@ -2414,7 +2789,10 @@
       "keyChunk": "borrow a book from the library",
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_borrow.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_borrow_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_borrow_example.mp3",
+      "ipa": "/ˈbɒrəʊ/",
+      "definition": "to take and use something temporarily with permission and return it later",
+      "example": "Students may borrow two books from the festival library."
     },
     {
       "id": "U5_core_lend",
@@ -2430,7 +2808,10 @@
       "keyChunk": "lend somebody a book",
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_lend.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_lend_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_lend_example.mp3",
+      "ipa": "/lend/",
+      "definition": "to allow someone to use something temporarily and expect it to be returned",
+      "example": "The local library agreed to lend the school extra books."
     },
     {
       "id": "U5_core_request",
@@ -2446,7 +2827,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_request.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_request_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_request_example.mp3",
+      "ipa": "/rɪˈkwest/",
+      "definition": "to ask formally or politely for something; a formal or polite request",
+      "example": "Visitors can request a digital copy at the information desk."
     },
     {
       "id": "U5_core_library",
@@ -2462,7 +2846,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_library.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_library_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_library_example.mp3",
+      "ipa": "/ˈlaɪbrəri/",
+      "definition": "a place or organisation that keeps books and other materials for people to read or borrow",
+      "example": "The school library provided a quiet reading area."
     },
     {
       "id": "U5_core_bookshop",
@@ -2478,7 +2865,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_bookshop.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_bookshop_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_bookshop_example.mp3",
+      "ipa": "/ˈbʊkʃɒp/",
+      "definition": "a shop that sells books",
+      "example": "The nearby bookshop supplied copies for the author signing. Page 339"
     },
     {
       "id": "U5_core_prose",
@@ -2574,7 +2964,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_critic.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_critic_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_critic_example.mp3",
+      "ipa": "/ˈkrɪtɪk/",
+      "definition": "a person whose job is to give professional opinions about books, films or art",
+      "example": "The critic praised the novel’s believable characters."
     },
     {
       "id": "U6_core_composer",
@@ -2622,7 +3015,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_fan.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_fan_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_fan_example.mp3",
+      "ipa": "/fˈan/",
+      "definition": "a person who strongly supports a team, player or sport",
+      "example": "The fans cheered throughout the final."
     },
     {
       "id": "U6_core_dancer",
@@ -3038,7 +3434,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_plot.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_plot_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_plot_example.mp3",
+      "ipa": "/plɒt/",
+      "definition": "the connected events that form the story of a book, play or film",
+      "example": "The plot becomes more complicated in the final chapters."
     },
     {
       "id": "U6_core_acting",
@@ -3470,7 +3869,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_track.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_track_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_track_example.mp3",
+      "ipa": "/tɹˈak/",
+      "definition": "a prepared path used for running, cycling or motor racing",
+      "example": "The runners completed four laps of the track."
     },
     {
       "id": "U6_core_duet",
@@ -3518,7 +3920,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_beat.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_beat_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_beat_example.mp3",
+      "ipa": "/bˈiːt/",
+      "definition": "to defeat a person or team in a game or competition",
+      "example": "They beat their main rivals by two goals."
     },
     {
       "id": "U6_core_rhythm",
@@ -3646,7 +4051,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_predictable.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_predictable_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_predictable_example.mp3",
+      "ipa": "/prɪˈdɪktəbl/",
+      "definition": "easy to guess because it follows an expected pattern",
+      "example": "The ending was enjoyable, although slightly predictable."
     },
     {
       "id": "U6_core_brilliant",
@@ -3886,7 +4294,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_art.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_art_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_art_example.mp3",
+      "ipa": "/ɑːt/",
+      "definition": "the expression of ideas or feelings through painting, drawing, sculpture and other creative forms",
+      "example": "Ben believes art can help visitors see familiar ideas in a new way."
     },
     {
       "id": "U7_core_the_arts",
@@ -3902,7 +4313,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_the_arts.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_the_arts_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_the_arts_example.mp3",
+      "ipa": "/ði ɑːts/",
+      "definition": "creative activities such as painting, literature, music, theatre and dance",
+      "example": "The festival celebrates the arts through exhibitions, books and performances."
     },
     {
       "id": "U7_core_fine_art___the_fine_arts",
@@ -3918,7 +4332,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_fine_art___the_fine_arts.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_fine_art___the_fine_arts_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_fine_art___the_fine_arts_example.mp3",
+      "ipa": "/ˌfaɪn ˈɑːt/",
+      "definition": "visual art created mainly for beauty or intellectual value, especially painting and sculpture",
+      "example": "The gallery introduces students to painting, sculpture and other forms of fine art."
     },
     {
       "id": "U7_core_artist",
@@ -3934,7 +4351,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_artist.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_artist_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_artist_example.mp3",
+      "ipa": "/ˈɑːtɪst/",
+      "definition": "a person who creates paintings, drawings, sculpture or other works of art",
+      "example": "A local artist lent the school an original landscape."
     },
     {
       "id": "U7_core_artistic",
@@ -3950,7 +4370,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_artistic.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_artistic_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_artistic_example.mp3",
+      "ipa": "/ɑːˈtɪstɪk/",
+      "definition": "showing skill, imagination or interest in art",
+      "example": "Ben used his artistic ability to design the exhibition entrance."
     },
     {
       "id": "U7_core_art_lover",
@@ -3966,7 +4389,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_art_lover.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_art_lover_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_art_lover_example.mp3",
+      "ipa": "/ˈɑːt ˌlʌvə/",
+      "definition": "a person who is very interested in and enjoys art",
+      "example": "The opening attracted art lovers from across the community."
     },
     {
       "id": "U7_core_work_of_art",
@@ -3982,7 +4408,10 @@
       "keyChunk": "an original work of art",
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_work_of_art.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_work_of_art_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_work_of_art_example.mp3",
+      "ipa": "/ˌwɜːk əv ˈɑːt/",
+      "definition": "an object created by an artist, such as a painting or sculpture",
+      "example": "Each student selected one work of art for the central display."
     },
     {
       "id": "U7_core_arts_and_crafts",
@@ -3998,7 +4427,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_arts_and_crafts.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_arts_and_crafts_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_arts_and_crafts_example.mp3",
+      "ipa": "/ˌɑːts ən ˈkrɑːfts/",
+      "definition": "activities involving the handmade creation and decoration of objects",
+      "example": "The arts and crafts club made decorations from recycled materials."
     },
     {
       "id": "U7_core_painting",
@@ -4014,7 +4446,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_painting.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_painting_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_painting_example.mp3",
+      "ipa": "/ˈpeɪntɪŋ/",
+      "definition": "the art or activity of creating pictures with paint; a picture made with paint",
+      "example": "Painting was the most popular activity in the children’s workshop."
     },
     {
       "id": "U7_core_drawing",
@@ -4030,7 +4465,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_drawing.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_drawing_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_drawing_example.mp3",
+      "ipa": "/ˈdrɔːɪŋ/",
+      "definition": "the activity of making pictures with a pencil, pen or similar tool; a picture made this way",
+      "example": "Leo produced a careful drawing of the old theatre."
     },
     {
       "id": "U7_core_sculpture",
@@ -4046,7 +4484,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_sculpture.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_sculpture_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_sculpture_example.mp3",
+      "ipa": "/ˈskʌlptʃə/",
+      "definition": "the art of making three- d im e n s i o n a l o b j e c t s f r o m s t o n e , m et a l, w o o d o r o t h e r m a t e r i a ls",
+      "example": "A large metal sculpture stood in the centre of the gallery."
     },
     {
       "id": "U7_core_architecture",
@@ -4062,7 +4503,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_architecture.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_architecture_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_architecture_example.mp3",
+      "ipa": "/ˈɑːkɪtektʃə/",
+      "definition": "the art and practice of designing buildings",
+      "example": "The exhibition included a section on modern architecture."
     },
     {
       "id": "U7_core_ceramics",
@@ -4078,7 +4522,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_ceramics.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_ceramics_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_ceramics_example.mp3",
+      "ipa": "/səˈræmɪks/",
+      "definition": "objects made from clay and hardened by heat, or the art of making them",
+      "example": "The ceramics display contained decorated bowls and tiles."
     },
     {
       "id": "U7_core_pottery",
@@ -4094,7 +4541,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_pottery.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_pottery_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_pottery_example.mp3",
+      "ipa": "/ˈpɒtəri/",
+      "definition": "objects made from clay, especially pots and dishes, or the activity of making them",
+      "example": "Visitors watched a demonstration of traditional pottery."
     },
     {
       "id": "U7_core_textiles",
@@ -4110,7 +4560,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_textiles.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_textiles_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_textiles_example.mp3",
+      "ipa": "/ˈtekstaɪlz/",
+      "definition": "cloth and materials produced by weaving, knitting or similar methods",
+      "example": "The textiles section featured handwoven wall hangings. Page 340"
     },
     {
       "id": "U7_core_jewellery",
@@ -4126,7 +4579,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_jewellery.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_jewellery_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_jewellery_example.mp3",
+      "ipa": "/ˈdʒuːəlri/",
+      "definition": "decorative objects worn on the body, such as rings, necklaces and bracelets",
+      "example": "Hana displayed jewellery made from glass and recycled metal."
     },
     {
       "id": "U7_core_statue",
@@ -4142,7 +4598,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_statue.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_statue_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_statue_example.mp3",
+      "ipa": "/ˈstætʃuː/",
+      "definition": "a figure of a person or animal made from stone, metal or another hard material",
+      "example": "A stone statue welcomed visitors at the gallery entrance."
     },
     {
       "id": "U7_core_portrait",
@@ -4158,7 +4617,10 @@
       "keyChunk": "a realistic portrait",
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_portrait.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_portrait_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_portrait_example.mp3",
+      "ipa": "/ˈpɔːtrət/",
+      "definition": "a painting, drawing or photograph of a person",
+      "example": "The portrait captured the musician’s thoughtful expression."
     },
     {
       "id": "U7_core_landscape",
@@ -4174,7 +4636,10 @@
       "keyChunk": "a colourful landscape",
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_landscape.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_landscape_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_landscape_example.mp3",
+      "ipa": "/ˈlændskeɪp/",
+      "definition": "a picture showing an area of countryside or a wide natural scene",
+      "example": "Ben chose a colourful landscape for the main wall."
     },
     {
       "id": "U7_core_still_life",
@@ -4190,7 +4655,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_still_life.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_still_life_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_still_life_example.mp3",
+      "ipa": "/ˌstɪl ˈlaɪf/",
+      "definition": "a picture of arranged objects that do not move, such as fruit, flowers or bowls",
+      "example": "The still life showed a vase, several apples and an old book."
     },
     {
       "id": "U7_core_sketch",
@@ -4206,7 +4674,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_sketch.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_sketch_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_sketch_example.mp3",
+      "ipa": "/sketʃ/",
+      "definition": "a quick, simple drawing that may not contain much detail",
+      "example": "The artist showed visitors the first sketch for the mural."
     },
     {
       "id": "U7_core_watercolour",
@@ -4222,7 +4693,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_watercolour.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_watercolour_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_watercolour_example.mp3",
+      "ipa": "/ˈwɔːtəkʌlə/",
+      "definition": "a picture painted with colours mixed with water; the paint used for this",
+      "example": "A delicate watercolour of the river was placed near the window."
     },
     {
       "id": "U7_core_oil_painting",
@@ -4238,7 +4712,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_oil_painting.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_oil_painting_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_oil_painting_example.mp3",
+      "ipa": "/ˈɔɪl ˌpeɪntɪŋ/",
+      "definition": "a picture made using paints containing oil",
+      "example": "The oil painting had rich colours and a thick surface texture."
     },
     {
       "id": "U7_core_print",
@@ -4254,7 +4731,10 @@
       "keyChunk": "a numbered print",
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_print.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_print_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_print_example.mp3",
+      "ipa": "/prɪnt/",
+      "definition": "a picture produced by transferring ink from a prepared surface or by reproducing an original image",
+      "example": "Affordable prints of the winning artwork were available at the shop."
     },
     {
       "id": "U7_core_painter",
@@ -4270,7 +4750,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_painter.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_painter_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_painter_example.mp3",
+      "ipa": "/ˈpeɪntə/",
+      "definition": "an artist who creates pictures using paint",
+      "example": "The painter explained how light influenced her choice of colours."
     },
     {
       "id": "U7_core_sculptor",
@@ -4286,7 +4769,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_sculptor.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_sculptor_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_sculptor_example.mp3",
+      "ipa": "/ˈskʌlptə/",
+      "definition": "an artist who creates sculpture",
+      "example": "The sculptor shaped the figure from a single block of wood."
     },
     {
       "id": "U7_core_potter",
@@ -4302,7 +4788,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_potter.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_potter_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_potter_example.mp3",
+      "ipa": "/ˈpɒtə/",
+      "definition": "a person who makes pots and other objects from clay",
+      "example": "The potter demonstrated how to form a bowl on a wheel."
     },
     {
       "id": "U7_core_architect",
@@ -4318,7 +4807,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_architect.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_architect_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_architect_example.mp3",
+      "ipa": "/ˈɑːkɪtekt/",
+      "definition": "a person whose job is to design buildings",
+      "example": "An architect contributed a model of an eco-friendly building."
     },
     {
       "id": "U7_core_gallery",
@@ -4334,7 +4826,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_gallery.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_gallery_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_gallery_example.mp3",
+      "ipa": "/ˈɡæləri/",
+      "definition": "a building or room where works of art are displayed to the public",
+      "example": "The school hall was transformed into a bright gallery."
     },
     {
       "id": "U7_core_exhibition",
@@ -4350,7 +4845,10 @@
       "keyChunk": "put on an exhibition",
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_exhibition.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_exhibition_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_exhibition_example.mp3",
+      "ipa": "/ˌeksɪˈbɪʃn/",
+      "definition": "a public event at which works of art or other interesting objects are displayed",
+      "example": "The exhibition opened on Saturday morning."
     },
     {
       "id": "U7_core_art_collection",
@@ -4366,7 +4864,10 @@
       "keyChunk": "an art collection",
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_art_collection.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_art_collection_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_art_collection_example.mp3",
+      "ipa": "/ˈɑːt kəˌlekʃn/",
+      "definition": "a group of artworks gathered and kept together",
+      "example": "The local museum lent part of its art collection to the festival. Page 341"
     },
     {
       "id": "U7_core_studio",
@@ -4382,7 +4883,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_studio.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_studio_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_studio_example.mp3",
+      "ipa": "/ˈstjuːdiəʊ/",
+      "definition": "a room or building where an artist works",
+      "example": "Ben visited the artist’s studio before selecting the paintings."
     },
     {
       "id": "U7_core_on_public_display",
@@ -4398,7 +4902,10 @@
       "keyChunk": "be on public display",
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_on_public_display.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_on_public_display_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_on_public_display_example.mp3",
+      "ipa": "/ɒn ˌpʌblɪk dɪˈspleɪ/",
+      "definition": "placed where members of the public can see it",
+      "example": "The original sculpture was on public display for the first time."
     },
     {
       "id": "U7_core_abstract",
@@ -4414,7 +4921,10 @@
       "keyChunk": "abstract art",
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_abstract.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_abstract_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_abstract_example.mp3",
+      "ipa": "/ˈæbstrækt/",
+      "definition": "using shapes, lines and colours rather than showing people or objects realistically",
+      "example": "The abstract painting used bold shapes and unexpected colours."
     },
     {
       "id": "U7_core_realistic",
@@ -4430,7 +4940,10 @@
       "keyChunk": "a realistic portrait",
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_realistic.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_realistic_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_realistic_example.mp3",
+      "ipa": "/ˌrɪəˈlɪstɪk/",
+      "definition": "showing people or things in a way that is close to real life",
+      "example": "The portrait was so realistic that it looked like a photograph."
     },
     {
       "id": "U7_core_original",
@@ -4446,7 +4959,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_original.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_original_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_original_example.mp3",
+      "ipa": "/əˈrɪdʒənl/",
+      "definition": "new and different; not copied from another work",
+      "example": "The judges praised the student’s original approach to the theme."
     },
     {
       "id": "U7_core_reproduction",
@@ -4462,7 +4978,10 @@
       "keyChunk": "a high-quality reproduction",
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_reproduction.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_reproduction_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_reproduction_example.mp3",
+      "ipa": "/ˌriːprəˈdʌkʃn/",
+      "definition": "a copy of a work of art, especially one produced by printing or photography",
+      "example": "A reproduction was displayed because the original was too valuable to move."
     },
     {
       "id": "U7_core_creative",
@@ -4478,7 +4997,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_creative.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_creative_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_creative_example.mp3",
+      "ipa": "/kriˈeɪtɪv/",
+      "definition": "able to produce new and imaginative ideas or things",
+      "example": "The recycled-material installation was both creative and practical."
     },
     {
       "id": "U7_core_conventional",
@@ -4494,7 +5016,10 @@
       "keyChunk": "a conventional style",
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_conventional.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_conventional_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_conventional_example.mp3",
+      "ipa": "/kənˈvenʃənl/",
+      "definition": "following traditional or generally accepted styles and ideas",
+      "example": "Maya preferred a conventional l a n d s c a pe to the experimental p ie c e s ."
     },
     {
       "id": "U7_core_style",
@@ -4510,7 +5035,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_style.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_style_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_style_example.mp3",
+      "ipa": "/staɪl/",
+      "definition": "a particular way of creating or presenting art",
+      "example": "Each painter developed a recognisable style."
     },
     {
       "id": "U7_core_shade",
@@ -4526,7 +5054,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_shade.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_shade_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_shade_example.mp3",
+      "ipa": "/ʃeɪd/",
+      "definition": "a particular form of a colour, especially one that is lighter or darker",
+      "example": "The artist used several shades of green in the landscape."
     },
     {
       "id": "U7_core_colour",
@@ -4542,7 +5073,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_colour.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_colour_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_colour_example.mp3",
+      "ipa": "/ˈkʌlə/",
+      "definition": "the visual quality of an object produced by the way it reflects light",
+      "example": "Bright colour helped the poster stand out."
     },
     {
       "id": "U7_core_picturesque",
@@ -4558,7 +5092,10 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_picturesque.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_picturesque_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_picturesque_example.mp3",
+      "ipa": "/ˌpɪktʃəˈresk/",
+      "definition": "attractive in a way that looks suitable for a picture",
+      "example": "The painting showed a picturesque village beside the river."
     },
     {
       "id": "U7_core_impressive",
@@ -4574,7 +5111,10 @@
       "keyChunk": "make a strong impression / an impressive installation",
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_impressive.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_impressive_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_impressive_example.mp3",
+      "ipa": "/ɪmˈpresɪv/",
+      "definition": "causing admiration because of size, skill or quality",
+      "example": "The large installation made an impressive centrepiece."
     },
     {
       "id": "U7_core_three_dimensional___3d_effect",
@@ -4606,7 +5146,10 @@
       "keyChunk": "bring the date forward",
       "passageId": "U4_PV",
       "audioWord": "assets/audio/vocab/U4_phrasalVerb_bring_forward.mp3",
-      "audioExample": "assets/audio/vocab/U4_phrasalVerb_bring_forward_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_phrasalVerb_bring_forward_example.mp3",
+      "ipa": "/bɹˈɪŋ fˈɔːwəd/",
+      "definition": "to change an event to an earlier date or time",
+      "example": "The organisers brought the final forward because heavy rain was expected."
     },
     {
       "id": "U4_phrasalVerb_carry_on",
@@ -4622,7 +5165,10 @@
       "keyChunk": "carry on doing / carry on with sth",
       "passageId": "U4_PV",
       "audioWord": "assets/audio/vocab/U4_phrasalVerb_carry_on.mp3",
-      "audioExample": "assets/audio/vocab/U4_phrasalVerb_carry_on_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_phrasalVerb_carry_on_example.mp3",
+      "ipa": "/kˈaɹi ˈɒn/",
+      "definition": "to continue doing something",
+      "example": "The team carried on training despite the cold weather."
     },
     {
       "id": "U4_phrasalVerb_get_round_to",
@@ -4638,7 +5184,10 @@
       "keyChunk": "get round to doing sth",
       "passageId": "U4_PV",
       "audioWord": "assets/audio/vocab/U4_phrasalVerb_get_round_to.mp3",
-      "audioExample": "assets/audio/vocab/U4_phrasalVerb_get_round_to_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_phrasalVerb_get_round_to_example.mp3",
+      "ipa": "/ɡɛt ɹˈaʊnd tuː/",
+      "definition": "to finally do something after delaying it for some time",
+      "example": "Leo finally got round to joining the chess club."
     },
     {
       "id": "U4_phrasalVerb_get_up_to",
@@ -4654,7 +5203,10 @@
       "keyChunk": "get up to something",
       "passageId": "U4_PV",
       "audioWord": "assets/audio/vocab/U4_phrasalVerb_get_up_to.mp3",
-      "audioExample": "assets/audio/vocab/U4_phrasalVerb_get_up_to_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_phrasalVerb_get_up_to_example.mp3",
+      "ipa": "/ɡɛt ˈʌp tuː/",
+      "definition": "to do something, especially something surprising or wrong",
+      "example": "The coach wondered what the y o u n g e r p l a y e rs had been g et t in g u p to ."
     },
     {
       "id": "U4_phrasalVerb_go_in_for",
@@ -4670,7 +5222,10 @@
       "keyChunk": "go in for a competition",
       "passageId": "U4_PV",
       "audioWord": "assets/audio/vocab/U4_phrasalVerb_go_in_for.mp3",
-      "audioExample": "assets/audio/vocab/U4_phrasalVerb_go_in_for_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_phrasalVerb_go_in_for_example.mp3",
+      "ipa": "/ɡˈəʊ ɪn fɔː/",
+      "definition": "to enter a competition or to enjoy a particular activity",
+      "example": "Maya decided to go in for the school swimming competition."
     },
     {
       "id": "U4_phrasalVerb_go_off",
@@ -4686,7 +5241,10 @@
       "keyChunk": "go off sth/sb",
       "passageId": "U4_PV",
       "audioWord": "assets/audio/vocab/U4_phrasalVerb_go_off.mp3",
-      "audioExample": "assets/audio/vocab/U4_phrasalVerb_go_off_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_phrasalVerb_go_off_example.mp3",
+      "ipa": "/ɡˌəʊ ˈɒf/",
+      "definition": "to stop liking or being interested in something",
+      "example": "Ben went off basketball and started playing badminton instead."
     },
     {
       "id": "U4_phrasalVerb_join_in",
@@ -4702,7 +5260,10 @@
       "keyChunk": "join in an activity",
       "passageId": "U4_PV",
       "audioWord": "assets/audio/vocab/U4_phrasalVerb_join_in.mp3",
-      "audioExample": "assets/audio/vocab/U4_phrasalVerb_join_in_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_phrasalVerb_join_in_example.mp3",
+      "ipa": "/dʒˈɔɪn ˈɪn/",
+      "definition": "to take part in an activity with other people",
+      "example": "Everyone was invited to join in the warm-up."
     },
     {
       "id": "U4_phrasalVerb_knock_out",
@@ -4718,7 +5279,10 @@
       "keyChunk": "knock a team out",
       "passageId": "U4_PV",
       "audioWord": "assets/audio/vocab/U4_phrasalVerb_knock_out.mp3",
-      "audioExample": "assets/audio/vocab/U4_phrasalVerb_knock_out_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_phrasalVerb_knock_out_example.mp3",
+      "ipa": "/nˈɒk ˈaʊt/",
+      "definition": "to defeat and remove a competitor from a tournament; to make someone unconscious",
+      "example": "Riverside knocked out the defending champions in the semi-final."
     },
     {
       "id": "U4_phrasalVerb_look_out_for",
@@ -4734,7 +5298,10 @@
       "keyChunk": "look out for wet areas",
       "passageId": "U4_PV",
       "audioWord": "assets/audio/vocab/U4_phrasalVerb_look_out_for.mp3",
-      "audioExample": "assets/audio/vocab/U4_phrasalVerb_look_out_for_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_phrasalVerb_look_out_for_example.mp3",
+      "ipa": "/lˈʊk ˈaʊt/",
+      "definition": "to be careful or watch for possible danger",
+      "example": "Look out when you cross the cycle track."
     },
     {
       "id": "U4_phrasalVerb_pull_out_of",
@@ -4750,7 +5317,10 @@
       "keyChunk": "pull out of a competition",
       "passageId": "U4_PV",
       "audioWord": "assets/audio/vocab/U4_phrasalVerb_pull_out_of.mp3",
-      "audioExample": "assets/audio/vocab/U4_phrasalVerb_pull_out_of_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_phrasalVerb_pull_out_of_example.mp3",
+      "ipa": "/pˈʊl ˈaʊt/",
+      "definition": "to stop taking part in an activity or competition",
+      "example": "One team pulled out after several players became ill."
     },
     {
       "id": "U4_phrasalVerb_put_off",
@@ -4766,7 +5336,10 @@
       "keyChunk": "put off the semi-final / put off doing sth",
       "passageId": "U4_PV",
       "audioWord": "assets/audio/vocab/U4_phrasalVerb_put_off.mp3",
-      "audioExample": "assets/audio/vocab/U4_phrasalVerb_put_off_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_phrasalVerb_put_off_example.mp3",
+      "ipa": "/pˌʊt ˈɒf/",
+      "definition": "to delay an event or activity until a later time",
+      "example": "The referee put off the match until the pitch was safe."
     },
     {
       "id": "U4_phrasalVerb_put_up_with",
@@ -4782,7 +5355,10 @@
       "keyChunk": "put up with strong wind/noise",
       "passageId": "U4_PV",
       "audioWord": "assets/audio/vocab/U4_phrasalVerb_put_up_with.mp3",
-      "audioExample": "assets/audio/vocab/U4_phrasalVerb_put_up_with_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_phrasalVerb_put_up_with_example.mp3",
+      "ipa": "/pˌʊt ˈʌp wɪð/",
+      "definition": "to accept an unpleasant situation without complaining",
+      "example": "The runners had to put up with strong wind during the race."
     },
     {
       "id": "U4_phrasalVerb_take_to",
@@ -4798,7 +5374,10 @@
       "keyChunk": "take to archery",
       "passageId": "U4_PV",
       "audioWord": "assets/audio/vocab/U4_phrasalVerb_take_to.mp3",
-      "audioExample": "assets/audio/vocab/U4_phrasalVerb_take_to_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_phrasalVerb_take_to_example.mp3",
+      "ipa": "/tˈeɪk tuː/",
+      "definition": "to begin to like or regularly do an activity",
+      "example": "The younger pupils quickly took to archery."
     },
     {
       "id": "U4_phrasalVerb_take_up",
@@ -4814,7 +5393,10 @@
       "keyChunk": "take up badminton",
       "passageId": "U4_PV",
       "audioWord": "assets/audio/vocab/U4_phrasalVerb_take_up.mp3",
-      "audioExample": "assets/audio/vocab/U4_phrasalVerb_take_up_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_phrasalVerb_take_up_example.mp3",
+      "ipa": "/tˈeɪk ˈʌp/",
+      "definition": "to begin a hobby or sport; to fill an amount of time or space",
+      "example": "She took up cycling during the summer holiday."
     },
     {
       "id": "U5_phrasalVerb_bring_up",
@@ -4830,7 +5412,10 @@
       "keyChunk": "bring up an idea/topic",
       "passageId": "U5_PV",
       "audioWord": "assets/audio/vocab/U5_phrasalVerb_bring_up.mp3",
-      "audioExample": "assets/audio/vocab/U5_phrasalVerb_bring_up_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_phrasalVerb_bring_up_example.mp3",
+      "ipa": "/brɪŋ ʌp/",
+      "definition": "to start discussing a subject",
+      "example": "Maya brought up the idea of inviting a local novelist."
     },
     {
       "id": "U5_phrasalVerb_come_out",
@@ -4846,7 +5431,10 @@
       "keyChunk": "the magazine comes out",
       "passageId": "U5_PV",
       "audioWord": "assets/audio/vocab/U5_phrasalVerb_come_out.mp3",
-      "audioExample": "assets/audio/vocab/U5_phrasalVerb_come_out_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_phrasalVerb_come_out_example.mp3",
+      "ipa": "/kʌm aʊt/",
+      "definition": "to be published or made available to the public",
+      "example": "The new edition comes out next month."
     },
     {
       "id": "U5_phrasalVerb_come_on",
@@ -4862,7 +5450,10 @@
       "keyChunk": "the programme comes on",
       "passageId": "U5_PV",
       "audioWord": "assets/audio/vocab/U5_phrasalVerb_come_on.mp3",
-      "audioExample": "assets/audio/vocab/U5_phrasalVerb_come_on_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_phrasalVerb_come_on_example.mp3",
+      "ipa": "/kʌm ɒn/",
+      "definition": "to start to be broadcast on television or radio",
+      "example": "The author interview comes on at six o’clock."
     },
     {
       "id": "U5_phrasalVerb_fill_in",
@@ -4878,7 +5469,10 @@
       "keyChunk": "fill in a form",
       "passageId": "U5_PV",
       "audioWord": "assets/audio/vocab/U5_phrasalVerb_fill_in.mp3",
-      "audioExample": "assets/audio/vocab/U5_phrasalVerb_fill_in_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_phrasalVerb_fill_in_example.mp3",
+      "ipa": "/fɪl ɪn/",
+      "definition": "to add information in the spaces on a form or document",
+      "example": "Please fill in the request form at the desk."
     },
     {
       "id": "U5_phrasalVerb_flick_through",
@@ -4894,7 +5488,10 @@
       "keyChunk": "flick through a magazine",
       "passageId": "U5_PV",
       "audioWord": "assets/audio/vocab/U5_phrasalVerb_flick_through.mp3",
-      "audioExample": "assets/audio/vocab/U5_phrasalVerb_flick_through_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_phrasalVerb_flick_through_example.mp3",
+      "ipa": "/flɪk θruː/",
+      "definition": "to turn and look at the pages of a book or magazine quickly",
+      "example": "Hana flicked through the catalogue before the meeting."
     },
     {
       "id": "U5_phrasalVerb_go_into",
@@ -4910,7 +5507,10 @@
       "keyChunk": "go into the process in detail",
       "passageId": "U5_PV",
       "audioWord": "assets/audio/vocab/U5_phrasalVerb_go_into.mp3",
-      "audioExample": "assets/audio/vocab/U5_phrasalVerb_go_into_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_phrasalVerb_go_into_example.mp3",
+      "ipa": "/ɡəʊ ˈɪntuː/",
+      "definition": "to discuss or deal with a subject in detail",
+      "example": "The critic did not go into the ending of the novel."
     },
     {
       "id": "U5_phrasalVerb_hand_out",
@@ -4926,7 +5526,10 @@
       "keyChunk": "hand out copies",
       "passageId": "U5_PV",
       "audioWord": "assets/audio/vocab/U5_phrasalVerb_hand_out.mp3",
-      "audioExample": "assets/audio/vocab/U5_phrasalVerb_hand_out_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_phrasalVerb_hand_out_example.mp3",
+      "ipa": "/hænd aʊt/",
+      "definition": "to give things to each person in a group",
+      "example": "Volunteers handed out brochures to visitors."
     },
     {
       "id": "U5_phrasalVerb_hear_from",
@@ -4958,7 +5561,10 @@
       "keyChunk": "look up information/a word",
       "passageId": "U5_PV",
       "audioWord": "assets/audio/vocab/U5_phrasalVerb_look_up.mp3",
-      "audioExample": "assets/audio/vocab/U5_phrasalVerb_look_up_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_phrasalVerb_look_up_example.mp3",
+      "ipa": "/lʊk ʌp/",
+      "definition": "to try to find information in a book, list or reference source",
+      "example": "Leo looked up the novelist’s earlier publications."
     },
     {
       "id": "U5_phrasalVerb_make_out",
@@ -4974,7 +5580,10 @@
       "keyChunk": "make out a handwritten note",
       "passageId": "U5_PV",
       "audioWord": "assets/audio/vocab/U5_phrasalVerb_make_out.mp3",
-      "audioExample": "assets/audio/vocab/U5_phrasalVerb_make_out_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_phrasalVerb_make_out_example.mp3",
+      "ipa": "/meɪk aʊt/",
+      "definition": "to see, hear or understand something with difficulty; to pretend something is true",
+      "example": "Ben could not make out the editor’s handwritten note."
     },
     {
       "id": "U5_phrasalVerb_make_up",
@@ -4990,7 +5599,10 @@
       "keyChunk": "make up a story/sentence",
       "passageId": "U5_PV",
       "audioWord": "assets/audio/vocab/U5_phrasalVerb_make_up.mp3",
-      "audioExample": "assets/audio/vocab/U5_phrasalVerb_make_up_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_phrasalVerb_make_up_example.mp3",
+      "ipa": "/meɪk ʌp/",
+      "definition": "to invent an explanation, excuse, story or poem",
+      "example": "The students made up a short mystery for the magazine."
     },
     {
       "id": "U5_phrasalVerb_put_forward",
@@ -5006,7 +5618,10 @@
       "keyChunk": "put forward an idea",
       "passageId": "U5_PV",
       "audioWord": "assets/audio/vocab/U5_phrasalVerb_put_forward.mp3",
-      "audioExample": "assets/audio/vocab/U5_phrasalVerb_put_forward_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_phrasalVerb_put_forward_example.mp3",
+      "ipa": "/pʊt ˈfɔːwəd/",
+      "definition": "to suggest an idea or plan for consideration",
+      "example": "Hana put forward a new design for the author page."
     },
     {
       "id": "U5_phrasalVerb_see_through",
@@ -5022,7 +5637,10 @@
       "keyChunk": "see through an invention",
       "passageId": "U5_PV",
       "audioWord": "assets/audio/vocab/U5_phrasalVerb_see_through.mp3",
-      "audioExample": "assets/audio/vocab/U5_phrasalVerb_see_through_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_phrasalVerb_see_through_example.mp3",
+      "ipa": "/siː θruː/",
+      "definition": "to recognise that something is untrue and avoid being tricked",
+      "example": "Leo saw through the false story immediately."
     },
     {
       "id": "U5_phrasalVerb_stand_out",
@@ -5038,7 +5656,10 @@
       "keyChunk": "stand out from the others",
       "passageId": "U5_PV",
       "audioWord": "assets/audio/vocab/U5_phrasalVerb_stand_out.mp3",
-      "audioExample": "assets/audio/vocab/U5_phrasalVerb_stand_out_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_phrasalVerb_stand_out_example.mp3",
+      "ipa": "/stænd aʊt/",
+      "definition": "to be easy to notice because of being different or better",
+      "example": "The green cover stood out among the other books."
     },
     {
       "id": "U5_phrasalVerb_turn_over",
@@ -5054,7 +5675,10 @@
       "keyChunk": "turn over the page",
       "passageId": "U5_PV",
       "audioWord": "assets/audio/vocab/U5_phrasalVerb_turn_over.mp3",
-      "audioExample": "assets/audio/vocab/U5_phrasalVerb_turn_over_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_phrasalVerb_turn_over_example.mp3",
+      "ipa": "/tɜːn ˈəʊvə/",
+      "definition": "to turn a page so that its other side faces you",
+      "example": "Turn over the page to read the full review."
     },
     {
       "id": "U7_phrasalVerb_come_around",
@@ -5086,7 +5710,10 @@
       "keyChunk": "count on somebody",
       "passageId": "U7_PV",
       "audioWord": "assets/audio/vocab/U7_phrasalVerb_count_on.mp3",
-      "audioExample": "assets/audio/vocab/U7_phrasalVerb_count_on_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_phrasalVerb_count_on_example.mp3",
+      "ipa": "/kaʊnt ɒn/",
+      "definition": "to depend on somebody or trust them to help",
+      "example": "Ben knew he could count on Maya to organise the sculptures."
     },
     {
       "id": "U7_phrasalVerb_put_on",
@@ -5102,7 +5729,10 @@
       "keyChunk": "put on an exhibition/show",
       "passageId": "U7_PV",
       "audioWord": "assets/audio/vocab/U7_phrasalVerb_put_on.mp3",
-      "audioExample": "assets/audio/vocab/U7_phrasalVerb_put_on_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_phrasalVerb_put_on_example.mp3",
+      "ipa": "/pʊt ɒn/",
+      "definition": "to organise or present a show, performance or event",
+      "example": "The students put on an exhibition for the community."
     },
     {
       "id": "U7_phrasalVerb_take_after",
@@ -5118,7 +5748,10 @@
       "keyChunk": "take after an aunt",
       "passageId": "U7_PV",
       "audioWord": "assets/audio/vocab/U7_phrasalVerb_take_after.mp3",
-      "audioExample": "assets/audio/vocab/U7_phrasalVerb_take_after_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_phrasalVerb_take_after_example.mp3",
+      "ipa": "/teɪk ˈɑːftə/",
+      "definition": "to look or behave like an older member of your family",
+      "example": "Ben takes after his aunt, who is a professional designer."
     },
     {
       "id": "U7_phrasalVerb_take_off",
@@ -5134,7 +5767,10 @@
       "keyChunk": "the event takes off online",
       "passageId": "U7_PV",
       "audioWord": "assets/audio/vocab/U7_phrasalVerb_take_off.mp3",
-      "audioExample": "assets/audio/vocab/U7_phrasalVerb_take_off_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_phrasalVerb_take_off_example.mp3",
+      "ipa": "/teɪk ɒf/",
+      "definition": "to become successful or popular very quickly",
+      "example": "The exhibition video took off online over the weekend."
     },
     {
       "id": "U7_phrasalVerb_drop_off",
@@ -5150,7 +5786,10 @@
       "keyChunk": "drop off while working",
       "passageId": "U7_PV",
       "audioWord": "assets/audio/vocab/U7_phrasalVerb_drop_off.mp3",
-      "audioExample": "assets/audio/vocab/U7_phrasalVerb_drop_off_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_phrasalVerb_drop_off_example.mp3",
+      "ipa": "/drɒp ɒf/",
+      "definition": "to fall asleep, often unintentionally",
+      "example": "Leo nearly dropped off while writing the final labels."
     },
     {
       "id": "U7_phrasalVerb_drown_out",
@@ -5166,7 +5805,10 @@
       "keyChunk": "noise drowns out instructions",
       "passageId": "U7_PV",
       "audioWord": "assets/audio/vocab/U7_phrasalVerb_drown_out.mp3",
-      "audioExample": "assets/audio/vocab/U7_phrasalVerb_drown_out_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_phrasalVerb_drown_out_example.mp3",
+      "ipa": "/draʊn aʊt/",
+      "definition": "to prevent a sound from being heard by making a louder noise",
+      "example": "The drilling drowned out Hana’s instructions."
     },
     {
       "id": "U7_phrasalVerb_fall_for",
@@ -5182,7 +5824,10 @@
       "keyChunk": "fall for a joke",
       "passageId": "U7_PV",
       "audioWord": "assets/audio/vocab/U7_phrasalVerb_fall_for.mp3",
-      "audioExample": "assets/audio/vocab/U7_phrasalVerb_fall_for_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_phrasalVerb_fall_for_example.mp3",
+      "ipa": "/fɔːl fɔː/",
+      "definition": "to believe that a trick, joke or false story is true",
+      "example": "Maya did not fall for Ben’s joke about the missing statue."
     },
     {
       "id": "U7_phrasalVerb_get_along_with",
@@ -5198,7 +5843,10 @@
       "keyChunk": "get along with one another",
       "passageId": "U7_PV",
       "audioWord": "assets/audio/vocab/U7_phrasalVerb_get_along_with.mp3",
-      "audioExample": "assets/audio/vocab/U7_phrasalVerb_get_along_with_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_phrasalVerb_get_along_with_example.mp3",
+      "ipa": "/ɡet əˈlɒŋ wɪð/",
+      "definition": "to have a friendly relationship with somebody",
+      "example": "The volunteers got along with the visiting artists."
     },
     {
       "id": "U7_phrasalVerb_grow_on",
@@ -5214,7 +5862,10 @@
       "keyChunk": "the sculpture grows on her",
       "passageId": "U7_PV",
       "audioWord": "assets/audio/vocab/U7_phrasalVerb_grow_on.mp3",
-      "audioExample": "assets/audio/vocab/U7_phrasalVerb_grow_on_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_phrasalVerb_grow_on_example.mp3",
+      "ipa": "/ɡrəʊ ɒn/",
+      "definition": "to become more enjoyable or attractive gradually",
+      "example": "The unusual sculpture grew on Maya after she studied it carefully."
     },
     {
       "id": "U7_phrasalVerb_show_off",
@@ -5230,7 +5881,10 @@
       "keyChunk": "show off one's ability",
       "passageId": "U7_PV",
       "audioWord": "assets/audio/vocab/U7_phrasalVerb_show_off.mp3",
-      "audioExample": "assets/audio/vocab/U7_phrasalVerb_show_off_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_phrasalVerb_show_off_example.mp3",
+      "ipa": "/ʃəʊ ɒf/",
+      "definition": "to try to make people admire your abilities or possessions",
+      "example": "The artist explained his technique without trying to show off."
     },
     {
       "id": "U7_phrasalVerb_name_after",
@@ -5246,7 +5900,10 @@
       "keyChunk": "name a work after a place/person",
       "passageId": "U7_PV",
       "audioWord": "assets/audio/vocab/U7_phrasalVerb_name_after.mp3",
-      "audioExample": "assets/audio/vocab/U7_phrasalVerb_name_after_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_phrasalVerb_name_after_example.mp3",
+      "ipa": "/neɪm ˈɑːftə/",
+      "definition": "to give somebody or something the same name as another person or thing",
+      "example": "The main gallery was named after a former art teacher."
     },
     {
       "id": "U7_phrasalVerb_let_down",
@@ -5262,7 +5919,10 @@
       "keyChunk": "let down the artists",
       "passageId": "U7_PV",
       "audioWord": "assets/audio/vocab/U7_phrasalVerb_let_down.mp3",
-      "audioExample": "assets/audio/vocab/U7_phrasalVerb_let_down_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_phrasalVerb_let_down_example.mp3",
+      "ipa": "/let daʊn/",
+      "definition": "to disappoint somebody by not doing what they expected",
+      "example": "The team did not want to let down the local artists."
     },
     {
       "id": "U7_phrasalVerb_go_down_(as)",
@@ -6110,7 +6770,10 @@
       "keyChunk": "make a strong impression on sb",
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_impression.mp3",
-      "audioExample": "assets/audio/vocab/U7_collocation_impression_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_collocation_impression_example.mp3",
+      "ipa": "/ɡɪv ˌsʌmbədi ði ɪmˈpreʃn/",
+      "definition": null,
+      "example": "gallery was closed."
     },
     {
       "id": "U7_collocation_part",
@@ -6142,7 +6805,10 @@
       "keyChunk": "join a queue; wait in a queue",
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_queue.mp3",
-      "audioExample": "assets/audio/vocab/U7_collocation_queue_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_collocation_queue_example.mp3",
+      "ipa": "/weɪt ɪn ə ˈkjuː/",
+      "definition": null,
+      "example": null
     },
     {
       "id": "U7_collocation_show",
@@ -6174,7 +6840,10 @@
       "keyChunk": "voice an opinion about sth",
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_voice.mp3",
-      "audioExample": "assets/audio/vocab/U7_collocation_voice_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_collocation_voice_example.mp3",
+      "ipa": "/ɪn ə ləʊ ˈvɔɪs/",
+      "definition": null,
+      "example": null
     },
     {
       "id": "U7_collocation_silence",
