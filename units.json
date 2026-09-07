@@ -4,7 +4,7 @@
       "id": 3,
       "name": "Unit 3: Environment",
       "skills": {
-        "vocab": true,
+        "vocab": false,
         "wordFormation": false,
         "ueo": false,
         "reading": false,
@@ -13,9 +13,9 @@
     },
     {
       "id": 4,
-      "name": "Unit 4: Technology",
+      "name": "Unit 4: Sport and Leisure",
       "skills": {
-        "vocab": false,
+        "vocab": true,
         "wordFormation": false,
         "ueo": false,
         "reading": false,
