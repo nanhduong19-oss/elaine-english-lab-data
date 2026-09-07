@@ -1,0 +1,694 @@
+{
+  "passages": [
+    {
+      "passageId": "U4_CORE",
+      "unit": "U4",
+      "title": "A Local Inter-school Tournament",
+      "text": "Last Saturday, Riverside School hosted a local inter-school tournament that brought together six schools. The day began with an athletics competition. Mia, a talented athlete and sprinter, tried to break the school record in the 100 metres, while Leo, a long-distance runner, entered the 1,500-metre race. A gymnast, a cyclist and a swimmer also represented Riverside in separate events. Every spectator watched closely, and each fan cheered whenever a schoolmate crossed the line or completed a difficult routine. The football match began after lunch. Each player was reminded by the referee to respect every opponent, even a traditional rival. Riverside had to beat Hillcrest in the first round to qualify for the semi-final. Hillcrest were highly competitive and attacked constantly, but Riverside managed to defeat them 2–1. In the semi-final, Riverside faced Green Valley. The match remained level until the final minute, when Riverside scored and reached the final. The team hoped to win the cup, but Northside proved equally determined. After a 1–1 draw, the referee ordered a penalty shoot-out. Riverside eventually won 5–4. At the closing ceremony, every winning athlete received a medal. The football captain lifted the trophy, while Mia won a special prize for setting a new record. Although not every team could win, the organisers praised all the players, runners, swimmers, cyclists and gymnasts for their effort, teamwork and sportsmanship. The tournament showed that a competitive event can create strong rivals while also teaching young athletes to respect one another and celebrate every achievement.",
+      "audio": "assets/audio/passages/U4_CORE.mp3",
+      "gapSentences": [
+        {
+          "id": "U4_CORE_gap1",
+          "audio": "assets/audio/passages/U4_CORE_gap1.mp3",
+          "sentenceWithGap": "Every ___ watched closely, and each fan cheered whenever a schoolmate crossed the line.",
+          "answer": "spectator"
+        },
+        {
+          "id": "U4_CORE_gap2",
+          "audio": "assets/audio/passages/U4_CORE_gap2.mp3",
+          "sentenceWithGap": "Riverside had to ___ Hillcrest in the first round to qualify for the semi-final.",
+          "answer": "beat"
+        },
+        {
+          "id": "U4_CORE_gap3",
+          "audio": "assets/audio/passages/U4_CORE_gap3.mp3",
+          "sentenceWithGap": "The football captain lifted the ___, while Mia won a special prize for setting a new record.",
+          "answer": "trophy"
+        },
+        {
+          "id": "U4_CORE_gap4",
+          "audio": "assets/audio/passages/U4_CORE_gap4.mp3",
+          "sentenceWithGap": "Each player was reminded by the referee to respect every ___, even a traditional rival.",
+          "answer": "opponent"
+        },
+        {
+          "id": "U4_CORE_gap5",
+          "audio": "assets/audio/passages/U4_CORE_gap5.mp3",
+          "sentenceWithGap": "The ___ showed that a competitive event can create strong rivals while also teaching young athletes to respect one another.",
+          "answer": "tournament"
+        },
+        {
+          "id": "U4_CORE_gap6",
+          "audio": "assets/audio/passages/U4_CORE_gap6.mp3",
+          "sentenceWithGap": "The day began with an ___ competition.",
+          "answer": "athletics"
+        },
+        {
+          "id": "U4_CORE_gap7",
+          "audio": "assets/audio/passages/U4_CORE_gap7.mp3",
+          "sentenceWithGap": "Each player was reminded by the ___ to respect every opponent.",
+          "answer": "referee"
+        },
+        {
+          "id": "U4_CORE_gap8",
+          "audio": "assets/audio/passages/U4_CORE_gap8.mp3",
+          "sentenceWithGap": "Riverside had to beat Hillcrest in the first round to ___ for the semi-final.",
+          "answer": "qualify"
+        },
+        {
+          "id": "U4_CORE_gap9",
+          "audio": "assets/audio/passages/U4_CORE_gap9.mp3",
+          "sentenceWithGap": "Mia won a special prize for setting a new ___.",
+          "answer": "record"
+        },
+        {
+          "id": "U4_CORE_gap10",
+          "audio": "assets/audio/passages/U4_CORE_gap10.mp3",
+          "sentenceWithGap": "Hillcrest were highly competitive and attacked constantly, but Riverside managed to ___ them 2–1.",
+          "answer": "defeat"
+        }
+      ]
+    },
+    {
+      "passageId": "U4_PV",
+      "unit": "U4",
+      "title": "Preparing for the Riverside Sports Festival",
+      "text": "When Riverside School planned a festival, organisers had to bring the date forward because rain was expected. Maya agreed to carry on planning although teachers were absent. Leo got round to designing the programme after a week. Teachers warned students not to get up to anything near the climbing wall. Hana decided to go in for the short-film competition because she loved making videos. Ben had gone off team sports, so he chose the art-and-games area. Everyone was invited to join in the warm-up. During the football match, Riverside knocked out last year’s champions. Players had to look out for wet areas on the pitch. One team pulled out when its goalkeeper became ill. The referee refused to put off the semi-final, although the teams had to put up with strong wind. Several younger pupils quickly took to archery. Others decided to take up badminton after watching the demonstration. Riverside would compete against Hillcrest and compete for the festival cup. Each player needed to concentrate on following the referee’s instructions. Some beginners found it difficult to control the ball. Maya was fond of running and volunteered for the relay. Students were free to choose two activities and were free from lessons that afternoon. Leo was interested in learning how tournaments were organised. His role involved checking scores, while Hana was involved in interviewing athletes. Spectators were asked to listen to the safety announcement. Families loved watching the final together. The organisers meant to reward fair play, which meant giving a medal. Maya preferred running to cycling, but Ben preferred to play chess rather than race. The referee stopped one player from entering early and later stopped the match to check an injury. Everyone made sure that the equipment was safe, and the event was certain to become a school tradition.",
+      "audio": "assets/audio/passages/U4_PV.mp3",
+      "gapSentences": [
+        {
+          "id": "U4_PV_gap1",
+          "audio": "assets/audio/passages/U4_PV_gap1.mp3",
+          "sentenceWithGap": "Organisers had to ___ the date because rain was expected.",
+          "answer": "bring forward"
+        },
+        {
+          "id": "U4_PV_gap2",
+          "audio": "assets/audio/passages/U4_PV_gap2.mp3",
+          "sentenceWithGap": "Maya agreed to ___ planning although teachers were absent.",
+          "answer": "carry on"
+        },
+        {
+          "id": "U4_PV_gap3",
+          "audio": "assets/audio/passages/U4_PV_gap3.mp3",
+          "sentenceWithGap": "Several younger pupils quickly decided to ___ archery.",
+          "answer": "take to"
+        },
+        {
+          "id": "U4_PV_gap4",
+          "audio": "assets/audio/passages/U4_PV_gap4.mp3",
+          "sentenceWithGap": "Others decided to ___ badminton after watching the demonstration.",
+          "answer": "take up"
+        },
+        {
+          "id": "U4_PV_gap5",
+          "audio": "assets/audio/passages/U4_PV_gap5.mp3",
+          "sentenceWithGap": "One team had to ___ the competition when its goalkeeper became ill.",
+          "answer": "pull out of"
+        },
+        {
+          "id": "U4_PV_gap6",
+          "audio": "assets/audio/passages/U4_PV_gap6.mp3",
+          "sentenceWithGap": "Leo ___ designing the programme after a week.",
+          "answer": "got round to"
+        },
+        {
+          "id": "U4_PV_gap7",
+          "audio": "assets/audio/passages/U4_PV_gap7.mp3",
+          "sentenceWithGap": "Teachers warned students not to ___ anything near the climbing wall.",
+          "answer": "get up to"
+        },
+        {
+          "id": "U4_PV_gap8",
+          "audio": "assets/audio/passages/U4_PV_gap8.mp3",
+          "sentenceWithGap": "Hana decided to ___ the short-film competition because she loved making videos.",
+          "answer": "go in for"
+        },
+        {
+          "id": "U4_PV_gap9",
+          "audio": "assets/audio/passages/U4_PV_gap9.mp3",
+          "sentenceWithGap": "Everyone was invited to ___ the warm-up.",
+          "answer": "join in"
+        },
+        {
+          "id": "U4_PV_gap10",
+          "audio": "assets/audio/passages/U4_PV_gap10.mp3",
+          "sentenceWithGap": "During the football match, Riverside managed to ___ last year's champions.",
+          "answer": "knock out"
+        }
+      ]
+    },
+    {
+      "passageId": "U4_COLLOC",
+      "unit": "U4",
+      "title": "Trying Something New at the Riverside Festival",
+      "text": "At Riverside’s hobbies festival, students were encouraged to do their best and make the best of every activity. Maya organised the opening race and gave pupils a chance to try events they had never attempted before. Leo decided to have a go at climbing, even though he was afraid of heights. When he stopped halfway up the wall, nobody got mad at him; instead, his friends told him to take his time and continue when he felt ready. Hana took pleasure in teaching photography, and her workshop became popular with students who enjoyed creative hobbies. Ben had a talent for drawing, so he helped visitors design team badges. On the football pitch, Riverside were on the losing side at first, but the players refused to give up. Their captain asked everyone to stay calm, and the team eventually finished on the winning side after scoring twice. The festival also included board games and a talent contest. Students took turns performing, solving puzzles and answering sports questions. When it was Maya’s turn to compete, she turned a card over and found a difficult challenge. She chose to take a chance and answer without help. Her correct response earned her team the point. As time passed, even the shyest students became more confident. Everyone arrived on time for the closing ceremony, where prizes were awarded. In turn, each group thanked the volunteers. By the end of the day, students had discovered new interests, supported one another and enjoyed working as a team.",
+      "audio": "assets/audio/passages/U4_COLLOC.mp3",
+      "gapSentences": [
+        {
+          "id": "U4_COLLOC_gap1",
+          "audio": "assets/audio/passages/U4_COLLOC_gap1.mp3",
+          "sentenceWithGap": "Maya organised the opening race and gave pupils a ___ to try events they had never attempted before.",
+          "answer": "chance"
+        },
+        {
+          "id": "U4_COLLOC_gap2",
+          "audio": "assets/audio/passages/U4_COLLOC_gap2.mp3",
+          "sentenceWithGap": "Leo decided to have a ___ at climbing, even though he was afraid of heights.",
+          "answer": "go"
+        },
+        {
+          "id": "U4_COLLOC_gap3",
+          "audio": "assets/audio/passages/U4_COLLOC_gap3.mp3",
+          "sentenceWithGap": "Hana took ___ in teaching photography, and her workshop became popular with students.",
+          "answer": "pleasure"
+        },
+        {
+          "id": "U4_COLLOC_gap4",
+          "audio": "assets/audio/passages/U4_COLLOC_gap4.mp3",
+          "sentenceWithGap": "Ben had a ___ for drawing, so he helped visitors design team badges.",
+          "answer": "talent"
+        },
+        {
+          "id": "U4_COLLOC_gap5",
+          "audio": "assets/audio/passages/U4_COLLOC_gap5.mp3",
+          "sentenceWithGap": "Students took ___ performing, solving puzzles and answering sports questions.",
+          "answer": "turns"
+        },
+        {
+          "id": "U4_COLLOC_gap6",
+          "audio": "assets/audio/passages/U4_COLLOC_gap6.mp3",
+          "sentenceWithGap": "Students were encouraged to do their ___ and make the best of every activity.",
+          "answer": "best"
+        },
+        {
+          "id": "U4_COLLOC_gap7",
+          "audio": "assets/audio/passages/U4_COLLOC_gap7.mp3",
+          "sentenceWithGap": "Leo decided to have a go at climbing, even though he was afraid of ___.",
+          "answer": "heights"
+        },
+        {
+          "id": "U4_COLLOC_gap8",
+          "audio": "assets/audio/passages/U4_COLLOC_gap8.mp3",
+          "sentenceWithGap": "Hana's photography workshop became ___ with students who enjoyed creative hobbies.",
+          "answer": "popular"
+        },
+        {
+          "id": "U4_COLLOC_gap9",
+          "audio": "assets/audio/passages/U4_COLLOC_gap9.mp3",
+          "sentenceWithGap": "Everyone arrived on ___ for the closing ceremony, where prizes were awarded.",
+          "answer": "time"
+        },
+        {
+          "id": "U4_COLLOC_gap10",
+          "audio": "assets/audio/passages/U4_COLLOC_gap10.mp3",
+          "sentenceWithGap": "Riverside would ___ against Hillcrest and compete for the festival cup.",
+          "answer": "compete"
+        }
+      ]
+    },
+    {
+      "passageId": "U5_CORE",
+      "unit": "U5",
+      "title": "A New Chapter for the Riverside Festival",
+      "text": "When Leo was asked to create a Book Corner for the Riverside Culture Festival, he knew that placing a few books on a table would not be enough. He wanted visitors to see how wide the world of literature could be, so he began with a lively mix of genres. Maya chose a biography of a famous athlete and several non-fiction titles about health and travel, while Hana added a detective story, a thriller and a psychological thriller. Ben preferred imaginative books, so he selected a fantasy, a ghost story and a science fiction novel with striking illustrations. Leo also included a classic novel, a collection of short stories, a book of poetry and a modern drama. For readers who did not want printed books, he arranged access to each title as an e-book. The only disagreement concerned a popular romance: Hana found it moving, but Leo thought its ending was too predictable. In the end, they kept it because the group wanted every visitor to find some kind of fiction they could enjoy. The next task was to organise the practical material. Maya sorted an atlas, a guidebook, a cookery book and a science textbook into the reference section, while Hana wrote a colourful brochure explaining the programme. Ben designed a clear catalogue so visitors could locate each title quickly. Leo contacted the local library and a nearby bookshop, which agreed to lend extra books for the weekend. Visitors could also borrow selected titles after leaving a deposit or request a digital version at the information desk. A local journalist planned to report on the event, but there was a problem: the first printed copy of the catalogue listed the wrong time for the author talk. The team had to correct the mistake before the material went into final publication. After checking names, times and page numbers, they produced a new version and placed it beside the entrance. The highlight of the weekend was the launch of a new novel by a local novelist. It was the first book in a planned series, and its seaside setting immediately caught Ben’s imagination. The plot followed a young musician who discovered a hidden room beneath an old theatre, and each main character had a believable relationship with the others. Leo had received an advance copy, so he introduced the book by reading a short passage and an extract from the opening chapter. Hana then interviewed the writer about the difference between writing prose and composing a line of verse. Maya prepared a brief review, describing the book as an entertaining read with strong literary qualities. A visiting critic agreed, although he pointed out that one part of the plot was slightly predictable. By the end of the day, every copy had been sold, and the bookshop owner suggested that the novel might soon become a bestseller. More importantly, the Book Corner had become one of the most popular areas of the festival.",
+      "audio": "assets/audio/passages/U5_CORE.mp3",
+      "gapSentences": [
+        {
+          "id": "U5_CORE_gap1",
+          "audio": "assets/audio/passages/U5_CORE_gap1.mp3",
+          "sentenceWithGap": "Hana added a detective story, a ___ and a psychological thriller.",
+          "answer": "thriller"
+        },
+        {
+          "id": "U5_CORE_gap2",
+          "audio": "assets/audio/passages/U5_CORE_gap2.mp3",
+          "sentenceWithGap": "Leo also included a classic ___, a collection of short stories, a book of poetry and a modern drama.",
+          "answer": "novel"
+        },
+        {
+          "id": "U5_CORE_gap3",
+          "audio": "assets/audio/passages/U5_CORE_gap3.mp3",
+          "sentenceWithGap": "A visiting ___ agreed, although he pointed out that one part of the plot was slightly predictable.",
+          "answer": "critic"
+        },
+        {
+          "id": "U5_CORE_gap4",
+          "audio": "assets/audio/passages/U5_CORE_gap4.mp3",
+          "sentenceWithGap": "The plot followed a young musician who discovered a hidden room, and each main ___ had a believable relationship with the others.",
+          "answer": "character"
+        },
+        {
+          "id": "U5_CORE_gap5",
+          "audio": "assets/audio/passages/U5_CORE_gap5.mp3",
+          "sentenceWithGap": "The bookshop owner suggested that the novel might soon become a ___.",
+          "answer": "bestseller"
+        },
+        {
+          "id": "U5_CORE_gap6",
+          "audio": "assets/audio/passages/U5_CORE_gap6.mp3",
+          "sentenceWithGap": "Maya chose a ___ of a famous athlete and several non-fiction titles about health and travel.",
+          "answer": "biography"
+        },
+        {
+          "id": "U5_CORE_gap7",
+          "audio": "assets/audio/passages/U5_CORE_gap7.mp3",
+          "sentenceWithGap": "Ben preferred imaginative books, so he selected a ___, a ghost story and a science fiction novel.",
+          "answer": "fantasy"
+        },
+        {
+          "id": "U5_CORE_gap8",
+          "audio": "assets/audio/passages/U5_CORE_gap8.mp3",
+          "sentenceWithGap": "It was the first book in a planned ___, and its seaside setting immediately caught Ben's imagination.",
+          "answer": "series"
+        },
+        {
+          "id": "U5_CORE_gap9",
+          "audio": "assets/audio/passages/U5_CORE_gap9.mp3",
+          "sentenceWithGap": "Leo introduced the book by reading a short passage and an ___ from the opening chapter.",
+          "answer": "extract"
+        },
+        {
+          "id": "U5_CORE_gap10",
+          "audio": "assets/audio/passages/U5_CORE_gap10.mp3",
+          "sentenceWithGap": "Maya prepared a brief ___, describing the book as an entertaining read with strong literary qualities.",
+          "answer": "review"
+        }
+      ]
+    },
+    {
+      "passageId": "U5_PV",
+      "unit": "U5",
+      "title": "Behind the Riverside Book Launch",
+      "text": "When Leo began preparing the Riverside Festival magazine, Maya brought up the idea of interviewing a novelist. According to the editor, the issue would come out on Friday, and the interview would come on at six. Every volunteer had to fill in a planning form before Hana handed out advance copies of the novel. Leo flicked through issues and commented on the articles that stood out. Ben wanted to go into the design process in detail, while Maya put forward a simpler layout. The group looked up information about the writer, but Leo could not make out a handwritten note. Hana tried to make up the missing sentence; however, Ben saw through the invention and told her not to include it. When Leo turned over the first page, he found the author’s dedication. The editor announced that the novelist had accepted their invitation. Leo believed the book to be suitable for teenage readers, although Maya was confused by one character and described him as unreliable. Hana corresponded with the writer and soon heard from her. She informed the team that the author was likely to arrive early and persuaded everyone to prepare questions. There was no point in changing the schedule again. During rehearsal, Ben sent the novelist a programme and described the stage arrangement to her. Maya heard about a delay, but the editor assured them that it was likely that the event would begin on time. The author surprised the students by arriving before lunch. She announced her arrival to the organisers, commented on their display and told Leo to begin the interview with a question about character development. By the end, the students believed in their ability to produce a magazine for the school community and were pleasantly surprised at how confidently they had managed the event.",
+      "audio": "assets/audio/passages/U5_PV.mp3",
+      "gapSentences": [
+        {
+          "id": "U5_PV_gap1",
+          "audio": "assets/audio/passages/U5_PV_gap1.mp3",
+          "sentenceWithGap": "Maya wanted to ___ the idea of interviewing a novelist.",
+          "answer": "bring up"
+        },
+        {
+          "id": "U5_PV_gap2",
+          "audio": "assets/audio/passages/U5_PV_gap2.mp3",
+          "sentenceWithGap": "According to the editor, the issue would ___ on Friday.",
+          "answer": "come out"
+        },
+        {
+          "id": "U5_PV_gap3",
+          "audio": "assets/audio/passages/U5_PV_gap3.mp3",
+          "sentenceWithGap": "Every volunteer had to ___ a planning form before Hana handed out advance copies.",
+          "answer": "fill in"
+        },
+        {
+          "id": "U5_PV_gap4",
+          "audio": "assets/audio/passages/U5_PV_gap4.mp3",
+          "sentenceWithGap": "The group needed to ___ information about the writer.",
+          "answer": "look up"
+        },
+        {
+          "id": "U5_PV_gap5",
+          "audio": "assets/audio/passages/U5_PV_gap5.mp3",
+          "sentenceWithGap": "Hana tried to ___ the missing sentence, but Ben saw through the invention.",
+          "answer": "make up"
+        },
+        {
+          "id": "U5_PV_gap6",
+          "audio": "assets/audio/passages/U5_PV_gap6.mp3",
+          "sentenceWithGap": "According to the editor, the interview would ___ at six.",
+          "answer": "come on"
+        },
+        {
+          "id": "U5_PV_gap7",
+          "audio": "assets/audio/passages/U5_PV_gap7.mp3",
+          "sentenceWithGap": "Leo ___ old issues and commented on the articles that stood out.",
+          "answer": "flicked through"
+        },
+        {
+          "id": "U5_PV_gap8",
+          "audio": "assets/audio/passages/U5_PV_gap8.mp3",
+          "sentenceWithGap": "Maya ___ a simpler layout for the magazine.",
+          "answer": "put forward"
+        },
+        {
+          "id": "U5_PV_gap9",
+          "audio": "assets/audio/passages/U5_PV_gap9.mp3",
+          "sentenceWithGap": "Ben quickly managed to ___ the invention and told Hana not to include it.",
+          "answer": "see through"
+        },
+        {
+          "id": "U5_PV_gap10",
+          "audio": "assets/audio/passages/U5_PV_gap10.mp3",
+          "sentenceWithGap": "When Leo ___ the first page, he found the author's dedication.",
+          "answer": "turned over"
+        }
+      ]
+    },
+    {
+      "passageId": "U5_COLLOC",
+      "unit": "U5",
+      "title": "The Riverside Book Launch",
+      "text": "Before the Riverside Book Corner opened, Leo took control of the final preparations. The schedule was under control, but the team still needed to check every display. Ben gave a clear description of the new exhibition area, explaining where the novels, biographies and e-books would be placed. His plan made a real difference to the layout because visitors could move around more easily. Hana reminded everyone not to take the volunteers for granted. Their work had a strong influence on the success of the event, from arranging chairs to welcoming guests. She also uploaded the programme on the Internet and asked students to surf the Internet for information about the visiting novelist. By lunchtime, the author was already in the news because a local newspaper had published an interview with her. The launch took place in the main hall, in place of the smaller library room. Before the reading began, Maya asked a question about the setting of the novel, while Leo answered a question about how the festival magazine had been produced. One point in question was whether the author would read an extract from the final chapter or from the opening chapter. In Leo’s view, the opening was more suitable, but Hana held a different view. In view of the younger audience, the author finally chose a short and entertaining passage from the first chapter. While she read, Ben watched the audience and kept watch near the entrance in case more chairs were needed. After the talk, students stayed to see the view from the gallery window and discuss the book. The team agreed that careful planning, helpful volunteers and the author’s positive influence had turned the Book Corner into one of the festival’s most successful events.",
+      "audio": "assets/audio/passages/U5_COLLOC.mp3",
+      "gapSentences": [
+        {
+          "id": "U5_COLLOC_gap1",
+          "audio": "assets/audio/passages/U5_COLLOC_gap1.mp3",
+          "sentenceWithGap": "Before the Riverside Book Corner opened, Leo took ___ of the final preparations.",
+          "answer": "control"
+        },
+        {
+          "id": "U5_COLLOC_gap2",
+          "audio": "assets/audio/passages/U5_COLLOC_gap2.mp3",
+          "sentenceWithGap": "Ben gave a clear ___ of the new exhibition area.",
+          "answer": "description"
+        },
+        {
+          "id": "U5_COLLOC_gap3",
+          "audio": "assets/audio/passages/U5_COLLOC_gap3.mp3",
+          "sentenceWithGap": "His plan made a real ___ to the layout because visitors could move around more easily.",
+          "answer": "difference"
+        },
+        {
+          "id": "U5_COLLOC_gap4",
+          "audio": "assets/audio/passages/U5_COLLOC_gap4.mp3",
+          "sentenceWithGap": "Their work had a strong ___ on the success of the event.",
+          "answer": "influence"
+        },
+        {
+          "id": "U5_COLLOC_gap5",
+          "audio": "assets/audio/passages/U5_COLLOC_gap5.mp3",
+          "sentenceWithGap": "In Leo's ___, the opening was more suitable, but Hana held a different view.",
+          "answer": "view"
+        },
+        {
+          "id": "U5_COLLOC_gap6",
+          "audio": "assets/audio/passages/U5_COLLOC_gap6.mp3",
+          "sentenceWithGap": "Hana reminded everyone not to take the volunteers for ___.",
+          "answer": "granted"
+        },
+        {
+          "id": "U5_COLLOC_gap7",
+          "audio": "assets/audio/passages/U5_COLLOC_gap7.mp3",
+          "sentenceWithGap": "The launch took ___ in the main hall, in place of the smaller library room.",
+          "answer": "place"
+        },
+        {
+          "id": "U5_COLLOC_gap8",
+          "audio": "assets/audio/passages/U5_COLLOC_gap8.mp3",
+          "sentenceWithGap": "One point in ___ was whether the author would read an extract from the final chapter.",
+          "answer": "question"
+        },
+        {
+          "id": "U5_COLLOC_gap9",
+          "audio": "assets/audio/passages/U5_COLLOC_gap9.mp3",
+          "sentenceWithGap": "Ben watched the audience and kept ___ near the entrance in case more chairs were needed.",
+          "answer": "watch"
+        },
+        {
+          "id": "U5_COLLOC_gap10",
+          "audio": "assets/audio/passages/U5_COLLOC_gap10.mp3",
+          "sentenceWithGap": "She informed the team that the author was ___ to arrive early.",
+          "answer": "likely"
+        }
+      ]
+    },
+    {
+      "passageId": "U6_CORE",
+      "unit": "U6",
+      "title": "From Rehearsal to Riverside Premiere",
+      "text": "When Hana was asked to direct the main production for the Riverside Culture Festival, she decided to combine theatre, film and live music in one ambitious show. She chose a cast of student actors and performers, including a comedian, a dancer and two members of the school ballet club. Leo wrote the script, dialogue and a short screenplay for the trailer, while Ben designed the set, painted the scenery and created each costume. Maya managed the venue, box office and rehearsal timetable. The first rehearsal was far from perfect: one actor forgot his lines, a performer entered from the wrong side of the stage, and part of the scenery blocked the audience’s view. Hana changed her direction, shortened one scene and moved the set so the whole cast could appear more naturally. By the final rehearsal, the production had become a lively mixture of drama, musical theatre, opera and dance, with a short comic section before the interval. The group also wanted viewers who could not attend the live performance to experience the event, so they filmed a trailer and a short TV programme. Some scenes were recorded inside the theatre, while others were shot on location beside the river. Leo reorganised the storyline because the first version was confusing, and Ben added subtitles and simple special effects to make the plot easier to follow. Hana appeared in a chat show to promote the production, and Maya presented a documentary about the work behind it. The programme also contained a current affairs report on youth arts, a light comedy sketch and brief introductions to costume drama, soap opera and reality TV. Although there was no full cartoon, Ben created an imaginative animated title for the screen. A local critic praised the acting and said that the main character was convincing, while the camera work captured the human side of the young performers. Music gave the final performance its distinctive style. A student composer created the score, and the conductor brought together the school orchestra, choir and a talented guitarist. The soundtrack included rock, pop, jazz, folk, classical music and world music, together with a rock ’n’ roll number and a country and western cover version. One track was a moving duet, while another was an old favourite that every fan recognised from its opening tune. During rehearsal, the musicians worked carefully on the beat, rhythm, lyrics and harmony until everyone could sing in tune. On premiere night, the venue was full. Some reviewers found one section slightly predictable, but most described the show as brilliant, compelling, delightful and gripping. The special effects were stunning, the music was superb, and the final scene was both dramatic and memorable. Even the strictest critic admitted that the production was outstanding rather than dull, tedious or uninspired. By the end, it had received rave reviews and become one of the festival’s most fascinating events.",
+      "audio": "assets/audio/passages/U6_CORE.mp3",
+      "gapSentences": [
+        {
+          "id": "U6_CORE_gap1",
+          "audio": "assets/audio/passages/U6_CORE_gap1.mp3",
+          "sentenceWithGap": "She chose a ___ of student actors and performers, including a comedian, a dancer and two members of the school ballet club.",
+          "answer": "cast"
+        },
+        {
+          "id": "U6_CORE_gap2",
+          "audio": "assets/audio/passages/U6_CORE_gap2.mp3",
+          "sentenceWithGap": "Leo wrote the ___, dialogue and a short screenplay for the trailer.",
+          "answer": "script"
+        },
+        {
+          "id": "U6_CORE_gap3",
+          "audio": "assets/audio/passages/U6_CORE_gap3.mp3",
+          "sentenceWithGap": "Maya managed the venue, box office and ___ timetable.",
+          "answer": "rehearsal"
+        },
+        {
+          "id": "U6_CORE_gap4",
+          "audio": "assets/audio/passages/U6_CORE_gap4.mp3",
+          "sentenceWithGap": "A local critic praised the acting and said that the main character was convincing, while the ___ captured the human side of the young performers.",
+          "answer": "camera work"
+        },
+        {
+          "id": "U6_CORE_gap5",
+          "audio": "assets/audio/passages/U6_CORE_gap5.mp3",
+          "sentenceWithGap": "By the end, it had received rave reviews and become one of the festival's most ___ events.",
+          "answer": "fascinating"
+        },
+        {
+          "id": "U6_CORE_gap6",
+          "audio": "assets/audio/passages/U6_CORE_gap6.mp3",
+          "sentenceWithGap": "Some scenes were recorded inside the theatre, while others were shot on ___.",
+          "answer": "location"
+        },
+        {
+          "id": "U6_CORE_gap7",
+          "audio": "assets/audio/passages/U6_CORE_gap7.mp3",
+          "sentenceWithGap": "Leo reorganised the ___ because the first version was confusing.",
+          "answer": "storyline"
+        },
+        {
+          "id": "U6_CORE_gap8",
+          "audio": "assets/audio/passages/U6_CORE_gap8.mp3",
+          "sentenceWithGap": "A student composer created the score, and the ___ brought together the school orchestra, choir and a talented guitarist.",
+          "answer": "conductor"
+        },
+        {
+          "id": "U6_CORE_gap9",
+          "audio": "assets/audio/passages/U6_CORE_gap9.mp3",
+          "sentenceWithGap": "The musicians worked carefully on the beat, rhythm, lyrics and harmony until everyone could sing in ___.",
+          "answer": "tune"
+        },
+        {
+          "id": "U6_CORE_gap10",
+          "audio": "assets/audio/passages/U6_CORE_gap10.mp3",
+          "sentenceWithGap": "Most reviewers described the show as brilliant, compelling, delightful and ___.",
+          "answer": "gripping"
+        }
+      ]
+    },
+    {
+      "passageId": "U7_CORE",
+      "unit": "U7",
+      "title": "From Creative Ideas to the Riverside Gallery",
+      "text": "Ben was chosen to organise the art section of the Riverside Culture Festival, so he began by contacting local artists and inviting the school arts and crafts club to take part in the project. As an enthusiastic art lover, he wanted the exhibition to include more than paintings. The final art collection contained drawings, sculptures, pottery, textiles, jewellery and several unusual works of art. Maya helped carry the larger pieces, Leo wrote short descriptions for each artwork, and Hana filmed the preparation for the festival website. During the week before the opening, the group transformed the school hall into a bright gallery. Ben decided to put on an exhibition that would make a strong impression on visitors, so he arranged the sculptures carefully and placed the most colourful works on show near the entrance. One local artist also lent them a large three-dimensional installation, which Ben believed was bound to attract attention. Although everyone worked hard, they still worried that the event might not prove to be successful. On Saturday morning, visitors began to wait in a queue outside the gallery. Once inside, they moved slowly around the room, enjoyed looking at the different styles and showed appreciation for the students’ creative work. Some visitors preferred realistic portraits, while others voiced an opinion in favour of abstract art. Ben, who was talented at creating unusual displays, had placed the three-dimensional installation in the centre of the room. It immediately stole the show. By the end of the afternoon, the gallery was full, the artists were answering questions, and the exhibition had become one of the most popular parts of the festival. Ben was proud that the team had not only celebrated artistic talent but had also encouraged people to look at art with greater curiosity through a shared cultural experience.",
+      "audio": "assets/audio/passages/U7_CORE.mp3",
+      "gapSentences": [
+        {
+          "id": "U7_CORE_gap1",
+          "audio": "assets/audio/passages/U7_CORE_gap1.mp3",
+          "sentenceWithGap": "Ben was chosen to organise the art section of the Riverside Culture Festival, so he began by contacting local ___.",
+          "answer": "artists"
+        },
+        {
+          "id": "U7_CORE_gap2",
+          "audio": "assets/audio/passages/U7_CORE_gap2.mp3",
+          "sentenceWithGap": "Ben decided to put on an ___ that would make a strong impression on visitors.",
+          "answer": "exhibition"
+        },
+        {
+          "id": "U7_CORE_gap3",
+          "audio": "assets/audio/passages/U7_CORE_gap3.mp3",
+          "sentenceWithGap": "The final art collection contained drawings, ___, pottery, textiles, jewellery and several unusual works of art.",
+          "answer": "sculptures"
+        },
+        {
+          "id": "U7_CORE_gap4",
+          "audio": "assets/audio/passages/U7_CORE_gap4.mp3",
+          "sentenceWithGap": "One visitor admired a realistic ___ near the entrance.",
+          "answer": "portrait"
+        },
+        {
+          "id": "U7_CORE_gap5",
+          "audio": "assets/audio/passages/U7_CORE_gap5.mp3",
+          "sentenceWithGap": "By the end of the afternoon, the ___ was full, and the artists were answering questions.",
+          "answer": "gallery"
+        },
+        {
+          "id": "U7_CORE_gap6",
+          "audio": "assets/audio/passages/U7_CORE_gap6.mp3",
+          "sentenceWithGap": "As an enthusiastic ___, Ben wanted the exhibition to include more than paintings.",
+          "answer": "art lover"
+        },
+        {
+          "id": "U7_CORE_gap7",
+          "audio": "assets/audio/passages/U7_CORE_gap7.mp3",
+          "sentenceWithGap": "Some visitors preferred realistic portraits, while others voiced an opinion in favour of ___ art.",
+          "answer": "abstract"
+        },
+        {
+          "id": "U7_CORE_gap8",
+          "audio": "assets/audio/passages/U7_CORE_gap8.mp3",
+          "sentenceWithGap": "One local artist also lent them a large ___ installation, which Ben believed was bound to attract attention.",
+          "answer": "three-dimensional"
+        },
+        {
+          "id": "U7_CORE_gap9",
+          "audio": "assets/audio/passages/U7_CORE_gap9.mp3",
+          "sentenceWithGap": "Maya helped carry the larger pieces as part of this ___ project.",
+          "answer": "creative"
+        },
+        {
+          "id": "U7_CORE_gap10",
+          "audio": "assets/audio/passages/U7_CORE_gap10.mp3",
+          "sentenceWithGap": "The installation made a strong and ___ effect on every visitor who walked past it.",
+          "answer": "impressive"
+        }
+      ]
+    },
+    {
+      "passageId": "U7_PV",
+      "unit": "U7",
+      "title": "The Exhibition Everyone Remembered",
+      "text": "When the Riverside Art Week came around, Ben knew he could count on Maya, Leo and Hana to help him put on an exhibition. He promised to finish the layout early and said that the gallery would be ready by Friday. Because Ben takes after his creative aunt, he is talented at designing unusual displays, and everyone expected the event to take off online. During preparation, Leo nearly dropped off while writing labels, and loud drilling drowned out Hana’s instructions. Maya refused to fall for Ben’s joke about a missing statue. Although the group usually got along with one another, Hana had to apologise to Leo for criticising his descriptions. They tried to avoid placing fragile pottery near the entrance and chose a digital guide instead of printing hundreds of leaflets. At first, one abstract sculpture did not appeal to Maya, but it slowly grew on her. Ben warned a young artist not to show off and reminded him that he was supposed to explain his ideas clearly. The artist was happy to answer questions and felt that every student deserved to be recognised. A painting named after the River Thames proved to be the visitors’ favourite. No one wanted to let down the local artists. The exhibition was bound to attract attention, and Hana enjoyed filming the opening. By evening, the event had begun to go down as one of Riverside’s best festivals, proving to the team that careful cooperation could turn a simple school project into something memorable.",
+      "audio": "assets/audio/passages/U7_PV.mp3",
+      "gapSentences": [
+        {
+          "id": "U7_PV_gap1",
+          "audio": "assets/audio/passages/U7_PV_gap1.mp3",
+          "sentenceWithGap": "Ben knew he could ___ Maya, Leo and Hana to help him put on an exhibition.",
+          "answer": "count on"
+        },
+        {
+          "id": "U7_PV_gap2",
+          "audio": "assets/audio/passages/U7_PV_gap2.mp3",
+          "sentenceWithGap": "Everyone expected the event to ___ online.",
+          "answer": "take off"
+        },
+        {
+          "id": "U7_PV_gap3",
+          "audio": "assets/audio/passages/U7_PV_gap3.mp3",
+          "sentenceWithGap": "Maya refused to ___ Ben's joke about a missing statue.",
+          "answer": "fall for"
+        },
+        {
+          "id": "U7_PV_gap4",
+          "audio": "assets/audio/passages/U7_PV_gap4.mp3",
+          "sentenceWithGap": "Ben warned a young artist not to ___ and reminded him to explain his ideas clearly.",
+          "answer": "show off"
+        },
+        {
+          "id": "U7_PV_gap5",
+          "audio": "assets/audio/passages/U7_PV_gap5.mp3",
+          "sentenceWithGap": "No one wanted to ___ the local artists.",
+          "answer": "let down"
+        },
+        {
+          "id": "U7_PV_gap6",
+          "audio": "assets/audio/passages/U7_PV_gap6.mp3",
+          "sentenceWithGap": "When the Riverside Art Week is about to ___, Ben starts planning early.",
+          "answer": "come around"
+        },
+        {
+          "id": "U7_PV_gap7",
+          "audio": "assets/audio/passages/U7_PV_gap7.mp3",
+          "sentenceWithGap": "Because Ben ___ his creative aunt, he is talented at designing unusual displays.",
+          "answer": "takes after"
+        },
+        {
+          "id": "U7_PV_gap8",
+          "audio": "assets/audio/passages/U7_PV_gap8.mp3",
+          "sentenceWithGap": "During preparation, Leo nearly ___ while writing labels.",
+          "answer": "dropped off"
+        },
+        {
+          "id": "U7_PV_gap9",
+          "audio": "assets/audio/passages/U7_PV_gap9.mp3",
+          "sentenceWithGap": "Although the group usually ___ one another, Hana had to apologise to Leo for criticising his descriptions.",
+          "answer": "got along with"
+        },
+        {
+          "id": "U7_PV_gap10",
+          "audio": "assets/audio/passages/U7_PV_gap10.mp3",
+          "sentenceWithGap": "By evening, the event had begun to ___ one of Riverside's best festivals.",
+          "answer": "go down as"
+        }
+      ]
+    },
+    {
+      "passageId": "U7_COLLOC",
+      "unit": "U7",
+      "title": "The Gallery Opening Party",
+      "text": "When the Riverside Festival gallery finally opened, everyone hoped the evening would be fun. Ben told the volunteers to make themselves at home in the reception area before visitors arrived. He wanted the exhibition to make a strong impression on local artists, so every painting was carefully lit and every sculpture was placed where it could be seen clearly. Maya tried to make a joke about Ben’s serious expression, but he did not find it funny at first. A few minutes later, however, he began to laugh about how nervous he had been. Hana, who was taking part in the opening as the event presenter, reminded him that he had an important part to play in welcoming the guests. Leo also had a part in the programme: he was going to read a short description of each major artwork. The school had decided to throw a party after the official opening. Before it began, visitors had to join a queue outside the gallery and wait in a queue while staff checked their tickets. Inside, a student band played soft music, and several young actors performed a short play about a famous painter. One actress completely stole the show with her confident performance. Later, the lights were lowered and everyone stood in silence while Ben thanked the artists. He then invited visitors to show appreciation for the students’ work and to voice an opinion about the exhibition. Some spoke in a low voice, while others confidently described the pieces they admired most. By the end of the night, the gallery was still full of people having fun, discussing art and taking photographs. Ben realised that the event had not only impressed the visitors but had also brought the whole school community together in a memorable shared experience.",
+      "audio": "assets/audio/passages/U7_COLLOC.mp3",
+      "gapSentences": [
+        {
+          "id": "U7_COLLOC_gap1",
+          "audio": "assets/audio/passages/U7_COLLOC_gap1.mp3",
+          "sentenceWithGap": "Ben wanted the exhibition to make a strong ___ on local artists.",
+          "answer": "impression"
+        },
+        {
+          "id": "U7_COLLOC_gap2",
+          "audio": "assets/audio/passages/U7_COLLOC_gap2.mp3",
+          "sentenceWithGap": "Hana reminded him that he had an important ___ to play in welcoming the guests.",
+          "answer": "part"
+        },
+        {
+          "id": "U7_COLLOC_gap3",
+          "audio": "assets/audio/passages/U7_COLLOC_gap3.mp3",
+          "sentenceWithGap": "Visitors had to join a ___ outside the gallery and wait before staff checked their tickets.",
+          "answer": "queue"
+        },
+        {
+          "id": "U7_COLLOC_gap4",
+          "audio": "assets/audio/passages/U7_COLLOC_gap4.mp3",
+          "sentenceWithGap": "One actress completely stole the ___ with her confident performance.",
+          "answer": "show"
+        },
+        {
+          "id": "U7_COLLOC_gap5",
+          "audio": "assets/audio/passages/U7_COLLOC_gap5.mp3",
+          "sentenceWithGap": "Ben invited visitors to ___ an opinion about the exhibition.",
+          "answer": "voice"
+        },
+        {
+          "id": "U7_COLLOC_gap6",
+          "audio": "assets/audio/passages/U7_COLLOC_gap6.mp3",
+          "sentenceWithGap": "Everyone stood in ___ while Ben thanked the artists.",
+          "answer": "silence"
+        },
+        {
+          "id": "U7_COLLOC_gap7",
+          "audio": "assets/audio/passages/U7_COLLOC_gap7.mp3",
+          "sentenceWithGap": "Ben told the volunteers to make themselves at ___ in the reception area before visitors arrived.",
+          "answer": "home"
+        },
+        {
+          "id": "U7_COLLOC_gap8",
+          "audio": "assets/audio/passages/U7_COLLOC_gap8.mp3",
+          "sentenceWithGap": "The artist was happy to answer questions and felt that every student ___ to be recognised.",
+          "answer": "deserved"
+        },
+        {
+          "id": "U7_COLLOC_gap9",
+          "audio": "assets/audio/passages/U7_COLLOC_gap9.mp3",
+          "sentenceWithGap": "They tried to ___ placing fragile pottery near the entrance.",
+          "answer": "avoid"
+        },
+        {
+          "id": "U7_COLLOC_gap10",
+          "audio": "assets/audio/passages/U7_COLLOC_gap10.mp3",
+          "sentenceWithGap": "The young artist was ___ to explain his ideas clearly.",
+          "answer": "supposed"
+        }
+      ]
+    }
+  ]
+}
