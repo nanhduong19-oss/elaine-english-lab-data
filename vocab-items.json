@@ -796,7 +796,8 @@
       "audioExample": "assets/audio/vocab/U4_core_course_example.mp3",
       "ipa": "/kˈɔːs/",
       "definition": "an area of land designed for a sport such as golf",
-      "example": "The golf course follows the edge of the lake."
+      "example": "The golf course follows the edge of the lake.",
+      "keyChunkVi": "một sân gôn"
     },
     {
       "id": "U4_core_court",
@@ -815,7 +816,8 @@
       "audioExample": "assets/audio/vocab/U4_core_court_example.mp3",
       "ipa": "/kˈɔːt/",
       "definition": "a marked area where games such as tennis or badminton are played",
-      "example": "The tennis court was wet after the rain."
+      "example": "The tennis court was wet after the rain.",
+      "keyChunkVi": "một sân tennis/cầu lông"
     },
     {
       "id": "U4_core_pitch",
@@ -834,7 +836,8 @@
       "audioExample": "assets/audio/vocab/U4_core_pitch_example.mp3",
       "ipa": "/pˈɪtʃ/",
       "definition": "a marked outdoor area where team sports are played",
-      "example": "The players ran onto the football pitch."
+      "example": "The players ran onto the football pitch.",
+      "keyChunkVi": "một sân bóng đá"
     },
     {
       "id": "U4_core_track",
@@ -853,7 +856,8 @@
       "audioExample": "assets/audio/vocab/U4_core_track_example.mp3",
       "ipa": "/tɹˈak/",
       "definition": "a prepared path used for running, cycling or motor racing",
-      "example": "The runners completed four laps of the track."
+      "example": "The runners completed four laps of the track.",
+      "keyChunkVi": "một đường chạy"
     },
     {
       "id": "U4_core_pool",
@@ -1195,7 +1199,8 @@
       "audioExample": "assets/audio/vocab/U4_core_spectator_example.mp3",
       "ipa": "/spɛktˈeɪtə/",
       "definition": "a person who watches a sporting event",
-      "example": "Every spectator stood to applaud the winners."
+      "example": "Every spectator stood to applaud the winners.",
+      "keyChunkVi": "mọi khán giả đều theo dõi sát sao"
     },
     {
       "id": "U4_core_opponent",
@@ -1214,7 +1219,8 @@
       "audioExample": "assets/audio/vocab/U4_core_opponent_example.mp3",
       "ipa": "/əpˈəʊnənt/",
       "definition": "a person or team that you compete against",
-      "example": "She congratulated her opponent after the race."
+      "example": "She congratulated her opponent after the race.",
+      "keyChunkVi": "tôn trọng mọi đối thủ"
     },
     {
       "id": "U4_core_rival",
@@ -1233,7 +1239,8 @@
       "audioExample": "assets/audio/vocab/U4_core_rival_example.mp3",
       "ipa": "/ɹˈaɪvəl/",
       "definition": "a person or team that regularly competes with another",
-      "example": "The two schools have been sporting rivals for years."
+      "example": "The two schools have been sporting rivals for years.",
+      "keyChunkVi": "một đối thủ truyền kiếp"
     },
     {
       "id": "U4_core_sprinter",
@@ -1290,7 +1297,8 @@
       "audioExample": "assets/audio/vocab/U4_core_competition_example.mp3",
       "ipa": "/kˌɒmpətˈɪʃən/",
       "definition": "an organised event in which people try to win",
-      "example": "The athletics competition included six events."
+      "example": "The athletics competition included six events.",
+      "keyChunkVi": "một cuộc thi điền kinh"
     },
     {
       "id": "U4_core_tournament",
@@ -1309,7 +1317,8 @@
       "audioExample": "assets/audio/vocab/U4_core_tournament_example.mp3",
       "ipa": "/tˈʊənəmənt/",
       "definition": "a series of matches or games that produces an overall winner",
-      "example": "Eight schools entered the football tournament."
+      "example": "Eight schools entered the football tournament.",
+      "keyChunkVi": "một giải đấu liên trường"
     },
     {
       "id": "U4_core_match",
@@ -1404,7 +1413,8 @@
       "audioExample": "assets/audio/vocab/U4_core_record_example.mp3",
       "ipa": "/ɹˈɛkɔːd/",
       "definition": "the best result that has ever been officially achieved",
-      "example": "Mia set a new school record in the sprint."
+      "example": "Mia set a new school record in the sprint.",
+      "keyChunkVi": "phá / lập kỷ lục"
     },
     {
       "id": "U4_core_medal",
@@ -1423,7 +1433,8 @@
       "audioExample": "assets/audio/vocab/U4_core_medal_example.mp3",
       "ipa": "/mˈɛdəl/",
       "definition": "a metal award given for success in a competition",
-      "example": "Each winner received a gold medal."
+      "example": "Each winner received a gold medal.",
+      "keyChunkVi": "nhận huy chương"
     },
     {
       "id": "U4_core_trophy",
@@ -1442,7 +1453,8 @@
       "audioExample": "assets/audio/vocab/U4_core_trophy_example.mp3",
       "ipa": "/tɹˈəʊfi/",
       "definition": "a cup or decorative object awarded to a winner",
-      "example": "The captain lifted the trophy above her head."
+      "example": "The captain lifted the trophy above her head.",
+      "keyChunkVi": "nâng cúp"
     },
     {
       "id": "U4_core_cup",
@@ -1499,7 +1511,8 @@
       "audioExample": "assets/audio/vocab/U4_core_qualify_example.mp3",
       "ipa": "/kwˈɒlɪfˌaɪ/",
       "definition": "to reach the necessary standard or stage to continue in a competition",
-      "example": "The fastest runners qualify for the final."
+      "example": "The fastest runners qualify for the final.",
+      "keyChunkVi": "giành quyền vào bán kết/chung kết"
     },
     {
       "id": "U4_core_win",
@@ -1537,7 +1550,8 @@
       "audioExample": "assets/audio/vocab/U4_core_beat_example.mp3",
       "ipa": "/bˈiːt/",
       "definition": "to defeat a person or team in a game or competition",
-      "example": "They beat their main rivals by two goals."
+      "example": "They beat their main rivals by two goals.",
+      "keyChunkVi": "đánh bại một đối thủ/đội"
     },
     {
       "id": "U4_core_defeat",
@@ -1556,7 +1570,8 @@
       "audioExample": "assets/audio/vocab/U4_core_defeat_example.mp3",
       "ipa": "/dɪfˈiːt/",
       "definition": "to win against a person or team, especially in a formal competition",
-      "example": "The champions defeated every opponent in their group."
+      "example": "The champions defeated every opponent in their group.",
+      "keyChunkVi": "đánh bại một đội với tỷ số 2–1"
     },
     {
       "id": "U4_core_competitive",
@@ -1575,7 +1590,8 @@
       "audioExample": "assets/audio/vocab/U4_core_competitive_example.mp3",
       "ipa": "/kəmpˈɛtɪtˌɪv/",
       "definition": "wanting to win or involving strong competition",
-      "example": "The final was exciting and highly competitive."
+      "example": "The final was exciting and highly competitive.",
+      "keyChunkVi": "một đội có tính cạnh tranh cao"
     },
     {
       "id": "U5_core_groan",
@@ -5149,7 +5165,8 @@
       "audioExample": "assets/audio/vocab/U4_phrasalVerb_bring_forward_example.mp3",
       "ipa": "/bɹˈɪŋ fˈɔːwəd/",
       "definition": "to change an event to an earlier date or time",
-      "example": "The organisers brought the final forward because heavy rain was expected."
+      "example": "The organisers brought the final forward because heavy rain was expected.",
+      "keyChunkVi": "dời ngày lên sớm hơn"
     },
     {
       "id": "U4_phrasalVerb_carry_on",
@@ -5168,7 +5185,8 @@
       "audioExample": "assets/audio/vocab/U4_phrasalVerb_carry_on_example.mp3",
       "ipa": "/kˈaɹi ˈɒn/",
       "definition": "to continue doing something",
-      "example": "The team carried on training despite the cold weather."
+      "example": "The team carried on training despite the cold weather.",
+      "keyChunkVi": "tiếp tục làm gì / tiếp tục với việc gì"
     },
     {
       "id": "U4_phrasalVerb_get_round_to",
@@ -5187,7 +5205,8 @@
       "audioExample": "assets/audio/vocab/U4_phrasalVerb_get_round_to_example.mp3",
       "ipa": "/ɡɛt ɹˈaʊnd tuː/",
       "definition": "to finally do something after delaying it for some time",
-      "example": "Leo finally got round to joining the chess club."
+      "example": "Leo finally got round to joining the chess club.",
+      "keyChunkVi": "cuối cùng cũng có thời gian làm gì đó"
     },
     {
       "id": "U4_phrasalVerb_get_up_to",
@@ -5206,7 +5225,8 @@
       "audioExample": "assets/audio/vocab/U4_phrasalVerb_get_up_to_example.mp3",
       "ipa": "/ɡɛt ˈʌp tuː/",
       "definition": "to do something, especially something surprising or wrong",
-      "example": "The coach wondered what the y o u n g e r p l a y e rs had been g et t in g u p to ."
+      "example": "The coach wondered what the y o u n g e r p l a y e rs had been g et t in g u p to .",
+      "keyChunkVi": "làm (thường là việc không hay) gì đó"
     },
     {
       "id": "U4_phrasalVerb_go_in_for",
@@ -5225,7 +5245,8 @@
       "audioExample": "assets/audio/vocab/U4_phrasalVerb_go_in_for_example.mp3",
       "ipa": "/ɡˈəʊ ɪn fɔː/",
       "definition": "to enter a competition or to enjoy a particular activity",
-      "example": "Maya decided to go in for the school swimming competition."
+      "example": "Maya decided to go in for the school swimming competition.",
+      "keyChunkVi": "tham gia một cuộc thi"
     },
     {
       "id": "U4_phrasalVerb_go_off",
@@ -5244,7 +5265,8 @@
       "audioExample": "assets/audio/vocab/U4_phrasalVerb_go_off_example.mp3",
       "ipa": "/ɡˌəʊ ˈɒf/",
       "definition": "to stop liking or being interested in something",
-      "example": "Ben went off basketball and started playing badminton instead."
+      "example": "Ben went off basketball and started playing badminton instead.",
+      "keyChunkVi": "hết thích/không còn hứng thú với cái gì/ai đó"
     },
     {
       "id": "U4_phrasalVerb_join_in",
@@ -5263,7 +5285,8 @@
       "audioExample": "assets/audio/vocab/U4_phrasalVerb_join_in_example.mp3",
       "ipa": "/dʒˈɔɪn ˈɪn/",
       "definition": "to take part in an activity with other people",
-      "example": "Everyone was invited to join in the warm-up."
+      "example": "Everyone was invited to join in the warm-up.",
+      "keyChunkVi": "cùng tham gia một hoạt động"
     },
     {
       "id": "U4_phrasalVerb_knock_out",
@@ -5282,7 +5305,8 @@
       "audioExample": "assets/audio/vocab/U4_phrasalVerb_knock_out_example.mp3",
       "ipa": "/nˈɒk ˈaʊt/",
       "definition": "to defeat and remove a competitor from a tournament; to make someone unconscious",
-      "example": "Riverside knocked out the defending champions in the semi-final."
+      "example": "Riverside knocked out the defending champions in the semi-final.",
+      "keyChunkVi": "loại một đội ra khỏi giải"
     },
     {
       "id": "U4_phrasalVerb_look_out_for",
@@ -5301,7 +5325,8 @@
       "audioExample": "assets/audio/vocab/U4_phrasalVerb_look_out_for_example.mp3",
       "ipa": "/lˈʊk ˈaʊt/",
       "definition": "to be careful or watch for possible danger",
-      "example": "Look out when you cross the cycle track."
+      "example": "Look out when you cross the cycle track.",
+      "keyChunkVi": "chú ý/coi chừng những khu vực ướt"
     },
     {
       "id": "U4_phrasalVerb_pull_out_of",
@@ -5320,7 +5345,8 @@
       "audioExample": "assets/audio/vocab/U4_phrasalVerb_pull_out_of_example.mp3",
       "ipa": "/pˈʊl ˈaʊt/",
       "definition": "to stop taking part in an activity or competition",
-      "example": "One team pulled out after several players became ill."
+      "example": "One team pulled out after several players became ill.",
+      "keyChunkVi": "rút lui khỏi một cuộc thi"
     },
     {
       "id": "U4_phrasalVerb_put_off",
@@ -5339,7 +5365,8 @@
       "audioExample": "assets/audio/vocab/U4_phrasalVerb_put_off_example.mp3",
       "ipa": "/pˌʊt ˈɒf/",
       "definition": "to delay an event or activity until a later time",
-      "example": "The referee put off the match until the pitch was safe."
+      "example": "The referee put off the match until the pitch was safe.",
+      "keyChunkVi": "hoãn trận bán kết / trì hoãn làm gì đó"
     },
     {
       "id": "U4_phrasalVerb_put_up_with",
@@ -5358,7 +5385,8 @@
       "audioExample": "assets/audio/vocab/U4_phrasalVerb_put_up_with_example.mp3",
       "ipa": "/pˌʊt ˈʌp wɪð/",
       "definition": "to accept an unpleasant situation without complaining",
-      "example": "The runners had to put up with strong wind during the race."
+      "example": "The runners had to put up with strong wind during the race.",
+      "keyChunkVi": "chịu đựng gió mạnh/tiếng ồn"
     },
     {
       "id": "U4_phrasalVerb_take_to",
@@ -5377,7 +5405,8 @@
       "audioExample": "assets/audio/vocab/U4_phrasalVerb_take_to_example.mp3",
       "ipa": "/tˈeɪk tuː/",
       "definition": "to begin to like or regularly do an activity",
-      "example": "The younger pupils quickly took to archery."
+      "example": "The younger pupils quickly took to archery.",
+      "keyChunkVi": "bắt đầu yêu thích môn bắn cung"
     },
     {
       "id": "U4_phrasalVerb_take_up",
@@ -5396,7 +5425,8 @@
       "audioExample": "assets/audio/vocab/U4_phrasalVerb_take_up_example.mp3",
       "ipa": "/tˈeɪk ˈʌp/",
       "definition": "to begin a hobby or sport; to fill an amount of time or space",
-      "example": "She took up cycling during the summer holiday."
+      "example": "She took up cycling during the summer holiday.",
+      "keyChunkVi": "bắt đầu tập chơi cầu lông"
     },
     {
       "id": "U5_phrasalVerb_bring_up",
@@ -5954,7 +5984,8 @@
       "keyChunk": "do your best; make the best of sth",
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_best.mp3",
-      "audioExample": "assets/audio/vocab/U4_collocation_best_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_collocation_best_example.mp3",
+      "keyChunkVi": "cố gắng hết sức; tận dụng tốt nhất điều gì đó"
     },
     {
       "id": "U4_collocation_chance",
@@ -5970,7 +6001,8 @@
       "keyChunk": "have/get a chance to do; have a chance of doing; take a chance on",
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_chance.mp3",
-      "audioExample": "assets/audio/vocab/U4_collocation_chance_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_collocation_chance_example.mp3",
+      "keyChunkVi": "có cơ hội để làm; có khả năng làm; đánh liều với"
     },
     {
       "id": "U4_collocation_go",
@@ -5986,7 +6018,8 @@
       "keyChunk": "have a go at sth/doing",
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_go.mp3",
-      "audioExample": "assets/audio/vocab/U4_collocation_go_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_collocation_go_example.mp3",
+      "keyChunkVi": "thử làm gì đó"
     },
     {
       "id": "U4_collocation_height",
@@ -6002,7 +6035,8 @@
       "keyChunk": "be afraid of heights; in height",
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_height.mp3",
-      "audioExample": "assets/audio/vocab/U4_collocation_height_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_collocation_height_example.mp3",
+      "keyChunkVi": "sợ độ cao; về chiều cao"
     },
     {
       "id": "U4_collocation_pleasure",
@@ -6018,7 +6052,8 @@
       "keyChunk": "take pleasure in doing",
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_pleasure.mp3",
-      "audioExample": "assets/audio/vocab/U4_collocation_pleasure_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_collocation_pleasure_example.mp3",
+      "keyChunkVi": "cảm thấy vui thích khi làm gì đó"
     },
     {
       "id": "U4_collocation_popular",
@@ -6034,7 +6069,8 @@
       "keyChunk": "be popular with/among",
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_popular.mp3",
-      "audioExample": "assets/audio/vocab/U4_collocation_popular_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_collocation_popular_example.mp3",
+      "keyChunkVi": "được yêu thích bởi/trong số"
     },
     {
       "id": "U4_collocation_talent",
@@ -6050,7 +6086,8 @@
       "keyChunk": "have a talent for sth/doing",
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_talent.mp3",
-      "audioExample": "assets/audio/vocab/U4_collocation_talent_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_collocation_talent_example.mp3",
+      "keyChunkVi": "có năng khiếu về việc gì đó"
     },
     {
       "id": "U4_collocation_time",
@@ -6066,7 +6103,8 @@
       "keyChunk": "on time; take your time; spend time doing",
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_time.mp3",
-      "audioExample": "assets/audio/vocab/U4_collocation_time_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_collocation_time_example.mp3",
+      "keyChunkVi": "đúng giờ; cứ từ từ; dành thời gian làm gì"
     },
     {
       "id": "U4_collocation_turn",
@@ -6082,7 +6120,8 @@
       "keyChunk": "take turns doing; it is your turn; in turn",
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_turn.mp3",
-      "audioExample": "assets/audio/vocab/U4_collocation_turn_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_collocation_turn_example.mp3",
+      "keyChunkVi": "thay phiên nhau làm; đến lượt bạn; lần lượt"
     },
     {
       "id": "U4_collocation_compete",
@@ -6098,7 +6137,8 @@
       "keyChunk": "compete against/with sb; compete for sth; compete in sth",
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_compete.mp3",
-      "audioExample": "assets/audio/vocab/U4_collocation_compete_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_collocation_compete_example.mp3",
+      "keyChunkVi": "thi đấu với ai; tranh giành điều gì; thi đấu ở nội dung gì"
     },
     {
       "id": "U4_collocation_concentrate",
@@ -6114,7 +6154,8 @@
       "keyChunk": "concentrate on sth/doing",
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_concentrate.mp3",
-      "audioExample": "assets/audio/vocab/U4_collocation_concentrate_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_collocation_concentrate_example.mp3",
+      "keyChunkVi": "tập trung vào việc gì đó"
     },
     {
       "id": "U4_collocation_difficult",
@@ -6130,7 +6171,8 @@
       "keyChunk": "find it difficult to do",
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_difficult.mp3",
-      "audioExample": "assets/audio/vocab/U4_collocation_difficult_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_collocation_difficult_example.mp3",
+      "keyChunkVi": "thấy khó để làm gì đó"
     },
     {
       "id": "U4_collocation_fond",
@@ -6146,7 +6188,8 @@
       "keyChunk": "be fond of sth/doing",
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_fond.mp3",
-      "audioExample": "assets/audio/vocab/U4_collocation_fond_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_collocation_fond_example.mp3",
+      "keyChunkVi": "yêu thích điều gì đó"
     },
     {
       "id": "U4_collocation_interested",
@@ -6162,7 +6205,8 @@
       "keyChunk": "be interested in sth/doing",
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_interested.mp3",
-      "audioExample": "assets/audio/vocab/U4_collocation_interested_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_collocation_interested_example.mp3",
+      "keyChunkVi": "quan tâm/hứng thú với điều gì đó"
     },
     {
       "id": "U4_collocation_involve",
@@ -6178,7 +6222,8 @@
       "keyChunk": "involve doing; be involved in sth/doing",
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_involve.mp3",
-      "audioExample": "assets/audio/vocab/U4_collocation_involve_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_collocation_involve_example.mp3",
+      "keyChunkVi": "bao gồm việc làm gì; tham gia vào điều gì đó"
     },
     {
       "id": "U4_collocation_mean",
@@ -6194,7 +6239,8 @@
       "keyChunk": "mean to do; mean doing",
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_mean.mp3",
-      "audioExample": "assets/audio/vocab/U4_collocation_mean_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_collocation_mean_example.mp3",
+      "keyChunkVi": "có ý định làm; đồng nghĩa với việc làm"
     },
     {
       "id": "U4_collocation_prefer",
@@ -6210,7 +6256,8 @@
       "keyChunk": "prefer A to B; prefer to do rather than do",
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_prefer.mp3",
-      "audioExample": "assets/audio/vocab/U4_collocation_prefer_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_collocation_prefer_example.mp3",
+      "keyChunkVi": "thích A hơn B; thích làm việc này hơn làm việc kia"
     },
     {
       "id": "U4_collocation_stop",
@@ -6226,7 +6273,8 @@
       "keyChunk": "stop doing; stop to do; stop sb from doing",
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_stop.mp3",
-      "audioExample": "assets/audio/vocab/U4_collocation_stop_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_collocation_stop_example.mp3",
+      "keyChunkVi": "ngừng làm; dừng lại để làm; ngăn ai đó làm"
     },
     {
       "id": "U4_collocation_sure_certain",
@@ -6242,7 +6290,8 @@
       "keyChunk": "be sure/certain that; be certain to do; be sure of",
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_sure_certain.mp3",
-      "audioExample": "assets/audio/vocab/U4_collocation_sure_certain_example.mp3"
+      "audioExample": "assets/audio/vocab/U4_collocation_sure_certain_example.mp3",
+      "keyChunkVi": "chắc chắn rằng; chắc chắn sẽ làm; chắc chắn về"
     },
     {
       "id": "U5_collocation_control",

@@ -78,7 +78,8 @@
             "rival",
             "fan"
           ],
-          "answer": "referee"
+          "answer": "referee",
+          "sentenceVi": "Trong trận chung kết, trọng tài đã dừng trận đấu sau một pha vào bóng nguy hiểm."
         },
         {
           "id": "U4_CORE_quiz2",
@@ -89,7 +90,8 @@
             "course",
             "pitch"
           ],
-          "answer": "court"
+          "answer": "court",
+          "sentenceVi": "Buổi học cầu lông sẽ diễn ra trên sân trong nhà bên cạnh phòng gym."
         },
         {
           "id": "U4_CORE_quiz3",
@@ -100,7 +102,8 @@
             "qualify",
             "beat"
           ],
-          "answer": "qualify"
+          "answer": "qualify",
+          "sentenceVi": "Chỉ hai đội đứng đầu mới giành quyền vào chung kết quốc gia."
         },
         {
           "id": "U4_CORE_quiz4",
@@ -111,7 +114,8 @@
             "spectator",
             "rival"
           ],
-          "answer": "rival"
+          "answer": "rival",
+          "sentenceVi": "Leah đã thi đấu với cùng một đối thủ suốt ba mùa giải, nên họ hiểu rõ điểm mạnh của nhau."
         },
         {
           "id": "U4_CORE_quiz5",
@@ -122,7 +126,8 @@
             "prize",
             "record"
           ],
-          "answer": "trophy"
+          "answer": "trophy",
+          "sentenceVi": "Đội trưởng đã nâng chiếc cúp bạc sau khi đội của cô giành chiến thắng ở giải đấu."
         },
         {
           "id": "U4_CORE_quiz6",
@@ -133,7 +138,8 @@
             "athletes",
             "referees"
           ],
-          "answer": "spectators"
+          "answer": "spectators",
+          "sentenceVi": "Hơn 2.000 khán giả đã lấp đầy sân vận động để xem trận chung kết liên trường."
         },
         {
           "id": "U4_CORE_quiz7",
@@ -144,7 +150,8 @@
             "sprinter",
             "swimmer"
           ],
-          "answer": "sprinter"
+          "answer": "sprinter",
+          "sentenceVi": "Là một vận động viên chạy nước rút tài năng, Noah mạnh nhất ở nội dung 100 mét."
         },
         {
           "id": "U4_CORE_quiz8",
@@ -155,7 +162,8 @@
             "bat",
             "cue"
           ],
-          "answer": "cue"
+          "answer": "cue",
+          "sentenceVi": "Trong môn bi-a snooker, người chơi dùng gậy để đánh vào quả bóng trắng."
         },
         {
           "id": "U4_CORE_quiz9",
@@ -166,7 +174,8 @@
             "fencing",
             "bowling"
           ],
-          "answer": "windsurfing"
+          "answer": "windsurfing",
+          "sentenceVi": "Lướt ván buồm đặc biệt khó vì vận động viên phải điều khiển cả cánh buồm lẫn tấm ván."
         },
         {
           "id": "U4_CORE_quiz10",
@@ -177,7 +186,8 @@
             "final",
             "record"
           ],
-          "answer": "round"
+          "answer": "round",
+          "sentenceVi": "Riverside đã thắng vòng đầu tiên của cuộc thi nhưng thua ở vòng tiếp theo."
         },
         {
           "id": "U4_CORE_quiz11",
@@ -188,7 +198,8 @@
             "competitive",
             "final"
           ],
-          "answer": "competitive"
+          "answer": "competitive",
+          "sentenceVi": "Quá trình tuyển chọn có tính cạnh tranh rất cao, chỉ có mười hai suất."
         },
         {
           "id": "U4_CORE_quiz12",
@@ -199,7 +210,8 @@
             "cup",
             "record"
           ],
-          "answer": "record"
+          "answer": "record",
+          "sentenceVi": "Maya đã phá kỷ lục trường khi về đích với thời gian 11,9 giây."
         },
         {
           "id": "U4_CORE_quiz13",
@@ -210,7 +222,8 @@
             "bow",
             "stick"
           ],
-          "answer": "paddle"
+          "answer": "paddle",
+          "sentenceVi": "Người chèo thuyền ca-nô dùng mái chèo có bản ở hai đầu để di chuyển trên mặt nước."
         },
         {
           "id": "U4_CORE_quiz14",
@@ -221,7 +234,8 @@
             "yoga",
             "diving"
           ],
-          "answer": "gymnastics"
+          "answer": "gymnastics",
+          "sentenceVi": "Thể dục dụng cụ đòi hỏi sức mạnh, sự dẻo dai và khả năng kiểm soát trên các dụng cụ như xà thăng bằng và xà kép."
         },
         {
           "id": "U4_CORE_quiz15",
@@ -232,7 +246,8 @@
             "opponent",
             "fan"
           ],
-          "answer": "opponent"
+          "answer": "opponent",
+          "sentenceVi": "Trước mỗi trận đấu, các cầu thủ nên bắt tay với đối thủ của mình."
         },
         {
           "id": "U4_CORE_quiz16",
@@ -243,7 +258,8 @@
             "competition",
             "semi-final"
           ],
-          "answer": "semi-final"
+          "answer": "semi-final",
+          "sentenceVi": "Chiến thắng ở trận bán kết đã giúp đội giành một suất vào chung kết thứ Bảy."
         },
         {
           "id": "U4_CORE_quiz17",
@@ -254,7 +270,8 @@
             "pitch",
             "track"
           ],
-          "answer": "course"
+          "answer": "course",
+          "sentenceVi": "Sân gôn có mười tám lỗ và vài chướng ngại nước khó."
         },
         {
           "id": "U4_CORE_quiz18",
@@ -265,7 +282,8 @@
             "trophy",
             "prize"
           ],
-          "answer": "medal"
+          "answer": "medal",
+          "sentenceVi": "Mỗi vận động viên hoàn thành đường chạy đều nhận được một huy chương lưu niệm."
         },
         {
           "id": "U4_CORE_quiz19",
@@ -276,7 +294,8 @@
             "pitch",
             "track"
           ],
-          "answer": "pitch"
+          "answer": "pitch",
+          "sentenceVi": "Sân bóng đá quá ướt để sử dụng sau ba ngày mưa lớn."
         },
         {
           "id": "U4_CORE_quiz20",
@@ -287,7 +306,8 @@
             "record",
             "beat"
           ],
-          "answer": "beat"
+          "answer": "beat",
+          "sentenceVi": "Riverside phải thắng Hillcrest với cách biệt ít nhất hai bàn để đứng đầu bảng."
         }
       ]
     },
