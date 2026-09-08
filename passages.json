@@ -67,6 +67,228 @@
           "sentenceWithGap": "Hillcrest were highly competitive and attacked constantly, but Riverside managed to ___ them 2–1.",
           "answer": "defeat"
         }
+      ],
+      "quizQuestions": [
+        {
+          "id": "U4_CORE_quiz1",
+          "sentenceWithGap": "During the final, the ______ stopped play after a dangerous tackle.",
+          "options": [
+            "referee",
+            "spectator",
+            "rival",
+            "fan"
+          ],
+          "answer": "referee"
+        },
+        {
+          "id": "U4_CORE_quiz2",
+          "sentenceWithGap": "The badminton lesson will take place on the indoor ______ beside the gym.",
+          "options": [
+            "track",
+            "court",
+            "course",
+            "pitch"
+          ],
+          "answer": "court"
+        },
+        {
+          "id": "U4_CORE_quiz3",
+          "sentenceWithGap": "Only the top two teams will ______ for the national finals.",
+          "options": [
+            "defeat",
+            "record",
+            "qualify",
+            "beat"
+          ],
+          "answer": "qualify"
+        },
+        {
+          "id": "U4_CORE_quiz4",
+          "sentenceWithGap": "Leah has competed against the same ______ for three seasons, so they know each other's strengths well.",
+          "options": [
+            "player",
+            "fan",
+            "spectator",
+            "rival"
+          ],
+          "answer": "rival"
+        },
+        {
+          "id": "U4_CORE_quiz5",
+          "sentenceWithGap": "The captain lifted the silver ______ after her team won the tournament.",
+          "options": [
+            "trophy",
+            "medal",
+            "prize",
+            "record"
+          ],
+          "answer": "trophy"
+        },
+        {
+          "id": "U4_CORE_quiz6",
+          "sentenceWithGap": "More than 2,000 ______ filled the stadium to watch the inter-school final.",
+          "options": [
+            "opponents",
+            "spectators",
+            "athletes",
+            "referees"
+          ],
+          "answer": "spectators"
+        },
+        {
+          "id": "U4_CORE_quiz7",
+          "sentenceWithGap": "As a talented ______, Noah is strongest in the 100-metre event.",
+          "options": [
+            "gymnast",
+            "cyclist",
+            "sprinter",
+            "swimmer"
+          ],
+          "answer": "sprinter"
+        },
+        {
+          "id": "U4_CORE_quiz8",
+          "sentenceWithGap": "In snooker, players use a ______ to strike the white ball.",
+          "options": [
+            "paddle",
+            "club",
+            "bat",
+            "cue"
+          ],
+          "answer": "cue"
+        },
+        {
+          "id": "U4_CORE_quiz9",
+          "sentenceWithGap": "______ is especially challenging because athletes must control both a sail and a board.",
+          "options": [
+            "windsurfing",
+            "skiing",
+            "fencing",
+            "bowling"
+          ],
+          "answer": "windsurfing"
+        },
+        {
+          "id": "U4_CORE_quiz10",
+          "sentenceWithGap": "Riverside won the first ______ of the competition but lost in the next stage.",
+          "options": [
+            "medal",
+            "round",
+            "final",
+            "record"
+          ],
+          "answer": "round"
+        },
+        {
+          "id": "U4_CORE_quiz11",
+          "sentenceWithGap": "The selection process is highly ______, with only twelve places available.",
+          "options": [
+            "qualified",
+            "defeated",
+            "competitive",
+            "final"
+          ],
+          "answer": "competitive"
+        },
+        {
+          "id": "U4_CORE_quiz12",
+          "sentenceWithGap": "Maya broke the school ______ by finishing the race in 11.9 seconds.",
+          "options": [
+            "prize",
+            "match",
+            "cup",
+            "record"
+          ],
+          "answer": "record"
+        },
+        {
+          "id": "U4_CORE_quiz13",
+          "sentenceWithGap": "Canoeists use a ______ with a blade at each end to move through the water.",
+          "options": [
+            "paddle",
+            "oar",
+            "bow",
+            "stick"
+          ],
+          "answer": "paddle"
+        },
+        {
+          "id": "U4_CORE_quiz14",
+          "sentenceWithGap": "______ requires strength, flexibility and control on apparatus such as the beam and bars.",
+          "options": [
+            "athletics",
+            "gymnastics",
+            "yoga",
+            "diving"
+          ],
+          "answer": "gymnastics"
+        },
+        {
+          "id": "U4_CORE_quiz15",
+          "sentenceWithGap": "Before every match, players should shake hands with their ______.",
+          "options": [
+            "referee",
+            "spectator",
+            "opponent",
+            "fan"
+          ],
+          "answer": "opponent"
+        },
+        {
+          "id": "U4_CORE_quiz16",
+          "sentenceWithGap": "Winning the ______ gave the team a place in Saturday's final.",
+          "options": [
+            "tournament",
+            "first round",
+            "competition",
+            "semi-final"
+          ],
+          "answer": "semi-final"
+        },
+        {
+          "id": "U4_CORE_quiz17",
+          "sentenceWithGap": "The golf ______ has eighteen holes and several difficult water hazards.",
+          "options": [
+            "course",
+            "court",
+            "pitch",
+            "track"
+          ],
+          "answer": "course"
+        },
+        {
+          "id": "U4_CORE_quiz18",
+          "sentenceWithGap": "Each runner who completed the race received a commemorative ______.",
+          "options": [
+            "cup",
+            "medal",
+            "trophy",
+            "prize"
+          ],
+          "answer": "medal"
+        },
+        {
+          "id": "U4_CORE_quiz19",
+          "sentenceWithGap": "The football ______ was too wet to use after three days of heavy rain.",
+          "options": [
+            "course",
+            "court",
+            "pitch",
+            "track"
+          ],
+          "answer": "pitch"
+        },
+        {
+          "id": "U4_CORE_quiz20",
+          "sentenceWithGap": "Riverside must ______ Hillcrest by at least two goals to finish top of the group.",
+          "options": [
+            "win",
+            "qualify",
+            "record",
+            "beat"
+          ],
+          "answer": "beat"
+        }
       ]
     },
     {
