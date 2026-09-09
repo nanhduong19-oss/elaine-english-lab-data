@@ -393,7 +393,9 @@
                 "pulled",
                 "taken"
               ],
-              "answer": "brought"
+              "answer": "brought",
+              "sentenceVi": "Cuộc họp đã được dời sớm hai ngày vì một số giáo viên không có mặt vào thứ Sáu.",
+              "explanation": "'brought forward' là cụm cố định nghĩa dời sự kiện sớm hơn; carried/pulled/taken forward không phải cụm động từ có nghĩa trong tiếng Anh."
             },
             {
               "id": "A2",
@@ -404,7 +406,9 @@
                 "off",
                 "away"
               ],
-              "answer": "on"
+              "answer": "on",
+              "sentenceVi": "Dù trời mưa, các cầu thủ vẫn quyết định tiếp tục buổi tập.",
+              "explanation": "'carry on' (+V-ing/with) nghĩa tiếp tục; out/off/away không tạo cụm đúng nghĩa ở đây."
             },
             {
               "id": "A3",
@@ -415,7 +419,9 @@
                 "to",
                 "on"
               ],
-              "answer": "to"
+              "answer": "to",
+              "sentenceVi": "Tôi vẫn chưa thu xếp được thời gian trả lời hết email.",
+              "explanation": "'get round to' + V-ing là cụm cố định nghĩa cuối cùng cũng thu xếp làm; at/for/on không đi với 'get round'."
             },
             {
               "id": "A4",
@@ -426,7 +432,9 @@
                 "on",
                 "round"
               ],
-              "answer": "up"
+              "answer": "up",
+              "sentenceVi": "Bọn trẻ đã làm gì trên gác vậy? Chúng im lặng quá!",
+              "explanation": "'get up to' nghĩa làm việc gì đó (thường tinh nghịch/đáng ngờ); out/on/round không tạo thành cụm đúng."
             },
             {
               "id": "A5",
@@ -437,7 +445,9 @@
                 "out",
                 "up"
               ],
-              "answer": "in"
+              "answer": "in",
+              "sentenceVi": "Maya đã quyết định tham gia cuộc thi nhiếp ảnh của trường.",
+              "explanation": "'go in for' là cụm cố định nghĩa tham gia (cuộc thi); on/out/up sai giới từ."
             },
             {
               "id": "A6",
@@ -448,7 +458,9 @@
                 "off",
                 "through"
               ],
-              "answer": "off"
+              "answer": "off",
+              "sentenceVi": "Liam từng chơi bóng rổ mỗi cuối tuần, nhưng gần đây cậu ấy không còn thích nữa.",
+              "explanation": "'go off' nghĩa không còn thích; over/down/through không tạo cụm đúng nghĩa."
             },
             {
               "id": "A7",
@@ -459,7 +471,9 @@
                 "at",
                 "up"
               ],
-              "answer": "in"
+              "answer": "in",
+              "sentenceVi": "Mọi người đều được mời tham gia phần khởi động trước trận đấu.",
+              "explanation": "'join in' nghĩa tham gia cùng; on/at/up sai giới từ."
             },
             {
               "id": "A8",
@@ -470,7 +484,9 @@
                 "away",
                 "down"
               ],
-              "answer": "out"
+              "answer": "out",
+              "sentenceVi": "Riverside đã loại đội đương kim vô địch ở trận bán kết.",
+              "explanation": "'knock ... out' nghĩa loại khỏi giải đấu; off/away/down không đúng nghĩa này."
             },
             {
               "id": "A9",
@@ -481,7 +497,9 @@
                 "Look",
                 "Pull"
               ],
-              "answer": "Look"
+              "answer": "Look",
+              "sentenceVi": "Coi chừng! Quả bóng đang bay thẳng về phía bạn.",
+              "explanation": "'Look out!' là câu cảnh báo cố định nghĩa cẩn thận/coi chừng; Turn/Go/Pull out không mang nghĩa cảnh báo nguy hiểm."
             },
             {
               "id": "A10",
@@ -492,7 +510,9 @@
                 "up",
                 "out"
               ],
-              "answer": "out"
+              "answer": "out",
+              "sentenceVi": "Một trong hai đội phải rút lui vì nhiều cầu thủ bị ốm.",
+              "explanation": "'pull out' nghĩa rút lui (vì lý do khách quan); over/off/up sai."
             },
             {
               "id": "A11",
@@ -503,7 +523,9 @@
                 "off",
                 "up"
               ],
-              "answer": "off"
+              "answer": "off",
+              "sentenceVi": "Mưa lớn buộc ban tổ chức phải hoãn trận đấu đến thứ Bảy.",
+              "explanation": "'put off' nghĩa hoãn lại; away/out/up sai."
             },
             {
               "id": "A12",
@@ -514,7 +536,9 @@
                 "away",
                 "up"
               ],
-              "answer": "up"
+              "answer": "up",
+              "sentenceVi": "Chúng tôi phải chịu đựng tiếng nhạc ồn từ nhà bên suốt đêm.",
+              "explanation": "'put up with' là cụm cố định 3 từ nghĩa chịu đựng; out/on/away không tạo thành cụm đúng."
             },
             {
               "id": "A13",
@@ -525,7 +549,9 @@
                 "in",
                 "to"
               ],
-              "answer": "to"
+              "answer": "to",
+              "sentenceVi": "Dù chưa từng thử bắn cung, Maya nhanh chóng thích môn này ngay.",
+              "explanation": "'take to' nghĩa nhanh chóng thích/hợp với; up/on/in sai."
             },
             {
               "id": "A14",
@@ -536,7 +562,9 @@
                 "off",
                 "out"
               ],
-              "answer": "up"
+              "answer": "up",
+              "sentenceVi": "Sau khi tốt nghiệp đại học, Ben quyết định bắt đầu theo đuổi nhiếp ảnh như một sở thích mới.",
+              "explanation": "'take up' nghĩa bắt đầu một sở thích mới; on/off/out sai."
             },
             {
               "id": "A15",
@@ -547,7 +575,9 @@
                 "off",
                 "forward"
               ],
-              "answer": "forward"
+              "answer": "forward",
+              "sentenceVi": "Vì dự báo thời tiết xấu vào cuối tuần, trận chung kết đã được dời sớm sang thứ Ba.",
+              "explanation": "'brought forward' là cụm cố định nghĩa dời sớm hơn; back mang nghĩa ngược lại (dời trễ hơn), up/off không tạo cụm đúng."
             },
             {
               "id": "A16",
@@ -558,7 +588,9 @@
                 "trained",
                 "train"
               ],
-              "answer": "training"
+              "answer": "training",
+              "sentenceVi": "Sau một khoảng nghỉ ngắn, đội tiếp tục tập luyện thêm một giờ nữa.",
+              "explanation": "Sau 'carry on' dùng V-ing (training); to trained/trained/train sai ngữ pháp."
             },
             {
               "id": "A17",
@@ -569,7 +601,9 @@
                 "to finish",
                 "finished"
               ],
-              "answer": "finishing"
+              "answer": "finishing",
+              "sentenceVi": "Cuối cùng tối qua tôi cũng thu xếp thời gian hoàn thành đơn đăng ký.",
+              "explanation": "'get round to' luôn theo sau bởi V-ing ('to' ở đây là giới từ, không phải 'to' nguyên mẫu); finish/to finish/finished sai ngữ pháp."
             },
             {
               "id": "A18",
@@ -580,7 +614,9 @@
                 "do something, especially something surprising or wrong",
                 "start a new hobby"
               ],
-              "answer": "do something, especially something surprising or wrong"
+              "answer": "do something, especially something surprising or wrong",
+              "sentenceVi": "'Get up to' nghĩa là làm việc gì đó, thường là điều bất ngờ hoặc sai trái.",
+              "explanation": "Đây là định nghĩa đúng của 'get up to'; các lựa chọn khác là định nghĩa của cụm động từ khác (delay=put off, enter a competition=go in for, start a new hobby=take up)."
             },
             {
               "id": "A19",
@@ -591,7 +627,9 @@
                 "get round to",
                 "go in for"
               ],
-              "answer": "go in for"
+              "answer": "go in for",
+              "sentenceVi": "Daniel không thực sự thích tham gia các môn thể thao cạnh tranh; cậu thích các hoạt động như đi bộ đường dài và nhiếp ảnh hơn.",
+              "explanation": "'go in for' nghĩa tham gia hoạt động/cuộc thi, phù hợp 'competitive sports'; put up with (chịu đựng)/pull out of (rút khỏi)/get round to (thu xếp làm) không phù hợp nghĩa."
             },
             {
               "id": "A20",
@@ -602,7 +640,9 @@
                 "went off",
                 "carried on"
               ],
-              "answer": "went off"
+              "answer": "went off",
+              "sentenceVi": "Sau nhiều năm chơi bóng đá, Ben bỗng chán môn này và bắt đầu thích đạp xe hơn.",
+              "explanation": "'went off' (go off) nghĩa không còn thích, phù hợp mạch chuyển sang môn khác; joined in/took up/carried on không đúng nghĩa 'chán, chuyển hứng thú'."
             },
             {
               "id": "A21",
@@ -613,7 +653,9 @@
                 "pull out",
                 "put off"
               ],
-              "answer": "join in"
+              "answer": "join in",
+              "sentenceVi": "Buổi khiêu vũ đã bắt đầu, nhưng mọi người vẫn khuyến khích chúng tôi tham gia.",
+              "explanation": "'join in' phù hợp ngữ cảnh khiêu vũ đã bắt đầu, mời tham gia; go off/pull out/put off không đúng nghĩa."
             },
             {
               "id": "A22",
@@ -624,7 +666,9 @@
                 "put off",
                 "brought forward"
               ],
-              "answer": "knocked out"
+              "answer": "knocked out",
+              "sentenceVi": "Võ sĩ đã bị hạ đo ván ở hiệp hai và bất tỉnh trong vài giây.",
+              "explanation": "'knocked out' nghĩa bị đánh bất tỉnh, đúng ngữ cảnh; pulled out (rút lui - tự nguyện)/put off (hoãn)/brought forward (dời sớm) không phù hợp."
             },
             {
               "id": "A23",
@@ -635,7 +679,9 @@
                 "pull out",
                 "get up to"
               ],
-              "answer": "look out"
+              "answer": "look out",
+              "sentenceVi": "'Look out' nghĩa là cẩn thận vì có thể có nguy hiểm.",
+              "explanation": "'look out' nghĩa cẩn thận vì có thể có nguy hiểm; các lựa chọn khác có nghĩa khác (go off=hết thích, pull out=rút lui, get up to=làm gì đó khả nghi)."
             },
             {
               "id": "A24",
@@ -646,7 +692,9 @@
                 "go in for",
                 "pull out of"
               ],
-              "answer": "pull out of"
+              "answer": "pull out of",
+              "sentenceVi": "Ca sĩ bị ốm trước ngày chung kết nên phải rút khỏi cuộc thi.",
+              "explanation": "'pull out of' phù hợp nghĩa rút khỏi vì lý do khách quan; knock out/join in/go in for không đúng nghĩa."
             },
             {
               "id": "A25",
@@ -657,7 +705,9 @@
                 "get round to",
                 "put off"
               ],
-              "answer": "put off"
+              "answer": "put off",
+              "sentenceVi": "Ủy ban quyết định hoãn việc đưa ra quyết định cuối cùng cho đến khi có thêm thông tin.",
+              "explanation": "'put off' phù hợp nghĩa hoãn việc ra quyết định; carry on (tiếp tục)/take up (bắt đầu)/get round to (thu xếp làm) không đúng."
             },
             {
               "id": "A26",
@@ -668,7 +718,9 @@
                 "put up with",
                 "go in for"
               ],
-              "answer": "put up with"
+              "answer": "put up with",
+              "sentenceVi": "Tôi không thể chịu đựng tiếng ồn này lâu hơn nữa. Tôi cần một nơi yên tĩnh để làm việc.",
+              "explanation": "'put up with' phù hợp nghĩa chịu đựng tiếng ồn; carry on with (tiếp tục)/get up to (làm gì đó)/go in for (tham gia) không đúng."
             },
             {
               "id": "A27",
@@ -679,7 +731,9 @@
                 "pulled out of",
                 "put off"
               ],
-              "answer": "took to"
+              "answer": "took to",
+              "sentenceVi": "Elena chưa từng chơi cờ vua trước đây, nhưng sau hai buổi học cô ấy thực sự rất thích môn này.",
+              "explanation": "'took to' phù hợp nghĩa nhanh chóng yêu thích; went off (chán)/pulled out of (rút khỏi)/put off (hoãn) không đúng."
             },
             {
               "id": "A28",
@@ -690,7 +744,9 @@
                 "carry on",
                 "take up"
               ],
-              "answer": "take up"
+              "answer": "take up",
+              "sentenceVi": "Sau khi chuyển về vùng quê, Noah quyết định bắt đầu làm vườn như một sở thích mới.",
+              "explanation": "'take up' phù hợp nghĩa bắt đầu sở thích mới; go off (chán)/put up with (chịu đựng)/carry on (tiếp tục) không đúng."
             },
             {
               "id": "A29",
@@ -701,7 +757,9 @@
                 "take up",
                 "join in"
               ],
-              "answer": "take up"
+              "answer": "take up",
+              "sentenceVi": "Việc kiểm tra và trả lời email có thể chiếm một lượng thời gian đáng ngạc nhiên.",
+              "explanation": "Đây là nghĩa khác của 'take up' - chiếm dụng thời gian/không gian; put off (hoãn)/carry on (tiếp tục)/join in (tham gia) không đúng nghĩa."
             },
             {
               "id": "A30",
@@ -712,7 +770,9 @@
                 "carry on",
                 "put off"
               ],
-              "answer": "put off"
+              "answer": "put off",
+              "sentenceVi": "Vì nhiều học sinh vắng mặt, giáo viên quyết định hoãn bài kiểm tra đến thứ Sáu.",
+              "explanation": "'put off' phù hợp nghĩa hoãn bài kiểm tra; bring forward (dời sớm - ngược nghĩa)/take up (bắt đầu/chiếm)/carry on (tiếp tục) không đúng."
             }
           ]
         },
@@ -729,7 +789,9 @@
                 "carried on with",
                 "brought forward"
               ],
-              "answer": "brought forward"
+              "answer": "brought forward",
+              "sentenceVi": "Hội nghị ban đầu dự kiến vào thứ Sáu, nhưng ban tổ chức đã đổi sang thứ Tư. Họ đã dời nó sớm hơn.",
+              "explanation": "Nghĩa 'chuyển sang sớm hơn' khớp với 'brought forward'; put off (hoãn - trễ hơn)/pulled out of (rút khỏi)/carried on with (tiếp tục) không đúng."
             },
             {
               "id": "B2",
@@ -740,7 +802,9 @@
                 "went off",
                 "put off"
               ],
-              "answer": "carried on"
+              "answer": "carried on",
+              "sentenceVi": "Dù trời bắt đầu mưa to, các vận động viên vẫn tiếp tục chạy cho đến khi về đích.",
+              "explanation": "'carried on' phù hợp nghĩa tiếp tục chạy dù mưa; pulled out (rút lui)/went off (chán)/put off (hoãn) không đúng."
             },
             {
               "id": "B3",
@@ -751,7 +815,9 @@
                 "put up with it",
                 "got round to it"
               ],
-              "answer": "got round to it"
+              "answer": "got round to it",
+              "sentenceVi": "Tôi đã định sắp xếp mấy tệp này từ nhiều tuần trước, nhưng vẫn chưa thu xếp được thời gian làm.",
+              "explanation": "'got round to it' phù hợp nghĩa vẫn định làm nhưng chưa làm được; taken to it (thích)/gone in for it (tham gia)/put up with it (chịu đựng) không đúng."
             },
             {
               "id": "B4",
@@ -762,7 +828,9 @@
                 "pulling out of",
                 "going off"
               ],
-              "answer": "getting up to"
+              "answer": "getting up to",
+              "sentenceVi": "Giáo viên nghe thấy tiếng cười từ một lớp học trống và đến xem học sinh đang làm gì.",
+              "explanation": "'getting up to' phù hợp nghĩa đang làm gì đó đáng ngờ; putting up with (chịu đựng)/pulling out of (rút khỏi)/going off (chán) không đúng."
             },
             {
               "id": "B5",
@@ -773,7 +841,9 @@
                 "put up with",
                 "get round to"
               ],
-              "answer": "go in for"
+              "answer": "go in for",
+              "sentenceVi": "Amy đã điền vào đơn đăng ký chính thức vì cô ấy quyết định tham gia cuộc thi nghệ thuật quốc gia.",
+              "explanation": "'go in for' phù hợp nghĩa đăng ký tham gia cuộc thi; pull out of (rút khỏi)/put up with (chịu đựng)/get round to (thu xếp làm) không đúng."
             },
             {
               "id": "B6",
@@ -784,7 +854,9 @@
                 "taken it up",
                 "carried on with it"
               ],
-              "answer": "gone off it"
+              "answer": "gone off it",
+              "sentenceVi": "Max từng rất thích trượt ván năm ngoái, nhưng gần đây cậu ấy hoàn toàn hết hứng thú.",
+              "explanation": "'gone off it' phù hợp nghĩa từng thích nhưng giờ hết hứng thú; joined in (tham gia)/taken it up (bắt đầu)/carried on with it (tiếp tục) không đúng."
             },
             {
               "id": "B7",
@@ -795,7 +867,9 @@
                 "carried on with it",
                 "took to it"
               ],
-              "answer": "took to it"
+              "answer": "took to it",
+              "sentenceVi": "Sofia không chắc mình có thích yoga trước buổi học đầu tiên, nhưng cô ấy thích ngay lập tức và giờ luôn mong chờ mỗi buổi học.",
+              "explanation": "'took to it' phù hợp nghĩa thích ngay từ buổi đầu; went off it (chán)/put up with it (chịu đựng)/carried on with it (tiếp tục) không đúng."
             },
             {
               "id": "B8",
@@ -806,7 +880,9 @@
                 "joined in",
                 "carried on"
               ],
-              "answer": "pulled out"
+              "answer": "pulled out",
+              "sentenceVi": "Đội đã không bị loại. Họ chọn rời giải đấu vì đội trưởng bị chấn thương. Họ đã rút lui.",
+              "explanation": "Đội KHÔNG bị loại (not defeated) mà tự rút lui vì chấn thương, nên 'pulled out' đúng; was knocked out (bị loại - sai vì đề bài nói 'not defeated')/joined in/carried on không đúng."
             },
             {
               "id": "B9",
@@ -817,7 +893,9 @@
                 "knocked him out",
                 "brought him forward"
               ],
-              "answer": "knocked him out"
+              "answer": "knocked him out",
+              "sentenceVi": "Một cú đấm khiến võ sĩ bất tỉnh trong vài giây. Cú đấm đó đã đánh anh ta bất tỉnh.",
+              "explanation": "'knocked him out' phù hợp nghĩa cú đấm khiến bất tỉnh; put him off (làm mất tập trung)/pulled him out (kéo anh ta ra)/brought him forward (đưa lên sớm hơn) không đúng."
             },
             {
               "id": "B10",
@@ -828,7 +906,9 @@
                 "Join in",
                 "Go off"
               ],
-              "answer": "Look out"
+              "answer": "Look out",
+              "sentenceVi": "\"Cẩn thận! Sàn nhà ướt và rất trơn.\"",
+              "explanation": "'Look out!' là câu cảnh báo nguy hiểm; Carry on/Join in/Go off không mang nghĩa cảnh báo."
             },
             {
               "id": "B11",
@@ -839,7 +919,9 @@
                 "take it up",
                 "pull out of it"
               ],
-              "answer": "put up with it"
+              "answer": "put up with it",
+              "sentenceVi": "Hàng xóm bật nhạc to đến hai giờ sáng, nhưng chúng tôi chẳng thể làm gì ngoài chịu đựng.",
+              "explanation": "'put up with it' phù hợp nghĩa không làm được gì khác ngoài chịu đựng; get round to it (thu xếp làm)/take it up (bắt đầu)/pull out of it (rút khỏi) không đúng."
             },
             {
               "id": "B12",
@@ -850,7 +932,9 @@
                 "goes off",
                 "joins in"
               ],
-              "answer": "takes up"
+              "answer": "takes up",
+              "sentenceVi": "Cuộc họp hàng tuần này chiếm quá nhiều thời gian khiến nhân viên khó hoàn thành công việc khác.",
+              "explanation": "'takes up' (chiếm thời gian) phù hợp nghĩa; puts off (hoãn)/goes off (chán/hết hạn)/joins in (tham gia) không đúng."
             },
             {
               "id": "B13",
@@ -861,7 +945,9 @@
                 "put off",
                 "carried on"
               ],
-              "answer": "put off"
+              "answer": "put off",
+              "sentenceVi": "Kỳ thi lẽ ra diễn ra vào thứ Hai, nhưng đã được chuyển sang thứ Sáu. Nó đã bị hoãn lại.",
+              "explanation": "Kỳ thi bị chuyển sang trễ hơn = hoãn; brought forward (dời sớm hơn - sai chiều)/taken up (bắt đầu/chiếm)/carried on (tiếp tục) không đúng."
             },
             {
               "id": "B14",
@@ -872,7 +958,9 @@
                 "take up",
                 "join in"
               ],
-              "answer": "join in"
+              "answer": "join in",
+              "sentenceVi": "Trận đấu đã bắt đầu khi Alex đến, nhưng bạn bè lập tức rủ cậu ấy tham gia cùng.",
+              "explanation": "'join in' phù hợp nghĩa tham gia cùng khi trận đấu đã bắt đầu; go in for (đăng ký thi)/pull out (rút lui)/take up (bắt đầu sở thích) không đúng."
             },
             {
               "id": "B15",
@@ -883,7 +971,9 @@
                 "put up with",
                 "pull out of"
               ],
-              "answer": "take up"
+              "answer": "take up",
+              "sentenceVi": "Emma muốn bắt đầu một sở thích hoàn toàn mới, vì vậy cô ấy quyết định theo đuổi nhiếp ảnh.",
+              "explanation": "'take up' phù hợp nghĩa bắt đầu sở thích mới; go off (chán)/put up with (chịu đựng)/pull out of (rút khỏi) không đúng."
             },
             {
               "id": "B16",
@@ -894,7 +984,9 @@
                 "pulled out",
                 "brought forward"
               ],
-              "answer": "brought forward"
+              "answer": "brought forward",
+              "sentenceVi": "Chuyến đi của trường dự kiến vào ngày 10/5, nhưng công ty xe buýt chỉ có thể cung cấp xe vào ngày 8/5. Do đó, trường đã dời chuyến đi sớm hơn hai ngày.",
+              "explanation": "Chuyến đi được dời sớm 2 ngày; put off (hoãn - trễ hơn)/carried on (tiếp tục)/pulled out (rút lui) không đúng."
             },
             {
               "id": "B17",
@@ -905,7 +997,9 @@
                 "go off",
                 "put off"
               ],
-              "answer": "carry on"
+              "answer": "carry on",
+              "sentenceVi": "Nhiệt độ giảm mạnh giữa buổi tập. Tuy nhiên, huấn luyện viên cho rằng điều kiện vẫn an toàn và bảo các cầu thủ tiếp tục tập luyện.",
+              "explanation": "'carry on' phù hợp vì huấn luyện viên cho là vẫn an toàn nên bảo tiếp tục; pull out (rút lui)/go off (chán)/put off (hoãn) không đúng."
             },
             {
               "id": "B18",
@@ -916,7 +1010,9 @@
                 "took to sending it",
                 "put up with sending it"
               ],
-              "answer": "got round to sending it"
+              "answer": "got round to sending it",
+              "sentenceVi": "Đơn đăng ký của Daniel đã nằm trên bàn gần một tháng. Hôm qua, cuối cùng cậu ấy cũng thu xếp gửi nó đi.",
+              "explanation": "'got round to sending it' phù hợp nghĩa cuối cùng cũng thu xếp làm việc trì hoãn lâu; went off sending it/took to sending it/put up with sending it không phải cụm có nghĩa hợp lý."
             },
             {
               "id": "B19",
@@ -927,7 +1023,9 @@
                 "getting up to",
                 "pulling out of"
               ],
-              "answer": "getting up to"
+              "answer": "getting up to",
+              "sentenceVi": "Leo đã tỏ ra bí ẩn khác thường suốt buổi chiều, và bố mẹ cậu bắt đầu tự hỏi cậu đang làm gì.",
+              "explanation": "'getting up to' phù hợp nghĩa làm gì đó khả nghi; going in for (tham gia)/putting up with (chịu đựng)/pulling out of (rút khỏi) không đúng."
             },
             {
               "id": "B20",
@@ -938,7 +1036,9 @@
                 "go in for the competition",
                 "put up with the competition"
               ],
-              "answer": "go in for the competition"
+              "answer": "go in for the competition",
+              "sentenceVi": "Maria luôn thích môn bơi thi đấu, và năm nay cô ấy đã hoàn thành đơn đăng ký giải vô địch trường. Cô ấy đã quyết định tham gia cuộc thi.",
+              "explanation": "'go in for the competition' phù hợp nghĩa tham gia thi đấu; join in swimming (tham gia bơi cùng - không phải thi)/go off swimming (chán bơi)/put up with the competition (chịu đựng cuộc thi) không đúng."
             },
             {
               "id": "B21",
@@ -949,7 +1049,9 @@
                 "joined in with them",
                 "carried on with them"
               ],
-              "answer": "gone off them"
+              "answer": "gone off them",
+              "sentenceVi": "Sam từng xem mọi bộ phim kinh dị mà cậu tìm được. Tuy nhiên gần đây cậu không còn thích chúng nữa và giờ thích phim hài hơn.",
+              "explanation": "'gone off them' phù hợp nghĩa từng thích nhưng giờ hết thích; taken them up (bắt đầu - không hợp vì phim không phải sở thích mới)/joined in with them (tham gia cùng)/carried on with them (tiếp tục thích) không đúng."
             },
             {
               "id": "B22",
@@ -960,7 +1062,9 @@
                 "put off",
                 "go off"
               ],
-              "answer": "join in"
+              "answer": "join in",
+              "sentenceVi": "Khi nhạc bắt đầu, chỉ vài học sinh đang nhảy. Giáo viên khuyến khích những học sinh còn lại tham gia.",
+              "explanation": "'join in' phù hợp nghĩa tham gia cùng; pull out (rút lui)/put off (hoãn)/go off (chán) không đúng."
             },
             {
               "id": "B23",
@@ -971,7 +1075,9 @@
                 "carried on",
                 "knocked out"
               ],
-              "answer": "knocked out"
+              "answer": "knocked out",
+              "sentenceVi": "Riverside vào đến tứ kết nhưng thua 3-0, nghĩa là họ đã bị loại khỏi giải đấu.",
+              "explanation": "'knocked out' phù hợp nghĩa bị loại khỏi giải; brought forward (dời sớm)/put up with (chịu đựng)/carried on (tiếp tục) không đúng."
             },
             {
               "id": "B24",
@@ -982,7 +1088,9 @@
                 "Look out!",
                 "Take up!"
               ],
-              "answer": "Look out!"
+              "answer": "Look out!",
+              "sentenceVi": "Một đứa trẻ bước vào làn đường xe đạp mà không để ý có xe đang đến gần. Mẹ cậu bé hét lên: \"Cẩn thận!\"",
+              "explanation": "'Look out!' là câu cảnh báo nguy hiểm; Carry on!/Join in!/Take up! không mang nghĩa cảnh báo."
             },
             {
               "id": "B25",
@@ -993,7 +1101,9 @@
                 "carry on",
                 "go in for it"
               ],
-              "answer": "pull out"
+              "answer": "pull out",
+              "sentenceVi": "Mia đã tập luyện cho cuộc đua nhiều tháng, nhưng chấn thương đầu gối hai ngày trước sự kiện buộc cô phải rút lui.",
+              "explanation": "'pull out' phù hợp nghĩa rút khỏi vì chấn thương; join in (tham gia)/carry on (tiếp tục)/go in for it (đăng ký thi) không đúng."
             },
             {
               "id": "B26",
@@ -1004,7 +1114,9 @@
                 "carried on",
                 "taken up"
               ],
-              "answer": "put off"
+              "answer": "put off",
+              "sentenceVi": "Dự báo có bão lớn vào thứ Bảy, nên ban tổ chức quyết định buổi hòa nhạc ngoài trời sẽ diễn ra vào cuối tuần sau đó. Họ đã hoãn buổi diễn.",
+              "explanation": "Buổi hòa nhạc bị dời sang tuần sau = hoãn; brought forward (dời sớm - sai chiều)/carried on (tiếp tục)/taken up (bắt đầu) không đúng."
             },
             {
               "id": "B27",
@@ -1015,7 +1127,9 @@
                 "put up with it",
                 "take to it"
               ],
-              "answer": "put up with it"
+              "answer": "put up with it",
+              "sentenceVi": "Công trình xây dựng bên cạnh đã rất ồn ào suốt nhiều tuần. Cư dân không hài lòng, nhưng hiện tại họ chỉ có thể chịu đựng.",
+              "explanation": "'put up with it' phù hợp nghĩa chịu đựng; get round to it (thu xếp làm)/carry on with it (tiếp tục)/take to it (thích) không đúng."
             },
             {
               "id": "B28",
@@ -1026,7 +1140,9 @@
                 "took to it",
                 "put it off"
               ],
-              "answer": "took to it"
+              "answer": "took to it",
+              "sentenceVi": "Clara không chắc mình sẽ thích cầu lông, nhưng sau buổi học đầu tiên cô ấy trở nên rất hào hứng. Cô ấy nhanh chóng thích môn này.",
+              "explanation": "'took to it' phù hợp nghĩa nhanh chóng thích; went off it (chán)/pulled out of it (rút khỏi)/put it off (hoãn) không đúng."
             },
             {
               "id": "B29",
@@ -1037,7 +1153,9 @@
                 "put off swimming",
                 "pulled out of swimming"
               ],
-              "answer": "took up swimming"
+              "answer": "took up swimming",
+              "sentenceVi": "Tom muốn năng động hơn, nên vào đầu mùa hè cậu bắt đầu bơi thường xuyên như một sở thích mới.",
+              "explanation": "'took up swimming' phù hợp nghĩa bắt đầu sở thích mới; went off swimming (chán bơi)/put off swimming (hoãn bơi)/pulled out of swimming (rút khỏi bơi) không đúng."
             },
             {
               "id": "B30",
@@ -1048,7 +1166,9 @@
                 "carries on",
                 "brings forward"
               ],
-              "answer": "takes up"
+              "answer": "takes up",
+              "sentenceVi": "Chúng ta cần một cái bàn nhỏ hơn cho lớp học vì cái bàn hiện tại chiếm gần một nửa diện tích sẵn có.",
+              "explanation": "'takes up' (chiếm không gian) phù hợp nghĩa; puts off (hoãn)/carries on (tiếp tục)/brings forward (dời sớm) không đúng."
             }
           ]
         }
@@ -1136,7 +1256,9 @@
                 "take",
                 "get"
               ],
-              "answer": "make"
+              "answer": "make",
+              "sentenceVi": "Chúng tôi không thể thay đổi thời tiết, nên đã quyết định cố gắng tận dụng tối đa hoàn cảnh.",
+              "explanation": "'make the best of' là cụm cố định nghĩa cố hài lòng với hoàn cảnh không như ý; do/take/get không đi với 'the best of' theo nghĩa này."
             },
             {
               "id": "A2",
@@ -1147,7 +1269,9 @@
                 "made",
                 "got"
               ],
-              "answer": "made"
+              "answer": "made",
+              "sentenceVi": "Họ chỉ có một buổi chiều ở Rome, nhưng đã tận dụng tối đa chuyến thăm ngắn ngủi đó.",
+              "explanation": "'make the best of' (chia 'made'); took/did/got sai."
             },
             {
               "id": "A3",
@@ -1158,7 +1282,9 @@
                 "take",
                 "give"
               ],
-              "answer": "do"
+              "answer": "do",
+              "sentenceVi": "Bạn có thể không thắng cuộc thi, nhưng luôn nên cố gắng hết sức.",
+              "explanation": "'do your best' là cụm cố định nghĩa cố gắng hết sức; make/take/give không đi với 'your best' theo nghĩa này."
             },
             {
               "id": "A4",
@@ -1169,7 +1295,9 @@
                 "take",
                 "do"
               ],
-              "answer": "do"
+              "answer": "do",
+              "sentenceVi": "Tôi biết nhiệm vụ này khó, nhưng cứ cố gắng hết sức đi.",
+              "explanation": "'do your best' nghĩa cố gắng hết sức; make/give/take sai."
             },
             {
               "id": "A5",
@@ -1180,7 +1308,9 @@
                 "have",
                 "take"
               ],
-              "answer": "have"
+              "answer": "have",
+              "sentenceVi": "Trong chương trình trao đổi, mỗi học sinh sẽ có cơ hội luyện tập tiếng Anh.",
+              "explanation": "'have a chance' là cụm cố định nghĩa có cơ hội; make/do/take không đi với 'a chance' theo nghĩa này."
             },
             {
               "id": "A6",
@@ -1191,7 +1321,9 @@
                 "to",
                 "at"
               ],
-              "answer": "of"
+              "answer": "of",
+              "sentenceVi": "Với thêm thời gian luyện tập, cô ấy có cơ hội tốt để giành chức vô địch giải đấu.",
+              "explanation": "'a chance of' + V-ing là cụm cố định; for/to/at sai giới từ."
             },
             {
               "id": "A7",
@@ -1202,7 +1334,9 @@
                 "for",
                 "of"
               ],
-              "answer": "of"
+              "answer": "of",
+              "sentenceVi": "Rất ít khả năng trận đấu sẽ kết thúc trước khi trời tối.",
+              "explanation": "'chance of' + V-ing/danh từ là cụm cố định; at/to/for sai."
             },
             {
               "id": "A8",
@@ -1213,7 +1347,9 @@
                 "for",
                 "to"
               ],
-              "answer": "on"
+              "answer": "on",
+              "sentenceVi": "Người quản lý quyết định mạo hiểm chọn một nhà thiết kế trẻ ít kinh nghiệm.",
+              "explanation": "'take a chance on' là cụm cố định nghĩa liều/mạo hiểm với ai/việc gì; at/for/to sai."
             },
             {
               "id": "A9",
@@ -1224,7 +1360,9 @@
                 "with",
                 "for"
               ],
-              "answer": "on"
+              "answer": "on",
+              "sentenceVi": "Huấn luyện viên đã mạo hiểm chọn một thủ môn thiếu kinh nghiệm.",
+              "explanation": "'take a chance on' nghĩa liều với ai/việc gì; at/with/for sai."
             },
             {
               "id": "A10",
@@ -1235,7 +1373,9 @@
                 "of",
                 "for"
               ],
-              "answer": "of"
+              "answer": "of",
+              "sentenceVi": "Du học là cơ hội ngàn năm có một đối với cô ấy.",
+              "explanation": "'the chance of a lifetime' là thành ngữ cố định nghĩa cơ hội hiếm có; from/in/for sai."
             },
             {
               "id": "A11",
@@ -1246,7 +1386,9 @@
                 "this",
                 "the"
               ],
-              "answer": "the"
+              "answer": "the",
+              "sentenceVi": "Biểu diễn tại lễ hội quốc tế là cơ hội ngàn năm có một đối với cô ấy.",
+              "explanation": "Thành ngữ luôn dùng mạo từ 'the' (the chance of a lifetime); one/this không đúng vì đây là cụm cố định."
             },
             {
               "id": "A12",
@@ -1257,7 +1399,9 @@
                 "for",
                 "with"
               ],
-              "answer": "at"
+              "answer": "at",
+              "sentenceVi": "Tôi chưa từng thử leo núi đá, nhưng tôi muốn thử một lần.",
+              "explanation": "'have a go at' là cụm cố định nghĩa thử làm gì đó; on/for/with sai giới từ."
             },
             {
               "id": "A13",
@@ -1268,7 +1412,9 @@
                 "in",
                 "with"
               ],
-              "answer": "in"
+              "answer": "in",
+              "sentenceVi": "Cô ấy rất vui khi được giúp đỡ các học sinh nhỏ tuổi hơn.",
+              "explanation": "'take pleasure in' là cụm cố định; from/at/with sai giới từ (phân biệt với 'get pleasure from')."
             },
             {
               "id": "A14",
@@ -1279,7 +1425,9 @@
                 "at",
                 "for"
               ],
-              "answer": "from"
+              "answer": "from",
+              "sentenceVi": "Nhiều người thấy vui khi tập thể dục ngoài trời.",
+              "explanation": "'get pleasure from' dùng 'from' (khác với 'take pleasure in'); in/at/for sai."
             },
             {
               "id": "A15",
@@ -1290,7 +1438,9 @@
                 "among",
                 "with"
               ],
-              "answer": "with"
+              "answer": "with",
+              "sentenceVi": "Câu lạc bộ thể thao mới đặc biệt được yêu thích trong giới thanh thiếu niên.",
+              "explanation": "'popular with' là cụm chuẩn nói về nhóm người yêu thích; for/to không đi với 'popular' theo nghĩa này."
             },
             {
               "id": "A16",
@@ -1301,7 +1451,9 @@
                 "to",
                 "by"
               ],
-              "answer": "among"
+              "answer": "among",
+              "sentenceVi": "Học trực tuyến ngày càng được ưa chuộng trong giới sinh viên đại học.",
+              "explanation": "Giữa các lựa chọn cho sẵn, 'among' là giới từ phù hợp khi nói về một nhóm đông; between/to/by không phù hợp."
             },
             {
               "id": "A17",
@@ -1312,7 +1464,9 @@
                 "to",
                 "by"
               ],
-              "answer": "with"
+              "answer": "with",
+              "sentenceVi": "Khi các thành viên ủy ban bất đồng, phần lớn học sinh đứng về phía giáo viên.",
+              "explanation": "'side with' là cụm cố định nghĩa đứng về phía ai; for/to/by sai."
             },
             {
               "id": "A18",
@@ -1323,7 +1477,9 @@
                 "in",
                 "for"
               ],
-              "answer": "for"
+              "answer": "for",
+              "sentenceVi": "Ben có năng khiếu tự nhiên trong việc thiết kế áp phích bắt mắt.",
+              "explanation": "'a talent for' là cụm cố định; at/with/in sai giới từ."
             },
             {
               "id": "A19",
@@ -1334,7 +1490,9 @@
                 "on",
                 "by"
               ],
-              "answer": "on"
+              "answer": "on",
+              "sentenceVi": "Cuộc họp bắt đầu đúng chín giờ, vậy nên nó bắt đầu đúng giờ.",
+              "explanation": "'on time' nghĩa đúng giờ đã định; in/at/by sai (phân biệt với 'in time' = kịp lúc)."
             },
             {
               "id": "A20",
@@ -1345,7 +1503,9 @@
                 "at",
                 "by"
               ],
-              "answer": "in"
+              "answer": "in",
+              "sentenceVi": "Chúng tôi đến sân bay vừa kịp giờ để bắt chuyến bay.",
+              "explanation": "'in time' nghĩa kịp lúc, trước khi quá muộn; on/at/by sai (khác với 'on time' = đúng giờ định trước)."
             },
             {
               "id": "A21",
@@ -1356,7 +1516,9 @@
                 "strong",
                 "high"
               ],
-              "answer": "high"
+              "answer": "high",
+              "sentenceVi": "Đã đến lúc trường học thay những chiếc máy tính cũ này rồi.",
+              "explanation": "'It's high time...' là cụm cố định nghĩa đã đến lúc phải làm gì (thường trễ); long/big/strong không đúng."
             },
             {
               "id": "A22",
@@ -1367,7 +1529,9 @@
                 "away",
                 "out"
               ],
-              "answer": "up"
+              "answer": "up",
+              "sentenceVi": "Mạng xã hội có thể chiếm một lượng lớn thời gian rảnh của bạn.",
+              "explanation": "'take up' (chiếm dụng) đi với 'up'; over/away/out sai."
             },
             {
               "id": "A23",
@@ -1378,7 +1542,9 @@
                 "takes",
                 "makes"
               ],
-              "answer": "takes"
+              "answer": "takes",
+              "sentenceVi": "Công việc hành chính thường chiếm phần lớn buổi chiều của cô ấy.",
+              "explanation": "'take up' (chiếm) là cụm động từ chuẩn nói về chiếm thời gian; spends/uses/makes không kết hợp với 'up' theo nghĩa này."
             },
             {
               "id": "A24",
@@ -1389,7 +1555,9 @@
                 "makes",
                 "gives"
               ],
-              "answer": "spends"
+              "answer": "spends",
+              "sentenceVi": "Cô ấy dành nhiều thời gian luyện tập cho các cuộc thi.",
+              "explanation": "'spend time doing sth' là cấu trúc chuẩn; takes/makes/gives không đi với 'time V-ing' theo cách này."
             },
             {
               "id": "A25",
@@ -1400,7 +1568,9 @@
                 "for",
                 "to"
               ],
-              "answer": "on"
+              "answer": "on",
+              "sentenceVi": "Đừng dành quá nhiều thời gian cho một câu hỏi khó trong bài thi.",
+              "explanation": "'spend time on sth' là cụm cố định; at/for/to sai giới từ."
             },
             {
               "id": "A26",
@@ -1411,7 +1581,9 @@
                 "for exercise to",
                 "to exercise"
               ],
-              "answer": "to exercise"
+              "answer": "to exercise",
+              "sentenceVi": "Dù lịch trình bận rộn, cô ấy vẫn cố gắng thu xếp thời gian tập thể dục mỗi ngày.",
+              "explanation": "'find time to' + V nguyên mẫu là cấu trúc chuẩn; exercising/for exercise to sai ngữ pháp."
             },
             {
               "id": "A27",
@@ -1422,7 +1594,9 @@
                 "take",
                 "do"
               ],
-              "answer": "make"
+              "answer": "make",
+              "sentenceVi": "Học sinh nên sắp xếp thời gian cho việc tập thể dục đều đặn trong mùa thi.",
+              "explanation": "'make time for sth' nghĩa cố sắp xếp thời gian dù bận; spend/take/do không đi với 'time for' theo nghĩa này."
             },
             {
               "id": "A28",
@@ -1433,7 +1607,9 @@
                 "being",
                 "staying"
               ],
-              "answer": "being"
+              "answer": "being",
+              "sentenceVi": "Sân ngoài trời tạm thời đóng cửa.",
+              "explanation": "'for the time being' là thành ngữ cố định nghĩa tạm thời, hiện tại; passing/going/staying sai."
             },
             {
               "id": "A29",
@@ -1444,7 +1620,9 @@
                 "on",
                 "in"
               ],
-              "answer": "in"
+              "answer": "in",
+              "sentenceVi": "Bốn học sinh lần lượt trình bày dự án của mình.",
+              "explanation": "'in turn' nghĩa lần lượt; by/at/on sai."
             },
             {
               "id": "A30",
@@ -1455,7 +1633,9 @@
                 "rounds",
                 "times"
               ],
-              "answer": "turns"
+              "answer": "turns",
+              "sentenceVi": "Các em học sinh thay phiên nhau đọc to đoạn hội thoại.",
+              "explanation": "'take turns doing sth' là cụm cố định nghĩa thay phiên nhau; changes/rounds/times sai."
             },
             {
               "id": "A31",
@@ -1466,7 +1646,9 @@
                 "at",
                 "on"
               ],
-              "answer": "in"
+              "answer": "in",
+              "sentenceVi": "Vì chỉ có một máy tính, các học sinh thay phiên nhau sử dụng nó.",
+              "explanation": "'take it in turns to' là cách nói khác của 'take turns'; by/at/on sai."
             },
             {
               "id": "A32",
@@ -1477,7 +1659,9 @@
                 "among",
                 "by"
               ],
-              "answer": "among"
+              "answer": "among",
+              "sentenceVi": "Câu lạc bộ sau giờ học mới đặc biệt được yêu thích trong các học sinh nhỏ tuổi hơn.",
+              "explanation": "'among' phù hợp khi nói về một nhóm đông; through/between/by sai."
             },
             {
               "id": "A33",
@@ -1488,7 +1672,9 @@
                 "from",
                 "with"
               ],
-              "answer": "in"
+              "answer": "in",
+              "sentenceVi": "Cô ấy cảm thấy vui khi thấy học sinh của mình tự tin hơn.",
+              "explanation": "'take pleasure in' dùng 'in'; at/from/with sai."
             },
             {
               "id": "A34",
@@ -1499,7 +1685,9 @@
                 "with",
                 "from"
               ],
-              "answer": "from"
+              "answer": "from",
+              "sentenceVi": "Anh ấy thấy rất vui khi nấu ăn cho gia đình.",
+              "explanation": "'get pleasure from' dùng 'from'; in/at/with sai."
             },
             {
               "id": "A35",
@@ -1510,7 +1698,9 @@
                 "to try",
                 "tried"
               ],
-              "answer": "to try"
+              "answer": "to try",
+              "sentenceVi": "Mỗi học sinh sẽ có cơ hội thử thiết bị mới.",
+              "explanation": "'a chance to' + V nguyên mẫu là cấu trúc chuẩn (khác với 'chance of' + V-ing); trying/try/tried sai ngữ pháp."
             },
             {
               "id": "A36",
@@ -1521,7 +1711,9 @@
                 "to reach",
                 "reached"
               ],
-              "answer": "reaching"
+              "answer": "reaching",
+              "sentenceVi": "Họ có cơ hội tốt để vào vòng tiếp theo.",
+              "explanation": "'a chance of' + V-ing (khác với 'a chance to' + V nguyên mẫu ở câu trên); reach/to reach/reached sai ngữ pháp."
             },
             {
               "id": "A37",
@@ -1532,7 +1724,9 @@
                 "of",
                 "at"
               ],
-              "answer": "of"
+              "answer": "of",
+              "sentenceVi": "Có khả năng sự kiện sẽ bị hủy nếu thời tiết xấu hơn.",
+              "explanation": "'chance of' + V-ing là cấu trúc chuẩn; to/for/at sai giới từ."
             },
             {
               "id": "A38",
@@ -1543,7 +1737,9 @@
                 "with",
                 "for"
               ],
-              "answer": "at"
+              "answer": "at",
+              "sentenceVi": "Nếu bạn chưa từng chơi tennis, sao không thử một lần nhỉ?",
+              "explanation": "'have a go at' dùng 'at'; on/with/for sai."
             },
             {
               "id": "A39",
@@ -1554,7 +1750,9 @@
                 "will take",
                 "took"
               ],
-              "answer": "took"
+              "answer": "took",
+              "sentenceVi": "Đã đến lúc học sinh nên có trách nhiệm hơn với việc học của mình.",
+              "explanation": "'it's about time' + S + Ved (quá khứ giả định) là cấu trúc chuẩn diễn tả 'đáng lẽ nên...'; take/have taken/will take sai ngữ pháp."
             },
             {
               "id": "A40",
@@ -1565,7 +1763,9 @@
                 "to carrying",
                 "carried"
               ],
-              "answer": "carrying"
+              "answer": "carrying",
+              "sentenceVi": "Các thành viên trong đội thay phiên nhau khiêng thiết bị về kho.",
+              "explanation": "'take turns V-ing' là cấu trúc chuẩn (không dùng 'to'); carry/to carrying/carried sai ngữ pháp."
             }
           ]
         },
@@ -1582,7 +1782,9 @@
                 "visit",
                 "visited"
               ],
-              "answer": "to visit"
+              "answer": "to visit",
+              "sentenceVi": "Cuối cùng tôi cũng có cơ hội tham quan bảo tàng khi ở London.",
+              "explanation": "'a chance to' + V nguyên mẫu; visiting/visit/visited sai ngữ pháp."
             },
             {
               "id": "B2",
@@ -1593,7 +1795,9 @@
                 "won",
                 "winning"
               ],
-              "answer": "winning"
+              "answer": "winning",
+              "sentenceVi": "Đội có cơ hội tuyệt vời để vô địch giải năm nay.",
+              "explanation": "'a chance of' + V-ing; win/to win/won sai ngữ pháp."
             },
             {
               "id": "B3",
@@ -1604,7 +1808,9 @@
                 "to improve",
                 "improved"
               ],
-              "answer": "improving"
+              "answer": "improving",
+              "sentenceVi": "Rất ít khả năng thời tiết sẽ tốt lên trước chiều nay.",
+              "explanation": "'chance of' + V-ing; improve/to improve/improved sai ngữ pháp."
             },
             {
               "id": "B4",
@@ -1615,7 +1821,9 @@
                 "repairing",
                 "repaired"
               ],
-              "answer": "repairing"
+              "answer": "repairing",
+              "sentenceVi": "Ben đã tự thử sửa xe đạp mà không nhờ ai giúp.",
+              "explanation": "'have a go at' + V-ing; repair/to repair/repaired sai ngữ pháp."
             },
             {
               "id": "B5",
@@ -1626,7 +1834,9 @@
                 "tried",
                 "trying"
               ],
-              "answer": "trying"
+              "answer": "trying",
+              "sentenceVi": "Cô ấy rất thích thử các công thức nấu ăn mới cho gia đình.",
+              "explanation": "'take pleasure in' + V-ing; try/to try/tried sai ngữ pháp."
             },
             {
               "id": "B6",
@@ -1637,7 +1847,9 @@
                 "to restore",
                 "restored"
               ],
-              "answer": "restoring"
+              "answer": "restoring",
+              "sentenceVi": "Anh ấy cảm thấy rất vui khi phục chế những chiếc xe đạp cũ.",
+              "explanation": "'get pleasure from' + V-ing; restore/to restore/restored sai ngữ pháp."
             },
             {
               "id": "B7",
@@ -1648,7 +1860,9 @@
                 "explaining",
                 "explained"
               ],
-              "answer": "explaining"
+              "answer": "explaining",
+              "sentenceVi": "Maya có năng khiếu thực sự trong việc giải thích những ý tưởng khó hiểu một cách rõ ràng.",
+              "explanation": "'a talent for' + V-ing; explain/to explain/explained sai ngữ pháp."
             },
             {
               "id": "B8",
@@ -1659,7 +1873,9 @@
                 "to study",
                 "studied"
               ],
-              "answer": "studying"
+              "answer": "studying",
+              "sentenceVi": "Anh ấy dành phần lớn các buổi tối để ôn thi đầu vào.",
+              "explanation": "'spend time' + V-ing; study/to study/studied sai ngữ pháp."
             },
             {
               "id": "B9",
@@ -1670,7 +1886,9 @@
                 "to",
                 "for"
               ],
-              "answer": "on"
+              "answer": "on",
+              "sentenceVi": "Cả lớp dành nhiều thời gian cho bài thuyết trình cuối kỳ.",
+              "explanation": "'spend time on sth'; at/to/for sai giới từ."
             },
             {
               "id": "B10",
@@ -1681,7 +1899,9 @@
                 "for visiting to",
                 "to visit"
               ],
-              "answer": "to visit"
+              "answer": "to visit",
+              "sentenceVi": "Dù lịch trình bận rộn, cô ấy vẫn thu xếp thời gian đến thăm ông bà.",
+              "explanation": "'find time to' + V nguyên mẫu; visiting/visit/for visiting to sai ngữ pháp."
             },
             {
               "id": "B11",
@@ -1692,7 +1912,9 @@
                 "will change",
                 "have changed"
               ],
-              "answer": "changed"
+              "answer": "changed",
+              "sentenceVi": "Đã đến lúc chúng ta thay đổi cách chuẩn bị cho học sinh thi.",
+              "explanation": "'it's high time' + S + Ved (quá khứ giả định); change/will change/have changed sai ngữ pháp."
             },
             {
               "id": "B12",
@@ -1703,7 +1925,9 @@
                 "presenting",
                 "to presenting"
               ],
-              "answer": "presenting"
+              "answer": "presenting",
+              "sentenceVi": "Các học sinh lần lượt trình bày kết quả trước lớp.",
+              "explanation": "'take turns' + V-ing; present/presented/to presenting sai ngữ pháp."
             },
             {
               "id": "B13",
@@ -1714,7 +1938,9 @@
                 "to",
                 "at"
               ],
-              "answer": "for"
+              "answer": "for",
+              "sentenceVi": "Ngay cả trong những tuần bận rộn nhất, giáo viên cũng cần sắp xếp thời gian cho việc phát triển chuyên môn.",
+              "explanation": "'make time for sth'; on/to/at sai giới từ."
             },
             {
               "id": "B14",
@@ -1725,7 +1951,9 @@
                 "at the time",
                 "for the time being"
               ],
-              "answer": "on time"
+              "answer": "on time",
+              "sentenceVi": "Tàu khởi hành đúng 7:30 như lịch trình. Nó đã khởi hành đúng giờ.",
+              "explanation": "Tàu khởi hành đúng giờ đã định = 'on time'; in time/at the time/for the time being sai."
             },
             {
               "id": "B15",
@@ -1736,7 +1964,9 @@
                 "for the time being",
                 "in time"
               ],
-              "answer": "in time"
+              "answer": "in time",
+              "sentenceVi": "Chúng tôi chạy suốt quãng đường đến ga và đến vừa kịp lúc để bắt chuyến tàu cuối.",
+              "explanation": "Chạy đến ga vừa kịp lúc = 'in time'; on time/at the time/for the time being sai."
             },
             {
               "id": "B16",
@@ -1747,7 +1977,9 @@
                 "make the best of it",
                 "take a chance on it"
               ],
-              "answer": "make the best of it"
+              "answer": "make the best of it",
+              "sentenceVi": "Khách sạn không được như ý, nhưng không còn phòng nào khác, nên chúng tôi quyết định cố gắng tận dụng tối đa hoàn cảnh.",
+              "explanation": "Phòng khách sạn không như ý nhưng phải cố hài lòng với hoàn cảnh; do our best (không đúng ngữ cảnh 'hoàn cảnh xấu')/have a go at it (thử làm)/take a chance on it (liều) không đúng."
             },
             {
               "id": "B17",
@@ -1758,7 +1990,9 @@
                 "take a chance on it",
                 "do their best"
               ],
-              "answer": "do their best"
+              "answer": "do their best",
+              "sentenceVi": "Chiến thắng không phải là tất cả; huấn luyện viên chỉ mong mỗi cầu thủ cố gắng hết sức.",
+              "explanation": "Huấn luyện viên chỉ mong cố gắng hết sức (không phải chuyện thắng thua/hoàn cảnh xấu); make the best of it/have a go at it/take a chance on it không đúng."
             },
             {
               "id": "B18",
@@ -1769,7 +2003,9 @@
                 "had a chance of using it successfully",
                 "had the chance of a lifetime"
               ],
-              "answer": "had a chance to use it"
+              "answer": "had a chance to use it",
+              "sentenceVi": "Buổi hội thảo cho mỗi học sinh mười phút để thử thiết bị mới, vậy nên ai cũng có cơ hội sử dụng nó.",
+              "explanation": "Mọi học sinh được thử thiết bị = có cơ hội sử dụng; took a chance on it (liều)/had a chance of using it successfully (không đúng ý)/had the chance of a lifetime (cường điệu quá) không đúng."
             },
             {
               "id": "B19",
@@ -1780,7 +2016,9 @@
                 "takes a chance on reaching the final",
                 "has a chance to take part"
               ],
-              "answer": "has a good chance of reaching the final"
+              "answer": "has a good chance of reaching the final",
+              "sentenceVi": "Sau năm chiến thắng liên tiếp, đội hiện rất có khả năng giành quyền vào vòng loại trực tiếp. Họ có cơ hội tốt để vào chung kết.",
+              "explanation": "Thắng 5 trận liên tiếp = có cơ hội tốt vào chung kết; has the chance of a lifetime (cường điệu quá)/takes a chance on reaching the final (liều)/has a chance to take part (chỉ có cơ hội tham gia) không đúng."
             },
             {
               "id": "B20",
@@ -1791,7 +2029,9 @@
                 "took a chance on him",
                 "took pleasure in him"
               ],
-              "answer": "took a chance on him"
+              "answer": "took a chance on him",
+              "sentenceVi": "Công ty đã thuê một nhà thiết kế vô danh bất chấp rủi ro. Nói cách khác, họ đã liều với anh ta.",
+              "explanation": "Thuê người vô danh bất chấp rủi ro = liều với anh ta; had a chance of him (sai cấu trúc)/made the best of him (tận dụng)/took pleasure in him (thích thú vì anh ta) không đúng."
             },
             {
               "id": "B21",
@@ -1802,7 +2042,9 @@
                 "have a go at it",
                 "side with it"
               ],
-              "answer": "have a go at it"
+              "answer": "have a go at it",
+              "sentenceVi": "Tôi chưa từng thử làm gốm, nhưng tôi thực sự muốn thử một lần.",
+              "explanation": "Muốn thử làm gốm dù chưa từng làm = muốn thử; make the best of it (tận dụng hoàn cảnh)/take pleasure from it (thích thú)/side with it (vô nghĩa ở đây) không đúng."
             },
             {
               "id": "B22",
@@ -1813,7 +2055,9 @@
                 "at",
                 "with"
               ],
-              "answer": "in"
+              "answer": "in",
+              "sentenceVi": "Cô ấy rất vui khi giúp đỡ những học sinh gặp khó khăn với môn toán.",
+              "explanation": "'take pleasure in'; from/at/with sai."
             },
             {
               "id": "B23",
@@ -1824,7 +2068,9 @@
                 "with",
                 "from"
               ],
-              "answer": "from"
+              "answer": "from",
+              "sentenceVi": "Phục chế xe đạp cũ là điều khiến anh ấy cảm thấy rất vui.",
+              "explanation": "'get a great deal of pleasure from'; in/at/with sai."
             },
             {
               "id": "B24",
@@ -1835,7 +2081,9 @@
                 "for the time being",
                 "just in time"
               ],
-              "answer": "on time"
+              "answer": "on time",
+              "sentenceVi": "Buổi phỏng vấn bắt đầu đúng chín giờ như đã sắp xếp. Nó bắt đầu đúng giờ.",
+              "explanation": "Buổi phỏng vấn bắt đầu đúng như đã hẹn = 'on time'; in time/for the time being/just in time sai."
             },
             {
               "id": "B25",
@@ -1846,7 +2094,9 @@
                 "in turn",
                 "for the time being"
               ],
-              "answer": "in time"
+              "answer": "in time",
+              "sentenceVi": "Lính cứu hỏa chỉ đến trước vài phút khi ngọn lửa lan sang tòa nhà kế bên. May mắn là họ đã đến kịp lúc.",
+              "explanation": "Lính cứu hỏa đến kịp trước khi lửa lan = 'in time'; on time/in turn/for the time being sai."
             },
             {
               "id": "B26",
@@ -1857,7 +2107,9 @@
                 "practising",
                 "practised"
               ],
-              "answer": "practising"
+              "answer": "practising",
+              "sentenceVi": "Cô ấy dành vài giờ mỗi tuần để luyện nói tiếng Anh với bạn học trực tuyến.",
+              "explanation": "'spend time' + V-ing; practise/to practise/practised sai ngữ pháp."
             },
             {
               "id": "B27",
@@ -1868,7 +2120,9 @@
                 "with",
                 "on"
               ],
-              "answer": "on"
+              "answer": "on",
+              "sentenceVi": "Anh ấy dành quá nhiều thời gian cho các chi tiết nhỏ thay vì tập trung vào luận điểm chính.",
+              "explanation": "'spend time on sth'; at/for/with sai."
             },
             {
               "id": "B28",
@@ -1879,7 +2133,9 @@
                 "spend time to",
                 "find time for doing to"
               ],
-              "answer": "make time for"
+              "answer": "make time for",
+              "sentenceVi": "Ngay cả trong học kỳ bận rộn, giáo viên cũng nên sắp xếp thời gian cho việc phát triển chuyên môn.",
+              "explanation": "'make time for sth' nghĩa cố sắp xếp thời gian dù bận; take time on/spend time to/find time for doing to sai cấu trúc."
             },
             {
               "id": "B29",
@@ -1890,7 +2146,9 @@
                 "for the time being",
                 "in time"
               ],
-              "answer": "in turn"
+              "answer": "in turn",
+              "sentenceVi": "Ba ứng viên lần lượt bước vào phòng phỏng vấn.",
+              "explanation": "Ba ứng viên lần lượt bước vào phòng = 'in turn'; on time/for the time being/in time sai."
             },
             {
               "id": "B30",
@@ -1901,7 +2159,9 @@
                 "took it in turns to",
                 "spent time to"
               ],
-              "answer": "took it in turns to"
+              "answer": "took it in turns to",
+              "sentenceVi": "Vì chỉ có một kính thiên văn, các học sinh đã thay phiên nhau sử dụng nó.",
+              "explanation": "Chỉ có một kính thiên văn nên thay phiên nhau dùng; took turns using to (sai cấu trúc)/took a chance to (liều)/spent time to (sai cấu trúc) không đúng."
             },
             {
               "id": "B31",
@@ -1912,7 +2172,9 @@
                 "take a chance on the situation",
                 "have a go at the situation"
               ],
-              "answer": "make the best of the situation"
+              "answer": "make the best of the situation",
+              "sentenceVi": "Mưa lớn làm hỏng hầu hết kế hoạch ngoài trời của lớp. Thay vì phàn nàn, học sinh chuyển mọi thứ vào trong nhà và cố tận hưởng ngày hôm đó. Họ đã tận dụng tối đa hoàn cảnh.",
+              "explanation": "Mưa hỏng kế hoạch nhưng học sinh không phàn nàn mà cố tận dụng hoàn cảnh; do their best (không đúng vì đây là về hoàn cảnh xấu chứ không phải nỗ lực cá nhân)/take a chance on the situation (liều)/have a go at the situation (thử) không đúng."
             },
             {
               "id": "B32",
@@ -1923,7 +2185,9 @@
                 "have a go at it",
                 "do your best"
               ],
-              "answer": "do your best"
+              "answer": "do your best",
+              "sentenceVi": "\"Các đối thủ khác có thể giàu kinh nghiệm hơn,\" huấn luyện viên nói, \"nhưng tất cả những gì tôi mong đợi ở em là cố gắng hết sức.\"",
+              "explanation": "Huấn luyện viên chỉ mong cố gắng hết sức, không nói về hoàn cảnh xấu; make the best of it/take a chance on it/have a go at it không đúng ngữ cảnh."
             },
             {
               "id": "B33",
@@ -1934,7 +2198,9 @@
                 "has a good chance of reaching the final",
                 "takes a chance on reaching the final"
               ],
-              "answer": "has a good chance of reaching the final"
+              "answer": "has a good chance of reaching the final",
+              "sentenceVi": "Sau khi thắng năm trận liên tiếp, đội hiện được coi là rất có khả năng giành quyền vào vòng tiếp theo. Họ có cơ hội tốt để vào chung kết.",
+              "explanation": "Thắng 5 trận liên tiếp = có cơ hội tốt vào chung kết; has the chance of a lifetime/has a chance to participate/takes a chance on reaching the final không đúng."
             },
             {
               "id": "B34",
@@ -1945,7 +2211,9 @@
                 "the chance of a lifetime",
                 "a chance on holding it"
               ],
-              "answer": "little chance of it going ahead"
+              "answer": "little chance of it going ahead",
+              "sentenceVi": "Tuyết lớn được dự báo suốt đêm, và ban tổ chức cho biết trận đấu ngày mai khó có thể diễn ra. Có rất ít khả năng trận đấu sẽ diễn ra.",
+              "explanation": "Tuyết lớn khiến trận đấu khó diễn ra = ít khả năng; a chance to hold it/the chance of a lifetime/a chance on holding it không đúng cấu trúc/nghĩa."
             },
             {
               "id": "B35",
@@ -1956,7 +2224,9 @@
                 "makes time for drawing",
                 "has a talent for drawing"
               ],
-              "answer": "has a talent for drawing"
+              "answer": "has a talent for drawing",
+              "sentenceVi": "Ngay từ nhỏ, Lena đã có thể vẽ chính xác khuôn mặt người chỉ sau khi nhìn một lần. Rõ ràng cô ấy có năng khiếu vẽ.",
+              "explanation": "Vẽ giỏi từ nhỏ = có năng khiếu; takes pleasure in drawing (thích vẽ - không nhấn mạnh khả năng)/has a chance of drawing (vô nghĩa)/makes time for drawing (sắp xếp thời gian vẽ) không đúng ý 'năng khiếu'."
             },
             {
               "id": "B36",
@@ -1967,7 +2237,9 @@
                 "for the time being",
                 "in turn"
               ],
-              "answer": "on time"
+              "answer": "on time",
+              "sentenceVi": "Xe buýt của trường dự kiến khởi hành lúc 7:15. Nó rời bến đúng 7:15, vậy nên nó đã khởi hành đúng giờ.",
+              "explanation": "Xe buýt khởi hành đúng giờ đã định = 'on time'; in time/for the time being/in turn sai."
             },
             {
               "id": "B37",
@@ -1978,7 +2250,9 @@
                 "for the time being",
                 "in turn"
               ],
-              "answer": "just in time"
+              "answer": "just in time",
+              "sentenceVi": "Sam vào rạp chỉ vài giây trước khi phim bắt đầu. Cậu đến vừa kịp lúc.",
+              "explanation": "Vào rạp chỉ vài giây trước khi phim bắt đầu = vừa kịp lúc; on time every day/for the time being/in turn sai."
             },
             {
               "id": "B38",
@@ -1989,7 +2263,9 @@
                 "replaced them",
                 "has replacing them"
               ],
-              "answer": "replaced them"
+              "answer": "replaced them",
+              "sentenceVi": "Máy tính đã hơn mười năm tuổi và thường xuyên hỏng. Đã đến lúc trường nên thay chúng.",
+              "explanation": "'it's high time' + S + Ved (quá khứ giả định); replaces them/will replace them/has replacing them sai ngữ pháp."
             },
             {
               "id": "B39",
@@ -2000,7 +2276,9 @@
                 "with",
                 "on"
               ],
-              "answer": "on"
+              "answer": "on",
+              "sentenceVi": "Bài luận của Mia có ý tưởng tốt, nhưng cô ấy thường dành quá nhiều thời gian cho câu chữ của phần mở bài nên còn quá ít thời gian cho các đoạn chính.",
+              "explanation": "'spend time on sth'; at/for/with sai."
             },
             {
               "id": "B40",
@@ -2011,7 +2289,9 @@
                 "made time for",
                 "took pleasure in"
               ],
-              "answer": "took turns"
+              "answer": "took turns",
+              "sentenceVi": "Chỉ có một máy tính bảng cho bốn học sinh, vậy nên họ đã thay phiên nhau sử dụng nó để hoàn thành hoạt động.",
+              "explanation": "Chỉ có một máy tính bảng cho 4 học sinh nên thay phiên nhau dùng; spent time/made time for/took pleasure in không đúng nghĩa."
             }
           ]
         }
