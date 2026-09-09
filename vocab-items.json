@@ -4502,7 +4502,7 @@
       "audioWord": "assets/audio/vocab/U7_core_sculpture.mp3",
       "audioExample": "assets/audio/vocab/U7_core_sculpture_example.mp3",
       "ipa": "/ˈskʌlptʃə/",
-      "definition": "the art of making three- d im e n s i o n a l o b j e c t s f r o m s t o n e , m et a l, w o o d o r o t h e r m a t e r i a ls",
+      "definition": "the art of making three-dimensional objects from stone, metal, wood or other materials",
       "example": "A large metal sculpture stood in the centre of the gallery."
     },
     {
@@ -5035,7 +5035,7 @@
       "audioExample": "assets/audio/vocab/U7_core_conventional_example.mp3",
       "ipa": "/kənˈvenʃənl/",
       "definition": "following traditional or generally accepted styles and ideas",
-      "example": "Maya preferred a conventional l a n d s c a pe to the experimental p ie c e s ."
+      "example": "Maya preferred a conventional landscape to the experimental pieces."
     },
     {
       "id": "U7_core_style",
@@ -5169,7 +5169,8 @@
       "keyChunkVi": "dời ngày lên sớm hơn",
       "highlightForms": [
         "bring forward",
-        "bring the date forward"
+        "bring the date forward",
+        "brought the final forward"
       ]
     },
     {
@@ -5190,7 +5191,11 @@
       "ipa": "/kˈaɹi ˈɒn/",
       "definition": "to continue doing something",
       "example": "The team carried on training despite the cold weather.",
-      "keyChunkVi": "tiếp tục làm gì / tiếp tục với việc gì"
+      "keyChunkVi": "tiếp tục làm gì / tiếp tục với việc gì",
+      "highlightForms": [
+        "carry on",
+        "carried on"
+      ]
     },
     {
       "id": "U4_phrasalVerb_get_round_to",
@@ -5233,8 +5238,13 @@
       "audioExample": "assets/audio/vocab/U4_phrasalVerb_get_up_to_example.mp3",
       "ipa": "/ɡɛt ˈʌp tuː/",
       "definition": "to do something, especially something surprising or wrong",
-      "example": "The coach wondered what the y o u n g e r p l a y e rs had been g et t in g u p to .",
-      "keyChunkVi": "làm (thường là việc không hay) gì đó"
+      "example": "The coach wondered what the younger players had been getting up to.",
+      "keyChunkVi": "làm (thường là việc không hay) gì đó",
+      "highlightForms": [
+        "get up to",
+        "getting up to",
+        "got up to"
+      ]
     },
     {
       "id": "U4_phrasalVerb_go_in_for",
@@ -5343,7 +5353,7 @@
       "audioExample": "assets/audio/vocab/U4_phrasalVerb_look_out_for_example.mp3",
       "ipa": "/lˈʊk ˈaʊt/",
       "definition": "to be careful or watch for possible danger",
-      "example": "Look out when you cross the cycle track.",
+      "example": "Players had to look out for loose stones on the path.",
       "keyChunkVi": "chú ý/coi chừng những khu vực ướt"
     },
     {
@@ -5453,7 +5463,11 @@
       "ipa": "/tˈeɪk ˈʌp/",
       "definition": "to begin a hobby or sport; to fill an amount of time or space",
       "example": "She took up cycling during the summer holiday.",
-      "keyChunkVi": "bắt đầu tập chơi cầu lông"
+      "keyChunkVi": "bắt đầu tập chơi cầu lông",
+      "highlightForms": [
+        "take up",
+        "took up"
+      ]
     },
     {
       "id": "U5_phrasalVerb_bring_up",
