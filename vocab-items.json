@@ -5166,7 +5166,11 @@
       "ipa": "/bɹˈɪŋ fˈɔːwəd/",
       "definition": "to change an event to an earlier date or time",
       "example": "The organisers brought the final forward because heavy rain was expected.",
-      "keyChunkVi": "dời ngày lên sớm hơn"
+      "keyChunkVi": "dời ngày lên sớm hơn",
+      "highlightForms": [
+        "bring forward",
+        "bring the date forward"
+      ]
     },
     {
       "id": "U4_phrasalVerb_carry_on",
@@ -5206,7 +5210,11 @@
       "ipa": "/ɡɛt ɹˈaʊnd tuː/",
       "definition": "to finally do something after delaying it for some time",
       "example": "Leo finally got round to joining the chess club.",
-      "keyChunkVi": "cuối cùng cũng có thời gian làm gì đó"
+      "keyChunkVi": "cuối cùng cũng có thời gian làm gì đó",
+      "highlightForms": [
+        "get round to",
+        "got round to"
+      ]
     },
     {
       "id": "U4_phrasalVerb_get_up_to",
@@ -5266,7 +5274,13 @@
       "ipa": "/ɡˌəʊ ˈɒf/",
       "definition": "to stop liking or being interested in something",
       "example": "Ben went off basketball and started playing badminton instead.",
-      "keyChunkVi": "hết thích/không còn hứng thú với cái gì/ai đó"
+      "keyChunkVi": "hết thích/không còn hứng thú với cái gì/ai đó",
+      "highlightForms": [
+        "go off",
+        "gone off",
+        "goes off",
+        "went off"
+      ]
     },
     {
       "id": "U4_phrasalVerb_join_in",
@@ -5306,7 +5320,11 @@
       "ipa": "/nˈɒk ˈaʊt/",
       "definition": "to defeat and remove a competitor from a tournament; to make someone unconscious",
       "example": "Riverside knocked out the defending champions in the semi-final.",
-      "keyChunkVi": "loại một đội ra khỏi giải"
+      "keyChunkVi": "loại một đội ra khỏi giải",
+      "highlightForms": [
+        "knock out",
+        "knocked out"
+      ]
     },
     {
       "id": "U4_phrasalVerb_look_out_for",
@@ -5346,7 +5364,12 @@
       "ipa": "/pˈʊl ˈaʊt/",
       "definition": "to stop taking part in an activity or competition",
       "example": "One team pulled out after several players became ill.",
-      "keyChunkVi": "rút lui khỏi một cuộc thi"
+      "keyChunkVi": "rút lui khỏi một cuộc thi",
+      "highlightForms": [
+        "pull out of",
+        "pulled out of",
+        "pulled out"
+      ]
     },
     {
       "id": "U4_phrasalVerb_put_off",
@@ -5406,7 +5429,11 @@
       "ipa": "/tˈeɪk tuː/",
       "definition": "to begin to like or regularly do an activity",
       "example": "The younger pupils quickly took to archery.",
-      "keyChunkVi": "bắt đầu yêu thích môn bắn cung"
+      "keyChunkVi": "bắt đầu yêu thích môn bắn cung",
+      "highlightForms": [
+        "take to",
+        "took to"
+      ]
     },
     {
       "id": "U4_phrasalVerb_take_up",
@@ -5985,7 +6012,8 @@
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_best.mp3",
       "audioExample": "assets/audio/vocab/U4_collocation_best_example.mp3",
-      "keyChunkVi": "cố gắng hết sức; tận dụng tốt nhất điều gì đó"
+      "keyChunkVi": "cố gắng hết sức; tận dụng tốt nhất điều gì đó",
+      "audioPhrase": "do your best"
     },
     {
       "id": "U4_collocation_chance",
@@ -6002,7 +6030,8 @@
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_chance.mp3",
       "audioExample": "assets/audio/vocab/U4_collocation_chance_example.mp3",
-      "keyChunkVi": "có cơ hội để làm; có khả năng làm; đánh liều với"
+      "keyChunkVi": "có cơ hội để làm; có khả năng làm; đánh liều với",
+      "audioPhrase": "take a chance"
     },
     {
       "id": "U4_collocation_go",
@@ -6019,7 +6048,8 @@
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_go.mp3",
       "audioExample": "assets/audio/vocab/U4_collocation_go_example.mp3",
-      "keyChunkVi": "thử làm gì đó"
+      "keyChunkVi": "thử làm gì đó",
+      "audioPhrase": "have a go"
     },
     {
       "id": "U4_collocation_height",
@@ -6036,7 +6066,12 @@
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_height.mp3",
       "audioExample": "assets/audio/vocab/U4_collocation_height_example.mp3",
-      "keyChunkVi": "sợ độ cao; về chiều cao"
+      "keyChunkVi": "sợ độ cao; về chiều cao",
+      "highlightForms": [
+        "height",
+        "heights"
+      ],
+      "audioPhrase": "afraid of heights"
     },
     {
       "id": "U4_collocation_pleasure",
@@ -6053,7 +6088,8 @@
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_pleasure.mp3",
       "audioExample": "assets/audio/vocab/U4_collocation_pleasure_example.mp3",
-      "keyChunkVi": "cảm thấy vui thích khi làm gì đó"
+      "keyChunkVi": "cảm thấy vui thích khi làm gì đó",
+      "audioPhrase": "take pleasure in"
     },
     {
       "id": "U4_collocation_popular",
@@ -6070,7 +6106,8 @@
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_popular.mp3",
       "audioExample": "assets/audio/vocab/U4_collocation_popular_example.mp3",
-      "keyChunkVi": "được yêu thích bởi/trong số"
+      "keyChunkVi": "được yêu thích bởi/trong số",
+      "audioPhrase": "popular with"
     },
     {
       "id": "U4_collocation_talent",
@@ -6087,7 +6124,8 @@
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_talent.mp3",
       "audioExample": "assets/audio/vocab/U4_collocation_talent_example.mp3",
-      "keyChunkVi": "có năng khiếu về việc gì đó"
+      "keyChunkVi": "có năng khiếu về việc gì đó",
+      "audioPhrase": "have a talent for"
     },
     {
       "id": "U4_collocation_time",
@@ -6104,7 +6142,8 @@
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_time.mp3",
       "audioExample": "assets/audio/vocab/U4_collocation_time_example.mp3",
-      "keyChunkVi": "đúng giờ; cứ từ từ; dành thời gian làm gì"
+      "keyChunkVi": "đúng giờ; cứ từ từ; dành thời gian làm gì",
+      "audioPhrase": "take your time"
     },
     {
       "id": "U4_collocation_turn",
@@ -6121,7 +6160,12 @@
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_turn.mp3",
       "audioExample": "assets/audio/vocab/U4_collocation_turn_example.mp3",
-      "keyChunkVi": "thay phiên nhau làm; đến lượt bạn; lần lượt"
+      "keyChunkVi": "thay phiên nhau làm; đến lượt bạn; lần lượt",
+      "highlightForms": [
+        "turn",
+        "turns"
+      ],
+      "audioPhrase": "in turn"
     },
     {
       "id": "U4_collocation_compete",
@@ -6138,7 +6182,8 @@
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_compete.mp3",
       "audioExample": "assets/audio/vocab/U4_collocation_compete_example.mp3",
-      "keyChunkVi": "thi đấu với ai; tranh giành điều gì; thi đấu ở nội dung gì"
+      "keyChunkVi": "thi đấu với ai; tranh giành điều gì; thi đấu ở nội dung gì",
+      "audioPhrase": "compete for"
     },
     {
       "id": "U4_collocation_concentrate",
@@ -6155,7 +6200,8 @@
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_concentrate.mp3",
       "audioExample": "assets/audio/vocab/U4_collocation_concentrate_example.mp3",
-      "keyChunkVi": "tập trung vào việc gì đó"
+      "keyChunkVi": "tập trung vào việc gì đó",
+      "audioPhrase": "concentrate on"
     },
     {
       "id": "U4_collocation_difficult",
@@ -6172,7 +6218,8 @@
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_difficult.mp3",
       "audioExample": "assets/audio/vocab/U4_collocation_difficult_example.mp3",
-      "keyChunkVi": "thấy khó để làm gì đó"
+      "keyChunkVi": "thấy khó để làm gì đó",
+      "audioPhrase": "find it difficult"
     },
     {
       "id": "U4_collocation_fond",
@@ -6189,7 +6236,8 @@
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_fond.mp3",
       "audioExample": "assets/audio/vocab/U4_collocation_fond_example.mp3",
-      "keyChunkVi": "yêu thích điều gì đó"
+      "keyChunkVi": "yêu thích điều gì đó",
+      "audioPhrase": "fond of"
     },
     {
       "id": "U4_collocation_interested",
@@ -6206,7 +6254,8 @@
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_interested.mp3",
       "audioExample": "assets/audio/vocab/U4_collocation_interested_example.mp3",
-      "keyChunkVi": "quan tâm/hứng thú với điều gì đó"
+      "keyChunkVi": "quan tâm/hứng thú với điều gì đó",
+      "audioPhrase": "interested in"
     },
     {
       "id": "U4_collocation_involve",
@@ -6223,7 +6272,8 @@
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_involve.mp3",
       "audioExample": "assets/audio/vocab/U4_collocation_involve_example.mp3",
-      "keyChunkVi": "bao gồm việc làm gì; tham gia vào điều gì đó"
+      "keyChunkVi": "bao gồm việc làm gì; tham gia vào điều gì đó",
+      "audioPhrase": "be involved in"
     },
     {
       "id": "U4_collocation_mean",
@@ -6240,7 +6290,8 @@
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_mean.mp3",
       "audioExample": "assets/audio/vocab/U4_collocation_mean_example.mp3",
-      "keyChunkVi": "có ý định làm; đồng nghĩa với việc làm"
+      "keyChunkVi": "có ý định làm; đồng nghĩa với việc làm",
+      "audioPhrase": "mean to do"
     },
     {
       "id": "U4_collocation_prefer",
@@ -6257,7 +6308,8 @@
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_prefer.mp3",
       "audioExample": "assets/audio/vocab/U4_collocation_prefer_example.mp3",
-      "keyChunkVi": "thích A hơn B; thích làm việc này hơn làm việc kia"
+      "keyChunkVi": "thích A hơn B; thích làm việc này hơn làm việc kia",
+      "audioPhrase": "prefer to"
     },
     {
       "id": "U4_collocation_stop",
@@ -6274,7 +6326,12 @@
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_stop.mp3",
       "audioExample": "assets/audio/vocab/U4_collocation_stop_example.mp3",
-      "keyChunkVi": "ngừng làm; dừng lại để làm; ngăn ai đó làm"
+      "keyChunkVi": "ngừng làm; dừng lại để làm; ngăn ai đó làm",
+      "highlightForms": [
+        "stop",
+        "stopped"
+      ],
+      "audioPhrase": "stop doing"
     },
     {
       "id": "U4_collocation_sure_certain",
@@ -6291,7 +6348,8 @@
       "passageId": "U4_COLLOC",
       "audioWord": "assets/audio/vocab/U4_collocation_sure_certain.mp3",
       "audioExample": "assets/audio/vocab/U4_collocation_sure_certain_example.mp3",
-      "keyChunkVi": "chắc chắn rằng; chắc chắn sẽ làm; chắc chắn về"
+      "keyChunkVi": "chắc chắn rằng; chắc chắn sẽ làm; chắc chắn về",
+      "audioPhrase": "be sure of"
     },
     {
       "id": "U5_collocation_control",
