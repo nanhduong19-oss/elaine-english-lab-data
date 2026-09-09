@@ -378,6 +378,680 @@
           "sentenceWithGap": "During the football match, Riverside managed to ___ last year's champions.",
           "answer": "knock out"
         }
+      ],
+      "mcqSets": [
+        {
+          "id": "A",
+          "label": "Recognition & Pattern",
+          "questions": [
+            {
+              "id": "A1",
+              "questionHtml": "The meeting has been ___ forward by two days because several teachers are unavailable on Friday.",
+              "options": [
+                "carried",
+                "brought",
+                "pulled",
+                "taken"
+              ],
+              "answer": "brought"
+            },
+            {
+              "id": "A2",
+              "questionHtml": "Despite the rain, the players decided to carry ___ training.",
+              "options": [
+                "on",
+                "out",
+                "off",
+                "away"
+              ],
+              "answer": "on"
+            },
+            {
+              "id": "A3",
+              "questionHtml": "I still haven't got round ___ replying to all my emails.",
+              "options": [
+                "at",
+                "for",
+                "to",
+                "on"
+              ],
+              "answer": "to"
+            },
+            {
+              "id": "A4",
+              "questionHtml": "What have the children been getting ___ to upstairs? They've been very quiet!",
+              "options": [
+                "out",
+                "up",
+                "on",
+                "round"
+              ],
+              "answer": "up"
+            },
+            {
+              "id": "A5",
+              "questionHtml": "Maya has decided to go ___ for the school photography competition.",
+              "options": [
+                "in",
+                "on",
+                "out",
+                "up"
+              ],
+              "answer": "in"
+            },
+            {
+              "id": "A6",
+              "questionHtml": "Liam used to play basketball every weekend, but recently he's gone ___ it.",
+              "options": [
+                "over",
+                "down",
+                "off",
+                "through"
+              ],
+              "answer": "off"
+            },
+            {
+              "id": "A7",
+              "questionHtml": "Everyone was invited to join ___ the warm-up before the match.",
+              "options": [
+                "in",
+                "on",
+                "at",
+                "up"
+              ],
+              "answer": "in"
+            },
+            {
+              "id": "A8",
+              "questionHtml": "Riverside knocked the defending champions ___ in the semi-final.",
+              "options": [
+                "off",
+                "out",
+                "away",
+                "down"
+              ],
+              "answer": "out"
+            },
+            {
+              "id": "A9",
+              "questionHtml": "___ out! That ball is coming straight towards you.",
+              "options": [
+                "Turn",
+                "Go",
+                "Look",
+                "Pull"
+              ],
+              "answer": "Look"
+            },
+            {
+              "id": "A10",
+              "questionHtml": "One of the teams had to pull ___ because several players became ill.",
+              "options": [
+                "over",
+                "off",
+                "up",
+                "out"
+              ],
+              "answer": "out"
+            },
+            {
+              "id": "A11",
+              "questionHtml": "Heavy rain forced the organisers to put ___ the match until Saturday.",
+              "options": [
+                "away",
+                "out",
+                "off",
+                "up"
+              ],
+              "answer": "off"
+            },
+            {
+              "id": "A12",
+              "questionHtml": "We had to put ___ with loud music from next door all night.",
+              "options": [
+                "out",
+                "on",
+                "away",
+                "up"
+              ],
+              "answer": "up"
+            },
+            {
+              "id": "A13",
+              "questionHtml": "Although Maya had never tried archery before, she took ___ it immediately.",
+              "options": [
+                "up",
+                "on",
+                "in",
+                "to"
+              ],
+              "answer": "to"
+            },
+            {
+              "id": "A14",
+              "questionHtml": "After leaving university, Ben decided to take ___ photography as a new hobby.",
+              "options": [
+                "on",
+                "up",
+                "off",
+                "out"
+              ],
+              "answer": "up"
+            },
+            {
+              "id": "A15",
+              "questionHtml": "Because bad weather is expected later in the week, the final has been brought ___ to Tuesday.",
+              "options": [
+                "back",
+                "up",
+                "off",
+                "forward"
+              ],
+              "answer": "forward"
+            },
+            {
+              "id": "A16",
+              "questionHtml": "After a short break, the team carried on ___ for another hour.",
+              "options": [
+                "training",
+                "to trained",
+                "trained",
+                "train"
+              ],
+              "answer": "training"
+            },
+            {
+              "id": "A17",
+              "questionHtml": "I finally got round to ___ my application last night.",
+              "options": [
+                "finishing",
+                "finish",
+                "to finish",
+                "finished"
+              ],
+              "answer": "finishing"
+            },
+            {
+              "id": "A18",
+              "questionHtml": "What does get up to mean in the sentence “I wonder what the children have been getting up to”?",
+              "options": [
+                "delay something",
+                "enter a competition",
+                "do something, especially something surprising or wrong",
+                "start a new hobby"
+              ],
+              "answer": "do something, especially something surprising or wrong"
+            },
+            {
+              "id": "A19",
+              "questionHtml": "Daniel doesn't really ___ competitive sports; he prefers activities such as hiking and photography.",
+              "options": [
+                "put up with",
+                "pull out of",
+                "get round to",
+                "go in for"
+              ],
+              "answer": "go in for"
+            },
+            {
+              "id": "A20",
+              "questionHtml": "After playing football for years, Ben suddenly ___ it and became more interested in cycling.",
+              "options": [
+                "joined in",
+                "took up",
+                "went off",
+                "carried on"
+              ],
+              "answer": "went off"
+            },
+            {
+              "id": "A21",
+              "questionHtml": "The dance had already started, but everyone encouraged us to ___.",
+              "options": [
+                "join in",
+                "go off",
+                "pull out",
+                "put off"
+              ],
+              "answer": "join in"
+            },
+            {
+              "id": "A22",
+              "questionHtml": "The boxer was ___ in the second round and remained unconscious for several seconds.",
+              "options": [
+                "pulled out",
+                "knocked out",
+                "put off",
+                "brought forward"
+              ],
+              "answer": "knocked out"
+            },
+            {
+              "id": "A23",
+              "questionHtml": "Which phrasal verb means “be careful because there may be danger”?",
+              "options": [
+                "look out",
+                "go off",
+                "pull out",
+                "get up to"
+              ],
+              "answer": "look out"
+            },
+            {
+              "id": "A24",
+              "questionHtml": "The singer became ill the day before the final and had to ___ the competition.",
+              "options": [
+                "knock out",
+                "join in",
+                "go in for",
+                "pull out of"
+              ],
+              "answer": "pull out of"
+            },
+            {
+              "id": "A25",
+              "questionHtml": "The committee decided to ___ making a final decision until more information was available.",
+              "options": [
+                "carry on",
+                "take up",
+                "get round to",
+                "put off"
+              ],
+              "answer": "put off"
+            },
+            {
+              "id": "A26",
+              "questionHtml": "I can't ___ this noise much longer. I need somewhere quiet to work.",
+              "options": [
+                "carry on with",
+                "get up to",
+                "put up with",
+                "go in for"
+              ],
+              "answer": "put up with"
+            },
+            {
+              "id": "A27",
+              "questionHtml": "Elena had never played chess before, but after two lessons she really ___ it.",
+              "options": [
+                "went off",
+                "took to",
+                "pulled out of",
+                "put off"
+              ],
+              "answer": "took to"
+            },
+            {
+              "id": "A28",
+              "questionHtml": "After moving to the countryside, Noah decided to ___ gardening as a new hobby.",
+              "options": [
+                "go off",
+                "put up with",
+                "carry on",
+                "take up"
+              ],
+              "answer": "take up"
+            },
+            {
+              "id": "A29",
+              "questionHtml": "Checking and replying to emails can ___ a surprising amount of time.",
+              "options": [
+                "put off",
+                "carry on",
+                "take up",
+                "join in"
+              ],
+              "answer": "take up"
+            },
+            {
+              "id": "A30",
+              "questionHtml": "Because several students were absent, the teacher decided to ___ the test until Friday.",
+              "options": [
+                "bring forward",
+                "take up",
+                "carry on",
+                "put off"
+              ],
+              "answer": "put off"
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "label": "Contrast & FCE Context",
+          "questions": [
+            {
+              "id": "B1",
+              "questionHtml": "The conference was originally planned for Friday, but the organisers changed it to Wednesday. They ___ it.",
+              "options": [
+                "put off",
+                "pulled out of",
+                "carried on with",
+                "brought forward"
+              ],
+              "answer": "brought forward"
+            },
+            {
+              "id": "B2",
+              "questionHtml": "Even though it started raining heavily, the runners ___ until they reached the finish line.",
+              "options": [
+                "carried on",
+                "pulled out",
+                "went off",
+                "put off"
+              ],
+              "answer": "carried on"
+            },
+            {
+              "id": "B3",
+              "questionHtml": "I've been meaning to organise these files for weeks, but I still haven't ___.",
+              "options": [
+                "taken to it",
+                "gone in for it",
+                "put up with it",
+                "got round to it"
+              ],
+              "answer": "got round to it"
+            },
+            {
+              "id": "B4",
+              "questionHtml": "The teacher heard laughter coming from an empty classroom and went to see what the students were ___.",
+              "options": [
+                "putting up with",
+                "getting up to",
+                "pulling out of",
+                "going off"
+              ],
+              "answer": "getting up to"
+            },
+            {
+              "id": "B5",
+              "questionHtml": "Amy has filled in the official entry form because she has decided to ___ the national art competition.",
+              "options": [
+                "go in for",
+                "pull out of",
+                "put up with",
+                "get round to"
+              ],
+              "answer": "go in for"
+            },
+            {
+              "id": "B6",
+              "questionHtml": "Max loved skateboarding last year, but lately he has completely ___.",
+              "options": [
+                "gone off it",
+                "joined in",
+                "taken it up",
+                "carried on with it"
+              ],
+              "answer": "gone off it"
+            },
+            {
+              "id": "B7",
+              "questionHtml": "Sofia was unsure about yoga before her first lesson, but she enjoyed it immediately and now looks forward to every class. She ___.",
+              "options": [
+                "went off it",
+                "put up with it",
+                "carried on with it",
+                "took to it"
+              ],
+              "answer": "took to it"
+            },
+            {
+              "id": "B8",
+              "questionHtml": "The team was not defeated. It chose to leave the tournament because its captain was injured. It ___.",
+              "options": [
+                "was knocked out",
+                "pulled out",
+                "joined in",
+                "carried on"
+              ],
+              "answer": "pulled out"
+            },
+            {
+              "id": "B9",
+              "questionHtml": "One punch left the boxer unconscious for several seconds. It ___.",
+              "options": [
+                "put him off",
+                "pulled him out",
+                "knocked him out",
+                "brought him forward"
+              ],
+              "answer": "knocked him out"
+            },
+            {
+              "id": "B10",
+              "questionHtml": "“___! The floor is wet and very slippery.”",
+              "options": [
+                "Carry on",
+                "Look out",
+                "Join in",
+                "Go off"
+              ],
+              "answer": "Look out"
+            },
+            {
+              "id": "B11",
+              "questionHtml": "Our neighbours played loud music until two in the morning, but there was nothing we could do except ___.",
+              "options": [
+                "put up with it",
+                "get round to it",
+                "take it up",
+                "pull out of it"
+              ],
+              "answer": "put up with it"
+            },
+            {
+              "id": "B12",
+              "questionHtml": "This weekly meeting ___ so much time that staff struggle to finish their other work.",
+              "options": [
+                "takes up",
+                "puts off",
+                "goes off",
+                "joins in"
+              ],
+              "answer": "takes up"
+            },
+            {
+              "id": "B13",
+              "questionHtml": "The exam was supposed to take place on Monday, but it was moved to Friday. It was ___.",
+              "options": [
+                "brought forward",
+                "taken up",
+                "put off",
+                "carried on"
+              ],
+              "answer": "put off"
+            },
+            {
+              "id": "B14",
+              "questionHtml": "The game was already underway when Alex arrived, but his friends immediately asked him to ___.",
+              "options": [
+                "go in for",
+                "pull out",
+                "take up",
+                "join in"
+              ],
+              "answer": "join in"
+            },
+            {
+              "id": "B15",
+              "questionHtml": "Emma wanted to start a completely new hobby, so she decided to ___ photography.",
+              "options": [
+                "go off",
+                "take up",
+                "put up with",
+                "pull out of"
+              ],
+              "answer": "take up"
+            },
+            {
+              "id": "B16",
+              "questionHtml": "The school trip was scheduled for 10 May, but the bus company could only provide transport on 8 May. As a result, the school ___ the trip by two days.",
+              "options": [
+                "put off",
+                "carried on",
+                "pulled out",
+                "brought forward"
+              ],
+              "answer": "brought forward"
+            },
+            {
+              "id": "B17",
+              "questionHtml": "The temperature dropped sharply halfway through training. The coach, however, decided that conditions were still safe and told the players to ___.",
+              "options": [
+                "carry on",
+                "pull out",
+                "go off",
+                "put off"
+              ],
+              "answer": "carry on"
+            },
+            {
+              "id": "B18",
+              "questionHtml": "Daniel's application form had been sitting on his desk for almost a month. Yesterday, he finally ___.",
+              "options": [
+                "got round to sending it",
+                "went off sending it",
+                "took to sending it",
+                "put up with sending it"
+              ],
+              "answer": "got round to sending it"
+            },
+            {
+              "id": "B19",
+              "questionHtml": "Leo had been unusually secretive all afternoon, and his parents began to wonder what he had been ___.",
+              "options": [
+                "going in for",
+                "putting up with",
+                "getting up to",
+                "pulling out of"
+              ],
+              "answer": "getting up to"
+            },
+            {
+              "id": "B20",
+              "questionHtml": "Maria has always enjoyed competitive swimming, and this year she has completed an entry form for the school championship. She has decided to ___.",
+              "options": [
+                "join in swimming",
+                "go off swimming",
+                "go in for the competition",
+                "put up with the competition"
+              ],
+              "answer": "go in for the competition"
+            },
+            {
+              "id": "B21",
+              "questionHtml": "Sam used to watch every horror film he could find. Recently, however, he has stopped enjoying them and now prefers comedies. He has ___.",
+              "options": [
+                "taken them up",
+                "gone off them",
+                "joined in with them",
+                "carried on with them"
+              ],
+              "answer": "gone off them"
+            },
+            {
+              "id": "B22",
+              "questionHtml": "When the music started, only a few students were dancing. The teacher encouraged everyone else to ___.",
+              "options": [
+                "join in",
+                "pull out",
+                "put off",
+                "go off"
+              ],
+              "answer": "join in"
+            },
+            {
+              "id": "B23",
+              "questionHtml": "Riverside reached the quarter-final but lost 3–0, which meant that they were ___ of the competition.",
+              "options": [
+                "brought forward",
+                "put up with",
+                "carried on",
+                "knocked out"
+              ],
+              "answer": "knocked out"
+            },
+            {
+              "id": "B24",
+              "questionHtml": "A child stepped into the cycle lane without noticing an approaching bicycle. His mother shouted, “___!”",
+              "options": [
+                "Carry on!",
+                "Join in!",
+                "Look out!",
+                "Take up!"
+              ],
+              "answer": "Look out!"
+            },
+            {
+              "id": "B25",
+              "questionHtml": "Mia had trained for the race for months, but a knee injury two days before the event forced her to ___.",
+              "options": [
+                "join in",
+                "pull out",
+                "carry on",
+                "go in for it"
+              ],
+              "answer": "pull out"
+            },
+            {
+              "id": "B26",
+              "questionHtml": "Severe storms are expected on Saturday, so the organisers have decided that the outdoor concert will take place the following weekend instead. They have ___ it.",
+              "options": [
+                "brought forward",
+                "put off",
+                "carried on",
+                "taken up"
+              ],
+              "answer": "put off"
+            },
+            {
+              "id": "B27",
+              "questionHtml": "Building work next door has been extremely noisy for several weeks. The residents are unhappy, but for now they simply have to ___.",
+              "options": [
+                "get round to it",
+                "carry on with it",
+                "put up with it",
+                "take to it"
+              ],
+              "answer": "put up with it"
+            },
+            {
+              "id": "B28",
+              "questionHtml": "Clara wasn't sure she would enjoy badminton, but after her first lesson she became extremely enthusiastic about it. She quickly ___.",
+              "options": [
+                "went off it",
+                "pulled out of it",
+                "took to it",
+                "put it off"
+              ],
+              "answer": "took to it"
+            },
+            {
+              "id": "B29",
+              "questionHtml": "Tom wanted to become more active, so at the beginning of the summer he started swimming regularly as a new hobby. He ___.",
+              "options": [
+                "went off swimming",
+                "took up swimming",
+                "put off swimming",
+                "pulled out of swimming"
+              ],
+              "answer": "took up swimming"
+            },
+            {
+              "id": "B30",
+              "questionHtml": "We need a smaller table for the classroom because the current one ___ almost half the available space.",
+              "options": [
+                "puts off",
+                "takes up",
+                "carries on",
+                "brings forward"
+              ],
+              "answer": "takes up"
+            }
+          ]
+        }
       ]
     },
     {
