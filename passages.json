@@ -447,6 +447,900 @@
           "sentenceWithGap": "Riverside would ___ against Hillcrest and compete for the festival cup.",
           "answer": "compete"
         }
+      ],
+      "mcqSets": [
+        {
+          "id": "A",
+          "label": "Recognition & Components",
+          "questions": [
+            {
+              "id": "A1",
+              "questionHtml": "We couldn't change the weather, so we decided to ___ the best of it.",
+              "options": [
+                "make",
+                "do",
+                "take",
+                "get"
+              ],
+              "answer": "make"
+            },
+            {
+              "id": "A2",
+              "questionHtml": "They had only one afternoon in Rome, but they ___ the best of their short visit.",
+              "options": [
+                "took",
+                "did",
+                "made",
+                "got"
+              ],
+              "answer": "made"
+            },
+            {
+              "id": "A3",
+              "questionHtml": "You may not win the competition, but you should always ___ your best.",
+              "options": [
+                "make",
+                "do",
+                "take",
+                "give"
+              ],
+              "answer": "do"
+            },
+            {
+              "id": "A4",
+              "questionHtml": "I know the task is difficult, but just ___ your best.",
+              "options": [
+                "make",
+                "give",
+                "take",
+                "do"
+              ],
+              "answer": "do"
+            },
+            {
+              "id": "A5",
+              "questionHtml": "During the exchange programme, every student will ___ a chance to practise English.",
+              "options": [
+                "make",
+                "do",
+                "have",
+                "take"
+              ],
+              "answer": "have"
+            },
+            {
+              "id": "A6",
+              "questionHtml": "With more training, she has a good chance ___ winning the tournament.",
+              "options": [
+                "of",
+                "for",
+                "to",
+                "at"
+              ],
+              "answer": "of"
+            },
+            {
+              "id": "A7",
+              "questionHtml": "There is very little chance ___ the match finishing before dark.",
+              "options": [
+                "at",
+                "to",
+                "for",
+                "of"
+              ],
+              "answer": "of"
+            },
+            {
+              "id": "A8",
+              "questionHtml": "The manager decided to take a chance ___ a young designer with little experience.",
+              "options": [
+                "at",
+                "on",
+                "for",
+                "to"
+              ],
+              "answer": "on"
+            },
+            {
+              "id": "A9",
+              "questionHtml": "The coach took a chance ___ an inexperienced goalkeeper.",
+              "options": [
+                "on",
+                "at",
+                "with",
+                "for"
+              ],
+              "answer": "on"
+            },
+            {
+              "id": "A10",
+              "questionHtml": "Studying abroad was the chance ___ a lifetime for her.",
+              "options": [
+                "from",
+                "in",
+                "of",
+                "for"
+              ],
+              "answer": "of"
+            },
+            {
+              "id": "A11",
+              "questionHtml": "Performing at the international festival was ___ chance of a lifetime.",
+              "options": [
+                "one",
+                "a",
+                "this",
+                "the"
+              ],
+              "answer": "the"
+            },
+            {
+              "id": "A12",
+              "questionHtml": "I've never tried rock climbing, but I'd like to have a go ___ it.",
+              "options": [
+                "on",
+                "at",
+                "for",
+                "with"
+              ],
+              "answer": "at"
+            },
+            {
+              "id": "A13",
+              "questionHtml": "She takes great pleasure ___ helping younger students.",
+              "options": [
+                "from",
+                "at",
+                "in",
+                "with"
+              ],
+              "answer": "in"
+            },
+            {
+              "id": "A14",
+              "questionHtml": "Many people get pleasure ___ exercising outdoors.",
+              "options": [
+                "from",
+                "in",
+                "at",
+                "for"
+              ],
+              "answer": "from"
+            },
+            {
+              "id": "A15",
+              "questionHtml": "The new sports club is particularly popular ___ teenagers.",
+              "options": [
+                "for",
+                "to",
+                "among",
+                "with"
+              ],
+              "answer": "with"
+            },
+            {
+              "id": "A16",
+              "questionHtml": "Online learning has become increasingly popular ___ university students.",
+              "options": [
+                "between",
+                "among",
+                "to",
+                "by"
+              ],
+              "answer": "among"
+            },
+            {
+              "id": "A17",
+              "questionHtml": "When the committee members disagreed, most students sided ___ the teacher.",
+              "options": [
+                "with",
+                "for",
+                "to",
+                "by"
+              ],
+              "answer": "with"
+            },
+            {
+              "id": "A18",
+              "questionHtml": "Ben has a natural talent ___ designing attractive posters.",
+              "options": [
+                "at",
+                "with",
+                "in",
+                "for"
+              ],
+              "answer": "for"
+            },
+            {
+              "id": "A19",
+              "questionHtml": "The meeting began at exactly nine o'clock, so it started ___ time.",
+              "options": [
+                "in",
+                "at",
+                "on",
+                "by"
+              ],
+              "answer": "on"
+            },
+            {
+              "id": "A20",
+              "questionHtml": "We reached the airport just ___ time to catch our flight.",
+              "options": [
+                "on",
+                "in",
+                "at",
+                "by"
+              ],
+              "answer": "in"
+            },
+            {
+              "id": "A21",
+              "questionHtml": "It's ___ time the school replaced these old computers.",
+              "options": [
+                "long",
+                "big",
+                "strong",
+                "high"
+              ],
+              "answer": "high"
+            },
+            {
+              "id": "A22",
+              "questionHtml": "Social media can take ___ a large amount of your free time.",
+              "options": [
+                "over",
+                "up",
+                "away",
+                "out"
+              ],
+              "answer": "up"
+            },
+            {
+              "id": "A23",
+              "questionHtml": "Administrative work often ___ up most of her afternoon.",
+              "options": [
+                "spends",
+                "uses",
+                "takes",
+                "makes"
+              ],
+              "answer": "takes"
+            },
+            {
+              "id": "A24",
+              "questionHtml": "She ___ a lot of time practising for competitions.",
+              "options": [
+                "spends",
+                "takes",
+                "makes",
+                "gives"
+              ],
+              "answer": "spends"
+            },
+            {
+              "id": "A25",
+              "questionHtml": "Don't spend too much time ___ one difficult question in the exam.",
+              "options": [
+                "at",
+                "on",
+                "for",
+                "to"
+              ],
+              "answer": "on"
+            },
+            {
+              "id": "A26",
+              "questionHtml": "Even with a busy timetable, she manages to find time ___ every day.",
+              "options": [
+                "exercising",
+                "exercise",
+                "for exercise to",
+                "to exercise"
+              ],
+              "answer": "to exercise"
+            },
+            {
+              "id": "A27",
+              "questionHtml": "Students should ___ time for regular exercise during exam season.",
+              "options": [
+                "make",
+                "spend",
+                "take",
+                "do"
+              ],
+              "answer": "make"
+            },
+            {
+              "id": "A28",
+              "questionHtml": "The outdoor court is closed for the time ___.",
+              "options": [
+                "passing",
+                "going",
+                "being",
+                "staying"
+              ],
+              "answer": "being"
+            },
+            {
+              "id": "A29",
+              "questionHtml": "The four students presented their projects ___ turn.",
+              "options": [
+                "by",
+                "at",
+                "on",
+                "in"
+              ],
+              "answer": "in"
+            },
+            {
+              "id": "A30",
+              "questionHtml": "The children took ___ reading the dialogue aloud.",
+              "options": [
+                "changes",
+                "turns",
+                "rounds",
+                "times"
+              ],
+              "answer": "turns"
+            },
+            {
+              "id": "A31",
+              "questionHtml": "Because there was only one computer, the students took it ___ turns to use it.",
+              "options": [
+                "in",
+                "by",
+                "at",
+                "on"
+              ],
+              "answer": "in"
+            },
+            {
+              "id": "A32",
+              "questionHtml": "The new after-school club is especially popular ___ younger students.",
+              "options": [
+                "through",
+                "between",
+                "among",
+                "by"
+              ],
+              "answer": "among"
+            },
+            {
+              "id": "A33",
+              "questionHtml": "She takes pleasure ___ seeing her students become more confident.",
+              "options": [
+                "at",
+                "in",
+                "from",
+                "with"
+              ],
+              "answer": "in"
+            },
+            {
+              "id": "A34",
+              "questionHtml": "He gets a lot of pleasure ___ cooking for his family.",
+              "options": [
+                "in",
+                "at",
+                "with",
+                "from"
+              ],
+              "answer": "from"
+            },
+            {
+              "id": "A35",
+              "questionHtml": "Every student will have a chance ___ the new equipment.",
+              "options": [
+                "trying",
+                "try",
+                "to try",
+                "tried"
+              ],
+              "answer": "to try"
+            },
+            {
+              "id": "A36",
+              "questionHtml": "They have a good chance of ___ the next round.",
+              "options": [
+                "reaching",
+                "reach",
+                "to reach",
+                "reached"
+              ],
+              "answer": "reaching"
+            },
+            {
+              "id": "A37",
+              "questionHtml": "There is some chance ___ the event being cancelled if the weather gets worse.",
+              "options": [
+                "to",
+                "for",
+                "of",
+                "at"
+              ],
+              "answer": "of"
+            },
+            {
+              "id": "A38",
+              "questionHtml": "If you've never played tennis before, why not have a go ___ it?",
+              "options": [
+                "on",
+                "at",
+                "with",
+                "for"
+              ],
+              "answer": "at"
+            },
+            {
+              "id": "A39",
+              "questionHtml": "It's about time the students ___ more responsibility for their own learning.",
+              "options": [
+                "take",
+                "have taken",
+                "will take",
+                "took"
+              ],
+              "answer": "took"
+            },
+            {
+              "id": "A40",
+              "questionHtml": "The team members took turns ___ the equipment back to the store room.",
+              "options": [
+                "carrying",
+                "carry",
+                "to carrying",
+                "carried"
+              ],
+              "answer": "carrying"
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "label": "FCE Collocation Mastery",
+          "questions": [
+            {
+              "id": "B1",
+              "questionHtml": "I finally got a chance ___ the museum while I was in London.",
+              "options": [
+                "visiting",
+                "to visit",
+                "visit",
+                "visited"
+              ],
+              "answer": "to visit"
+            },
+            {
+              "id": "B2",
+              "questionHtml": "The team has an excellent chance of ___ the championship this year.",
+              "options": [
+                "win",
+                "to win",
+                "won",
+                "winning"
+              ],
+              "answer": "winning"
+            },
+            {
+              "id": "B3",
+              "questionHtml": "There is little chance of the weather ___ before this afternoon.",
+              "options": [
+                "improving",
+                "improve",
+                "to improve",
+                "improved"
+              ],
+              "answer": "improving"
+            },
+            {
+              "id": "B4",
+              "questionHtml": "Ben had a go at ___ his bike without asking anyone for help.",
+              "options": [
+                "repair",
+                "to repair",
+                "repairing",
+                "repaired"
+              ],
+              "answer": "repairing"
+            },
+            {
+              "id": "B5",
+              "questionHtml": "She takes great pleasure in ___ new recipes for her family.",
+              "options": [
+                "try",
+                "to try",
+                "tried",
+                "trying"
+              ],
+              "answer": "trying"
+            },
+            {
+              "id": "B6",
+              "questionHtml": "He gets a great deal of pleasure from ___ old bicycles.",
+              "options": [
+                "restore",
+                "restoring",
+                "to restore",
+                "restored"
+              ],
+              "answer": "restoring"
+            },
+            {
+              "id": "B7",
+              "questionHtml": "Maya has a real talent for ___ difficult ideas clearly.",
+              "options": [
+                "explain",
+                "to explain",
+                "explaining",
+                "explained"
+              ],
+              "answer": "explaining"
+            },
+            {
+              "id": "B8",
+              "questionHtml": "He spends most evenings ___ for the entrance examination.",
+              "options": [
+                "studying",
+                "study",
+                "to study",
+                "studied"
+              ],
+              "answer": "studying"
+            },
+            {
+              "id": "B9",
+              "questionHtml": "The class spent a lot of time ___ the final presentation.",
+              "options": [
+                "at",
+                "on",
+                "to",
+                "for"
+              ],
+              "answer": "on"
+            },
+            {
+              "id": "B10",
+              "questionHtml": "Despite her busy schedule, she found time ___ her grandparents.",
+              "options": [
+                "visiting",
+                "visit",
+                "for visiting to",
+                "to visit"
+              ],
+              "answer": "to visit"
+            },
+            {
+              "id": "B11",
+              "questionHtml": "It's high time we ___ the way we prepare students for the exam.",
+              "options": [
+                "changed",
+                "change",
+                "will change",
+                "have changed"
+              ],
+              "answer": "changed"
+            },
+            {
+              "id": "B12",
+              "questionHtml": "The students took turns ___ the results to the class.",
+              "options": [
+                "present",
+                "presented",
+                "presenting",
+                "to presenting"
+              ],
+              "answer": "presenting"
+            },
+            {
+              "id": "B13",
+              "questionHtml": "Even during the busiest weeks, teachers need to make time ___ professional development.",
+              "options": [
+                "on",
+                "for",
+                "to",
+                "at"
+              ],
+              "answer": "for"
+            },
+            {
+              "id": "B14",
+              "questionHtml": "The train left at exactly 7:30, as scheduled. It departed ___.",
+              "options": [
+                "on time",
+                "in time",
+                "at the time",
+                "for the time being"
+              ],
+              "answer": "on time"
+            },
+            {
+              "id": "B15",
+              "questionHtml": "We ran all the way to the station and arrived just ___ to catch the last train.",
+              "options": [
+                "on time",
+                "at the time",
+                "for the time being",
+                "in time"
+              ],
+              "answer": "in time"
+            },
+            {
+              "id": "B16",
+              "questionHtml": "The hotel was far from ideal, but there were no other rooms available, so we decided to ___.",
+              "options": [
+                "do our best",
+                "have a go at it",
+                "make the best of it",
+                "take a chance on it"
+              ],
+              "answer": "make the best of it"
+            },
+            {
+              "id": "B17",
+              "questionHtml": "Winning is not everything; the coach simply expects every player to ___.",
+              "options": [
+                "make the best of it",
+                "have a go at it",
+                "take a chance on it",
+                "do their best"
+              ],
+              "answer": "do their best"
+            },
+            {
+              "id": "B18",
+              "questionHtml": "The workshop gave every student ten minutes to try the new equipment, so everyone ___.",
+              "options": [
+                "took a chance on it",
+                "had a chance to use it",
+                "had a chance of using it successfully",
+                "had the chance of a lifetime"
+              ],
+              "answer": "had a chance to use it"
+            },
+            {
+              "id": "B19",
+              "questionHtml": "After five victories in a row, the team is now very likely to qualify. It ___.",
+              "options": [
+                "has a good chance of reaching the final",
+                "has the chance of a lifetime",
+                "takes a chance on reaching the final",
+                "has a chance to take part"
+              ],
+              "answer": "has a good chance of reaching the final"
+            },
+            {
+              "id": "B20",
+              "questionHtml": "The company employed an unknown designer despite the risk. In other words, it ___.",
+              "options": [
+                "had a chance of him",
+                "made the best of him",
+                "took a chance on him",
+                "took pleasure in him"
+              ],
+              "answer": "took a chance on him"
+            },
+            {
+              "id": "B21",
+              "questionHtml": "I've never tried pottery before, but I'd really like to ___.",
+              "options": [
+                "make the best of it",
+                "take pleasure from it",
+                "have a go at it",
+                "side with it"
+              ],
+              "answer": "have a go at it"
+            },
+            {
+              "id": "B22",
+              "questionHtml": "She takes great pleasure ___ helping students who find maths difficult.",
+              "options": [
+                "in",
+                "from",
+                "at",
+                "with"
+              ],
+              "answer": "in"
+            },
+            {
+              "id": "B23",
+              "questionHtml": "Restoring old bicycles is something he gets a great deal of pleasure ___.",
+              "options": [
+                "in",
+                "at",
+                "with",
+                "from"
+              ],
+              "answer": "from"
+            },
+            {
+              "id": "B24",
+              "questionHtml": "The interview started at exactly nine o'clock, as arranged. It began ___.",
+              "options": [
+                "in time",
+                "on time",
+                "for the time being",
+                "just in time"
+              ],
+              "answer": "on time"
+            },
+            {
+              "id": "B25",
+              "questionHtml": "The firefighters arrived only minutes before the flames reached the next building. Fortunately, they got there ___.",
+              "options": [
+                "in time",
+                "on time",
+                "in turn",
+                "for the time being"
+              ],
+              "answer": "in time"
+            },
+            {
+              "id": "B26",
+              "questionHtml": "She spends several hours each week ___ speaking English with online partners.",
+              "options": [
+                "practise",
+                "to practise",
+                "practising",
+                "practised"
+              ],
+              "answer": "practising"
+            },
+            {
+              "id": "B27",
+              "questionHtml": "He spends far too much time ___ minor details instead of focusing on the main argument.",
+              "options": [
+                "at",
+                "for",
+                "with",
+                "on"
+              ],
+              "answer": "on"
+            },
+            {
+              "id": "B28",
+              "questionHtml": "Even during a busy school term, teachers should ___ professional development.",
+              "options": [
+                "take time on",
+                "make time for",
+                "spend time to",
+                "find time for doing to"
+              ],
+              "answer": "make time for"
+            },
+            {
+              "id": "B29",
+              "questionHtml": "The three candidates entered the interview room ___.",
+              "options": [
+                "in turn",
+                "on time",
+                "for the time being",
+                "in time"
+              ],
+              "answer": "in turn"
+            },
+            {
+              "id": "B30",
+              "questionHtml": "As there was only one telescope, the students ___ use it.",
+              "options": [
+                "took turns using to",
+                "took a chance to",
+                "took it in turns to",
+                "spent time to"
+              ],
+              "answer": "took it in turns to"
+            },
+            {
+              "id": "B31",
+              "questionHtml": "Heavy rain ruined most of the class's outdoor plans. Instead of complaining, the students moved everything indoors and tried to enjoy the day. They decided to ___.",
+              "options": [
+                "do their best",
+                "make the best of the situation",
+                "take a chance on the situation",
+                "have a go at the situation"
+              ],
+              "answer": "make the best of the situation"
+            },
+            {
+              "id": "B32",
+              "questionHtml": "“The other competitors may have more experience,” the coach said, “but all I expect you to do is ___.”",
+              "options": [
+                "make the best of it",
+                "take a chance on it",
+                "have a go at it",
+                "do your best"
+              ],
+              "answer": "do your best"
+            },
+            {
+              "id": "B33",
+              "questionHtml": "After winning five matches in a row, the team is now considered very likely to qualify for the next stage. It ___.",
+              "options": [
+                "has the chance of a lifetime",
+                "has a chance to participate",
+                "has a good chance of reaching the final",
+                "takes a chance on reaching the final"
+              ],
+              "answer": "has a good chance of reaching the final"
+            },
+            {
+              "id": "B34",
+              "questionHtml": "Heavy snow is expected throughout the night, and the organisers say tomorrow's match is highly unlikely to go ahead. There is ___.",
+              "options": [
+                "little chance of it going ahead",
+                "a chance to hold it",
+                "the chance of a lifetime",
+                "a chance on holding it"
+              ],
+              "answer": "little chance of it going ahead"
+            },
+            {
+              "id": "B35",
+              "questionHtml": "Even as a child, Lena could draw people's faces accurately after seeing them only once. She clearly ___.",
+              "options": [
+                "takes pleasure in drawing",
+                "has a chance of drawing",
+                "makes time for drawing",
+                "has a talent for drawing"
+              ],
+              "answer": "has a talent for drawing"
+            },
+            {
+              "id": "B36",
+              "questionHtml": "The school bus was scheduled to leave at 7:15. It pulled away at exactly 7:15, so it left ___.",
+              "options": [
+                "in time",
+                "on time",
+                "for the time being",
+                "in turn"
+              ],
+              "answer": "on time"
+            },
+            {
+              "id": "B37",
+              "questionHtml": "Sam entered the cinema only a few seconds before the film began. He arrived ___.",
+              "options": [
+                "just in time",
+                "on time every day",
+                "for the time being",
+                "in turn"
+              ],
+              "answer": "just in time"
+            },
+            {
+              "id": "B38",
+              "questionHtml": "The computers are more than ten years old and frequently stop working. It's high time the school ___.",
+              "options": [
+                "replaces them",
+                "will replace them",
+                "replaced them",
+                "has replacing them"
+              ],
+              "answer": "replaced them"
+            },
+            {
+              "id": "B39",
+              "questionHtml": "Mia's essay contains good ideas, but she often spends so much time ___ the wording of the introduction that she has too little time left for the main paragraphs.",
+              "options": [
+                "at",
+                "for",
+                "with",
+                "on"
+              ],
+              "answer": "on"
+            },
+            {
+              "id": "B40",
+              "questionHtml": "There was only one tablet for the four students, so they ___ using it to complete the activity.",
+              "options": [
+                "spent time",
+                "took turns",
+                "made time for",
+                "took pleasure in"
+              ],
+              "answer": "took turns"
+            }
+          ]
+        }
       ]
     },
     {
