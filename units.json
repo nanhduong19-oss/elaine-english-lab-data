@@ -58,7 +58,7 @@
           "id": 5,
           "name": "Unit 5: Literature, Publishing & Reading",
           "skills": {
-            "vocab": false,
+            "vocab": true,
             "wordFormation": false,
             "ueo": false,
             "reading": false,
