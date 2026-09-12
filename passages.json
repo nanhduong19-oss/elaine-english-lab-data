@@ -3302,7 +3302,1061 @@
           "answer": "likely"
         }
       ],
-      "image": "assets/images/passages/U5_COLLOC.jpg"
+      "image": "assets/images/passages/U5_COLLOC.jpg",
+      "mcqSets": [
+        {
+          "id": "A",
+          "label": "Recognition & Components",
+          "questions": [
+            {
+              "id": "A1",
+              "questionHtml": "Leo decided to ___ control of the final preparations.",
+              "options": [
+                "take",
+                "make",
+                "give",
+                "hold"
+              ],
+              "answer": "take",
+              "sentenceVi": "Leo quyết định nắm quyền kiểm soát khâu chuẩn bị cuối cùng.",
+              "explanation": "'take control of sth' nghĩa nắm quyền kiểm soát; make/give/hold không tạo thành cụm đúng nghĩa ở đây."
+            },
+            {
+              "id": "A2",
+              "questionHtml": "By Friday afternoon, the timetable was completely ___ control.",
+              "options": [
+                "at",
+                "under",
+                "in",
+                "with"
+              ],
+              "answer": "under",
+              "sentenceVi": "Đến chiều thứ Sáu, lịch trình đã hoàn toàn trong tầm kiểm soát.",
+              "explanation": "'under control' nghĩa trong tầm kiểm soát; at/in/with control không đúng cấu trúc."
+            },
+            {
+              "id": "A3",
+              "questionHtml": "The publication process was ___ the control of the editor.",
+              "options": [
+                "at",
+                "on",
+                "under",
+                "by"
+              ],
+              "answer": "under",
+              "sentenceVi": "Quá trình xuất bản nằm dưới sự kiểm soát của biên tập viên.",
+              "explanation": "'under the control of sb' nghĩa dưới sự kiểm soát của ai; at/on/by the control không đúng cấu trúc."
+            },
+            {
+              "id": "A4",
+              "questionHtml": "The queue became completely ___ of control when the author arrived.",
+              "options": [
+                "away",
+                "outside",
+                "off",
+                "out"
+              ],
+              "answer": "out",
+              "sentenceVi": "Hàng người trở nên hoàn toàn mất kiểm soát khi tác giả xuất hiện.",
+              "explanation": "'out of control' nghĩa mất kiểm soát; away/outside/off of control không đúng cấu trúc."
+            },
+            {
+              "id": "A5",
+              "questionHtml": "Ben gave a clear ___ of the new exhibition area.",
+              "options": [
+                "description",
+                "difference",
+                "influence",
+                "view"
+              ],
+              "answer": "description",
+              "sentenceVi": "Ben đưa ra một mô tả rõ ràng về khu trưng bày mới.",
+              "explanation": "'give a description of sth' nghĩa mô tả điều gì; difference/influence/view không đúng nghĩa."
+            },
+            {
+              "id": "A6",
+              "questionHtml": "Better signs made a real ___ to the visitor experience.",
+              "options": [
+                "influence",
+                "difference",
+                "description",
+                "control"
+              ],
+              "answer": "difference",
+              "sentenceVi": "Những biển chỉ dẫn tốt hơn đã tạo ra sự khác biệt thực sự cho trải nghiệm của khách tham quan.",
+              "explanation": "'make a difference to sth' nghĩa tạo ra sự khác biệt cho điều gì; influence/description/control không đúng nghĩa."
+            },
+            {
+              "id": "A7",
+              "questionHtml": "Readers could easily tell the ___ between the original and revised covers.",
+              "options": [
+                "influence",
+                "change",
+                "difference",
+                "view"
+              ],
+              "answer": "difference",
+              "sentenceVi": "Độc giả có thể dễ dàng nhận ra sự khác biệt giữa bìa gốc và bìa đã chỉnh sửa.",
+              "explanation": "'tell the difference between' nghĩa phân biệt được giữa hai thứ; influence/change/view không đúng nghĩa."
+            },
+            {
+              "id": "A8",
+              "questionHtml": "There was very little ___ between the two printed versions.",
+              "options": [
+                "control",
+                "description",
+                "influence",
+                "difference"
+              ],
+              "answer": "difference",
+              "sentenceVi": "Có rất ít sự khác biệt giữa hai bản in.",
+              "explanation": "'difference between' nghĩa sự khác biệt giữa; control/description/influence không đúng nghĩa."
+            },
+            {
+              "id": "A9",
+              "questionHtml": "The organisers never took the volunteers ___ granted.",
+              "options": [
+                "for",
+                "as",
+                "by",
+                "with"
+              ],
+              "answer": "for",
+              "sentenceVi": "Ban tổ chức không bao giờ xem thường công sức của các tình nguyện viên.",
+              "explanation": "'take sb for granted' nghĩa xem nhẹ/không trân trọng công sức của ai; as/by/with granted không đúng cấu trúc."
+            },
+            {
+              "id": "A10",
+              "questionHtml": "Online reviews can have a strong influence ___ readers' choices.",
+              "options": [
+                "at",
+                "on",
+                "to",
+                "with"
+              ],
+              "answer": "on",
+              "sentenceVi": "Các đánh giá trực tuyến có thể có ảnh hưởng mạnh mẽ đến lựa chọn của độc giả.",
+              "explanation": "'have an influence on sth' nghĩa có ảnh hưởng đến điều gì; at/to/with không đúng giới từ."
+            },
+            {
+              "id": "A11",
+              "questionHtml": "Social media can ___ the books teenagers choose to read.",
+              "options": [
+                "describe",
+                "question",
+                "influence",
+                "watch"
+              ],
+              "answer": "influence",
+              "sentenceVi": "Mạng xã hội có thể ảnh hưởng đến việc thanh thiếu niên chọn đọc sách nào.",
+              "explanation": "'influence sth' (động từ) nghĩa ảnh hưởng đến điều gì; describe/question/watch không đúng nghĩa."
+            },
+            {
+              "id": "A12",
+              "questionHtml": "The full programme was published ___ the Internet.",
+              "options": [
+                "at",
+                "in",
+                "over",
+                "on"
+              ],
+              "answer": "on",
+              "sentenceVi": "Toàn bộ chương trình đã được đăng tải trên Internet.",
+              "explanation": "'on the Internet' nghĩa trên mạng Internet; at/in/over không đúng giới từ đi kèm cố định."
+            },
+            {
+              "id": "A13",
+              "questionHtml": "The team sent the final catalogue ___ the Internet.",
+              "options": [
+                "over",
+                "at",
+                "from",
+                "into"
+              ],
+              "answer": "over",
+              "sentenceVi": "Nhóm đã gửi danh mục cuối cùng qua Internet.",
+              "explanation": "'send sth over the Internet' nghĩa gửi cái gì qua mạng; at/from/into không đúng giới từ."
+            },
+            {
+              "id": "A14",
+              "questionHtml": "Students were asked to ___ the Internet for information about the novelist.",
+              "options": [
+                "search at",
+                "surf",
+                "move over",
+                "watch"
+              ],
+              "answer": "surf",
+              "sentenceVi": "Học sinh được yêu cầu lướt Internet để tìm thông tin về tiểu thuyết gia.",
+              "explanation": "'surf the Internet' nghĩa lướt mạng; search at, move over, watch không tạo thành cụm cố định đúng."
+            },
+            {
+              "id": "A15",
+              "questionHtml": "The novelist was ___ the news after winning a major award.",
+              "options": [
+                "at",
+                "over",
+                "in",
+                "with"
+              ],
+              "answer": "in",
+              "sentenceVi": "Nhà văn đã xuất hiện trên tin tức sau khi giành được một giải thưởng lớn.",
+              "explanation": "'be in the news' nghĩa được nhắc đến trên tin tức; at/over/with không đúng giới từ."
+            },
+            {
+              "id": "A16",
+              "questionHtml": "The festival appeared ___ the evening news.",
+              "options": [
+                "in",
+                "at",
+                "over",
+                "on"
+              ],
+              "answer": "on",
+              "sentenceVi": "Lễ hội đã xuất hiện trên bản tin tối.",
+              "explanation": "'on the news' nghĩa trên bản tin (được phát sóng); in/at/over không đúng giới từ trong cụm này."
+            },
+            {
+              "id": "A17",
+              "questionHtml": "Leo was delighted to ___ the news about the new book deal.",
+              "options": [
+                "hear",
+                "listen",
+                "watch",
+                "receive"
+              ],
+              "answer": "hear",
+              "sentenceVi": "Leo rất vui khi nghe tin về hợp đồng sách mới.",
+              "explanation": "'hear the news' nghĩa nghe tin tức; listen/watch/receive không đúng động từ đi cùng 'the news' trong ngữ cảnh này."
+            },
+            {
+              "id": "A18",
+              "questionHtml": "The author talk will ___ place in the main hall.",
+              "options": [
+                "make",
+                "take",
+                "have",
+                "do"
+              ],
+              "answer": "take",
+              "sentenceVi": "Buổi trò chuyện với tác giả sẽ diễn ra tại hội trường chính.",
+              "explanation": "'take place' nghĩa diễn ra; make/have/do place không đúng cụm cố định."
+            },
+            {
+              "id": "A19",
+              "questionHtml": "The launch used the main hall ___ place of the smaller library.",
+              "options": [
+                "at",
+                "on",
+                "in",
+                "for"
+              ],
+              "answer": "in",
+              "sentenceVi": "Buổi ra mắt đã sử dụng hội trường chính thay vì thư viện nhỏ hơn.",
+              "explanation": "'in place of sth' nghĩa thay vì/thay thế cho; at/on/for place không đúng cấu trúc."
+            },
+            {
+              "id": "A20",
+              "questionHtml": "Visitors collected their tickets ___ a place near the entrance.",
+              "options": [
+                "on",
+                "by",
+                "from",
+                "at"
+              ],
+              "answer": "at",
+              "sentenceVi": "Khách tham quan nhận vé tại một địa điểm gần lối vào.",
+              "explanation": "'at a place' nghĩa tại một địa điểm/nơi chốn; on/by/from không đúng giới từ."
+            },
+            {
+              "id": "A21",
+              "questionHtml": "Maya asked a ___ about the setting of the novel.",
+              "options": [
+                "question",
+                "view",
+                "control",
+                "description"
+              ],
+              "answer": "question",
+              "sentenceVi": "Maya đặt một câu hỏi về bối cảnh của cuốn tiểu thuyết.",
+              "explanation": "'ask a question' nghĩa đặt câu hỏi; view/control/description không đúng nghĩa."
+            },
+            {
+              "id": "A22",
+              "questionHtml": "The novelist patiently ___ every question from the audience.",
+              "options": [
+                "asked",
+                "answered",
+                "questioned",
+                "viewed"
+              ],
+              "answer": "answered",
+              "sentenceVi": "Nhà văn kiên nhẫn trả lời mọi câu hỏi từ khán giả.",
+              "explanation": "'answer a question' nghĩa trả lời câu hỏi; asked/questioned/viewed không đúng nghĩa."
+            },
+            {
+              "id": "A23",
+              "questionHtml": "Several critics ___ the writer's choice of ending.",
+              "options": [
+                "answered",
+                "watched",
+                "questioned",
+                "described"
+              ],
+              "answer": "questioned",
+              "sentenceVi": "Một số nhà phê bình đặt nghi vấn về lựa chọn kết truyện của nhà văn.",
+              "explanation": "'question sth' (động từ) nghĩa đặt nghi vấn/hoài nghi về điều gì; answered/watched/described không đúng nghĩa."
+            },
+            {
+              "id": "A24",
+              "questionHtml": "The book ___ question was first published ten years ago.",
+              "options": [
+                "at",
+                "under",
+                "on",
+                "in"
+              ],
+              "answer": "in",
+              "sentenceVi": "Cuốn sách đang được nhắc đến lần đầu được xuất bản cách đây mười năm.",
+              "explanation": "'the ... in question' nghĩa cái đang được nói đến/đang bàn tới; at/under/on question không đúng cấu trúc."
+            },
+            {
+              "id": "A25",
+              "questionHtml": "Remember to put a question ___ at the end of a direct question.",
+              "options": [
+                "mark",
+                "sign",
+                "point",
+                "symbol"
+              ],
+              "answer": "mark",
+              "sentenceVi": "Nhớ đặt dấu chấm hỏi ở cuối câu hỏi trực tiếp.",
+              "explanation": "'question mark' nghĩa dấu chấm hỏi; sign/point/symbol không tạo thành cụm cố định đúng."
+            },
+            {
+              "id": "A26",
+              "questionHtml": "The two critics ___ very different views of the novel.",
+              "options": [
+                "made",
+                "held",
+                "gave",
+                "watched"
+              ],
+              "answer": "held",
+              "sentenceVi": "Hai nhà phê bình có những quan điểm rất khác nhau về cuốn tiểu thuyết.",
+              "explanation": "'hold a view' nghĩa có/giữ một quan điểm; made/gave/watched views không đúng động từ đi cùng."
+            },
+            {
+              "id": "A27",
+              "questionHtml": "It was Leo's ___ that the opening chapter was the strongest.",
+              "options": [
+                "news",
+                "question",
+                "view",
+                "control"
+              ],
+              "answer": "view",
+              "sentenceVi": "Đó là quan điểm của Leo rằng chương mở đầu là phần mạnh nhất.",
+              "explanation": "'sb's view that...' nghĩa quan điểm của ai đó rằng; news/question/control không đúng nghĩa."
+            },
+            {
+              "id": "A28",
+              "questionHtml": "___ my view, the new cover is much more attractive.",
+              "options": [
+                "At",
+                "On",
+                "From",
+                "In"
+              ],
+              "answer": "In",
+              "sentenceVi": "Theo quan điểm của tôi, bìa sách mới hấp dẫn hơn nhiều.",
+              "explanation": "'in my view' nghĩa theo quan điểm của tôi; at/on/from my view không đúng giới từ cố định."
+            },
+            {
+              "id": "A29",
+              "questionHtml": "___ view of the younger audience, the writer chose a shorter extract.",
+              "options": [
+                "In",
+                "At",
+                "On",
+                "With"
+              ],
+              "answer": "In",
+              "sentenceVi": "Vì xét đến đối tượng khán giả nhỏ tuổi hơn, nhà văn đã chọn một đoạn trích ngắn hơn.",
+              "explanation": "'in view of sth' nghĩa xét đến/vì lý do; at/on/with view of không đúng giới từ cố định."
+            },
+            {
+              "id": "A30",
+              "questionHtml": "Visitors stayed after the event to ___ the view from the gallery window.",
+              "options": [
+                "hold",
+                "see",
+                "take",
+                "give"
+              ],
+              "answer": "see",
+              "sentenceVi": "Khách tham quan ở lại sau sự kiện để ngắm cảnh từ cửa sổ phòng trưng bày.",
+              "explanation": "'see the view' nghĩa ngắm cảnh; hold/take/give the view không đúng động từ đi cùng trong ngữ cảnh ngắm cảnh."
+            },
+            {
+              "id": "A31",
+              "questionHtml": "The gallery offers a wonderful ___ of the festival gardens.",
+              "options": [
+                "question",
+                "watch",
+                "view",
+                "news"
+              ],
+              "answer": "view",
+              "sentenceVi": "Phòng trưng bày mang lại một tầm nhìn tuyệt đẹp ra khu vườn lễ hội.",
+              "explanation": "'a view of sth' nghĩa tầm nhìn/cảnh nhìn ra điều gì; question/watch/news không đúng nghĩa."
+            },
+            {
+              "id": "A32",
+              "questionHtml": "The ___ from the top floor was particularly impressive.",
+              "options": [
+                "control",
+                "influence",
+                "difference",
+                "view"
+              ],
+              "answer": "view",
+              "sentenceVi": "Tầm nhìn từ tầng trên cùng đặc biệt ấn tượng.",
+              "explanation": "'view from' nghĩa tầm nhìn từ (một vị trí); control/influence/difference không đúng nghĩa."
+            },
+            {
+              "id": "A33",
+              "questionHtml": "Ben ___ the audience carefully during the reading.",
+              "options": [
+                "watched",
+                "viewed",
+                "looked",
+                "saw out"
+              ],
+              "answer": "watched",
+              "sentenceVi": "Ben quan sát khán giả cẩn thận trong suốt buổi đọc.",
+              "explanation": "'watch sb' nghĩa quan sát/theo dõi ai; viewed/looked/saw out không đúng động từ trong ngữ cảnh này."
+            },
+            {
+              "id": "A34",
+              "questionHtml": "Volunteers were asked to watch ___ visitors who needed help.",
+              "options": [
+                "at",
+                "out for",
+                "over",
+                "after for"
+              ],
+              "answer": "out for",
+              "sentenceVi": "Tình nguyện viên được yêu cầu để ý đến những khách tham quan cần giúp đỡ.",
+              "explanation": "'watch out for sb' nghĩa để ý/chú ý đến ai; at/over/after for watch không tạo thành cụm cố định đúng."
+            },
+            {
+              "id": "A35",
+              "questionHtml": "Leo kept ___ near the book display while the author was speaking.",
+              "options": [
+                "control",
+                "view",
+                "watch",
+                "news"
+              ],
+              "answer": "watch",
+              "sentenceVi": "Leo đứng canh gần khu trưng bày sách trong khi tác giả đang phát biểu.",
+              "explanation": "'keep watch' nghĩa đứng canh/trông chừng; control/view/news không đúng nghĩa."
+            },
+            {
+              "id": "A36",
+              "questionHtml": "During the final preparations, Leo was ___ the Book Corner schedule.",
+              "options": [
+                "out of control",
+                "under control",
+                "under the control",
+                "in control of"
+              ],
+              "answer": "in control of",
+              "sentenceVi": "Trong khâu chuẩn bị cuối cùng, Leo là người phụ trách lịch trình của Book Corner.",
+              "explanation": "'in control of sth' nghĩa là người phụ trách/kiểm soát điều gì; out of control, under control, under the control không đúng cấu trúc câu."
+            },
+            {
+              "id": "A37",
+              "questionHtml": "Everyone was invited to ___ on the proposed cover design.",
+              "options": [
+                "have a view",
+                "make a view",
+                "give a view",
+                "watch a view"
+              ],
+              "answer": "have a view",
+              "sentenceVi": "Mọi người được mời đưa ra quan điểm về thiết kế bìa được đề xuất.",
+              "explanation": "'have a view on sth' nghĩa có quan điểm về điều gì; make/give/watch a view không đúng động từ đi cùng."
+            },
+            {
+              "id": "A38",
+              "questionHtml": "Volunteers stood near the entrance to ___ visitors who might need help.",
+              "options": [
+                "view for",
+                "watch for",
+                "keep for",
+                "see out"
+              ],
+              "answer": "watch for",
+              "sentenceVi": "Tình nguyện viên đứng gần lối vào để để ý những khách tham quan có thể cần giúp đỡ.",
+              "explanation": "'watch for sb' nghĩa để ý/chờ đợi ai xuất hiện; view for/keep for/see out không đúng cụm cố định."
+            },
+            {
+              "id": "A39",
+              "questionHtml": "Visitors stopped for a few minutes to ___ from the balcony.",
+              "options": [
+                "hold the view",
+                "take a view",
+                "look at the view",
+                "make the view"
+              ],
+              "answer": "look at the view",
+              "sentenceVi": "Khách tham quan dừng lại vài phút để ngắm cảnh từ ban công.",
+              "explanation": "'look at the view' nghĩa ngắm nhìn cảnh; hold/take/make the view không đúng động từ đi cùng."
+            },
+            {
+              "id": "A40",
+              "questionHtml": "The visiting novelist became an important ___ young writers at the school.",
+              "options": [
+                "difference to",
+                "view of",
+                "description of",
+                "influence on"
+              ],
+              "answer": "influence on",
+              "sentenceVi": "Nhà văn đến thăm trở thành một ảnh hưởng quan trọng đối với các nhà văn trẻ tại trường.",
+              "explanation": "'an influence on sb' nghĩa một ảnh hưởng đối với ai; difference to, view of, description of không đúng nghĩa trong ngữ cảnh này."
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "label": "FCE Collocation Mastery",
+          "questions": [
+            {
+              "id": "B1",
+              "questionHtml": "When the editor suddenly became ill, Hana had to ___ the final preparations for the book launch.",
+              "options": [
+                "have an influence on",
+                "keep watch over",
+                "make a difference to",
+                "take control of"
+              ],
+              "answer": "take control of",
+              "sentenceVi": "Khi biên tập viên đột nhiên ốm, Hana phải đảm nhận việc kiểm soát khâu chuẩn bị cuối cùng cho buổi ra mắt sách.",
+              "explanation": "'take control of sth' nghĩa nắm quyền kiểm soát điều gì; have an influence on, keep watch over, make a difference to không đúng nghĩa trong ngữ cảnh đảm nhận trách nhiệm."
+            },
+            {
+              "id": "B2",
+              "questionHtml": "The event was extremely busy, but the organisers managed to keep everything ___.",
+              "options": [
+                "under control",
+                "in question",
+                "in view",
+                "in the news"
+              ],
+              "answer": "under control",
+              "sentenceVi": "Sự kiện rất bận rộn nhưng ban tổ chức đã giữ được mọi thứ trong tầm kiểm soát.",
+              "explanation": "'under control' nghĩa trong tầm kiểm soát; in question, in view, in the news không đúng nghĩa."
+            },
+            {
+              "id": "B3",
+              "questionHtml": "Once hundreds of visitors arrived at the same time, the queue quickly went ___.",
+              "options": [
+                "under the control",
+                "out of control",
+                "in place",
+                "in view"
+              ],
+              "answer": "out of control",
+              "sentenceVi": "Khi hàng trăm khách tham quan đến cùng lúc, hàng người nhanh chóng mất kiểm soát.",
+              "explanation": "'go out of control' nghĩa trở nên mất kiểm soát; under the control, in place, in view không đúng nghĩa."
+            },
+            {
+              "id": "B4",
+              "questionHtml": "The final decision remained ___ the control of the festival director.",
+              "options": [
+                "in",
+                "at",
+                "under",
+                "over"
+              ],
+              "answer": "under",
+              "sentenceVi": "Quyết định cuối cùng vẫn nằm dưới sự kiểm soát của giám đốc lễ hội.",
+              "explanation": "'under the control of sb' nghĩa dưới sự kiểm soát của ai; in/at/over không đúng giới từ."
+            },
+            {
+              "id": "B5",
+              "questionHtml": "Before visitors entered, Ben gave them ___ the new exhibition area.",
+              "options": [
+                "a difference from",
+                "an influence on",
+                "a view about",
+                "a description of"
+              ],
+              "answer": "a description of",
+              "sentenceVi": "Trước khi khách tham quan vào, Ben đã mô tả cho họ về khu trưng bày mới.",
+              "explanation": "'give sb a description of sth' nghĩa mô tả điều gì cho ai; a difference from, an influence on, a view about không đúng nghĩa."
+            },
+            {
+              "id": "B6",
+              "questionHtml": "Having clear signs near each section made a significant ___ visitors' ability to find books.",
+              "options": [
+                "difference to",
+                "view of",
+                "description of",
+                "question about"
+              ],
+              "answer": "difference to",
+              "sentenceVi": "Việc có biển chỉ dẫn rõ ràng gần mỗi khu vực đã tạo ra sự khác biệt đáng kể đối với khả năng tìm sách của khách tham quan.",
+              "explanation": "'make a difference to sth' nghĩa tạo ra sự khác biệt đối với điều gì; view of, description of, question about không đúng nghĩa."
+            },
+            {
+              "id": "B7",
+              "questionHtml": "The two covers look very similar, but you can ___ them by the colour of the title.",
+              "options": [
+                "make a difference to",
+                "tell the difference between",
+                "take control of",
+                "give a description of"
+              ],
+              "answer": "tell the difference between",
+              "sentenceVi": "Hai bìa sách trông rất giống nhau, nhưng bạn có thể phân biệt chúng qua màu sắc của tiêu đề.",
+              "explanation": "'tell the difference between' nghĩa phân biệt được giữa hai thứ; make a difference to, take control of, give a description of không đúng nghĩa."
+            },
+            {
+              "id": "B8",
+              "questionHtml": "In terms of price, there is almost no ___ the printed book and the e-book.",
+              "options": [
+                "influence on",
+                "view of",
+                "difference between",
+                "description of"
+              ],
+              "answer": "difference between",
+              "sentenceVi": "Về giá cả, gần như không có sự khác biệt giữa sách in và sách điện tử.",
+              "explanation": "'difference between' nghĩa sự khác biệt giữa; influence on, view of, description of không đúng nghĩa."
+            },
+            {
+              "id": "B9",
+              "questionHtml": "Volunteers give up a lot of their free time, so we should never ___.",
+              "options": [
+                "put them in question",
+                "hold a view of them",
+                "keep watch over them",
+                "take them for granted"
+              ],
+              "answer": "take them for granted",
+              "sentenceVi": "Các tình nguyện viên bỏ ra rất nhiều thời gian rảnh của mình, vì vậy chúng ta không bao giờ nên xem thường công sức của họ.",
+              "explanation": "'take sb for granted' nghĩa xem nhẹ/không trân trọng; put them in question, hold a view of them, keep watch over them không đúng nghĩa."
+            },
+            {
+              "id": "B10",
+              "questionHtml": "The novelist's visit had a major ___ many students' interest in reading.",
+              "options": [
+                "influence on",
+                "difference between",
+                "control of",
+                "view from"
+              ],
+              "answer": "influence on",
+              "sentenceVi": "Chuyến thăm của nhà văn đã có ảnh hưởng lớn đến hứng thú đọc sách của nhiều học sinh.",
+              "explanation": "'have an influence on sth' nghĩa có ảnh hưởng đến điều gì; difference between, control of, view from không đúng nghĩa."
+            },
+            {
+              "id": "B11",
+              "questionHtml": "Online book reviews often ___ what teenagers decide to buy.",
+              "options": [
+                "take control of",
+                "influence",
+                "question mark",
+                "keep watch"
+              ],
+              "answer": "influence",
+              "sentenceVi": "Các đánh giá sách trực tuyến thường ảnh hưởng đến việc thanh thiếu niên quyết định mua gì.",
+              "explanation": "'influence sth' (động từ) nghĩa ảnh hưởng đến; take control of, question mark, keep watch không đúng nghĩa/từ loại."
+            },
+            {
+              "id": "B12",
+              "questionHtml": "You can find the complete festival programme ___.",
+              "options": [
+                "over the Internet only",
+                "in the Internet",
+                "on the Internet",
+                "at Internet"
+              ],
+              "answer": "on the Internet",
+              "sentenceVi": "Bạn có thể tìm thấy toàn bộ chương trình lễ hội trên Internet.",
+              "explanation": "'on the Internet' nghĩa trên mạng Internet; over the Internet only, in the Internet, at Internet không đúng cấu trúc."
+            },
+            {
+              "id": "B13",
+              "questionHtml": "The designer sent the final cover image to the publisher ___.",
+              "options": [
+                "on Internet",
+                "in Internet",
+                "through Internet",
+                "over the Internet"
+              ],
+              "answer": "over the Internet",
+              "sentenceVi": "Nhà thiết kế đã gửi hình ảnh bìa cuối cùng cho nhà xuất bản qua Internet.",
+              "explanation": "'send sth over the Internet' nghĩa gửi cái gì qua mạng; on Internet, in Internet, through Internet không đúng cấu trúc cố định."
+            },
+            {
+              "id": "B14",
+              "questionHtml": "Instead of using only one website, students were encouraged to ___ for more information.",
+              "options": [
+                "surf the Internet",
+                "hear the news",
+                "see the view",
+                "keep watch"
+              ],
+              "answer": "surf the Internet",
+              "sentenceVi": "Thay vì chỉ dùng một trang web, học sinh được khuyến khích lướt Internet để tìm thêm thông tin.",
+              "explanation": "'surf the Internet' nghĩa lướt mạng; hear the news, see the view, keep watch không đúng nghĩa."
+            },
+            {
+              "id": "B15",
+              "questionHtml": "The young novelist has been ___ all week because her first book won a national award.",
+              "options": [
+                "on the view",
+                "in the news",
+                "over the news",
+                "at the news"
+              ],
+              "answer": "in the news",
+              "sentenceVi": "Nhà văn trẻ đã xuất hiện trên tin tức suốt cả tuần vì cuốn sách đầu tay của cô đã giành giải thưởng quốc gia.",
+              "explanation": "'be in the news' nghĩa được nhắc đến trên tin tức; on the view, over the news, at the news không đúng cấu trúc."
+            },
+            {
+              "id": "B16",
+              "questionHtml": "I saw a short report about the book festival ___ last night.",
+              "options": [
+                "in the news",
+                "over the news",
+                "on the news",
+                "from the news"
+              ],
+              "answer": "on the news",
+              "sentenceVi": "Tôi đã xem một bản tin ngắn về lễ hội sách trên bản tin tối qua.",
+              "explanation": "'on the news' nghĩa trên bản tin; in the news, over the news, from the news không đúng giới từ trong ngữ cảnh xem bản tin phát sóng."
+            },
+            {
+              "id": "B17",
+              "questionHtml": "Everyone was delighted when they ___ that the author had agreed to attend.",
+              "options": [
+                "watched the news",
+                "viewed the news",
+                "took the news",
+                "heard the news"
+              ],
+              "answer": "heard the news",
+              "sentenceVi": "Mọi người đều vui mừng khi nghe tin tác giả đã đồng ý tham dự.",
+              "explanation": "'hear the news' nghĩa nghe tin tức; watched/viewed/took the news không đúng động từ đi cùng."
+            },
+            {
+              "id": "B18",
+              "questionHtml": "The final reading will ___ in the larger hall because more visitors are expected.",
+              "options": [
+                "take place",
+                "make a difference",
+                "keep watch",
+                "take control"
+              ],
+              "answer": "take place",
+              "sentenceVi": "Buổi đọc cuối cùng sẽ diễn ra ở hội trường lớn hơn vì dự kiến sẽ có nhiều khách tham quan hơn.",
+              "explanation": "'take place' nghĩa diễn ra; make a difference, keep watch, take control không đúng nghĩa."
+            },
+            {
+              "id": "B19",
+              "questionHtml": "The organisers used the sports hall ___ the library because the audience was too large.",
+              "options": [
+                "under control of",
+                "in place of",
+                "in view of",
+                "out of control"
+              ],
+              "answer": "in place of",
+              "sentenceVi": "Ban tổ chức đã dùng nhà thi đấu thay vì thư viện vì lượng khán giả quá đông.",
+              "explanation": "'in place of sth' nghĩa thay vì/thay thế cho; under control of, in view of, out of control không đúng nghĩa."
+            },
+            {
+              "id": "B20",
+              "questionHtml": "Visitors collected their tickets ___ near the main entrance.",
+              "options": [
+                "in place",
+                "at view",
+                "at a place",
+                "on place"
+              ],
+              "answer": "at a place",
+              "sentenceVi": "Khách tham quan nhận vé tại một địa điểm gần lối vào chính.",
+              "explanation": "'at a place' nghĩa tại một địa điểm; in place, at view, on place không đúng cấu trúc."
+            },
+            {
+              "id": "B21",
+              "questionHtml": "During the Q&A, one student ___ about the ending of the novel.",
+              "options": [
+                "answered the view",
+                "held a question",
+                "took a question",
+                "asked a question"
+              ],
+              "answer": "asked a question",
+              "sentenceVi": "Trong phần hỏi đáp, một học sinh đã đặt câu hỏi về đoạn kết của cuốn tiểu thuyết.",
+              "explanation": "'ask a question' nghĩa đặt câu hỏi; answered the view, held a question, took a question không đúng cấu trúc/nghĩa."
+            },
+            {
+              "id": "B22",
+              "questionHtml": "The author stayed for another twenty minutes so she could ___ from younger readers.",
+              "options": [
+                "answer every question",
+                "make every question",
+                "give every question",
+                "take every question"
+              ],
+              "answer": "answer every question",
+              "sentenceVi": "Tác giả ở lại thêm hai mươi phút để có thể trả lời mọi câu hỏi từ độc giả nhỏ tuổi.",
+              "explanation": "'answer every question' nghĩa trả lời mọi câu hỏi; make/give/take every question không đúng động từ đi cùng."
+            },
+            {
+              "id": "B23",
+              "questionHtml": "Several reviewers ___ whether the book really deserved the prize.",
+              "options": [
+                "kept watch",
+                "questioned",
+                "answered a question",
+                "made a question"
+              ],
+              "answer": "questioned",
+              "sentenceVi": "Một số nhà phê bình đặt nghi vấn liệu cuốn sách có thực sự xứng đáng với giải thưởng hay không.",
+              "explanation": "'question sth/whether...' nghĩa đặt nghi vấn về điều gì; kept watch, answered a question, made a question không đúng nghĩa."
+            },
+            {
+              "id": "B24",
+              "questionHtml": "The journalist who wrote the article had not actually read the book ___.",
+              "options": [
+                "at question",
+                "by question",
+                "in question",
+                "under question"
+              ],
+              "answer": "in question",
+              "sentenceVi": "Nhà báo viết bài báo đó thực ra chưa đọc cuốn sách đang được nhắc đến.",
+              "explanation": "'the book in question' nghĩa cuốn sách đang được nói đến; at/by/under question không đúng cấu trúc."
+            },
+            {
+              "id": "B25",
+              "questionHtml": "The two critics ___ very different views of the ending, although they both praised the writing style.",
+              "options": [
+                "gave descriptions",
+                "made differences",
+                "took controls",
+                "held"
+              ],
+              "answer": "held",
+              "sentenceVi": "Hai nhà phê bình có những quan điểm rất khác nhau về đoạn kết, mặc dù cả hai đều khen ngợi phong cách viết.",
+              "explanation": "'hold a view' nghĩa có/giữ một quan điểm; gave descriptions, made differences, took controls không đúng cụm."
+            },
+            {
+              "id": "B26",
+              "questionHtml": "___, the first cover is more suitable for younger readers.",
+              "options": [
+                "In my view",
+                "In my question",
+                "At my view",
+                "On my view"
+              ],
+              "answer": "In my view",
+              "sentenceVi": "Theo quan điểm của tôi, bìa sách đầu tiên phù hợp hơn với độc giả nhỏ tuổi.",
+              "explanation": "'in my view' nghĩa theo quan điểm của tôi; in my question, at my view, on my view không đúng cấu trúc."
+            },
+            {
+              "id": "B27",
+              "questionHtml": "___ the age of the audience, the editor decided to remove one frightening scene.",
+              "options": [
+                "In place of",
+                "In view of",
+                "Under control of",
+                "Out of view"
+              ],
+              "answer": "In view of",
+              "sentenceVi": "Vì xét đến độ tuổi của khán giả, biên tập viên quyết định bỏ đi một cảnh đáng sợ.",
+              "explanation": "'in view of sth' nghĩa xét đến/vì lý do; in place of, under control of, out of view không đúng nghĩa."
+            },
+            {
+              "id": "B28",
+              "questionHtml": "At the end of the event, visitors went upstairs to ___ from the gallery window.",
+              "options": [
+                "take the view",
+                "hold a view",
+                "see the view",
+                "make a view"
+              ],
+              "answer": "see the view",
+              "sentenceVi": "Vào cuối sự kiện, khách tham quan lên tầng trên để ngắm cảnh từ cửa sổ phòng trưng bày.",
+              "explanation": "'see the view' nghĩa ngắm cảnh; take the view, hold a view, make a view không đúng động từ đi cùng."
+            },
+            {
+              "id": "B29",
+              "questionHtml": "From the top floor, visitors had an excellent ___ the whole festival site.",
+              "options": [
+                "view with",
+                "view from only",
+                "viewing of",
+                "view of"
+              ],
+              "answer": "view of",
+              "sentenceVi": "Từ tầng trên cùng, khách tham quan có một tầm nhìn tuyệt vời ra toàn bộ khu vực lễ hội.",
+              "explanation": "'a view of sth' nghĩa tầm nhìn ra điều gì; view with, view from only, viewing of không đúng cấu trúc."
+            },
+            {
+              "id": "B30",
+              "questionHtml": "The ___ the balcony was partly blocked by a large tree.",
+              "options": [
+                "view from",
+                "view at",
+                "view on",
+                "view by"
+              ],
+              "answer": "view from",
+              "sentenceVi": "Tầm nhìn từ ban công bị một cây lớn che khuất một phần.",
+              "explanation": "'view from' nghĩa tầm nhìn từ (một vị trí); view at/on/by không đúng giới từ."
+            },
+            {
+              "id": "B31",
+              "questionHtml": "While the novelist was signing books, Ben ___ near the entrance to make sure nobody pushed into the queue.",
+              "options": [
+                "took control",
+                "kept watch",
+                "held a view",
+                "made a difference"
+              ],
+              "answer": "kept watch",
+              "sentenceVi": "Trong khi nhà văn đang ký tặng sách, Ben đứng canh gần lối vào để đảm bảo không ai chen vào hàng.",
+              "explanation": "'keep watch' nghĩa đứng canh/trông chừng; took control, held a view, made a difference không đúng nghĩa."
+            },
+            {
+              "id": "B32",
+              "questionHtml": "Volunteers were told to ___ children who became separated from their parents.",
+              "options": [
+                "watch at",
+                "watch over for",
+                "watch out for",
+                "keep a view of"
+              ],
+              "answer": "watch out for",
+              "sentenceVi": "Tình nguyện viên được dặn để ý những trẻ em bị lạc mất bố mẹ.",
+              "explanation": "'watch out for sb' nghĩa để ý/chú ý đến ai; watch at, watch over for, keep a view of không đúng cụm cố định."
+            },
+            {
+              "id": "B33",
+              "questionHtml": "Hana ___ the audience throughout the talk to see whether more chairs were needed.",
+              "options": [
+                "viewed out",
+                "saw for",
+                "kept question",
+                "watched"
+              ],
+              "answer": "watched",
+              "sentenceVi": "Hana quan sát khán giả suốt buổi nói chuyện để xem có cần thêm ghế không.",
+              "explanation": "'watch sb' nghĩa quan sát ai; viewed out, saw for, kept question không đúng cụm/cấu trúc."
+            },
+            {
+              "id": "B34",
+              "questionHtml": "The magazine article gave such a clear ___ the novelist that students felt they already knew her.",
+              "options": [
+                "description of",
+                "difference to",
+                "influence on",
+                "view from"
+              ],
+              "answer": "description of",
+              "sentenceVi": "Bài báo trên tạp chí mô tả nhà văn rõ ràng đến mức học sinh cảm thấy như đã biết về cô từ trước.",
+              "explanation": "'a description of sb' nghĩa một mô tả về ai; difference to, influence on, view from không đúng nghĩa."
+            },
+            {
+              "id": "B35",
+              "questionHtml": "The publicity campaign made a real ___ attendance at the festival.",
+              "options": [
+                "influence of",
+                "difference to",
+                "control on",
+                "question of"
+              ],
+              "answer": "difference to",
+              "sentenceVi": "Chiến dịch quảng bá đã tạo ra sự khác biệt thực sự đối với lượng người tham dự lễ hội.",
+              "explanation": "'make a difference to sth' nghĩa tạo ra sự khác biệt đối với điều gì; influence of, control on, question of không đúng nghĩa."
+            },
+            {
+              "id": "B36",
+              "questionHtml": "The writer's childhood experiences clearly had a strong ___ her later novels.",
+              "options": [
+                "difference between",
+                "description of",
+                "influence on",
+                "view from"
+              ],
+              "answer": "influence on",
+              "sentenceVi": "Những trải nghiệm thời thơ ấu của nhà văn rõ ràng đã có ảnh hưởng mạnh mẽ đến những cuốn tiểu thuyết sau này của cô.",
+              "explanation": "'have an influence on sth' nghĩa có ảnh hưởng đến điều gì; difference between, description of, view from không đúng nghĩa."
+            },
+            {
+              "id": "B37",
+              "questionHtml": "During the final hour before opening, Leo was ___ the Book Corner schedule.",
+              "options": [
+                "under control",
+                "out of control",
+                "in view of",
+                "in control of"
+              ],
+              "answer": "in control of",
+              "sentenceVi": "Trong giờ cuối cùng trước khi khai mạc, Leo là người phụ trách lịch trình của Book Corner.",
+              "explanation": "'in control of sth' nghĩa là người phụ trách/kiểm soát điều gì; under control, out of control, in view of không đúng nghĩa/cấu trúc."
+            },
+            {
+              "id": "B38",
+              "questionHtml": "The launch was originally planned for the library, but it eventually ___ in the school hall.",
+              "options": [
+                "took place",
+                "made place",
+                "had place",
+                "took control"
+              ],
+              "answer": "took place",
+              "sentenceVi": "Buổi ra mắt ban đầu dự định tổ chức ở thư viện, nhưng cuối cùng lại diễn ra ở hội trường trường.",
+              "explanation": "'take place' nghĩa diễn ra; made place, had place, took control không đúng cụm."
+            },
+            {
+              "id": "B39",
+              "questionHtml": "___ the poor weather forecast, the organisers moved the outdoor reading indoors.",
+              "options": [
+                "In place of",
+                "In view of",
+                "In the news",
+                "Under control"
+              ],
+              "answer": "In view of",
+              "sentenceVi": "Vì xét đến dự báo thời tiết xấu, ban tổ chức đã chuyển buổi đọc ngoài trời vào trong nhà.",
+              "explanation": "'in view of sth' nghĩa xét đến/vì lý do; in place of, in the news, under control không đúng nghĩa."
+            },
+            {
+              "id": "B40",
+              "questionHtml": "Although both reviewers liked the book, they ___ very different views about the ending.",
+              "options": [
+                "gave",
+                "made",
+                "held",
+                "watched"
+              ],
+              "answer": "held",
+              "sentenceVi": "Mặc dù cả hai nhà phê bình đều thích cuốn sách, họ có những quan điểm rất khác nhau về đoạn kết.",
+              "explanation": "'hold a view' nghĩa có/giữ một quan điểm; gave/made/watched views không đúng động từ đi cùng."
+            }
+          ]
+        }
+      ]
     },
     {
       "passageId": "U6_CORE",
@@ -3586,7 +4640,535 @@
       "title": "Behind the Riverside Book Launch",
       "text": "When Leo began preparing the Riverside Festival magazine, Maya brought up the idea of interviewing a novelist. According to the editor, the issue would come out on Friday, and the interview would come on at six. Every volunteer had to fill in a planning form before Hana handed out advance copies of the novel. Leo flicked through issues and commented on the articles that stood out. Ben wanted to go into the design process in detail, while Maya put forward a simpler layout. The group looked up information about the writer, but Leo could not make out a handwritten note. Hana tried to make up the missing sentence; however, Ben saw through the invention and told her not to include it. When Leo turned over the first page, he found the author’s dedication. The editor announced that the novelist had accepted their invitation. Leo believed the book to be suitable for teenage readers, although Maya was confused by one character and described him as unreliable. Hana corresponded with the writer and soon heard from her. She informed the team that the author was likely to arrive early and persuaded everyone to prepare questions. There was no point in changing the schedule again. During rehearsal, Ben sent the novelist a programme and described the stage arrangement to her. Maya heard about a delay, but the editor assured them that it was likely that the event would begin on time. The author surprised the students by arriving before lunch. She announced her arrival to the organisers, commented on their display and told Leo to begin the interview with a question about character development. By the end, the students believed in their ability to produce a magazine for the school community and were pleasantly surprised at how confidently they had managed the event.",
       "audio": "assets/audio/passages/U5_PV.m4a",
-      "image": "assets/images/passages/U5_WP.jpg"
+      "image": "assets/images/passages/U5_WP.jpg",
+      "mcqSets": [
+        {
+          "id": "B",
+          "label": "FCE Word Pattern Mastery",
+          "questions": [
+            {
+              "id": "B1",
+              "questionHtml": "___ the bookshop manager, the novelist's latest book sold out within two hours.",
+              "options": [
+                "Depending on",
+                "Apart from",
+                "Instead of",
+                "According to"
+              ],
+              "answer": "According to",
+              "sentenceVi": "Theo lời quản lý hiệu sách, cuốn sách mới nhất của tiểu thuyết gia đã bán hết chỉ trong hai giờ.",
+              "explanation": "'according to' nghĩa theo lời/theo nguồn tin của ai; depending on (tùy thuộc vào), apart from (ngoài ra), instead of (thay vì) không đúng nghĩa."
+            },
+            {
+              "id": "B2",
+              "questionHtml": "Before the launch began, the organiser ___ the change ___ all the volunteers.",
+              "options": [
+                "announced / to",
+                "informed / to",
+                "told / about",
+                "persuaded / of"
+              ],
+              "answer": "announced / to",
+              "sentenceVi": "Trước khi buổi ra mắt bắt đầu, người tổ chức đã thông báo sự thay đổi cho tất cả tình nguyện viên.",
+              "explanation": "'announce sth to sb' nghĩa thông báo điều gì đó cho ai; inform sb about sth (không phải inform...to), told about, persuaded of không đúng cấu trúc."
+            },
+            {
+              "id": "B3",
+              "questionHtml": "The students ___ the value of having a quiet place where they could read during breaks.",
+              "options": [
+                "believed that",
+                "believed in",
+                "believed to be",
+                "believed about"
+              ],
+              "answer": "believed in",
+              "sentenceVi": "Các học sinh tin vào giá trị của việc có một nơi yên tĩnh để đọc sách trong giờ giải lao.",
+              "explanation": "'believe in sth' nghĩa tin vào giá trị/sự tồn tại của điều gì; believe that + clause cần mệnh đề đầy đủ, không phù hợp với cụm danh từ 'the value of...'; believed to be/about không đúng."
+            },
+            {
+              "id": "B4",
+              "questionHtml": "Many critics ___ the writer's latest novel ___ her strongest work so far.",
+              "options": [
+                "believed / as",
+                "believed / being",
+                "believed / to be",
+                "believed / for"
+              ],
+              "answer": "believed / to be",
+              "sentenceVi": "Nhiều nhà phê bình tin rằng cuốn tiểu thuyết mới nhất của nhà văn là tác phẩm mạnh nhất của cô từ trước đến nay.",
+              "explanation": "'believe sth to be' nghĩa tin rằng điều gì đó là; believed as/being/for không đúng cấu trúc."
+            },
+            {
+              "id": "B5",
+              "questionHtml": "In her review, Maya ___ the way the writer developed the main character.",
+              "options": [
+                "commented on",
+                "commented to",
+                "commented with",
+                "commented about to"
+              ],
+              "answer": "commented on",
+              "sentenceVi": "Trong bài đánh giá, Maya nhận xét về cách nhà văn xây dựng nhân vật chính.",
+              "explanation": "'comment on sth' nghĩa nhận xét về điều gì; commented to/with/about to không đúng cấu trúc."
+            },
+            {
+              "id": "B6",
+              "questionHtml": "Because their names were similar, several readers ___ the journalist ___ the novelist.",
+              "options": [
+                "confused / by",
+                "confused / from",
+                "confused / with",
+                "confused / about"
+              ],
+              "answer": "confused / with",
+              "sentenceVi": "Vì tên của họ giống nhau, một số độc giả đã nhầm lẫn nhà báo với tiểu thuyết gia.",
+              "explanation": "'confuse sb with sb' nghĩa nhầm lẫn người này với người kia; confused by/from/about không đúng cấu trúc."
+            },
+            {
+              "id": "B7",
+              "questionHtml": "Before inviting the writer to the festival, Leo had ___ her for several weeks by email.",
+              "options": [
+                "commented on",
+                "heard about",
+                "informed about",
+                "corresponded with"
+              ],
+              "answer": "corresponded with",
+              "sentenceVi": "Trước khi mời nhà văn đến lễ hội, Leo đã trao đổi thư từ với cô ấy qua email trong vài tuần.",
+              "explanation": "'correspond with sb' nghĩa trao đổi thư từ với ai; commented on/heard about/informed about không đúng nghĩa trong ngữ cảnh liên lạc qua email."
+            },
+            {
+              "id": "B8",
+              "questionHtml": "The reviewer ___ the book ___ \"an engaging and surprisingly moving story\".",
+              "options": [
+                "commented / on",
+                "described / as",
+                "believed / in",
+                "told / about"
+              ],
+              "answer": "described / as",
+              "sentenceVi": "Người đánh giá mô tả cuốn sách là \"một câu chuyện hấp dẫn và cảm động đến bất ngờ\".",
+              "explanation": "'describe sth as' nghĩa mô tả điều gì đó là; commented/on, believed/in, told/about không đúng cấu trúc."
+            },
+            {
+              "id": "B9",
+              "questionHtml": "I first ___ the new thriller when one of my classmates recommended it.",
+              "options": [
+                "heard from",
+                "heard about",
+                "informed about",
+                "corresponded with"
+              ],
+              "answer": "heard about",
+              "sentenceVi": "Tôi lần đầu nghe nói về cuốn tiểu thuyết trinh thám mới khi một bạn cùng lớp giới thiệu nó.",
+              "explanation": "'hear about sth' nghĩa nghe nói về điều gì; heard from (nhận tin từ ai), informed about, corresponded with không đúng nghĩa."
+            },
+            {
+              "id": "B10",
+              "questionHtml": "We still haven't ___ the publisher, so we don't know whether our request has been accepted.",
+              "options": [
+                "heard from",
+                "heard about",
+                "commented on",
+                "believed in"
+              ],
+              "answer": "heard from",
+              "sentenceVi": "Chúng tôi vẫn chưa nhận được tin gì từ nhà xuất bản nên không biết yêu cầu của mình có được chấp nhận không.",
+              "explanation": "'hear from sb' nghĩa nhận được tin/thư từ ai; heard about (nghe nói về), commented on, believed in không đúng nghĩa."
+            },
+            {
+              "id": "B11",
+              "questionHtml": "The organisers ___ the students ___ the book signing had been moved to the library.",
+              "options": [
+                "announced / to",
+                "told / about",
+                "informed / that",
+                "persuaded / of"
+              ],
+              "answer": "informed / that",
+              "sentenceVi": "Ban tổ chức đã thông báo cho học sinh biết rằng buổi ký tặng sách đã được chuyển đến thư viện.",
+              "explanation": "'inform sb that + clause' nghĩa thông báo cho ai biết rằng; announced to (announce sth to sb, không phải announce sb to), told about, persuaded of không đúng cấu trúc."
+            },
+            {
+              "id": "B12",
+              "questionHtml": "Volunteers stood near the entrance to ___ visitors ___ changes to the programme.",
+              "options": [
+                "tell / that",
+                "persuade / of",
+                "announce / that",
+                "inform / about"
+              ],
+              "answer": "inform / about",
+              "sentenceVi": "Các tình nguyện viên đứng gần lối vào để thông báo cho khách tham quan biết về những thay đổi trong chương trình.",
+              "explanation": "'inform sb about sth' nghĩa thông báo cho ai biết về điều gì; tell/that, persuade/of, announce/that không đúng cấu trúc trong ngữ cảnh này."
+            },
+            {
+              "id": "B13",
+              "questionHtml": "Because of the positive reviews, the novel ___ attract a much larger audience this year.",
+              "options": [
+                "is likely that",
+                "likely to",
+                "is likely to",
+                "is likely for"
+              ],
+              "answer": "is likely to",
+              "sentenceVi": "Nhờ những đánh giá tích cực, cuốn tiểu thuyết có khả năng sẽ thu hút được lượng độc giả lớn hơn nhiều trong năm nay.",
+              "explanation": "'be likely to do sth' nghĩa có khả năng sẽ làm gì; is likely that cần mệnh đề đầy đủ, likely to thiếu 'is', is likely for không đúng."
+            },
+            {
+              "id": "B14",
+              "questionHtml": "___ the author's next book will be published before Christmas.",
+              "options": [
+                "The book is likely",
+                "It likely that",
+                "It is likely to",
+                "It is likely that"
+              ],
+              "answer": "It is likely that",
+              "sentenceVi": "Có khả năng cuốn sách tiếp theo của tác giả sẽ được xuất bản trước Giáng sinh.",
+              "explanation": "'it is likely that + clause' nghĩa có khả năng rằng; the book is likely thiếu cấu trúc đúng, it likely that thiếu 'is', it is likely to cần theo sau là động từ nguyên mẫu không phải mệnh đề."
+            },
+            {
+              "id": "B15",
+              "questionHtml": "After several emails, Hana finally ___ the writer ___ take part in the school event.",
+              "options": [
+                "informed / to",
+                "persuaded / to",
+                "told / that",
+                "believed / to"
+              ],
+              "answer": "persuaded / to",
+              "sentenceVi": "Sau vài email, cuối cùng Hana đã thuyết phục được nhà văn tham gia sự kiện của trường.",
+              "explanation": "'persuade sb to do sth' nghĩa thuyết phục ai làm gì; informed to, told that, believed to không đúng cấu trúc."
+            },
+            {
+              "id": "B16",
+              "questionHtml": "Leo eventually ___ the editor ___ a longer interview would attract more readers.",
+              "options": [
+                "persuaded / that",
+                "persuaded / of",
+                "informed / to",
+                "told / about"
+              ],
+              "answer": "persuaded / that",
+              "sentenceVi": "Cuối cùng Leo đã thuyết phục được biên tập viên rằng một cuộc phỏng vấn dài hơn sẽ thu hút nhiều độc giả hơn.",
+              "explanation": "'persuade sb that + clause' nghĩa thuyết phục ai rằng; persuaded of cần danh từ theo sau (không phải mệnh đề), informed to, told about không đúng cấu trúc."
+            },
+            {
+              "id": "B17",
+              "questionHtml": "The detailed review ___ me ___ the book's literary quality.",
+              "options": [
+                "persuaded / of",
+                "persuaded / to",
+                "informed / about",
+                "described / as"
+              ],
+              "answer": "persuaded / of",
+              "sentenceVi": "Bài đánh giá chi tiết đã thuyết phục tôi về chất lượng văn học của cuốn sách.",
+              "explanation": "'persuade sb of sth' nghĩa thuyết phục ai về điều gì; persuaded to cần động từ nguyên mẫu theo sau, informed about/described as không đúng nghĩa."
+            },
+            {
+              "id": "B18",
+              "questionHtml": "There is ___ printing hundreds of brochures before the final details are confirmed.",
+              "options": [
+                "no point to",
+                "not the point of",
+                "no point for",
+                "no point in"
+              ],
+              "answer": "no point in",
+              "sentenceVi": "Không có ích gì khi in hàng trăm tờ rơi trước khi các chi tiết cuối cùng được xác nhận.",
+              "explanation": "'there is no point in doing sth' nghĩa không có ích gì khi làm gì; no point to/for, not the point of không đúng cấu trúc."
+            },
+            {
+              "id": "B19",
+              "questionHtml": "The ___ creating a reading guide is to help students choose books independently.",
+              "options": [
+                "no point in",
+                "point of",
+                "point to",
+                "point for"
+              ],
+              "answer": "point of",
+              "sentenceVi": "Mục đích của việc tạo ra một cuốn hướng dẫn đọc sách là giúp học sinh tự chọn sách một cách độc lập.",
+              "explanation": "'the point of doing sth' nghĩa mục đích của việc làm gì; no point in, point to/for không đúng cấu trúc."
+            },
+            {
+              "id": "B20",
+              "questionHtml": "The organiser ___ the novelist the final timetable yesterday afternoon.",
+              "options": [
+                "announced",
+                "informed",
+                "sent",
+                "described"
+              ],
+              "answer": "sent",
+              "sentenceVi": "Người tổ chức đã gửi cho tiểu thuyết gia lịch trình cuối cùng vào chiều hôm qua.",
+              "explanation": "'send sb sth' nghĩa gửi cho ai cái gì (2 tân ngữ trực tiếp); announced/informed/described không dùng được với cấu trúc 2 tân ngữ này."
+            },
+            {
+              "id": "B21",
+              "questionHtml": "Before the interview, Hana ___ a list of questions ___ the author.",
+              "options": [
+                "sent / for",
+                "sent / with",
+                "sent / to",
+                "sent / at"
+              ],
+              "answer": "sent / to",
+              "sentenceVi": "Trước buổi phỏng vấn, Hana đã gửi một danh sách câu hỏi cho tác giả.",
+              "explanation": "'send sth to sb' nghĩa gửi cái gì cho ai; sent for/with/at không đúng giới từ."
+            },
+            {
+              "id": "B22",
+              "questionHtml": "The sudden appearance of the famous writer ___ everyone ___ surprise.",
+              "options": [
+                "surprised / at",
+                "took / by",
+                "informed / about",
+                "told / in"
+              ],
+              "answer": "took / by",
+              "sentenceVi": "Sự xuất hiện bất ngờ của nhà văn nổi tiếng đã khiến mọi người ngạc nhiên.",
+              "explanation": "'take sb by surprise' nghĩa khiến ai đó ngạc nhiên bất ngờ; surprised at không đúng cấu trúc, informed about/told in không đúng nghĩa."
+            },
+            {
+              "id": "B23",
+              "questionHtml": "Maya was genuinely ___ the number of students who stayed for the whole event.",
+              "options": [
+                "surprised by",
+                "surprised to",
+                "surprise with",
+                "surprised from"
+              ],
+              "answer": "surprised by",
+              "sentenceVi": "Maya thực sự ngạc nhiên trước số lượng học sinh ở lại suốt sự kiện.",
+              "explanation": "'be surprised by sth' nghĩa ngạc nhiên bởi điều gì; surprised to cần động từ nguyên mẫu theo sau, surprise with/surprised from không đúng."
+            },
+            {
+              "id": "B24",
+              "questionHtml": "The novelist ___ the audience by announcing that her next book would be set in their town.",
+              "options": [
+                "took by surprise",
+                "was surprised by",
+                "informed",
+                "surprised"
+              ],
+              "answer": "surprised",
+              "sentenceVi": "Nhà văn đã khiến khán giả ngạc nhiên khi thông báo rằng cuốn sách tiếp theo của cô sẽ lấy bối cảnh tại thị trấn của họ.",
+              "explanation": "'surprise sb' (động từ) nghĩa khiến ai ngạc nhiên; took by surprise thiếu tân ngữ đúng vị trí, was surprised by đảo ngược chủ thể, informed không đúng nghĩa."
+            },
+            {
+              "id": "B25",
+              "questionHtml": "At the end of the event, the editor ___ Leo the final publication date.",
+              "options": [
+                "announced",
+                "described",
+                "informed",
+                "told"
+              ],
+              "answer": "told",
+              "sentenceVi": "Vào cuối sự kiện, biên tập viên đã nói cho Leo biết ngày xuất bản cuối cùng.",
+              "explanation": "'tell sb sth' nghĩa nói cho ai biết điều gì (2 tân ngữ trực tiếp); announced/described/informed không dùng được với cấu trúc 2 tân ngữ trực tiếp như vậy."
+            },
+            {
+              "id": "B26",
+              "questionHtml": "Hana ___ the group ___ the journalist had already arrived.",
+              "options": [
+                "told / that",
+                "said / that",
+                "told / to",
+                "informed / about"
+              ],
+              "answer": "told / that",
+              "sentenceVi": "Hana nói với cả nhóm rằng nhà báo đã đến rồi.",
+              "explanation": "'tell sb that + clause' nghĩa nói với ai rằng; said that thiếu tân ngữ trực tiếp, told to/informed about không đúng cấu trúc."
+            },
+            {
+              "id": "B27",
+              "questionHtml": "During the Q&A, the novelist ___ the students ___ writing her first book.",
+              "options": [
+                "said / about",
+                "informed / that",
+                "told / about",
+                "described / as"
+              ],
+              "answer": "told / about",
+              "sentenceVi": "Trong phần hỏi đáp, nhà văn đã kể cho học sinh nghe về việc viết cuốn sách đầu tay của mình.",
+              "explanation": "'tell sb about sth' nghĩa kể cho ai nghe về điều gì; said about thiếu tân ngữ chỉ người, informed that/described as không đúng cấu trúc."
+            },
+            {
+              "id": "B28",
+              "questionHtml": "Leo ___ the volunteers ___ touch the display until the photographs had been taken.",
+              "options": [
+                "said / not",
+                "told / not to",
+                "told / don't",
+                "informed / not"
+              ],
+              "answer": "told / not to",
+              "sentenceVi": "Leo bảo các tình nguyện viên không được chạm vào khu trưng bày cho đến khi ảnh đã được chụp.",
+              "explanation": "'tell sb not to do sth' nghĩa bảo ai đó không được làm gì; said/not, told/don't, informed/not không đúng cấu trúc."
+            },
+            {
+              "id": "B29",
+              "questionHtml": "The publisher ___ the new novel would come out two weeks earlier than expected.",
+              "options": [
+                "announced to",
+                "announced that",
+                "announced about",
+                "announced of"
+              ],
+              "answer": "announced that",
+              "sentenceVi": "Nhà xuất bản thông báo rằng cuốn tiểu thuyết mới sẽ ra mắt sớm hơn hai tuần so với dự kiến.",
+              "explanation": "'announce that + clause' nghĩa thông báo rằng; announced to/about/of không đúng cấu trúc khi theo sau là 1 mệnh đề đầy đủ."
+            },
+            {
+              "id": "B30",
+              "questionHtml": "Ben carefully ___ the proposed gallery layout ___ the visiting author.",
+              "options": [
+                "described / as",
+                "commented / on",
+                "explained / as",
+                "described / to"
+              ],
+              "answer": "described / to",
+              "sentenceVi": "Ben cẩn thận mô tả cách bố trí phòng trưng bày được đề xuất cho tác giả đến thăm.",
+              "explanation": "'describe sth to sb' nghĩa mô tả điều gì cho ai nghe; described as cần theo sau là danh từ/tính từ mô tả bản chất, commented on/explained as không đúng cấu trúc."
+            },
+            {
+              "id": "B31",
+              "questionHtml": "Some younger readers were ___ the complicated relationship between the two main characters.",
+              "options": [
+                "confused with",
+                "confused to",
+                "confused by",
+                "confusing about"
+              ],
+              "answer": "confused by",
+              "sentenceVi": "Một số độc giả nhỏ tuổi hơn cảm thấy bối rối trước mối quan hệ phức tạp giữa hai nhân vật chính.",
+              "explanation": "'be confused by sth' nghĩa cảm thấy bối rối bởi điều gì; confused with (nhầm lẫn với), confused to, confusing about không đúng nghĩa/cấu trúc."
+            },
+            {
+              "id": "B32",
+              "questionHtml": "___ the critic, the final chapter is the strongest part of the novel.",
+              "options": [
+                "According to",
+                "Believing in",
+                "Described as",
+                "Commenting on"
+              ],
+              "answer": "According to",
+              "sentenceVi": "Theo lời nhà phê bình, chương cuối là phần mạnh nhất của cuốn tiểu thuyết.",
+              "explanation": "'according to sb' nghĩa theo lời/quan điểm của ai; believing in/described as/commenting on không đúng nghĩa/cấu trúc mở đầu câu ở đây."
+            },
+            {
+              "id": "B33",
+              "questionHtml": "The journalist declined to ___ the writer's private life during the interview.",
+              "options": [
+                "correspond with",
+                "describe as",
+                "comment on",
+                "persuade of"
+              ],
+              "answer": "comment on",
+              "sentenceVi": "Nhà báo từ chối bình luận về cuộc sống riêng tư của nhà văn trong buổi phỏng vấn.",
+              "explanation": "'comment on sth' nghĩa bình luận về điều gì; correspond with (trao đổi thư từ), describe as, persuade of không đúng nghĩa/cấu trúc."
+            },
+            {
+              "id": "B34",
+              "questionHtml": "Most teachers ___ the new reading programme will encourage students to read more widely.",
+              "options": [
+                "believe that",
+                "believe in that",
+                "believe to",
+                "believe of"
+              ],
+              "answer": "believe that",
+              "sentenceVi": "Hầu hết giáo viên tin rằng chương trình đọc sách mới sẽ khuyến khích học sinh đọc rộng hơn.",
+              "explanation": "'believe that + clause' nghĩa tin rằng; believe in that/believe to/believe of không đúng cấu trúc."
+            },
+            {
+              "id": "B35",
+              "questionHtml": "We expect to ___ the editor by the end of the week.",
+              "options": [
+                "hear about",
+                "hear from",
+                "correspond about",
+                "inform from"
+              ],
+              "answer": "hear from",
+              "sentenceVi": "Chúng tôi mong sẽ nhận được tin từ biên tập viên trước cuối tuần.",
+              "explanation": "'hear from sb' nghĩa nhận được tin/thư từ ai; hear about (nghe nói về), correspond about, inform from không đúng nghĩa/cấu trúc."
+            },
+            {
+              "id": "B36",
+              "questionHtml": "The book's attractive cover and strong reviews mean it is ___ sell very well.",
+              "options": [
+                "likely that",
+                "likely of",
+                "likely for",
+                "likely to"
+              ],
+              "answer": "likely to",
+              "sentenceVi": "Bìa sách hấp dẫn và những đánh giá tốt có nghĩa là cuốn sách có khả năng sẽ bán rất chạy.",
+              "explanation": "'be likely to do sth' nghĩa có khả năng sẽ làm gì; likely that/of/for không đúng cấu trúc theo sau."
+            },
+            {
+              "id": "B37",
+              "questionHtml": "There is ___ arguing about the old cover design now that the books have already been printed.",
+              "options": [
+                "the point of",
+                "no point to",
+                "no point for",
+                "no point in"
+              ],
+              "answer": "no point in",
+              "sentenceVi": "Không có ích gì khi tranh cãi về thiết kế bìa cũ nữa vì sách đã được in rồi.",
+              "explanation": "'there is no point in doing sth' nghĩa không có ích gì khi làm gì; the point of (không có 'no'), no point to/for không đúng cấu trúc."
+            },
+            {
+              "id": "B38",
+              "questionHtml": "The sample chapter persuaded the publisher ___ the story's potential.",
+              "options": [
+                "about",
+                "to",
+                "of",
+                "with"
+              ],
+              "answer": "of",
+              "sentenceVi": "Chương mẫu đã thuyết phục nhà xuất bản về tiềm năng của câu chuyện.",
+              "explanation": "'persuade sb of sth' nghĩa thuyết phục ai về điều gì; about/to/with không đúng giới từ đi kèm."
+            },
+            {
+              "id": "B39",
+              "questionHtml": "Could you please ___ the updated programme ___ everyone who registered for the event?",
+              "options": [
+                "send / to",
+                "send / for",
+                "tell / to",
+                "inform / to"
+              ],
+              "answer": "send / to",
+              "sentenceVi": "Bạn có thể gửi chương trình đã cập nhật cho tất cả những người đã đăng ký sự kiện được không?",
+              "explanation": "'send sth to sb' nghĩa gửi cái gì cho ai; send/for không đúng giới từ, tell/to và inform/to không đúng cấu trúc."
+            },
+            {
+              "id": "B40",
+              "questionHtml": "Before the author arrived, the teacher ___ the class ___ prepare one question each.",
+              "options": [
+                "said / to",
+                "told / to",
+                "informed / about",
+                "announced / to"
+              ],
+              "answer": "told / to",
+              "sentenceVi": "Trước khi tác giả đến, giáo viên đã bảo cả lớp mỗi người chuẩn bị một câu hỏi.",
+              "explanation": "'tell sb to do sth' nghĩa bảo ai làm gì; said/to (say không đi kèm tân ngữ chỉ người theo cách này), informed/about, announced/to không đúng cấu trúc."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
