@@ -309,7 +309,8 @@
           "answer": "beat",
           "sentenceVi": "Riverside phải thắng Hillcrest với cách biệt ít nhất hai bàn để đứng đầu bảng."
         }
-      ]
+      ],
+      "image": "assets/images/passages/U4_CORE.jpg"
     },
     {
       "passageId": "U4_PV",
@@ -1172,7 +1173,8 @@
             }
           ]
         }
-      ]
+      ],
+      "image": "assets/images/passages/U4_PV.jpg"
     },
     {
       "passageId": "U4_COLLOC",
@@ -2295,7 +2297,8 @@
             }
           ]
         }
-      ]
+      ],
+      "image": "assets/images/passages/U4_COLLOC.jpg"
     },
     {
       "passageId": "U5_CORE",
@@ -2364,7 +2367,8 @@
           "sentenceWithGap": "Maya prepared a brief ___, describing the book as an entertaining read with strong literary qualities.",
           "answer": "review"
         }
-      ]
+      ],
+      "image": "assets/images/passages/U5_CORE.jpg"
     },
     {
       "passageId": "U5_PV",
@@ -3227,7 +3231,8 @@
             }
           ]
         }
-      ]
+      ],
+      "image": "assets/images/passages/U5_PV.jpg"
     },
     {
       "passageId": "U5_COLLOC",
@@ -3296,7 +3301,8 @@
           "sentenceWithGap": "She informed the team that the author was ___ to arrive early.",
           "answer": "likely"
         }
-      ]
+      ],
+      "image": "assets/images/passages/U5_COLLOC.jpg"
     },
     {
       "passageId": "U6_CORE",
@@ -3579,7 +3585,8 @@
       "unit": "U5",
       "title": "Behind the Riverside Book Launch",
       "text": "When Leo began preparing the Riverside Festival magazine, Maya brought up the idea of interviewing a novelist. According to the editor, the issue would come out on Friday, and the interview would come on at six. Every volunteer had to fill in a planning form before Hana handed out advance copies of the novel. Leo flicked through issues and commented on the articles that stood out. Ben wanted to go into the design process in detail, while Maya put forward a simpler layout. The group looked up information about the writer, but Leo could not make out a handwritten note. Hana tried to make up the missing sentence; however, Ben saw through the invention and told her not to include it. When Leo turned over the first page, he found the author’s dedication. The editor announced that the novelist had accepted their invitation. Leo believed the book to be suitable for teenage readers, although Maya was confused by one character and described him as unreliable. Hana corresponded with the writer and soon heard from her. She informed the team that the author was likely to arrive early and persuaded everyone to prepare questions. There was no point in changing the schedule again. During rehearsal, Ben sent the novelist a programme and described the stage arrangement to her. Maya heard about a delay, but the editor assured them that it was likely that the event would begin on time. The author surprised the students by arriving before lunch. She announced her arrival to the organisers, commented on their display and told Leo to begin the interview with a question about character development. By the end, the students believed in their ability to produce a magazine for the school community and were pleasantly surprised at how confidently they had managed the event.",
-      "audio": "assets/audio/passages/U5_PV.m4a"
+      "audio": "assets/audio/passages/U5_PV.m4a",
+      "image": "assets/images/passages/U5_WP.jpg"
     }
   ]
 }
