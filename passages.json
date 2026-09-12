@@ -2433,6 +2433,800 @@
           "sentenceWithGap": "When Leo ___ the first page, he found the author's dedication.",
           "answer": "turned over"
         }
+      ],
+      "mcqSets": [
+        {
+          "id": "A",
+          "label": "Recognition & Pattern",
+          "questions": [
+            {
+              "id": "A1",
+              "questionHtml": "During the meeting, Maya decided to ___ the problem of students spending too much time online.",
+              "options": [
+                "make out",
+                "turn over",
+                "bring up",
+                "fill in"
+              ],
+              "answer": "bring up",
+              "sentenceVi": "Trong cuộc họp, Maya quyết định nêu ra vấn đề học sinh dành quá nhiều thời gian online.",
+              "explanation": "'bring up' nghĩa nêu ra một vấn đề/chủ đề để thảo luận; make out (nhận ra/hiểu được), turn over (lật trang), fill in (điền vào) không phù hợp nghĩa ở đây."
+            },
+            {
+              "id": "A2",
+              "questionHtml": "The writer's new novel will ___ next month.",
+              "options": [
+                "come out",
+                "stand out",
+                "come on",
+                "hand out"
+              ],
+              "answer": "come out",
+              "sentenceVi": "Cuốn tiểu thuyết mới của nhà văn sẽ được phát hành vào tháng tới.",
+              "explanation": "'come out' dùng cho sách/phim/sản phẩm được phát hành; stand out (nổi bật), come on (bắt đầu chiếu - dùng cho chương trình TV), hand out (phát cho ai đó) không đúng nghĩa."
+            },
+            {
+              "id": "A3",
+              "questionHtml": "What time does the documentary ___ tonight?",
+              "options": [
+                "come out",
+                "bring up",
+                "stand out",
+                "come on"
+              ],
+              "answer": "come on",
+              "sentenceVi": "Mấy giờ tối nay bộ phim tài liệu sẽ được chiếu?",
+              "explanation": "'come on' dùng khi một chương trình bắt đầu phát trên TV/đài; come out dùng cho việc phát hành sản phẩm (sách, phim) chứ không phải giờ chiếu; bring up/stand out không đúng nghĩa."
+            },
+            {
+              "id": "A4",
+              "questionHtml": "Please ___ this application form before the interview.",
+              "options": [
+                "look up",
+                "fill in",
+                "turn over",
+                "make up"
+              ],
+              "answer": "fill in",
+              "sentenceVi": "Vui lòng điền vào đơn đăng ký này trước buổi phỏng vấn.",
+              "explanation": "'fill in' nghĩa điền thông tin vào biểu mẫu; look up (tra cứu), turn over (lật trang), make up (bịa ra/trang điểm) không phù hợp."
+            },
+            {
+              "id": "A5",
+              "questionHtml": "I only had a few minutes, so I ___ the magazine while waiting for the bus.",
+              "options": [
+                "went into",
+                "flicked through",
+                "saw through",
+                "put forward"
+              ],
+              "answer": "flicked through",
+              "sentenceVi": "Tôi chỉ có vài phút nên đã lướt qua tạp chí trong lúc chờ xe buýt.",
+              "explanation": "'flick through' nghĩa lướt nhanh qua các trang mà không đọc kỹ; go into (đi sâu vào chi tiết), see through (nhìn thấu bản chất), put forward (đề xuất) không phù hợp."
+            },
+            {
+              "id": "A6",
+              "questionHtml": "The article does not ___ the reasons for the problem in much detail.",
+              "options": [
+                "make out",
+                "stand out",
+                "go into",
+                "hear from"
+              ],
+              "answer": "go into",
+              "sentenceVi": "Bài báo không đi sâu vào các lý do gây ra vấn đề.",
+              "explanation": "'go into' nghĩa đi sâu vào chi tiết một vấn đề; make out (nhận ra), stand out (nổi bật), hear from (nhận được tin từ ai) không đúng nghĩa."
+            },
+            {
+              "id": "A7",
+              "questionHtml": "The teacher asked two students to ___ the worksheets to the class.",
+              "options": [
+                "hand out",
+                "bring up",
+                "come out",
+                "turn over"
+              ],
+              "answer": "hand out",
+              "sentenceVi": "Giáo viên nhờ hai học sinh phát phiếu bài tập cho cả lớp.",
+              "explanation": "'hand out' nghĩa phát/phân phát cho mọi người; bring up (nêu ra), come out (phát hành), turn over (lật trang) không phù hợp."
+            },
+            {
+              "id": "A8",
+              "questionHtml": "I haven't ___ James since he moved to Canada.",
+              "options": [
+                "looked up",
+                "made out",
+                "gone into",
+                "heard from"
+              ],
+              "answer": "heard from",
+              "sentenceVi": "Tôi chưa nhận được tin tức gì từ James kể từ khi anh ấy chuyển đến Canada.",
+              "explanation": "'hear from somebody' nghĩa nhận được thư/tin từ ai; look up (tra cứu), make out (nhận ra), go into (đi sâu vào) không đúng nghĩa."
+            },
+            {
+              "id": "A9",
+              "questionHtml": "If you do not know what a word means, ___ it ___ in a dictionary.",
+              "options": [
+                "look / up",
+                "make / up",
+                "turn / over",
+                "fill / in"
+              ],
+              "answer": "look / up",
+              "sentenceVi": "Nếu bạn không biết nghĩa của một từ, hãy tra từ đó trong từ điển.",
+              "explanation": "'look up' (+ từ + up) nghĩa tra cứu thông tin; make up (bịa ra), turn over (lật lại), fill in (điền vào) không phù hợp."
+            },
+            {
+              "id": "A10",
+              "questionHtml": "The writing was so small that I could hardly ___ the address.",
+              "options": [
+                "see through",
+                "bring up",
+                "make out",
+                "put forward"
+              ],
+              "answer": "make out",
+              "sentenceVi": "Chữ viết quá nhỏ nên tôi hầu như không thể nhận ra được địa chỉ.",
+              "explanation": "'make out' nghĩa nhận biết/nhìn ra được điều gì đó khó thấy; see through (nhìn thấu bản chất), bring up (nêu ra), put forward (đề xuất) không đúng nghĩa."
+            },
+            {
+              "id": "A11",
+              "questionHtml": "Ben forgot to do his homework, so he tried to ___ an excuse.",
+              "options": [
+                "stand out",
+                "go into",
+                "fill in",
+                "make up"
+              ],
+              "answer": "make up",
+              "sentenceVi": "Ben quên làm bài tập nên đã cố bịa ra một lý do.",
+              "explanation": "'make up' nghĩa bịa đặt ra (một câu chuyện/lý do); stand out (nổi bật), go into (đi sâu vào), fill in (điền vào) không phù hợp."
+            },
+            {
+              "id": "A12",
+              "questionHtml": "Several students ___ some useful ideas for improving the school library.",
+              "options": [
+                "handed out",
+                "put forward",
+                "turned over",
+                "came on"
+              ],
+              "answer": "put forward",
+              "sentenceVi": "Một số học sinh đã đề xuất những ý tưởng hữu ích để cải thiện thư viện trường.",
+              "explanation": "'put forward' nghĩa đề xuất ý kiến/giải pháp; hand out (phát cho), turn over (lật trang), come on (bắt đầu chiếu) không đúng nghĩa."
+            },
+            {
+              "id": "A13",
+              "questionHtml": "Tina knew he was lying and immediately ___ his excuse.",
+              "options": [
+                "made out",
+                "looked up",
+                "saw through",
+                "came out"
+              ],
+              "answer": "saw through",
+              "sentenceVi": "Tina biết anh ta đang nói dối và lập tức nhìn thấu lý do bào chữa của anh ta.",
+              "explanation": "'see through' nghĩa nhìn thấu bản chất/sự giả dối của ai; make out (nhận ra hình dạng), look up (tra cứu), come out (phát hành) không phù hợp."
+            },
+            {
+              "id": "A14",
+              "questionHtml": "Her bright red coat made her ___ in the crowd.",
+              "options": [
+                "stand out",
+                "come on",
+                "hear from",
+                "go into"
+              ],
+              "answer": "stand out",
+              "sentenceVi": "Chiếc áo khoác đỏ tươi khiến cô ấy nổi bật giữa đám đông.",
+              "explanation": "'stand out' nghĩa nổi bật, dễ được chú ý; come on (bắt đầu chiếu), hear from (nhận tin từ), go into (đi sâu vào) không đúng nghĩa."
+            },
+            {
+              "id": "A15",
+              "questionHtml": "When you finish page 26, ___ and continue reading.",
+              "options": [
+                "fill in",
+                "turn over",
+                "bring up",
+                "look up"
+              ],
+              "answer": "turn over",
+              "sentenceVi": "Khi đọc xong trang 26, hãy lật trang và tiếp tục đọc.",
+              "explanation": "'turn over' nghĩa lật (trang sách/giấy); fill in (điền vào), bring up (nêu ra), look up (tra cứu) không phù hợp."
+            },
+            {
+              "id": "A16",
+              "questionHtml": "I didn't want to ___ money at dinner because everyone was having a good time.",
+              "options": [
+                "make up",
+                "hand out",
+                "stand out",
+                "bring up"
+              ],
+              "answer": "bring up",
+              "sentenceVi": "Tôi không muốn nhắc đến chuyện tiền bạc trong bữa tối vì mọi người đang vui vẻ.",
+              "explanation": "'bring up' nghĩa nêu ra một chủ đề (nhạy cảm); make up (bịa ra), hand out (phát cho), stand out (nổi bật) không đúng nghĩa."
+            },
+            {
+              "id": "A17",
+              "questionHtml": "The next issue of the school magazine ___ on Friday.",
+              "options": [
+                "comes on",
+                "comes out",
+                "turns over",
+                "fills in"
+              ],
+              "answer": "comes out",
+              "sentenceVi": "Số báo tiếp theo của tạp chí trường sẽ được phát hành vào thứ Sáu.",
+              "explanation": "'come out' dùng cho ấn phẩm được phát hành; come on dùng cho chương trình bắt đầu chiếu; turn over/fill in không đúng nghĩa."
+            },
+            {
+              "id": "A18",
+              "questionHtml": "My favourite quiz show usually ___ at eight o'clock.",
+              "options": [
+                "comes on",
+                "comes out",
+                "stands out",
+                "goes into"
+              ],
+              "answer": "comes on",
+              "sentenceVi": "Chương trình đố vui yêu thích của tôi thường bắt đầu chiếu lúc 8 giờ.",
+              "explanation": "'come on' dùng cho chương trình TV bắt đầu phát sóng; come out dùng cho việc phát hành ấn phẩm; stand out/go into không đúng nghĩa."
+            },
+            {
+              "id": "A19",
+              "questionHtml": "All visitors must ___ their name and contact details on this form.",
+              "options": [
+                "hand out",
+                "turn over",
+                "fill in",
+                "look up"
+              ],
+              "answer": "fill in",
+              "sentenceVi": "Tất cả khách tham quan phải điền tên và thông tin liên hệ vào biểu mẫu này.",
+              "explanation": "'fill in' nghĩa điền thông tin vào chỗ trống trên biểu mẫu; hand out (phát cho), turn over (lật trang), look up (tra cứu) không phù hợp."
+            },
+            {
+              "id": "A20",
+              "questionHtml": "While I was in the bookshop, I ___ several travel guides but didn't buy any.",
+              "options": [
+                "made out",
+                "brought up",
+                "saw through",
+                "flicked through"
+              ],
+              "answer": "flicked through",
+              "sentenceVi": "Trong lúc ở hiệu sách, tôi đã lướt qua vài cuốn sách hướng dẫn du lịch nhưng không mua cuốn nào.",
+              "explanation": "'flick through' nghĩa lướt nhanh qua các trang; make out (nhận ra), bring up (nêu ra), see through (nhìn thấu bản chất) không phù hợp."
+            },
+            {
+              "id": "A21",
+              "questionHtml": "The teacher briefly mentioned the topic but did not ___ it in detail.",
+              "options": [
+                "go into",
+                "come on",
+                "make up",
+                "stand out"
+              ],
+              "answer": "go into",
+              "sentenceVi": "Giáo viên chỉ nhắc qua chủ đề này mà không đi sâu vào chi tiết.",
+              "explanation": "'go into' nghĩa đi sâu vào chi tiết; come on/make up/stand out không đúng nghĩa trong ngữ cảnh này."
+            },
+            {
+              "id": "A22",
+              "questionHtml": "Could you ___ these information sheets before the presentation starts?",
+              "options": [
+                "look up",
+                "hand out",
+                "come out",
+                "make out"
+              ],
+              "answer": "hand out",
+              "sentenceVi": "Bạn có thể phát những tờ thông tin này trước khi buổi thuyết trình bắt đầu không?",
+              "explanation": "'hand out' nghĩa phát cho mọi người; look up (tra cứu), come out (phát hành), make out (nhận ra) không phù hợp."
+            },
+            {
+              "id": "A23",
+              "questionHtml": "Have you ___ the publisher yet about your article?",
+              "options": [
+                "made up",
+                "filled in",
+                "gone into",
+                "heard from"
+              ],
+              "answer": "heard from",
+              "sentenceVi": "Bạn đã nhận được phản hồi gì từ nhà xuất bản về bài viết của mình chưa?",
+              "explanation": "'hear from somebody' nghĩa nhận được tin/thư từ ai; make up (bịa ra), fill in (điền vào), go into (đi sâu vào) không đúng nghĩa."
+            },
+            {
+              "id": "A24",
+              "questionHtml": "I wasn't sure how to pronounce the word, so I ___ it ___ online.",
+              "options": [
+                "made / out",
+                "turned / over",
+                "looked / up",
+                "brought / up"
+              ],
+              "answer": "looked / up",
+              "sentenceVi": "Tôi không chắc phát âm từ đó thế nào nên đã tra từ đó trên mạng.",
+              "explanation": "'look up' (+ từ + up) nghĩa tra cứu thông tin; make/out, turn/over, bring/up không tạo thành cụm đúng nghĩa ở đây."
+            },
+            {
+              "id": "A25",
+              "questionHtml": "I could hear someone speaking next door, but I couldn't ___ what they were saying.",
+              "options": [
+                "stand out",
+                "make out",
+                "see through",
+                "hand out"
+              ],
+              "answer": "make out",
+              "sentenceVi": "Tôi có thể nghe thấy ai đó nói chuyện ở phòng bên cạnh nhưng không thể nghe rõ họ đang nói gì.",
+              "explanation": "'make out' nghĩa nhận biết/nghe rõ được điều gì đó khó nhận ra; stand out (nổi bật), see through (nhìn thấu), hand out (phát cho) không phù hợp."
+            },
+            {
+              "id": "A26",
+              "questionHtml": "The story sounded unbelievable because he had clearly ___ most of it.",
+              "options": [
+                "looked up",
+                "put forward",
+                "gone into",
+                "made up"
+              ],
+              "answer": "made up",
+              "sentenceVi": "Câu chuyện nghe có vẻ khó tin vì rõ ràng anh ta đã bịa ra phần lớn nội dung.",
+              "explanation": "'make up' nghĩa bịa đặt ra một câu chuyện; look up (tra cứu), put forward (đề xuất), go into (đi sâu vào) không đúng nghĩa."
+            },
+            {
+              "id": "A27",
+              "questionHtml": "The committee ___ three possible solutions to the problem.",
+              "options": [
+                "put forward",
+                "came on",
+                "flicked through",
+                "turned over"
+              ],
+              "answer": "put forward",
+              "sentenceVi": "Ủy ban đã đề xuất ba giải pháp khả thi cho vấn đề này.",
+              "explanation": "'put forward' nghĩa đề xuất ý kiến/giải pháp; come on (bắt đầu chiếu), flick through (lướt qua), turn over (lật trang) không phù hợp."
+            },
+            {
+              "id": "A28",
+              "questionHtml": "The advertisement looked convincing, but experienced shoppers quickly ___ it.",
+              "options": [
+                "stood out",
+                "made out",
+                "saw through",
+                "came out"
+              ],
+              "answer": "saw through",
+              "sentenceVi": "Quảng cáo trông có vẻ thuyết phục, nhưng những người mua sắm có kinh nghiệm nhanh chóng nhìn thấu bản chất của nó.",
+              "explanation": "'see through' nghĩa nhìn thấu sự giả dối/bản chất thật; stand out (nổi bật), make out (nhận ra hình dạng), come out (phát hành) không đúng nghĩa."
+            },
+            {
+              "id": "A29",
+              "questionHtml": "One painting really ___ because of its unusual use of colour.",
+              "options": [
+                "came on",
+                "stood out",
+                "filled in",
+                "heard from"
+              ],
+              "answer": "stood out",
+              "sentenceVi": "Một bức tranh thực sự nổi bật nhờ cách phối màu độc đáo.",
+              "explanation": "'stand out' nghĩa nổi bật, gây chú ý; come on (bắt đầu chiếu), fill in (điền vào), hear from (nhận tin từ) không đúng nghĩa."
+            },
+            {
+              "id": "A30",
+              "questionHtml": "Please ___ the page to see the answers to the exercise.",
+              "options": [
+                "turn over",
+                "bring up",
+                "make up",
+                "go into"
+              ],
+              "answer": "turn over",
+              "sentenceVi": "Hãy lật trang để xem đáp án của bài tập.",
+              "explanation": "'turn over' nghĩa lật (trang); bring up (nêu ra), make up (bịa ra), go into (đi sâu vào) không phù hợp."
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "label": "Contrast & FCE Context",
+          "questions": [
+            {
+              "id": "B1",
+              "questionHtml": "I could see that the message on the screen was there, but the letters were too blurred for me to ___ the final sentence.",
+              "options": [
+                "look up",
+                "see through",
+                "make out",
+                "fill in"
+              ],
+              "answer": "make out",
+              "sentenceVi": "Tôi thấy tin nhắn hiện trên màn hình, nhưng chữ quá mờ nên tôi không thể đọc/nhận ra được câu cuối cùng.",
+              "explanation": "'make out' nghĩa nhận biết được thứ gì đó khó thấy/khó đọc; look up (tra cứu) không liên quan đến việc đọc chữ mờ; see through (nhìn thấu bản chất) sai nghĩa; fill in (điền vào) không phù hợp."
+            },
+            {
+              "id": "B2",
+              "questionHtml": "During the discussion about social media, Leo ___ the question of whether influencers should clearly label advertisements.",
+              "options": [
+                "brought up",
+                "put forward",
+                "went into",
+                "handed out"
+              ],
+              "answer": "brought up",
+              "sentenceVi": "Trong buổi thảo luận về mạng xã hội, Leo đã nêu ra vấn đề liệu những người có ảnh hưởng có nên ghi rõ đây là quảng cáo hay không.",
+              "explanation": "'bring up' nghĩa nêu ra một vấn đề để thảo luận; put forward (đề xuất một giải pháp cụ thể) khác với việc chỉ nêu câu hỏi; went into/handed out không đúng nghĩa."
+            },
+            {
+              "id": "B3",
+              "questionHtml": "The researcher's report ___ several possible explanations, but it does not examine any of them closely.",
+              "options": [
+                "makes up",
+                "looks up",
+                "sees through",
+                "puts forward"
+              ],
+              "answer": "puts forward",
+              "sentenceVi": "Báo cáo của nhà nghiên cứu đưa ra vài cách giải thích khả dĩ, nhưng không xem xét kỹ bất kỳ cách nào.",
+              "explanation": "'put forward' nghĩa đề xuất/đưa ra ý kiến để xem xét; make up (bịa ra) sai vì đây là giải thích hợp lý chứ không phải bịa đặt; look up/see through không đúng nghĩa."
+            },
+            {
+              "id": "B4",
+              "questionHtml": "Before the lecture started, volunteers ___ a short questionnaire to everyone in the audience.",
+              "options": [
+                "filled in",
+                "handed out",
+                "turned over",
+                "brought up"
+              ],
+              "answer": "handed out",
+              "sentenceVi": "Trước khi buổi thuyết trình bắt đầu, các tình nguyện viên đã phát một bảng khảo sát ngắn cho tất cả khán giả.",
+              "explanation": "'hand out' nghĩa phát cho nhiều người; fill in (điền vào) là hành động của người nhận chứ không phải người phát; turn over/bring up không đúng nghĩa."
+            },
+            {
+              "id": "B5",
+              "questionHtml": "I wanted only to check the contents of the book, so I ___ it rather than reading any chapter carefully.",
+              "options": [
+                "went into",
+                "flicked through",
+                "made out",
+                "looked up"
+              ],
+              "answer": "flicked through",
+              "sentenceVi": "Tôi chỉ muốn xem qua nội dung cuốn sách nên đã lướt qua nó thay vì đọc kỹ chương nào.",
+              "explanation": "'flick through' nghĩa lướt nhanh qua các trang; go into (đi sâu vào) trái nghĩa với việc chỉ xem lướt; make out/look up không phù hợp."
+            },
+            {
+              "id": "B6",
+              "questionHtml": "The presenter mentioned the problem but said there wasn't enough time to ___ all the reasons behind it.",
+              "options": [
+                "bring up",
+                "stand out",
+                "go into",
+                "make up"
+              ],
+              "answer": "go into",
+              "sentenceVi": "Người thuyết trình có nhắc đến vấn đề nhưng nói không đủ thời gian để đi sâu vào tất cả các nguyên nhân.",
+              "explanation": "'go into' nghĩa đi sâu vào chi tiết; bring up (nêu ra) đã được thực hiện ở phần \"mentioned\" nên không lặp lại nghĩa; stand out/make up không phù hợp."
+            },
+            {
+              "id": "B7",
+              "questionHtml": "The documentary is scheduled to ___ just after the evening news.",
+              "options": [
+                "come on",
+                "come out",
+                "stand out",
+                "turn over"
+              ],
+              "answer": "come on",
+              "sentenceVi": "Bộ phim tài liệu dự kiến sẽ được chiếu ngay sau bản tin tối.",
+              "explanation": "'come on' dùng cho chương trình bắt đầu phát sóng vào một thời điểm cụ thể; come out dùng cho việc phát hành sản phẩm, không phải giờ chiếu; stand out/turn over không đúng nghĩa."
+            },
+            {
+              "id": "B8",
+              "questionHtml": "Her first collection of short stories ___ when she was only nineteen.",
+              "options": [
+                "came on",
+                "stood out",
+                "went into",
+                "came out"
+              ],
+              "answer": "came out",
+              "sentenceVi": "Tập truyện ngắn đầu tay của cô được xuất bản khi cô mới mười chín tuổi.",
+              "explanation": "'come out' dùng cho sách được phát hành/xuất bản; come on dùng cho chương trình phát sóng chứ không phải sách; stand out/go into không đúng nghĩa."
+            },
+            {
+              "id": "B9",
+              "questionHtml": "If you are unsure who wrote the quotation, you can ___ the information in the reference section.",
+              "options": [
+                "look up",
+                "make out",
+                "put forward",
+                "hear from"
+              ],
+              "answer": "look up",
+              "sentenceVi": "Nếu không chắc ai là tác giả của câu trích dẫn, bạn có thể tra cứu thông tin ở phần tài liệu tham khảo.",
+              "explanation": "'look up' nghĩa tra cứu thông tin; make out (nhận ra hình dạng), put forward (đề xuất), hear from (nhận tin từ) không đúng nghĩa."
+            },
+            {
+              "id": "B10",
+              "questionHtml": "The candidate had to ___ an online form before being invited for an interview.",
+              "options": [
+                "turn over",
+                "hand out",
+                "fill in",
+                "flick through"
+              ],
+              "answer": "fill in",
+              "sentenceVi": "Ứng viên phải điền vào một biểu mẫu trực tuyến trước khi được mời phỏng vấn.",
+              "explanation": "'fill in' nghĩa điền thông tin vào biểu mẫu; turn over/hand out/flick through không đúng nghĩa trong ngữ cảnh này."
+            },
+            {
+              "id": "B11",
+              "questionHtml": "At first the salesman seemed honest, but after a few minutes I began to ___ his story.",
+              "options": [
+                "make out",
+                "bring up",
+                "stand out",
+                "see through"
+              ],
+              "answer": "see through",
+              "sentenceVi": "Lúc đầu người bán hàng có vẻ trung thực, nhưng sau vài phút tôi bắt đầu nhìn thấu câu chuyện giả dối của anh ta.",
+              "explanation": "'see through' nghĩa nhìn thấu sự giả dối/bản chất thật; make out (nhận ra hình dạng khó thấy) không cùng nghĩa; bring up/stand out không phù hợp."
+            },
+            {
+              "id": "B12",
+              "questionHtml": "We haven't ___ our editor for nearly two weeks, so we still don't know whether the article has been accepted.",
+              "options": [
+                "looked up",
+                "heard from",
+                "gone into",
+                "made up"
+              ],
+              "answer": "heard from",
+              "sentenceVi": "Chúng tôi chưa nhận được tin gì từ biên tập viên gần hai tuần nay nên vẫn chưa biết bài viết có được duyệt hay không.",
+              "explanation": "'hear from somebody' nghĩa nhận được tin/thư từ ai; look up/go into/make up không đúng nghĩa."
+            },
+            {
+              "id": "B13",
+              "questionHtml": "The speaker was difficult to understand because of the noise outside, but I managed to ___ most of what she said.",
+              "options": [
+                "see through",
+                "stand out",
+                "make out",
+                "come out"
+              ],
+              "answer": "make out",
+              "sentenceVi": "Người nói khó nghe vì tiếng ồn bên ngoài, nhưng tôi vẫn nghe rõ được phần lớn những gì cô ấy nói.",
+              "explanation": "'make out' nghĩa nghe/nhìn rõ được điều gì đó khó nhận ra; see through (nhìn thấu bản chất) sai nghĩa; stand out/come out không phù hợp."
+            },
+            {
+              "id": "B14",
+              "questionHtml": "Instead of admitting that he had forgotten the meeting, Ryan ___ a story about having problems with his phone.",
+              "options": [
+                "made up",
+                "put forward",
+                "filled in",
+                "brought up"
+              ],
+              "answer": "made up",
+              "sentenceVi": "Thay vì thừa nhận đã quên cuộc họp, Ryan đã bịa ra một câu chuyện về việc điện thoại gặp trục trặc.",
+              "explanation": "'make up' nghĩa bịa đặt ra câu chuyện; put forward (đề xuất chính thức) không hợp ngữ cảnh nói dối; fill in/bring up không đúng nghĩa."
+            },
+            {
+              "id": "B15",
+              "questionHtml": "The article ___ from the others because it uses personal stories instead of simply presenting statistics.",
+              "options": [
+                "comes on",
+                "stands out",
+                "turns over",
+                "hears from"
+              ],
+              "answer": "stands out",
+              "sentenceVi": "Bài báo này nổi bật hơn những bài khác vì sử dụng những câu chuyện cá nhân thay vì chỉ trình bày số liệu.",
+              "explanation": "'stand out from' nghĩa nổi bật so với những cái khác; come on/turn over/hear from không đúng nghĩa."
+            },
+            {
+              "id": "B16",
+              "questionHtml": "When the teacher ___ the issue of plagiarism, several students immediately began asking questions.",
+              "options": [
+                "went into",
+                "put forward",
+                "made out",
+                "brought up"
+              ],
+              "answer": "brought up",
+              "sentenceVi": "Khi giáo viên nêu ra vấn đề đạo văn, một số học sinh lập tức bắt đầu đặt câu hỏi.",
+              "explanation": "'bring up' nghĩa nêu ra một vấn đề để thảo luận; go into (đi sâu vào chi tiết) chưa phù hợp vì câu chỉ nói đến việc nêu ra; put forward/make out không đúng nghĩa."
+            },
+            {
+              "id": "B17",
+              "questionHtml": "The report ___ three recommendations for improving students' reading habits.",
+              "options": [
+                "brings up",
+                "puts forward",
+                "makes up",
+                "fills in"
+              ],
+              "answer": "puts forward",
+              "sentenceVi": "Báo cáo đưa ra ba khuyến nghị để cải thiện thói quen đọc sách của học sinh.",
+              "explanation": "'put forward' nghĩa đề xuất ý kiến/giải pháp; bring up (nêu ra vấn đề chung chung) không cụ thể bằng; make up/fill in không đúng nghĩa."
+            },
+            {
+              "id": "B18",
+              "questionHtml": "This magazine ___ once a month and is available both online and in print.",
+              "options": [
+                "comes out",
+                "comes on",
+                "turns over",
+                "stands out"
+              ],
+              "answer": "comes out",
+              "sentenceVi": "Tạp chí này được phát hành mỗi tháng một lần và có cả bản online lẫn bản in.",
+              "explanation": "'come out' dùng cho ấn phẩm được phát hành định kỳ; come on dùng cho chương trình phát sóng; turn over/stand out không đúng nghĩa."
+            },
+            {
+              "id": "B19",
+              "questionHtml": "The journalist refused to ___ the details of the private conversation in her article.",
+              "options": [
+                "make out",
+                "see through",
+                "go into",
+                "look up"
+              ],
+              "answer": "go into",
+              "sentenceVi": "Nhà báo từ chối đi sâu vào chi tiết cuộc trò chuyện riêng tư trong bài viết của mình.",
+              "explanation": "'go into' nghĩa đi sâu vào chi tiết; make out/see through/look up không đúng nghĩa trong ngữ cảnh này."
+            },
+            {
+              "id": "B20",
+              "questionHtml": "Even though the handwriting was extremely untidy, I eventually ___ the writer's name at the bottom.",
+              "options": [
+                "looked up",
+                "saw through",
+                "filled in",
+                "made out"
+              ],
+              "answer": "made out",
+              "sentenceVi": "Dù chữ viết rất lộn xộn, cuối cùng tôi cũng nhận ra được tên người viết ở phía dưới.",
+              "explanation": "'make out' nghĩa nhận biết được điều gì đó khó đọc/khó thấy; look up (tra cứu), see through (nhìn thấu bản chất), fill in (điền vào) không đúng nghĩa."
+            },
+            {
+              "id": "B21",
+              "questionHtml": "While waiting for the dentist, I ___ an old magazine and read only the headlines.",
+              "options": [
+                "flicked through",
+                "turned over",
+                "went into",
+                "handed out"
+              ],
+              "answer": "flicked through",
+              "sentenceVi": "Trong lúc chờ khám răng, tôi lướt qua một tờ tạp chí cũ và chỉ đọc các tiêu đề.",
+              "explanation": "'flick through' nghĩa lướt nhanh qua các trang; turn over (chỉ đơn thuần lật một trang) không diễn tả hành động lướt xem cả cuốn; go into/hand out không đúng nghĩa."
+            },
+            {
+              "id": "B22",
+              "questionHtml": "The publisher will ___ free copies of the new guidebook at the book fair.",
+              "options": [
+                "bring up",
+                "hand out",
+                "fill in",
+                "look up"
+              ],
+              "answer": "hand out",
+              "sentenceVi": "Nhà xuất bản sẽ phát miễn phí các bản sao của cuốn sách hướng dẫn mới tại hội chợ sách.",
+              "explanation": "'hand out' nghĩa phát cho nhiều người; bring up/fill in/look up không đúng nghĩa."
+            },
+            {
+              "id": "B23",
+              "questionHtml": "I finally ___ my former teacher after sending her an email last month.",
+              "options": [
+                "came out",
+                "made out",
+                "stood out",
+                "heard from"
+              ],
+              "answer": "heard from",
+              "sentenceVi": "Cuối cùng tôi cũng nhận được tin từ giáo viên cũ sau khi gửi email cho cô ấy tháng trước.",
+              "explanation": "'hear from somebody' nghĩa nhận được phản hồi/tin từ ai; come out/make out/stand out không đúng nghĩa."
+            },
+            {
+              "id": "B24",
+              "questionHtml": "Whenever I come across an unfamiliar expression, I usually ___ it ___ rather than guessing its meaning.",
+              "options": [
+                "make / up",
+                "fill / in",
+                "look / up",
+                "turn / over"
+              ],
+              "answer": "look / up",
+              "sentenceVi": "Mỗi khi gặp một cách diễn đạt lạ, tôi thường tra cứu nó thay vì đoán nghĩa.",
+              "explanation": "'look up' (+ từ + up) nghĩa tra cứu thông tin; make/up, fill/in, turn/over không tạo thành cụm đúng nghĩa ở đây."
+            },
+            {
+              "id": "B25",
+              "questionHtml": "The film was based on a true story, although the writers ___ several characters to make the plot more dramatic.",
+              "options": [
+                "brought up",
+                "made up",
+                "saw through",
+                "put forward"
+              ],
+              "answer": "made up",
+              "sentenceVi": "Bộ phim dựa trên một câu chuyện có thật, mặc dù các biên kịch đã hư cấu thêm vài nhân vật để cốt truyện kịch tính hơn.",
+              "explanation": "'make up' nghĩa bịa/hư cấu ra; bring up/see through/put forward không đúng nghĩa trong ngữ cảnh sáng tạo nhân vật hư cấu."
+            },
+            {
+              "id": "B26",
+              "questionHtml": "The competition judges said one entry clearly ___ because its design was both simple and original.",
+              "options": [
+                "came out",
+                "turned over",
+                "went into",
+                "stood out"
+              ],
+              "answer": "stood out",
+              "sentenceVi": "Ban giám khảo cuộc thi cho biết một bài dự thi rõ ràng nổi bật vì thiết kế vừa đơn giản vừa độc đáo.",
+              "explanation": "'stand out' nghĩa nổi bật, gây ấn tượng; come out/turn over/go into không đúng nghĩa."
+            },
+            {
+              "id": "B27",
+              "questionHtml": "The fraud seemed convincing at first, but the journalist eventually ___ it and discovered that the documents were fake.",
+              "options": [
+                "saw through",
+                "made out",
+                "looked up",
+                "filled in"
+              ],
+              "answer": "saw through",
+              "sentenceVi": "Vụ lừa đảo ban đầu có vẻ thuyết phục, nhưng cuối cùng nhà báo đã nhìn thấu và phát hiện các tài liệu là giả.",
+              "explanation": "'see through' nghĩa nhìn thấu bản chất giả dối; make out (nhận ra hình dạng)/look up/fill in không đúng nghĩa."
+            },
+            {
+              "id": "B28",
+              "questionHtml": "You need to ___ the page before you can read the final part of the article.",
+              "options": [
+                "come out",
+                "flick through",
+                "turn over",
+                "hand out"
+              ],
+              "answer": "turn over",
+              "sentenceVi": "Bạn cần lật trang trước khi có thể đọc phần cuối của bài báo.",
+              "explanation": "'turn over' nghĩa lật trang; come out/flick through/hand out không đúng nghĩa trong ngữ cảnh này."
+            },
+            {
+              "id": "B29",
+              "questionHtml": "After the presenter finished explaining her first idea, she ___ a second suggestion for reducing plastic waste.",
+              "options": [
+                "brought up",
+                "put forward",
+                "made up",
+                "came on"
+              ],
+              "answer": "put forward",
+              "sentenceVi": "Sau khi trình bày xong ý tưởng đầu tiên, người thuyết trình đã đề xuất thêm một gợi ý thứ hai để giảm rác thải nhựa.",
+              "explanation": "'put forward' nghĩa đề xuất ý kiến/giải pháp; bring up (chỉ nêu ra vấn đề chung) không cụ thể bằng; make up/come on không đúng nghĩa."
+            },
+            {
+              "id": "B30",
+              "questionHtml": "What time does the interview programme ___ tonight? I don't want to miss the beginning.",
+              "options": [
+                "come on",
+                "come out",
+                "stand out",
+                "hear from"
+              ],
+              "answer": "come on",
+              "sentenceVi": "Mấy giờ tối nay chương trình phỏng vấn sẽ được chiếu? Tôi không muốn bỏ lỡ phần đầu.",
+              "explanation": "'come on' dùng khi hỏi giờ một chương trình bắt đầu phát sóng; come out dùng cho việc phát hành sản phẩm; stand out/hear from không đúng nghĩa."
+            }
+          ]
+        }
       ]
     },
     {
