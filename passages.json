@@ -4643,6 +4643,532 @@
       "image": "assets/images/passages/U5_WP.jpg",
       "mcqSets": [
         {
+          "id": "A",
+          "label": "Recognition & Pattern",
+          "questions": [
+            {
+              "id": "A1",
+              "questionHtml": "___ the editor, the new issue will come out next Friday.",
+              "options": [
+                "According to",
+                "Depending on",
+                "Apart from",
+                "Instead of"
+              ],
+              "answer": "According to",
+              "sentenceVi": "Theo lời biên tập viên, số báo mới sẽ ra mắt vào thứ Sáu tới.",
+              "explanation": "'according to sb' nghĩa theo lời/nguồn tin của ai; depending on/apart from/instead of không đúng nghĩa."
+            },
+            {
+              "id": "A2",
+              "questionHtml": "___ Leo, the book signing attracted more visitors than expected.",
+              "options": [
+                "Believing in",
+                "According to",
+                "Commenting on",
+                "Corresponding with"
+              ],
+              "answer": "According to",
+              "sentenceVi": "Theo lời Leo, buổi ký tặng sách đã thu hút nhiều khách hơn dự kiến.",
+              "explanation": "'according to sb' nghĩa theo lời của ai; believing in/commenting on/corresponding with không đúng nghĩa/cấu trúc mở đầu câu."
+            },
+            {
+              "id": "A3",
+              "questionHtml": "The editor ___ the change ___ the whole team.",
+              "options": [
+                "told / of",
+                "informed / to",
+                "announced / to",
+                "persuaded / about"
+              ],
+              "answer": "announced / to",
+              "sentenceVi": "Biên tập viên đã thông báo sự thay đổi cho cả đội.",
+              "explanation": "'announce sth to sb' nghĩa thông báo điều gì cho ai; told/of, informed/to, persuaded/about không đúng cấu trúc."
+            },
+            {
+              "id": "A4",
+              "questionHtml": "The publisher ___ that the launch would be delayed by a week.",
+              "options": [
+                "described",
+                "corresponded",
+                "commented",
+                "announced"
+              ],
+              "answer": "announced",
+              "sentenceVi": "Nhà xuất bản thông báo rằng buổi ra mắt sẽ bị hoãn một tuần.",
+              "explanation": "'announce that + clause' nghĩa thông báo rằng; described/corresponded/commented không đi kèm 'that + clause' theo cách này."
+            },
+            {
+              "id": "A5",
+              "questionHtml": "Maya ___ the winners' names ___ the audience.",
+              "options": [
+                "announced / to",
+                "announced / with",
+                "announced / for",
+                "announced / at"
+              ],
+              "answer": "announced / to",
+              "sentenceVi": "Maya thông báo tên những người thắng cuộc cho khán giả.",
+              "explanation": "'announce sth to sb' nghĩa thông báo điều gì cho ai; announced with/for/at không đúng giới từ."
+            },
+            {
+              "id": "A6",
+              "questionHtml": "Hana truly ___ the value of reading for pleasure.",
+              "options": [
+                "believes that",
+                "believes in",
+                "believes to be",
+                "believes about"
+              ],
+              "answer": "believes in",
+              "sentenceVi": "Hana thực sự tin vào giá trị của việc đọc sách để giải trí.",
+              "explanation": "'believe in sth' nghĩa tin vào giá trị/sự tồn tại của điều gì; believes that/to be/about không đúng cấu trúc với cụm danh từ này."
+            },
+            {
+              "id": "A7",
+              "questionHtml": "Critics ___ the novel ___ one of the year's best.",
+              "options": [
+                "believe / as",
+                "believe / being",
+                "believe / to be",
+                "believe / for"
+              ],
+              "answer": "believe / to be",
+              "sentenceVi": "Các nhà phê bình tin rằng cuốn tiểu thuyết là một trong những tác phẩm hay nhất năm.",
+              "explanation": "'believe sth to be' nghĩa tin rằng điều gì đó là; believe as/being/for không đúng cấu trúc."
+            },
+            {
+              "id": "A8",
+              "questionHtml": "Most teachers ___ reading widens students' vocabulary.",
+              "options": [
+                "believe in that",
+                "believe to",
+                "believe of",
+                "believe that"
+              ],
+              "answer": "believe that",
+              "sentenceVi": "Hầu hết giáo viên tin rằng việc đọc sách giúp mở rộng vốn từ của học sinh.",
+              "explanation": "'believe that + clause' nghĩa tin rằng; believe in that/to/of không đúng cấu trúc."
+            },
+            {
+              "id": "A9",
+              "questionHtml": "Ben ___ the new cover design during the meeting.",
+              "options": [
+                "commented on",
+                "commented to",
+                "commented with",
+                "commented about to"
+              ],
+              "answer": "commented on",
+              "sentenceVi": "Ben nhận xét về thiết kế bìa mới trong cuộc họp.",
+              "explanation": "'comment on sth' nghĩa nhận xét về điều gì; commented to/with/about to không đúng cấu trúc."
+            },
+            {
+              "id": "A10",
+              "questionHtml": "The reviewer ___ the pacing of the story in her article.",
+              "options": [
+                "informed about",
+                "commented on",
+                "described as",
+                "persuaded of"
+              ],
+              "answer": "commented on",
+              "sentenceVi": "Người đánh giá nhận xét về nhịp độ của câu chuyện trong bài viết của cô.",
+              "explanation": "'comment on sth' nghĩa nhận xét về điều gì; informed about/described as/persuaded of không đúng nghĩa."
+            },
+            {
+              "id": "A11",
+              "questionHtml": "Several readers ___ the two characters ___ each other.",
+              "options": [
+                "confused / by",
+                "confused / from",
+                "confused / with",
+                "confused / about"
+              ],
+              "answer": "confused / with",
+              "sentenceVi": "Một số độc giả đã nhầm lẫn hai nhân vật với nhau.",
+              "explanation": "'confuse sb/sth with sb/sth' nghĩa nhầm lẫn cái này với cái kia; confused by/from/about không đúng cấu trúc."
+            },
+            {
+              "id": "A12",
+              "questionHtml": "Ben was ___ the complicated plot at first.",
+              "options": [
+                "confused with",
+                "confusing about",
+                "confused to",
+                "confused about"
+              ],
+              "answer": "confused about",
+              "sentenceVi": "Lúc đầu Ben cảm thấy bối rối về cốt truyện phức tạp.",
+              "explanation": "'be confused about sth' nghĩa cảm thấy bối rối về điều gì; confused with (nhầm lẫn với), confusing about, confused to không đúng nghĩa/cấu trúc."
+            },
+            {
+              "id": "A13",
+              "questionHtml": "Some visitors were ___ the similar book covers.",
+              "options": [
+                "confused by",
+                "confused of",
+                "confused for",
+                "confused at"
+              ],
+              "answer": "confused by",
+              "sentenceVi": "Một số khách tham quan cảm thấy bối rối bởi những bìa sách giống nhau.",
+              "explanation": "'be confused by sth' nghĩa cảm thấy bối rối bởi điều gì; confused of/for/at không đúng giới từ."
+            },
+            {
+              "id": "A14",
+              "questionHtml": "Hana had ___ the author for weeks before the interview.",
+              "options": [
+                "corresponded to",
+                "corresponded with",
+                "corresponded about",
+                "corresponded for"
+              ],
+              "answer": "corresponded with",
+              "sentenceVi": "Hana đã trao đổi thư từ với tác giả trong nhiều tuần trước buổi phỏng vấn.",
+              "explanation": "'correspond with sb' nghĩa trao đổi thư từ với ai; corresponded to/about/for không đúng giới từ."
+            },
+            {
+              "id": "A15",
+              "questionHtml": "The two editors regularly ___ each other by email.",
+              "options": [
+                "correspond to",
+                "correspond about",
+                "correspond with",
+                "correspond for"
+              ],
+              "answer": "correspond with",
+              "sentenceVi": "Hai biên tập viên thường xuyên trao đổi thư từ với nhau qua email.",
+              "explanation": "'correspond with sb' nghĩa trao đổi thư từ với ai; correspond to/about/for không đúng giới từ."
+            },
+            {
+              "id": "A16",
+              "questionHtml": "The critic ___ the ending ___ disappointing.",
+              "options": [
+                "described / to",
+                "commented / as",
+                "told / as",
+                "described / as"
+              ],
+              "answer": "described / as",
+              "sentenceVi": "Nhà phê bình mô tả đoạn kết là đáng thất vọng.",
+              "explanation": "'describe sth as' nghĩa mô tả điều gì đó là; described/to, commented/as, told/as không đúng cấu trúc."
+            },
+            {
+              "id": "A17",
+              "questionHtml": "Ben ___ the new layout ___ the visiting author.",
+              "options": [
+                "described / to",
+                "described / as",
+                "explained / as",
+                "told / to"
+              ],
+              "answer": "described / to",
+              "sentenceVi": "Ben mô tả cách bố trí mới cho tác giả đến thăm.",
+              "explanation": "'describe sth to sb' nghĩa mô tả điều gì cho ai nghe; described as cần danh từ/tính từ theo sau, explained as/told to không đúng cấu trúc."
+            },
+            {
+              "id": "A18",
+              "questionHtml": "Maya ___ the main character ___ unpredictable.",
+              "options": [
+                "believed / as",
+                "described / as",
+                "informed / as",
+                "told / as"
+              ],
+              "answer": "described / as",
+              "sentenceVi": "Maya mô tả nhân vật chính là khó đoán.",
+              "explanation": "'describe sb as' nghĩa mô tả ai đó là; believed/as, informed/as, told/as không đúng cấu trúc."
+            },
+            {
+              "id": "A19",
+              "questionHtml": "I first ___ the new novel from a classmate.",
+              "options": [
+                "heard from",
+                "heard of",
+                "heard about",
+                "heard for"
+              ],
+              "answer": "heard about",
+              "sentenceVi": "Tôi lần đầu nghe nói về cuốn tiểu thuyết mới từ một bạn cùng lớp.",
+              "explanation": "'hear about sth' nghĩa nghe nói về điều gì; heard from (nhận tin từ ai), heard of/for không đúng cấu trúc trong ngữ cảnh này."
+            },
+            {
+              "id": "A20",
+              "questionHtml": "We haven't ___ the publisher yet.",
+              "options": [
+                "heard about",
+                "heard of",
+                "heard for",
+                "heard from"
+              ],
+              "answer": "heard from",
+              "sentenceVi": "Chúng tôi vẫn chưa nhận được tin gì từ nhà xuất bản.",
+              "explanation": "'hear from sb' nghĩa nhận được tin/thư từ ai; heard about (nghe nói về), heard of/for không đúng nghĩa."
+            },
+            {
+              "id": "A21",
+              "questionHtml": "Leo was delighted to ___ the good news.",
+              "options": [
+                "hear",
+                "listen",
+                "watch",
+                "receive"
+              ],
+              "answer": "hear",
+              "sentenceVi": "Leo rất vui khi nghe tin tốt.",
+              "explanation": "'hear the news' nghĩa nghe tin tức; listen/watch/receive không đúng động từ đi cùng 'the news' theo cách này."
+            },
+            {
+              "id": "A22",
+              "questionHtml": "The organisers ___ the students ___ the schedule had changed.",
+              "options": [
+                "told / about",
+                "informed / that",
+                "announced / to",
+                "persuaded / of"
+              ],
+              "answer": "informed / that",
+              "sentenceVi": "Ban tổ chức đã thông báo cho học sinh biết rằng lịch trình đã thay đổi.",
+              "explanation": "'inform sb that + clause' nghĩa thông báo cho ai biết rằng; told/about, announced/to, persuaded/of không đúng cấu trúc."
+            },
+            {
+              "id": "A23",
+              "questionHtml": "Volunteers were asked to ___ visitors ___ the new opening times.",
+              "options": [
+                "tell / that",
+                "persuade / of",
+                "inform / about",
+                "announce / that"
+              ],
+              "answer": "inform / about",
+              "sentenceVi": "Tình nguyện viên được yêu cầu thông báo cho khách tham quan biết về giờ mở cửa mới.",
+              "explanation": "'inform sb about sth' nghĩa thông báo cho ai biết về điều gì; tell/that, persuade/of, announce/that không đúng cấu trúc trong ngữ cảnh này."
+            },
+            {
+              "id": "A24",
+              "questionHtml": "Hana ___ the group ___ the delay before the talk began.",
+              "options": [
+                "told / of",
+                "announced / of",
+                "persuaded / of",
+                "informed / of"
+              ],
+              "answer": "informed / of",
+              "sentenceVi": "Hana thông báo cho cả nhóm biết về sự chậm trễ trước khi buổi nói chuyện bắt đầu.",
+              "explanation": "'inform sb of sth' nghĩa thông báo cho ai biết về điều gì; told/of, announced/of, persuaded/of không đúng động từ đi cùng giới từ 'of' theo cách này."
+            },
+            {
+              "id": "A25",
+              "questionHtml": "The novel is ___ sell well because of the positive reviews.",
+              "options": [
+                "likely to",
+                "likely that",
+                "likely for",
+                "likely of"
+              ],
+              "answer": "likely to",
+              "sentenceVi": "Cuốn tiểu thuyết có khả năng sẽ bán chạy nhờ những đánh giá tích cực.",
+              "explanation": "'be likely to do sth' nghĩa có khả năng sẽ làm gì; likely that/for/of không đúng cấu trúc theo sau."
+            },
+            {
+              "id": "A26",
+              "questionHtml": "___ the author will visit the school again next year.",
+              "options": [
+                "It likely that",
+                "It is likely that",
+                "It is likely to",
+                "The author is likely"
+              ],
+              "answer": "It is likely that",
+              "sentenceVi": "Có khả năng tác giả sẽ đến thăm trường một lần nữa vào năm sau.",
+              "explanation": "'it is likely that + clause' nghĩa có khả năng rằng; it likely that thiếu 'is', it is likely to cần theo sau là động từ nguyên mẫu, the author is likely thiếu cấu trúc đúng."
+            },
+            {
+              "id": "A27",
+              "questionHtml": "Because of the delay, the event is ___ start later than planned.",
+              "options": [
+                "likely that",
+                "likely for",
+                "likely to",
+                "likely of"
+              ],
+              "answer": "likely to",
+              "sentenceVi": "Do bị trễ, sự kiện có khả năng sẽ bắt đầu muộn hơn dự kiến.",
+              "explanation": "'be likely to do sth' nghĩa có khả năng sẽ làm gì; likely that/for/of không đúng cấu trúc theo sau."
+            },
+            {
+              "id": "A28",
+              "questionHtml": "Hana finally ___ the author ___ join the event.",
+              "options": [
+                "persuaded / that",
+                "informed / to",
+                "told / that",
+                "persuaded / to"
+              ],
+              "answer": "persuaded / to",
+              "sentenceVi": "Cuối cùng Hana đã thuyết phục được tác giả tham gia sự kiện.",
+              "explanation": "'persuade sb to do sth' nghĩa thuyết phục ai làm gì; persuaded/that, informed/to, told/that không đúng cấu trúc."
+            },
+            {
+              "id": "A29",
+              "questionHtml": "Leo ___ the editor ___ the plan was worth trying.",
+              "options": [
+                "persuaded / that",
+                "persuaded / of",
+                "informed / that",
+                "told / of"
+              ],
+              "answer": "persuaded / that",
+              "sentenceVi": "Leo đã thuyết phục biên tập viên rằng kế hoạch này đáng để thử.",
+              "explanation": "'persuade sb that + clause' nghĩa thuyết phục ai rằng; persuaded/of cần danh từ theo sau, informed/that, told/of không đúng cấu trúc."
+            },
+            {
+              "id": "A30",
+              "questionHtml": "The strong reviews ___ Ben ___ the book's quality.",
+              "options": [
+                "persuaded / to",
+                "persuaded / of",
+                "informed / about",
+                "described / as"
+              ],
+              "answer": "persuaded / of",
+              "sentenceVi": "Những đánh giá tích cực đã thuyết phục Ben về chất lượng của cuốn sách.",
+              "explanation": "'persuade sb of sth' nghĩa thuyết phục ai về điều gì; persuaded/to cần động từ nguyên mẫu theo sau, informed/about, described/as không đúng nghĩa."
+            },
+            {
+              "id": "A31",
+              "questionHtml": "There is ___ arguing about the schedule now.",
+              "options": [
+                "no point to",
+                "no point for",
+                "no point in",
+                "the point of"
+              ],
+              "answer": "no point in",
+              "sentenceVi": "Không có ích gì khi tranh cãi về lịch trình bây giờ nữa.",
+              "explanation": "'there is no point in doing sth' nghĩa không có ích gì khi làm gì; no point to/for, the point of không đúng cấu trúc."
+            },
+            {
+              "id": "A32",
+              "questionHtml": "The ___ having a word bank is to help students remember new vocabulary.",
+              "options": [
+                "point in",
+                "no point in",
+                "point to",
+                "point of"
+              ],
+              "answer": "point of",
+              "sentenceVi": "Mục đích của việc có một bảng từ vựng là giúp học sinh ghi nhớ từ mới.",
+              "explanation": "'the point of doing sth' nghĩa mục đích của việc làm gì; point in, no point in, point to không đúng cấu trúc."
+            },
+            {
+              "id": "A33",
+              "questionHtml": "Hana ___ the questions ___ the author before the interview.",
+              "options": [
+                "sent / to",
+                "sent / for",
+                "sent / with",
+                "sent / at"
+              ],
+              "answer": "sent / to",
+              "sentenceVi": "Hana đã gửi các câu hỏi cho tác giả trước buổi phỏng vấn.",
+              "explanation": "'send sth to sb' nghĩa gửi cái gì cho ai; sent for/with/at không đúng giới từ."
+            },
+            {
+              "id": "A34",
+              "questionHtml": "The organiser ___ every volunteer the updated timetable.",
+              "options": [
+                "told",
+                "sent",
+                "announced",
+                "described"
+              ],
+              "answer": "sent",
+              "sentenceVi": "Người tổ chức đã gửi lịch trình cập nhật cho mỗi tình nguyện viên.",
+              "explanation": "'send sb sth' nghĩa gửi cho ai cái gì (2 tân ngữ trực tiếp); told/announced/described không dùng được với cấu trúc 2 tân ngữ này."
+            },
+            {
+              "id": "A35",
+              "questionHtml": "Maya was genuinely ___ the number of visitors.",
+              "options": [
+                "surprised to",
+                "surprise with",
+                "surprised by",
+                "surprised from"
+              ],
+              "answer": "surprised by",
+              "sentenceVi": "Maya thực sự ngạc nhiên trước số lượng khách tham quan.",
+              "explanation": "'be surprised by sth' nghĩa ngạc nhiên bởi điều gì; surprised to cần động từ nguyên mẫu theo sau, surprise with/surprised from không đúng."
+            },
+            {
+              "id": "A36",
+              "questionHtml": "The author's early arrival ___ everyone ___ surprise.",
+              "options": [
+                "surprised / at",
+                "informed / about",
+                "told / in",
+                "took / by"
+              ],
+              "answer": "took / by",
+              "sentenceVi": "Việc tác giả đến sớm đã khiến mọi người ngạc nhiên.",
+              "explanation": "'take sb by surprise' nghĩa khiến ai đó ngạc nhiên bất ngờ; surprised at không đúng cấu trúc, informed about/told in không đúng nghĩa."
+            },
+            {
+              "id": "A37",
+              "questionHtml": "The ending ___ most readers.",
+              "options": [
+                "surprised",
+                "was surprised by",
+                "took by surprise",
+                "surprised at"
+              ],
+              "answer": "surprised",
+              "sentenceVi": "Đoạn kết đã khiến hầu hết độc giả ngạc nhiên.",
+              "explanation": "'surprise sb' (động từ) nghĩa khiến ai ngạc nhiên; was surprised by đảo ngược chủ thể, took by surprise thiếu tân ngữ đúng vị trí, surprised at không đúng cấu trúc."
+            },
+            {
+              "id": "A38",
+              "questionHtml": "Hana ___ the group ___ the journalist had arrived.",
+              "options": [
+                "said / that",
+                "told / that",
+                "told / to",
+                "informed / about"
+              ],
+              "answer": "told / that",
+              "sentenceVi": "Hana nói với cả nhóm rằng nhà báo đã đến.",
+              "explanation": "'tell sb that + clause' nghĩa nói với ai rằng; said that thiếu tân ngữ trực tiếp, told to/informed about không đúng cấu trúc."
+            },
+            {
+              "id": "A39",
+              "questionHtml": "The novelist ___ the students ___ her first book.",
+              "options": [
+                "said about",
+                "informed that",
+                "told about",
+                "described as"
+              ],
+              "answer": "told about",
+              "sentenceVi": "Nhà văn kể cho học sinh nghe về cuốn sách đầu tay của mình.",
+              "explanation": "'tell sb about sth' nghĩa kể cho ai nghe về điều gì; said about thiếu tân ngữ chỉ người, informed that/described as không đúng cấu trúc."
+            },
+            {
+              "id": "A40",
+              "questionHtml": "Leo ___ the volunteers ___ prepare one question each.",
+              "options": [
+                "said / to",
+                "informed / about",
+                "announced / to",
+                "told / to"
+              ],
+              "answer": "told / to",
+              "sentenceVi": "Leo bảo các tình nguyện viên mỗi người chuẩn bị một câu hỏi.",
+              "explanation": "'tell sb to do sth' nghĩa bảo ai làm gì; said/to (say không đi kèm tân ngữ chỉ người theo cách này), informed/about, announced/to không đúng cấu trúc."
+            }
+          ]
+        },
+        {
           "id": "B",
           "label": "FCE Word Pattern Mastery",
           "questions": [
