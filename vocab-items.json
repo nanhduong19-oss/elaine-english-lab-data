@@ -1607,7 +1607,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_groan.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_groan_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_groan_example.mp3",
+      "ipa": "/ɡrəʊn/",
+      "definition": "to make a long, low sound expressing pain, unhappiness or disapproval",
+      "example": "Ben groaned when he saw how many boxes still needed to be unpacked."
     },
     {
       "id": "U5_core_yell",
@@ -1623,7 +1626,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_yell.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_yell_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_yell_example.mp3",
+      "ipa": "/jel/",
+      "definition": "to shout loudly, especially because of fear, pain or excitement",
+      "example": "Leo yelled \"Watch out!\" as the display stand began to topple."
     },
     {
       "id": "U5_core_shriek",
@@ -1639,7 +1645,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_shriek.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_shriek_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_shriek_example.mp3",
+      "ipa": "/ʃriːk/",
+      "definition": "to make a short, loud, high-pitched cry",
+      "example": "Maya shrieked when a shadow moved behind the curtain."
     },
     {
       "id": "U5_core_whimper",
@@ -1655,7 +1664,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_whimper.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_whimper_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_whimper_example.mp3",
+      "ipa": "/ˈwɪmpə/",
+      "definition": "to make small, weak crying sounds",
+      "example": "The youngest visitor whimpered softly after dropping her favourite book."
     },
     {
       "id": "U5_core_sigh",
@@ -1671,7 +1683,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_sigh.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_sigh_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_sigh_example.mp3",
+      "ipa": "/saɪ/",
+      "definition": "to let out a deep breath, showing tiredness, relief or disappointment",
+      "example": "Hana sighed with relief when the missing pages were finally found."
     },
     {
       "id": "U5_core_crouch",
@@ -1687,7 +1702,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_crouch.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_crouch_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_crouch_example.mp3",
+      "ipa": "/kraʊtʃ/",
+      "definition": "to bend your knees and lower your body close to the ground",
+      "example": "Ben crouched down to pick up the fallen leaflets."
     },
     {
       "id": "U5_core_creep",
@@ -1703,7 +1721,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_creep.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_creep_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_creep_example.mp3",
+      "ipa": "/kriːp/",
+      "definition": "to move slowly and quietly, especially to avoid being noticed",
+      "example": "Leo crept along the shelves so as not to disturb the readers."
     },
     {
       "id": "U5_core_dart",
@@ -1720,9 +1741,9 @@
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_dart.mp3",
       "audioExample": "assets/audio/vocab/U5_core_dart_example.mp3",
-      "ipa": "/dˈɑːt/",
-      "definition": "a small pointed object thrown at a circular board",
-      "example": "Each player threw three darts."
+      "ipa": "/dɑːt/",
+      "definition": "to move suddenly and quickly in a particular direction",
+      "example": "Maya darted between the bookshelves to catch a photo of the author."
     },
     {
       "id": "U5_core_dash",
@@ -1738,7 +1759,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_dash.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_dash_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_dash_example.mp3",
+      "ipa": "/dæʃ/",
+      "definition": "to run or move somewhere in a hurry",
+      "example": "Ben dashed to the entrance when he heard the novelist had arrived."
     },
     {
       "id": "U5_core_stumble",
@@ -1754,7 +1778,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_stumble.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_stumble_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_stumble_example.mp3",
+      "ipa": "/ˈstʌmbl/",
+      "definition": "to trip and almost fall while walking or running",
+      "example": "Leo stumbled over a stack of books left on the floor."
     },
     {
       "id": "U5_core_fall",
@@ -1770,7 +1797,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_fall.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_fall_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_fall_example.mp3",
+      "ipa": "/fɔːl/",
+      "definition": "to drop down accidentally",
+      "example": "Several brochures fell from the table when the door was opened."
     },
     {
       "id": "U5_core_tremble",
@@ -1786,7 +1816,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_tremble.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_tremble_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_tremble_example.mp3",
+      "ipa": "/ˈtrembl/",
+      "definition": "to shake slightly, usually because of fear, cold or excitement",
+      "example": "Hana's hands trembled with excitement before the interview began."
     },
     {
       "id": "U5_core_twist",
@@ -1802,7 +1835,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_twist.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_twist_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_twist_example.mp3",
+      "ipa": "/twɪst/",
+      "definition": "to turn or bend part of your body in a particular direction",
+      "example": "Ben twisted round to see who had called his name."
     },
     {
       "id": "U5_core_nod",
@@ -1818,7 +1854,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_nod.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_nod_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_nod_example.mp3",
+      "ipa": "/nɒd/",
+      "definition": "to move your head down and up to show agreement",
+      "example": "The novelist nodded and smiled at Leo's question."
     },
     {
       "id": "U5_core_breathe",
@@ -1834,7 +1873,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_breathe.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_breathe_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_breathe_example.mp3",
+      "ipa": "/briːð/",
+      "definition": "to take air into your lungs and let it out",
+      "example": "Leo breathed slowly to calm his nerves before the interview."
     },
     {
       "id": "U5_core_notice",
@@ -1850,7 +1892,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_notice.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_notice_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_notice_example.mp3",
+      "ipa": "/ˈnəʊtɪs/",
+      "definition": "to see or become aware of something",
+      "example": "Maya noticed a small note tucked inside the old book."
     },
     {
       "id": "U5_core_glimpse",
@@ -1866,7 +1911,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_glimpse.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_glimpse_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_glimpse_example.mp3",
+      "ipa": "/ɡlɪmps/",
+      "definition": "to see something for a very short time",
+      "example": "Ben glimpsed the author through the crowd near the entrance."
     },
     {
       "id": "U5_core_gaze",
@@ -1882,7 +1930,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_gaze.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_gaze_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_gaze_example.mp3",
+      "ipa": "/ɡeɪz/",
+      "definition": "to look steadily at something for a long time",
+      "example": "Maya gazed at the painting while waiting for the talk to start."
     },
     {
       "id": "U5_core_peer",
@@ -1898,7 +1949,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_peer.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_peer_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_peer_example.mp3",
+      "ipa": "/pɪə/",
+      "definition": "to look closely or carefully, especially because something is hard to see",
+      "example": "Ben peered between the shelves to find the missing catalogue."
     },
     {
       "id": "U5_core_spot",
@@ -1914,7 +1968,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_spot.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_spot_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_spot_example.mp3",
+      "ipa": "/spɒt/",
+      "definition": "to notice or see someone or something, often suddenly",
+      "example": "Hana spotted the missing page under a stack of leaflets."
     },
     {
       "id": "U5_core_blink",
@@ -1930,7 +1987,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_blink.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_blink_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_blink_example.mp3",
+      "ipa": "/blɪŋk/",
+      "definition": "to close and open your eyes quickly",
+      "example": "Maya blinked in surprise when the camera flash went off."
     },
     {
       "id": "U5_core_view",
@@ -1946,7 +2006,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_view.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_view_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_view_example.mp3",
+      "ipa": "/vjuː/",
+      "definition": "to look at or watch something",
+      "example": "Visitors viewed the new exhibition area before the launch began."
     },
     {
       "id": "U5_core_witness",
@@ -1962,7 +2025,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_witness.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_witness_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_witness_example.mp3",
+      "ipa": "/ˈwɪtnəs/",
+      "definition": "to see something happen",
+      "example": "Leo witnessed the whole scene from behind the information desk."
     },
     {
       "id": "U5_core_stare",
@@ -1978,7 +2044,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_stare.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_stare_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_stare_example.mp3",
+      "ipa": "/steə/",
+      "definition": "to look at someone or something for a long time without moving your eyes",
+      "example": "The students stared at the shelf, wondering where the book had gone."
     },
     {
       "id": "U5_core_observe",
@@ -1994,7 +2063,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_observe.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_observe_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_observe_example.mp3",
+      "ipa": "/əbˈzɜːv/",
+      "definition": "to watch someone or something carefully",
+      "example": "Ben observed the visitors' reactions to the new display."
     },
     {
       "id": "U5_core_glance",
@@ -2010,7 +2082,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_glance.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_glance_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_glance_example.mp3",
+      "ipa": "/ɡlɑːns/",
+      "definition": "to look at something quickly",
+      "example": "Hana glanced at the clock, worried that they were running out of time."
     },
     {
       "id": "U5_core_literature",
@@ -2900,7 +2975,10 @@
       "keyChunk": null,
       "passageId": "U5_CORE",
       "audioWord": "assets/audio/vocab/U5_core_prose.mp3",
-      "audioExample": "assets/audio/vocab/U5_core_prose_example.mp3"
+      "audioExample": "assets/audio/vocab/U5_core_prose_example.mp3",
+      "ipa": "/prəʊz/",
+      "definition": "written or spoken language in its ordinary form, without the special rhythm or rhyme of poetry",
+      "example": "Hana asked the novelist about the difference between writing prose and composing a line of verse."
     },
     {
       "id": "U6_core_actor",
