@@ -4425,7 +4425,8 @@
           "sentenceWithGap": "Most reviewers described the show as brilliant, compelling, delightful and ___.",
           "answer": "gripping"
         }
-      ]
+      ],
+      "image": "assets/images/passages/U6_CORE.jpg"
     },
     {
       "passageId": "U7_CORE",

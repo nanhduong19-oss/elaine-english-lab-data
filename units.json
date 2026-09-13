@@ -69,7 +69,7 @@
           "id": 6,
           "name": "Unit 6: Theatre, Film, Television & The Media",
           "skills": {
-            "vocab": false,
+            "vocab": true,
             "wordFormation": false,
             "ueo": false,
             "reading": false,
