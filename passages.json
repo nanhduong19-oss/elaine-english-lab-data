@@ -4433,7 +4433,7 @@
       "unit": "U7",
       "title": "From Creative Ideas to the Riverside Gallery",
       "text": "Ben was chosen to organise the art section of the Riverside Culture Festival, so he began by contacting local artists and inviting the school arts and crafts club to take part in the project. As an enthusiastic art lover, he wanted the exhibition to include more than paintings. The final art collection contained drawings, sculptures, pottery, textiles, jewellery and several unusual works of art. Maya helped carry the larger pieces, Leo wrote short descriptions for each artwork, and Hana filmed the preparation for the festival website. During the week before the opening, the group transformed the school hall into a bright gallery. Ben decided to put on an exhibition that would make a strong impression on visitors, so he arranged the sculptures carefully and placed the most colourful works on show near the entrance. One local artist also lent them a large three-dimensional installation, which Ben believed was bound to attract attention. Although everyone worked hard, they still worried that the event might not prove to be successful. On Saturday morning, visitors began to wait in a queue outside the gallery. Once inside, they moved slowly around the room, enjoyed looking at the different styles and showed appreciation for the students’ creative work. Some visitors preferred realistic portraits, while others voiced an opinion in favour of abstract art. Ben, who was talented at creating unusual displays, had placed the three-dimensional installation in the centre of the room. It immediately stole the show. By the end of the afternoon, the gallery was full, the artists were answering questions, and the exhibition had become one of the most popular parts of the festival. Ben was proud that the team had not only celebrated artistic talent but had also encouraged people to look at art with greater curiosity through a shared cultural experience.",
-      "audio": "assets/audio/passages/U7_CORE.mp3",
+      "audio": "assets/audio/passages/U7_CORE.m4a",
       "gapSentences": [
         {
           "id": "U7_CORE_gap1",
@@ -4495,14 +4495,15 @@
           "sentenceWithGap": "The installation made a strong and ___ effect on every visitor who walked past it.",
           "answer": "impressive"
         }
-      ]
+      ],
+      "image": "assets/images/passages/U7_CORE.jpg"
     },
     {
       "passageId": "U7_PV",
       "unit": "U7",
       "title": "The Exhibition Everyone Remembered",
       "text": "When the Riverside Art Week came around, Ben knew he could count on Maya, Leo and Hana to help him put on an exhibition. He promised to finish the layout early and said that the gallery would be ready by Friday. Because Ben takes after his creative aunt, he is talented at designing unusual displays, and everyone expected the event to take off online. During preparation, Leo nearly dropped off while writing labels, and loud drilling drowned out Hana’s instructions. Maya refused to fall for Ben’s joke about a missing statue. Although the group usually got along with one another, Hana had to apologise to Leo for criticising his descriptions. They tried to avoid placing fragile pottery near the entrance and chose a digital guide instead of printing hundreds of leaflets. At first, one abstract sculpture did not appeal to Maya, but it slowly grew on her. Ben warned a young artist not to show off and reminded him that he was supposed to explain his ideas clearly. The artist was happy to answer questions and felt that every student deserved to be recognised. A painting named after the River Thames proved to be the visitors’ favourite. No one wanted to let down the local artists. The exhibition was bound to attract attention, and Hana enjoyed filming the opening. By evening, the event had begun to go down as one of Riverside’s best festivals, proving to the team that careful cooperation could turn a simple school project into something memorable.",
-      "audio": "assets/audio/passages/U7_PV.mp3",
+      "audio": "assets/audio/passages/U7_PV.m4a",
       "gapSentences": [
         {
           "id": "U7_PV_gap1",
@@ -4564,14 +4565,15 @@
           "sentenceWithGap": "By evening, the event had begun to ___ one of Riverside's best festivals.",
           "answer": "go down as"
         }
-      ]
+      ],
+      "image": "assets/images/passages/U7_PV.jpg"
     },
     {
       "passageId": "U7_COLLOC",
       "unit": "U7",
       "title": "The Gallery Opening Party",
       "text": "When the Riverside Festival gallery finally opened, everyone hoped the evening would be fun. Ben told the volunteers to make themselves at home in the reception area before visitors arrived. He wanted the exhibition to make a strong impression on local artists, so every painting was carefully lit and every sculpture was placed where it could be seen clearly. Maya tried to make a joke about Ben’s serious expression, but he did not find it funny at first. A few minutes later, however, he began to laugh about how nervous he had been. Hana, who was taking part in the opening as the event presenter, reminded him that he had an important part to play in welcoming the guests. Leo also had a part in the programme: he was going to read a short description of each major artwork. The school had decided to throw a party after the official opening. Before it began, visitors had to join a queue outside the gallery and wait in a queue while staff checked their tickets. Inside, a student band played soft music, and several young actors performed a short play about a famous painter. One actress completely stole the show with her confident performance. Later, the lights were lowered and everyone stood in silence while Ben thanked the artists. He then invited visitors to show appreciation for the students’ work and to voice an opinion about the exhibition. Some spoke in a low voice, while others confidently described the pieces they admired most. By the end of the night, the gallery was still full of people having fun, discussing art and taking photographs. Ben realised that the event had not only impressed the visitors but had also brought the whole school community together in a memorable shared experience.",
-      "audio": "assets/audio/passages/U7_COLLOC.mp3",
+      "audio": "assets/audio/passages/U7_COLLOC.m4a",
       "gapSentences": [
         {
           "id": "U7_COLLOC_gap1",
