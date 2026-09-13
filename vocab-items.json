@@ -3225,7 +3225,11 @@
       "audioExample": "assets/audio/vocab/U6_core_viewer_example.mp3",
       "ipa": "/ˈvjuːə/",
       "definition": "a person who watches television or a video",
-      "example": "Millions of viewers tuned in to watch the final episode."
+      "example": "Millions of viewers tuned in to watch the final episode.",
+      "highlightForms": [
+        "viewers",
+        "viewer"
+      ]
     },
     {
       "id": "U6_core_script",
@@ -3814,7 +3818,11 @@
       "audioExample": "assets/audio/vocab/U6_core_reality_tv_show_example.mp3",
       "ipa": "/riˈæləti ˌtiː ˈviː ʃəʊ/",
       "definition": "a television programme that shows real people in unscripted situations",
-      "example": "Not everyone in the class enjoys watching a reality TV show."
+      "example": "Not everyone in the class enjoys watching a reality TV show.",
+      "highlightForms": [
+        "reality TV show",
+        "reality TV"
+      ]
     },
     {
       "id": "U6_core_soap_opera",
@@ -4080,7 +4088,11 @@
       "audioExample": "assets/audio/vocab/U6_core_rock_'n'_roll_example.mp3",
       "ipa": "/ˌrɒk ən ˈrəʊl/",
       "definition": "an early style of popular music with a strong beat, popular from the 1950s",
-      "example": "The dance number was set to classic rock 'n' roll."
+      "example": "The dance number was set to classic rock 'n' roll.",
+      "highlightForms": [
+        "rock ’n’ roll",
+        "rock 'n' roll"
+      ]
     },
     {
       "id": "U6_core_country_and_western",
