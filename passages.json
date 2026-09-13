@@ -5696,6 +5696,1068 @@
           ]
         }
       ]
+    },
+    {
+      "passageId": "U6_COLLOC",
+      "unit": "U6",
+      "title": "From Rehearsal to Riverside Premiere",
+      "text": "When Hana was asked to direct the main production for the Riverside Culture Festival, she decided to combine theatre, film and live music in one ambitious show. She chose a cast of student actors and performers, including a comedian, a dancer and two members of the school ballet club. Leo wrote the script, dialogue and a short screenplay for the trailer, while Ben designed the set, painted the scenery and created each costume. Maya managed the venue, box office and rehearsal timetable. The first rehearsal was far from perfect: one actor forgot his lines, a performer entered from the wrong side of the stage, and part of the scenery blocked the audience’s view. Hana changed her direction, shortened one scene and moved the set so the whole cast could appear more naturally. By the final rehearsal, the production had become a lively mixture of drama, musical theatre, opera and dance, with a short comic section before the interval. The group also wanted viewers who could not attend the live performance to experience the event, so they filmed a trailer and a short TV programme. Some scenes were recorded inside the theatre, while others were shot on location beside the river. Leo reorganised the storyline because the first version was confusing, and Ben added subtitles and simple special effects to make the plot easier to follow. Hana appeared in a chat show to promote the production, and Maya presented a documentary about the work behind it. The programme also contained a current affairs report on youth arts, a light comedy sketch and brief introductions to costume drama, soap opera and reality TV. Although there was no full cartoon, Ben created an imaginative animated title for the screen. A local critic praised the acting and said that the main character was convincing, while the camera work captured the human side of the young performers. Music gave the final performance its distinctive style. A student composer created the score, and the conductor brought together the school orchestra, choir and a talented guitarist. The soundtrack included rock, pop, jazz, folk, classical music and world music, together with a rock ’n’ roll number and a country and western cover version. One track was a moving duet, while another was an old favourite that every fan recognised from its opening tune. During rehearsal, the musicians worked carefully on the beat, rhythm, lyrics and harmony until everyone could sing in tune. On premiere night, the venue was full. Some reviewers found one section slightly predictable, but most described the show as brilliant, compelling, delightful and gripping. The special effects were stunning, the music was superb, and the final scene was both dramatic and memorable. Even the strictest critic admitted that the production was outstanding rather than dull, tedious or uninspired. By the end, it had received rave reviews and become one of the festival’s most fascinating events.",
+      "audio": "assets/audio/passages/U6_CORE.m4a",
+      "image": "assets/images/passages/U6_CORE.jpg",
+      "mcqSets": [
+        {
+          "id": "A",
+          "label": "Recognition & Components",
+          "questions": [
+            {
+              "id": "A1",
+              "questionHtml": "The students were very proud ___ their final performance.",
+              "options": [
+                "at",
+                "of",
+                "for",
+                "with"
+              ],
+              "answer": "of",
+              "sentenceVi": "Các học sinh rất tự hào về phần biểu diễn cuối cùng của mình.",
+              "explanation": "'be proud of sb/sth' nghĩa tự hào về ai/cái gì; at/for/with không đi với proud trong mẫu này."
+            },
+            {
+              "id": "A2",
+              "questionHtml": "There is no point ___ arguing about the seating plan now.",
+              "options": [
+                "to",
+                "of",
+                "in",
+                "for"
+              ],
+              "answer": "in",
+              "sentenceVi": "Bây giờ tranh cãi về sơ đồ chỗ ngồi cũng không có ích gì.",
+              "explanation": "'there is no point in doing' nghĩa không có ích gì khi làm gì; to/of/for không dùng trong cấu trúc này."
+            },
+            {
+              "id": "A3",
+              "questionHtml": "Bring an umbrella ___ it rains during the outdoor performance.",
+              "options": [
+                "because",
+                "although",
+                "unless",
+                "in case"
+              ],
+              "answer": "in case",
+              "sentenceVi": "Hãy mang ô phòng khi trời mưa trong buổi biểu diễn ngoài trời.",
+              "explanation": "'in case + clause' nghĩa phòng khi; because (vì), although (mặc dù), unless (trừ khi) không đúng nghĩa."
+            },
+            {
+              "id": "A4",
+              "questionHtml": "The actor failed ___ remember one of his lines during rehearsal.",
+              "options": [
+                "to",
+                "in",
+                "at",
+                "for"
+              ],
+              "answer": "to",
+              "sentenceVi": "Nam diễn viên đã không nhớ được một câu thoại của mình trong buổi tập.",
+              "explanation": "'fail to do' nghĩa không làm được/không kịp làm gì; in/at/for không đúng cấu trúc."
+            },
+            {
+              "id": "A5",
+              "questionHtml": "We were surprised ___ the quality of the student production.",
+              "options": [
+                "with",
+                "by",
+                "for",
+                "from"
+              ],
+              "answer": "by",
+              "sentenceVi": "Chúng tôi ngạc nhiên về chất lượng của vở diễn học sinh.",
+              "explanation": "'be surprised by sth' nghĩa ngạc nhiên vì điều gì; with/for/from không dùng ở đây."
+            },
+            {
+              "id": "A6",
+              "questionHtml": "Call me ___ you arrive at the theatre.",
+              "options": [
+                "until",
+                "while",
+                "as soon as",
+                "during"
+              ],
+              "answer": "as soon as",
+              "sentenceVi": "Hãy gọi cho tôi ngay khi bạn đến nhà hát.",
+              "explanation": "'as soon as + clause' nghĩa ngay khi; until/while/during không diễn tả đúng ý 'ngay khi'."
+            },
+            {
+              "id": "A7",
+              "questionHtml": "The students all agreed ___ the final scene needed more practice.",
+              "options": [
+                "about",
+                "with",
+                "to",
+                "that"
+              ],
+              "answer": "that",
+              "sentenceVi": "Tất cả học sinh đều đồng ý rằng cảnh cuối cần luyện thêm.",
+              "explanation": "'agree that + clause' nghĩa đồng ý rằng; about/with/to không nối trực tiếp với mệnh đề như vậy."
+            },
+            {
+              "id": "A8",
+              "questionHtml": "The new film is likely ___ attract a large audience.",
+              "options": [
+                "to",
+                "for",
+                "of",
+                "at"
+              ],
+              "answer": "to",
+              "sentenceVi": "Bộ phim mới có khả năng thu hút đông khán giả.",
+              "explanation": "'be likely to do' nghĩa có khả năng sẽ...; for/of/at không đúng mẫu."
+            },
+            {
+              "id": "A9",
+              "questionHtml": "The school production received rave ___ from local newspapers.",
+              "options": [
+                "performances",
+                "reviews",
+                "stories",
+                "rehearsals"
+              ],
+              "answer": "reviews",
+              "sentenceVi": "Vở diễn của trường nhận được những lời khen ngợi nồng nhiệt từ báo địa phương.",
+              "explanation": "'receive rave reviews' nghĩa nhận được những lời phê bình rất tích cực; các đáp án còn lại không tạo collocation đúng."
+            },
+            {
+              "id": "A10",
+              "questionHtml": "The young actors gave an outstanding ___ on the final night.",
+              "options": [
+                "production",
+                "review",
+                "performance",
+                "location"
+              ],
+              "answer": "performance",
+              "sentenceVi": "Các diễn viên trẻ đã có một màn trình diễn xuất sắc vào đêm cuối.",
+              "explanation": "'an outstanding performance' nghĩa một màn trình diễn xuất sắc; production/review/location không phù hợp."
+            },
+            {
+              "id": "A11",
+              "questionHtml": "The film had such a gripping ___ that nobody wanted to leave before the end.",
+              "options": [
+                "score",
+                "review",
+                "rehearsal",
+                "storyline"
+              ],
+              "answer": "storyline",
+              "sentenceVi": "Bộ phim có cốt truyện cuốn hút đến mức không ai muốn rời đi trước khi kết thúc.",
+              "explanation": "'a gripping storyline' nghĩa cốt truyện lôi cuốn; các đáp án khác không hợp nghĩa."
+            },
+            {
+              "id": "A12",
+              "questionHtml": "The lighting problem was discovered during the final ___.",
+              "options": [
+                "rehearsal",
+                "performance",
+                "location",
+                "review"
+              ],
+              "answer": "rehearsal",
+              "sentenceVi": "Sự cố ánh sáng được phát hiện trong buổi tổng duyệt cuối cùng.",
+              "explanation": "'final rehearsal' nghĩa buổi tổng duyệt cuối cùng; các đáp án khác không tạo cụm đúng."
+            },
+            {
+              "id": "A13",
+              "questionHtml": "Hundreds of parents came to watch the live ___.",
+              "options": [
+                "rehearsal",
+                "performance",
+                "storyline",
+                "effect"
+              ],
+              "answer": "performance",
+              "sentenceVi": "Hàng trăm phụ huynh đã đến xem buổi biểu diễn trực tiếp.",
+              "explanation": "'live performance' nghĩa buổi biểu diễn trực tiếp; các phương án khác không phù hợp."
+            },
+            {
+              "id": "A14",
+              "questionHtml": "Several scenes were filmed ___ location near the river.",
+              "options": [
+                "in",
+                "at",
+                "on",
+                "by"
+              ],
+              "answer": "on",
+              "sentenceVi": "Một số cảnh được quay tại bối cảnh thật gần bờ sông.",
+              "explanation": "'on location' nghĩa quay tại hiện trường/bối cảnh thật; in/at/by không đúng collocation."
+            },
+            {
+              "id": "A15",
+              "questionHtml": "The dragon looked realistic because of the excellent special ___.",
+              "options": [
+                "scores",
+                "rehearsals",
+                "performances",
+                "effects"
+              ],
+              "answer": "effects",
+              "sentenceVi": "Con rồng trông rất thật nhờ những kỹ xảo đặc biệt xuất sắc.",
+              "explanation": "'special effects' nghĩa kỹ xảo đặc biệt; các đáp án khác không đi với special ở đây."
+            },
+            {
+              "id": "A16",
+              "questionHtml": "A student composer wrote the original ___ for the short film.",
+              "options": [
+                "score",
+                "review",
+                "effect",
+                "storyline"
+              ],
+              "answer": "score",
+              "sentenceVi": "Một học sinh sáng tác đã viết phần nhạc gốc cho bộ phim ngắn.",
+              "explanation": "'original score' nghĩa phần nhạc gốc viết riêng cho phim; các đáp án khác không đúng cụm."
+            },
+            {
+              "id": "A17",
+              "questionHtml": "Maya is very proud ___ the way the cast worked together.",
+              "options": [
+                "for",
+                "of",
+                "about",
+                "by"
+              ],
+              "answer": "of",
+              "sentenceVi": "Maya rất tự hào về cách cả dàn diễn viên phối hợp với nhau.",
+              "explanation": "'be proud of' là cấu trúc đúng; for/about/by không dùng ở đây."
+            },
+            {
+              "id": "A18",
+              "questionHtml": "There is no point ___ another rehearsal if everyone already knows the scene perfectly.",
+              "options": [
+                "to have",
+                "of having",
+                "in having",
+                "for having"
+              ],
+              "answer": "in having",
+              "sentenceVi": "Không có ích gì khi tập thêm một buổi nữa nếu mọi người đã thuộc cảnh đó hoàn hảo rồi.",
+              "explanation": "'there is no point in doing' ở đây là 'in having'; các đáp án còn lại sai cấu trúc."
+            },
+            {
+              "id": "A19",
+              "questionHtml": "Take your phone with you ___ the organiser needs to contact you.",
+              "options": [
+                "although",
+                "so that",
+                "because",
+                "in case"
+              ],
+              "answer": "in case",
+              "sentenceVi": "Hãy mang theo điện thoại phòng khi người tổ chức cần liên lạc với bạn.",
+              "explanation": "'in case' nghĩa phòng khi; although/so that/because không đúng nghĩa."
+            },
+            {
+              "id": "A20",
+              "questionHtml": "The director failed ___ the sound problem before the performance began.",
+              "options": [
+                "to notice",
+                "noticing",
+                "notice",
+                "in noticing"
+              ],
+              "answer": "to notice",
+              "sentenceVi": "Đạo diễn đã không nhận ra vấn đề âm thanh trước khi buổi diễn bắt đầu.",
+              "explanation": "'fail to do' nghĩa không kịp/không làm được gì; các phương án khác sai mẫu."
+            },
+            {
+              "id": "A21",
+              "questionHtml": "The audience was surprised ___ how confidently the young actors performed.",
+              "options": [
+                "about",
+                "by",
+                "of",
+                "with"
+              ],
+              "answer": "by",
+              "sentenceVi": "Khán giả ngạc nhiên về việc các diễn viên trẻ biểu diễn tự tin đến thế nào.",
+              "explanation": "'be surprised by how + clause' nghĩa ngạc nhiên vì/bởi việc...; about/of/with không đúng cấu trúc ở đây."
+            },
+            {
+              "id": "A22",
+              "questionHtml": "The doors will close ___ the performance begins.",
+              "options": [
+                "until",
+                "during",
+                "as soon as",
+                "in case"
+              ],
+              "answer": "as soon as",
+              "sentenceVi": "Cửa sẽ đóng ngay khi buổi biểu diễn bắt đầu.",
+              "explanation": "'as soon as' nghĩa ngay khi; các đáp án khác không phù hợp về nghĩa."
+            },
+            {
+              "id": "A23",
+              "questionHtml": "The director agreed ___ the composer ___ the need for softer music in the final scene.",
+              "options": [
+                "to / about",
+                "with / to",
+                "about / on",
+                "with / about"
+              ],
+              "answer": "with / about",
+              "sentenceVi": "Đạo diễn đồng ý với nhà soạn nhạc về việc cần âm nhạc nhẹ hơn ở cảnh cuối.",
+              "explanation": "'agree with sb about sth' nghĩa đồng ý với ai về điều gì; các lựa chọn khác đều sai pattern."
+            },
+            {
+              "id": "A24",
+              "questionHtml": "It is likely ___ the show will sell out by Friday.",
+              "options": [
+                "that",
+                "to",
+                "of",
+                "for"
+              ],
+              "answer": "that",
+              "sentenceVi": "Có khả năng buổi diễn sẽ bán hết vé trước thứ Sáu.",
+              "explanation": "'It is likely that + clause' nghĩa có khả năng là...; to/of/for không đúng cấu trúc này."
+            },
+            {
+              "id": "A25",
+              "questionHtml": "The production received rave ___ after its first public performance.",
+              "options": [
+                "scenes",
+                "reviews",
+                "scores",
+                "effects"
+              ],
+              "answer": "reviews",
+              "sentenceVi": "Vở diễn nhận được nhiều lời phê bình rất tích cực sau buổi công diễn đầu tiên.",
+              "explanation": "'receive rave reviews' là cụm đúng; các đáp án khác không phù hợp."
+            },
+            {
+              "id": "A26",
+              "questionHtml": "The lead actor gave an outstanding ___ despite being nervous.",
+              "options": [
+                "storyline",
+                "rehearsal",
+                "performance",
+                "score"
+              ],
+              "answer": "performance",
+              "sentenceVi": "Diễn viên chính đã có màn trình diễn xuất sắc dù rất hồi hộp.",
+              "explanation": "'an outstanding performance' nghĩa màn trình diễn xuất sắc; các đáp án khác sai collocation."
+            },
+            {
+              "id": "A27",
+              "questionHtml": "The story was simple, but it had a gripping ___.",
+              "options": [
+                "location",
+                "review",
+                "effect",
+                "storyline"
+              ],
+              "answer": "storyline",
+              "sentenceVi": "Câu chuyện đơn giản nhưng có cốt truyện rất cuốn hút.",
+              "explanation": "'a gripping storyline' nghĩa cốt truyện cuốn hút; các đáp án khác không hợp nghĩa."
+            },
+            {
+              "id": "A28",
+              "questionHtml": "The cast practised the entire show during the final ___.",
+              "options": [
+                "rehearsal",
+                "score",
+                "review",
+                "location"
+              ],
+              "answer": "rehearsal",
+              "sentenceVi": "Dàn diễn viên đã tập toàn bộ vở diễn trong buổi tổng duyệt cuối cùng.",
+              "explanation": "'final rehearsal' nghĩa buổi tổng duyệt cuối; các đáp án còn lại không đúng."
+            },
+            {
+              "id": "A29",
+              "questionHtml": "Students who could not attend the live ___ watched a recording later.",
+              "options": [
+                "storyline",
+                "performance",
+                "score",
+                "effect"
+              ],
+              "answer": "performance",
+              "sentenceVi": "Những học sinh không thể tham dự buổi biểu diễn trực tiếp đã xem bản ghi sau đó.",
+              "explanation": "'live performance' là cụm đúng; các đáp án khác không phù hợp."
+            },
+            {
+              "id": "A30",
+              "questionHtml": "The director wanted to film the outdoor scenes ___ location.",
+              "options": [
+                "at",
+                "in",
+                "on",
+                "from"
+              ],
+              "answer": "on",
+              "sentenceVi": "Đạo diễn muốn quay các cảnh ngoài trời tại bối cảnh thật.",
+              "explanation": "'on location' nghĩa quay tại bối cảnh thật; các phương án khác sai collocation."
+            },
+            {
+              "id": "A31",
+              "questionHtml": "The explosion was created using special ___ rather than real fire.",
+              "options": [
+                "scores",
+                "rehearsals",
+                "reviews",
+                "effects"
+              ],
+              "answer": "effects",
+              "sentenceVi": "Vụ nổ được tạo ra bằng kỹ xảo đặc biệt chứ không phải lửa thật.",
+              "explanation": "'special effects' nghĩa kỹ xảo đặc biệt; các đáp án khác không đúng."
+            },
+            {
+              "id": "A32",
+              "questionHtml": "The original ___ was written especially for the film.",
+              "options": [
+                "score",
+                "review",
+                "rehearsal",
+                "performance"
+              ],
+              "answer": "score",
+              "sentenceVi": "Phần nhạc gốc được viết riêng cho bộ phim.",
+              "explanation": "'original score' nghĩa nhạc phim gốc được sáng tác riêng; các phương án khác sai."
+            },
+            {
+              "id": "A33",
+              "questionHtml": "Ben was proud ___ being chosen for the main role.",
+              "options": [
+                "at",
+                "of",
+                "with",
+                "from"
+              ],
+              "answer": "of",
+              "sentenceVi": "Ben tự hào vì được chọn vào vai chính.",
+              "explanation": "'be proud of' nghĩa tự hào về; các đáp án khác sai cấu trúc."
+            },
+            {
+              "id": "A34",
+              "questionHtml": "There is no point ___ the same scene again without changing anything.",
+              "options": [
+                "repeat",
+                "to repeat",
+                "in repeating",
+                "for repeating"
+              ],
+              "answer": "in repeating",
+              "sentenceVi": "Không có ích gì khi lặp lại cùng một cảnh mà không thay đổi gì.",
+              "explanation": "'there is no point in doing' → 'in repeating'; các đáp án khác sai."
+            },
+            {
+              "id": "A35",
+              "questionHtml": "Take an extra costume ___ the first one gets damaged.",
+              "options": [
+                "when",
+                "unless",
+                "because",
+                "in case"
+              ],
+              "answer": "in case",
+              "sentenceVi": "Hãy mang thêm một bộ trang phục phòng khi bộ đầu tiên bị hỏng.",
+              "explanation": "'in case' nghĩa phòng khi; when/unless/because không phù hợp về nghĩa."
+            },
+            {
+              "id": "A36",
+              "questionHtml": "The team failed ___ the final video before the deadline.",
+              "options": [
+                "to finish",
+                "finishing",
+                "finish",
+                "in finishing"
+              ],
+              "answer": "to finish",
+              "sentenceVi": "Nhóm đã không hoàn thành video cuối cùng trước hạn chót.",
+              "explanation": "'fail to do' là cấu trúc đúng; các đáp án còn lại sai mẫu."
+            },
+            {
+              "id": "A37",
+              "questionHtml": "We were surprised ___ how professional the production looked.",
+              "options": [
+                "about",
+                "at",
+                "to",
+                "of"
+              ],
+              "answer": "at",
+              "sentenceVi": "Chúng tôi ngạc nhiên vì vở diễn trông chuyên nghiệp đến thế.",
+              "explanation": "'be surprised at how + clause' nghĩa ngạc nhiên về việc...; about/to/of không đúng trong câu này."
+            },
+            {
+              "id": "A38",
+              "questionHtml": "The students will leave the stage ___ the final song ends.",
+              "options": [
+                "while",
+                "until",
+                "as soon as",
+                "in case"
+              ],
+              "answer": "as soon as",
+              "sentenceVi": "Các học sinh sẽ rời sân khấu ngay khi bài hát cuối kết thúc.",
+              "explanation": "'as soon as' nghĩa ngay khi; các đáp án khác không phù hợp."
+            },
+            {
+              "id": "A39",
+              "questionHtml": "The director agreed ___ make one final change to the script.",
+              "options": [
+                "that",
+                "with",
+                "on",
+                "to"
+              ],
+              "answer": "to",
+              "sentenceVi": "Đạo diễn đồng ý thực hiện một thay đổi cuối cùng cho kịch bản.",
+              "explanation": "'agree to do' nghĩa đồng ý làm gì; that/with/on không nối trực tiếp với động từ nguyên mẫu."
+            },
+            {
+              "id": "A40",
+              "questionHtml": "The film is likely ___ very popular with teenagers.",
+              "options": [
+                "to be",
+                "being",
+                "be",
+                "for being"
+              ],
+              "answer": "to be",
+              "sentenceVi": "Bộ phim có khả năng sẽ rất được thanh thiếu niên yêu thích.",
+              "explanation": "'be likely to be' nghĩa có khả năng sẽ là/trở nên; các đáp án khác sai cấu trúc."
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "label": "FCE Functional Language Mastery",
+          "questions": [
+            {
+              "id": "B1",
+              "questionHtml": "After weeks of preparation, Hana was extremely ___ what the students had achieved.",
+              "options": [
+                "surprised by",
+                "likely to",
+                "in case of",
+                "proud of"
+              ],
+              "answer": "proud of",
+              "sentenceVi": "Sau nhiều tuần chuẩn bị, Hana vô cùng tự hào về những gì học sinh đã đạt được.",
+              "explanation": "'be proud of' nghĩa tự hào về; surprised by/likely to/in case of không hợp nghĩa câu."
+            },
+            {
+              "id": "B2",
+              "questionHtml": "There is ___ continuing the rehearsal if the sound system cannot be fixed.",
+              "options": [
+                "no point in",
+                "no point to",
+                "not point in",
+                "no point for"
+              ],
+              "answer": "no point in",
+              "sentenceVi": "Không có ích gì khi tiếp tục buổi tập nếu hệ thống âm thanh không thể sửa được.",
+              "explanation": "'there is no point in doing' nghĩa không có ích gì khi làm gì; B, C, D đều sai cấu trúc."
+            },
+            {
+              "id": "B3",
+              "questionHtml": "The director asked everyone to arrive early ___ there were any last-minute problems.",
+              "options": [
+                "as soon as",
+                "in case",
+                "because of",
+                "likely that"
+              ],
+              "answer": "in case",
+              "sentenceVi": "Đạo diễn yêu cầu mọi người đến sớm phòng khi có vấn đề vào phút chót.",
+              "explanation": "'in case + clause' nghĩa phòng khi; các đáp án khác không đúng nghĩa/cấu trúc."
+            },
+            {
+              "id": "B4",
+              "questionHtml": "Although the actors had practised several times, one student ___ remember his final line.",
+              "options": [
+                "agreed to",
+                "was likely to",
+                "failed to",
+                "was proud of"
+              ],
+              "answer": "failed to",
+              "sentenceVi": "Dù các diễn viên đã tập nhiều lần, một học sinh vẫn không nhớ được câu thoại cuối.",
+              "explanation": "'fail to do' nghĩa không làm được; các đáp án còn lại không phù hợp về nghĩa."
+            },
+            {
+              "id": "B5",
+              "questionHtml": "The audience was genuinely ___ the quality of the special effects.",
+              "options": [
+                "proud of",
+                "likely to",
+                "in case",
+                "surprised by"
+              ],
+              "answer": "surprised by",
+              "sentenceVi": "Khán giả thật sự ngạc nhiên trước chất lượng của các kỹ xảo đặc biệt.",
+              "explanation": "'be surprised by sth' nghĩa ngạc nhiên vì điều gì; các đáp án khác không hợp nghĩa."
+            },
+            {
+              "id": "B6",
+              "questionHtml": "The actors returned backstage ___ the final scene ended.",
+              "options": [
+                "as soon as",
+                "in case",
+                "likely to",
+                "proud of"
+              ],
+              "answer": "as soon as",
+              "sentenceVi": "Các diễn viên trở lại phía sau sân khấu ngay khi cảnh cuối kết thúc.",
+              "explanation": "'as soon as' nghĩa ngay khi; các đáp án còn lại không phù hợp."
+            },
+            {
+              "id": "B7",
+              "questionHtml": "After discussing the problem, the director and composer ___ reduce the volume of the music.",
+              "options": [
+                "agreed that",
+                "agreed to",
+                "agreed about",
+                "agreed of"
+              ],
+              "answer": "agreed to",
+              "sentenceVi": "Sau khi thảo luận vấn đề, đạo diễn và nhà soạn nhạc đồng ý giảm âm lượng nhạc.",
+              "explanation": "'agree to do' nghĩa đồng ý làm gì; 'agree that' cần mệnh đề; agree about/of sai."
+            },
+            {
+              "id": "B8",
+              "questionHtml": "Because tickets are selling quickly, the performance ___ be fully booked.",
+              "options": [
+                "agrees to",
+                "fails to",
+                "is likely to",
+                "is proud to"
+              ],
+              "answer": "is likely to",
+              "sentenceVi": "Vì vé đang bán nhanh, buổi diễn có khả năng sẽ kín chỗ.",
+              "explanation": "'be likely to do' nghĩa có khả năng sẽ...; các đáp án khác sai nghĩa."
+            },
+            {
+              "id": "B9",
+              "questionHtml": "The student production ___ from both parents and local journalists.",
+              "options": [
+                "gave an outstanding performance",
+                "had a gripping storyline",
+                "wrote an original score",
+                "received rave reviews"
+              ],
+              "answer": "received rave reviews",
+              "sentenceVi": "Vở diễn của học sinh nhận được nhiều lời khen từ phụ huynh và nhà báo địa phương.",
+              "explanation": "'receive rave reviews' nghĩa nhận được nhiều lời khen ngợi; A, B, C không phù hợp với chủ ngữ/câu."
+            },
+            {
+              "id": "B10",
+              "questionHtml": "Despite being only fourteen, the lead actor gave ___.",
+              "options": [
+                "an outstanding performance",
+                "a gripping storyline",
+                "special effects",
+                "a final rehearsal"
+              ],
+              "answer": "an outstanding performance",
+              "sentenceVi": "Dù mới mười bốn tuổi, diễn viên chính đã có một màn trình diễn xuất sắc.",
+              "explanation": "'give an outstanding performance' nghĩa có màn trình diễn xuất sắc; các đáp án khác không hợp logic câu."
+            },
+            {
+              "id": "B11",
+              "questionHtml": "Even though the film was quite long, its ___ kept the audience interested.",
+              "options": [
+                "final rehearsal",
+                "gripping storyline",
+                "live performance",
+                "original score"
+              ],
+              "answer": "gripping storyline",
+              "sentenceVi": "Mặc dù bộ phim khá dài, cốt truyện cuốn hút của nó vẫn giữ được sự chú ý của khán giả.",
+              "explanation": "'gripping storyline' nghĩa cốt truyện cuốn hút; các đáp án khác không phù hợp trong ngữ cảnh."
+            },
+            {
+              "id": "B12",
+              "questionHtml": "The technical team discovered the lighting fault during ___.",
+              "options": [
+                "live performance",
+                "special effects",
+                "the final rehearsal",
+                "rave reviews"
+              ],
+              "answer": "the final rehearsal",
+              "sentenceVi": "Nhóm kỹ thuật phát hiện lỗi ánh sáng trong buổi tổng duyệt cuối cùng.",
+              "explanation": "'final rehearsal' nghĩa buổi tổng duyệt cuối; các đáp án khác không phù hợp."
+            },
+            {
+              "id": "B13",
+              "questionHtml": "Over five hundred people attended ___ in the school theatre.",
+              "options": [
+                "an original score",
+                "a gripping storyline",
+                "final rehearsal",
+                "the live performance"
+              ],
+              "answer": "the live performance",
+              "sentenceVi": "Hơn năm trăm người đã tham dự buổi biểu diễn trực tiếp ở nhà hát của trường.",
+              "explanation": "'attend the live performance' nghĩa tham dự buổi biểu diễn trực tiếp; các lựa chọn khác không hợp nghĩa."
+            },
+            {
+              "id": "B14",
+              "questionHtml": "The director chose to shoot the beach scene ___ rather than build an artificial set.",
+              "options": [
+                "on location",
+                "in rehearsal",
+                "on performance",
+                "in score"
+              ],
+              "answer": "on location",
+              "sentenceVi": "Đạo diễn chọn quay cảnh bãi biển tại bối cảnh thật thay vì dựng bối cảnh giả.",
+              "explanation": "'on location' nghĩa tại bối cảnh thật; các đáp án khác sai collocation."
+            },
+            {
+              "id": "B15",
+              "questionHtml": "The flying dragon was created entirely with ___.",
+              "options": [
+                "rave reviews",
+                "special effects",
+                "an original score",
+                "live performance"
+              ],
+              "answer": "special effects",
+              "sentenceVi": "Con rồng bay được tạo hoàn toàn bằng kỹ xảo đặc biệt.",
+              "explanation": "'special effects' nghĩa kỹ xảo đặc biệt; các đáp án khác không hợp nghĩa."
+            },
+            {
+              "id": "B16",
+              "questionHtml": "Instead of using existing music, the composer created ___ specifically for the film.",
+              "options": [
+                "a gripping storyline",
+                "rave reviews",
+                "an original score",
+                "final rehearsal"
+              ],
+              "answer": "an original score",
+              "sentenceVi": "Thay vì dùng nhạc có sẵn, nhà soạn nhạc đã tạo phần nhạc gốc riêng cho bộ phim.",
+              "explanation": "'original score' nghĩa phần nhạc gốc viết riêng cho phim; các đáp án khác sai nghĩa."
+            },
+            {
+              "id": "B17",
+              "questionHtml": "The students were ___ how many people came to see their first production.",
+              "options": [
+                "likely to",
+                "proud to",
+                "in case",
+                "surprised at"
+              ],
+              "answer": "surprised at",
+              "sentenceVi": "Các học sinh ngạc nhiên vì có quá nhiều người đến xem vở diễn đầu tiên của mình.",
+              "explanation": "'be surprised at sth' nghĩa ngạc nhiên về điều gì; các đáp án khác không đúng cấu trúc/nghĩa."
+            },
+            {
+              "id": "B18",
+              "questionHtml": "There is ___ repeating the entire rehearsal because only one short scene needs changing.",
+              "options": [
+                "no point in",
+                "no point to",
+                "not a point of",
+                "no point for"
+              ],
+              "answer": "no point in",
+              "sentenceVi": "Không cần lặp lại toàn bộ buổi tập vì chỉ có một cảnh ngắn cần thay đổi.",
+              "explanation": "Cấu trúc đúng là 'there is no point in doing'; B, C, D sai mẫu."
+            },
+            {
+              "id": "B19",
+              "questionHtml": "Keep a copy of the soundtrack on another computer ___ the main file is damaged.",
+              "options": [
+                "as soon as",
+                "in case",
+                "likely that",
+                "proud of"
+              ],
+              "answer": "in case",
+              "sentenceVi": "Hãy giữ một bản sao của nhạc nền trên máy tính khác phòng khi tệp chính bị hỏng.",
+              "explanation": "'in case' nghĩa phòng khi; các đáp án còn lại không phù hợp."
+            },
+            {
+              "id": "B20",
+              "questionHtml": "The student director ___ notice that one microphone had stopped working.",
+              "options": [
+                "agreed to",
+                "was proud to",
+                "failed to",
+                "was likely that"
+              ],
+              "answer": "failed to",
+              "sentenceVi": "Đạo diễn học sinh đã không nhận ra rằng một chiếc micro đã ngừng hoạt động.",
+              "explanation": "'failed to notice' nghĩa đã không nhận ra; A, B, D không hợp nghĩa/cấu trúc."
+            },
+            {
+              "id": "B21",
+              "questionHtml": "___ the performance finishes, the audience will be invited to meet the actors.",
+              "options": [
+                "In case",
+                "Likely that",
+                "Proud of",
+                "As soon as"
+              ],
+              "answer": "As soon as",
+              "sentenceVi": "Ngay khi buổi biểu diễn kết thúc, khán giả sẽ được mời gặp các diễn viên.",
+              "explanation": "'as soon as + clause' nghĩa ngay khi; các đáp án khác sai nghĩa."
+            },
+            {
+              "id": "B22",
+              "questionHtml": "Both groups ___ the final scene should be shorter.",
+              "options": [
+                "agreed that",
+                "agreed to",
+                "agreed with",
+                "agreed on to"
+              ],
+              "answer": "agreed that",
+              "sentenceVi": "Cả hai nhóm đều đồng ý rằng cảnh cuối nên ngắn hơn.",
+              "explanation": "'agree that + clause' là cấu trúc đúng; 'agreed to' cần verb; 'agreed with' cần người; 'agreed on to' sai."
+            },
+            {
+              "id": "B23",
+              "questionHtml": "Ticket sales are already very strong, so the show ___ sell out before Friday.",
+              "options": [
+                "is likely that",
+                "is likely to",
+                "likely that",
+                "is likely for"
+              ],
+              "answer": "is likely to",
+              "sentenceVi": "Do doanh số vé đang rất tốt, buổi diễn có khả năng sẽ bán hết trước thứ Sáu.",
+              "explanation": "'be likely to do' nghĩa có khả năng sẽ...; A, C, D sai cấu trúc."
+            },
+            {
+              "id": "B24",
+              "questionHtml": "After the premiere, the production ___ in the local press.",
+              "options": [
+                "made special effects",
+                "performed an original score",
+                "received rave reviews",
+                "rehearsed a storyline"
+              ],
+              "answer": "received rave reviews",
+              "sentenceVi": "Sau buổi công diễn đầu tiên, vở diễn đã nhận được rất nhiều lời khen trên báo địa phương.",
+              "explanation": "'receive rave reviews' là cụm đúng; các đáp án còn lại không phù hợp."
+            },
+            {
+              "id": "B25",
+              "questionHtml": "Reviewers praised Maya for ___ in the final scene.",
+              "options": [
+                "a gripping storyline",
+                "an original score",
+                "special effects",
+                "an outstanding performance"
+              ],
+              "answer": "an outstanding performance",
+              "sentenceVi": "Các nhà phê bình khen Maya vì màn trình diễn xuất sắc ở cảnh cuối.",
+              "explanation": "'praise sb for an outstanding performance' nghĩa khen ai vì màn trình diễn xuất sắc; các đáp án khác không phù hợp."
+            },
+            {
+              "id": "B26",
+              "questionHtml": "The acting was good, but what really made the film successful was ___.",
+              "options": [
+                "its gripping storyline",
+                "its final rehearsal",
+                "its live location",
+                "its rave performance"
+              ],
+              "answer": "its gripping storyline",
+              "sentenceVi": "Diễn xuất tốt, nhưng điều thật sự làm bộ phim thành công là cốt truyện cuốn hút của nó.",
+              "explanation": "'its gripping storyline' nghĩa cốt truyện lôi cuốn của nó; B, C, D không tự nhiên/không đúng collocation."
+            },
+            {
+              "id": "B27",
+              "questionHtml": "The entire cast attended ___ the evening before opening night.",
+              "options": [
+                "on location",
+                "the final rehearsal",
+                "the original effects",
+                "the rave reviews"
+              ],
+              "answer": "the final rehearsal",
+              "sentenceVi": "Toàn bộ dàn diễn viên đã tham dự buổi tổng duyệt cuối cùng vào tối trước đêm công diễn.",
+              "explanation": "'attend the final rehearsal' nghĩa tham dự buổi tổng duyệt cuối; các đáp án khác không hợp nghĩa."
+            },
+            {
+              "id": "B28",
+              "questionHtml": "Students who were unable to attend ___ watched the recording the next day.",
+              "options": [
+                "the special effects",
+                "the gripping storyline",
+                "the live performance",
+                "the original score"
+              ],
+              "answer": "the live performance",
+              "sentenceVi": "Những học sinh không thể tham dự buổi biểu diễn trực tiếp đã xem bản ghi vào ngày hôm sau.",
+              "explanation": "'attend the live performance' là cụm đúng; các phương án còn lại không phù hợp."
+            },
+            {
+              "id": "B29",
+              "questionHtml": "The forest scenes were filmed ___ in a park outside the city.",
+              "options": [
+                "in performance",
+                "at rehearsal",
+                "with storyline",
+                "on location"
+              ],
+              "answer": "on location",
+              "sentenceVi": "Các cảnh trong rừng được quay tại bối cảnh thật ở một công viên ngoài thành phố.",
+              "explanation": "'film on location' nghĩa quay tại bối cảnh thật; A, B, C sai collocation."
+            },
+            {
+              "id": "B30",
+              "questionHtml": "The disappearing castle looked completely real because of ___.",
+              "options": [
+                "the special effects",
+                "the final rehearsal",
+                "the live performance",
+                "the rave reviews"
+              ],
+              "answer": "the special effects",
+              "sentenceVi": "Lâu đài biến mất trông hoàn toàn chân thực nhờ các kỹ xảo đặc biệt.",
+              "explanation": "'because of the special effects' nghĩa nhờ kỹ xảo đặc biệt; các đáp án khác không phù hợp."
+            },
+            {
+              "id": "B31",
+              "questionHtml": "The composer spent several weeks writing ___ for the documentary.",
+              "options": [
+                "a gripping storyline",
+                "an original score",
+                "rave reviews",
+                "special rehearsals"
+              ],
+              "answer": "an original score",
+              "sentenceVi": "Nhà soạn nhạc đã dành nhiều tuần để viết phần nhạc gốc cho bộ phim tài liệu.",
+              "explanation": "'write an original score' nghĩa viết phần nhạc gốc; các đáp án khác không đúng vai trò/nghĩa."
+            },
+            {
+              "id": "B32",
+              "questionHtml": "Ben was particularly ___ the improvement the younger actors had made.",
+              "options": [
+                "likely to",
+                "surprised how",
+                "proud of",
+                "in case"
+              ],
+              "answer": "proud of",
+              "sentenceVi": "Ben đặc biệt tự hào về sự tiến bộ mà các diễn viên nhỏ tuổi đã đạt được.",
+              "explanation": "'be proud of sth' nghĩa tự hào về điều gì; A, B, D sai cấu trúc/nghĩa."
+            },
+            {
+              "id": "B33",
+              "questionHtml": "There is ___ worrying about the reviews before they have even been published.",
+              "options": [
+                "no point to",
+                "not point in",
+                "no point for",
+                "no point in"
+              ],
+              "answer": "no point in",
+              "sentenceVi": "Không có ích gì khi lo lắng về các bài phê bình trước khi chúng được đăng.",
+              "explanation": "Cấu trúc đúng: 'there is no point in doing'; A, B, C đều sai."
+            },
+            {
+              "id": "B34",
+              "questionHtml": "Take an extra copy of the script ___ one of the actors loses theirs.",
+              "options": [
+                "in case",
+                "as soon as",
+                "likely that",
+                "surprised by"
+              ],
+              "answer": "in case",
+              "sentenceVi": "Hãy mang theo một bản kịch bản dự phòng phòng khi một diễn viên làm mất bản của mình.",
+              "explanation": "'in case + clause' nghĩa phòng khi; các đáp án khác không đúng."
+            },
+            {
+              "id": "B35",
+              "questionHtml": "The director was surprised ___ how quickly the students learned the new scene.",
+              "options": [
+                "about",
+                "by",
+                "with",
+                "of"
+              ],
+              "answer": "by",
+              "sentenceVi": "Đạo diễn ngạc nhiên vì học sinh học cảnh mới nhanh đến mức nào.",
+              "explanation": "'be surprised by how + clause' nghĩa ngạc nhiên vì/bởi việc...; A, C, D không đúng cấu trúc."
+            },
+            {
+              "id": "B36",
+              "questionHtml": "The actors will return to the stage ___ the orchestra finishes playing.",
+              "options": [
+                "in case",
+                "proud of",
+                "as soon as",
+                "likely to"
+              ],
+              "answer": "as soon as",
+              "sentenceVi": "Các diễn viên sẽ quay lại sân khấu ngay khi dàn nhạc kết thúc phần biểu diễn.",
+              "explanation": "'as soon as' nghĩa ngay khi; các đáp án khác không phù hợp."
+            },
+            {
+              "id": "B37",
+              "questionHtml": "After discussing the music, Hana ___ Leo ___ lowering the volume in the final scene.",
+              "options": [
+                "agreed to / about",
+                "agreed with / to",
+                "agreed on / with",
+                "agreed with / about"
+              ],
+              "answer": "agreed with / about",
+              "sentenceVi": "Sau khi thảo luận về âm nhạc, Hana đồng ý với Leo về việc giảm âm lượng ở cảnh cuối.",
+              "explanation": "'agree with sb about sth' nghĩa đồng ý với ai về điều gì; A, B, C đều sai pattern."
+            },
+            {
+              "id": "B38",
+              "questionHtml": "The producer ___ change the location after listening to the director's concerns.",
+              "options": [
+                "agreed to",
+                "agreed that to",
+                "agreed on change",
+                "agreed with change"
+              ],
+              "answer": "agreed to",
+              "sentenceVi": "Nhà sản xuất đồng ý thay đổi địa điểm sau khi nghe những lo ngại của đạo diễn.",
+              "explanation": "'agree to do' nghĩa đồng ý làm gì; B, C, D đều sai cấu trúc."
+            },
+            {
+              "id": "B39",
+              "questionHtml": "Given the positive response from audiences, the film ___ win another award.",
+              "options": [
+                "fails to",
+                "is likely to",
+                "agrees to",
+                "is proud of"
+              ],
+              "answer": "is likely to",
+              "sentenceVi": "Với phản hồi tích cực từ khán giả, bộ phim có khả năng sẽ giành thêm một giải thưởng nữa.",
+              "explanation": "'be likely to do' nghĩa có khả năng sẽ...; các đáp án khác không đúng nghĩa."
+            },
+            {
+              "id": "B40",
+              "questionHtml": "The school was ___ receiving such positive feedback from professional reviewers.",
+              "options": [
+                "surprised how",
+                "likely to",
+                "proud of",
+                "in case"
+              ],
+              "answer": "proud of",
+              "sentenceVi": "Nhà trường rất tự hào khi nhận được những phản hồi tích cực như vậy từ các nhà phê bình chuyên nghiệp.",
+              "explanation": "'be proud of' nghĩa tự hào về; A, B, D không đúng cấu trúc hoặc nghĩa."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
