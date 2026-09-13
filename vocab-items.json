@@ -4795,7 +4795,11 @@
       "audioExample": "assets/audio/vocab/U7_core_painting_example.mp3",
       "ipa": "/ˈpeɪntɪŋ/",
       "definition": "the art or activity of creating pictures with paint; a picture made with paint",
-      "example": "Painting was the most popular activity in the children’s workshop."
+      "example": "Painting was the most popular activity in the children’s workshop.",
+      "highlightForms": [
+        "paintings",
+        "painting"
+      ]
     },
     {
       "id": "U7_core_drawing",
@@ -4814,7 +4818,11 @@
       "audioExample": "assets/audio/vocab/U7_core_drawing_example.mp3",
       "ipa": "/ˈdrɔːɪŋ/",
       "definition": "the activity of making pictures with a pencil, pen or similar tool; a picture made this way",
-      "example": "Leo produced a careful drawing of the old theatre."
+      "example": "Leo produced a careful drawing of the old theatre.",
+      "highlightForms": [
+        "drawings",
+        "drawing"
+      ]
     },
     {
       "id": "U7_core_sculpture",
@@ -4833,7 +4841,11 @@
       "audioExample": "assets/audio/vocab/U7_core_sculpture_example.mp3",
       "ipa": "/ˈskʌlptʃə/",
       "definition": "the art of making three-dimensional objects from stone, metal, wood or other materials",
-      "example": "A large metal sculpture stood in the centre of the gallery."
+      "example": "A large metal sculpture stood in the centre of the gallery.",
+      "highlightForms": [
+        "sculptures",
+        "sculpture"
+      ]
     },
     {
       "id": "U7_core_architecture",
@@ -4966,7 +4978,11 @@
       "audioExample": "assets/audio/vocab/U7_core_portrait_example.mp3",
       "ipa": "/ˈpɔːtrət/",
       "definition": "a painting, drawing or photograph of a person",
-      "example": "The portrait captured the musician’s thoughtful expression."
+      "example": "The portrait captured the musician’s thoughtful expression.",
+      "highlightForms": [
+        "portraits",
+        "portrait"
+      ]
     },
     {
       "id": "U7_core_landscape",
@@ -5384,7 +5400,11 @@
       "audioExample": "assets/audio/vocab/U7_core_style_example.mp3",
       "ipa": "/staɪl/",
       "definition": "a particular way of creating or presenting art",
-      "example": "Each painter developed a recognisable style."
+      "example": "Each painter developed a recognisable style.",
+      "highlightForms": [
+        "styles",
+        "style"
+      ]
     },
     {
       "id": "U7_core_shade",
@@ -5476,7 +5496,13 @@
       "keyChunk": null,
       "passageId": "U7_CORE",
       "audioWord": "assets/audio/vocab/U7_core_three_dimensional___3d_effect.mp3",
-      "audioExample": "assets/audio/vocab/U7_core_three_dimensional___3d_effect_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_core_three_dimensional___3d_effect_example.mp3",
+      "ipa": "/ˌθriː.daɪˈmen.ʃən.əl/",
+      "definition": "having length, width and depth, so that something looks solid and real rather than flat",
+      "example": "The large three-dimensional installation made visitors feel the sculpture was almost real.",
+      "highlightForms": [
+        "three-dimensional"
+      ]
     },
     {
       "id": "U4_phrasalVerb_bring_forward",
@@ -5813,7 +5839,14 @@
       "keyChunk": "when Art Week comes around",
       "passageId": "U7_PV",
       "audioWord": "assets/audio/vocab/U7_phrasalVerb_come_around.mp3",
-      "audioExample": "assets/audio/vocab/U7_phrasalVerb_come_around_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_phrasalVerb_come_around_example.mp3",
+      "ipa": "/kʌm əˈraʊnd/",
+      "definition": "to happen again, especially as part of a regular or expected cycle",
+      "example": "When the Riverside Art Week came around again, Ben was ready with a bigger exhibition.",
+      "highlightForms": [
+        "came around",
+        "come around"
+      ]
     },
     {
       "id": "U7_phrasalVerb_count_on",
@@ -5870,7 +5903,11 @@
       "audioExample": "assets/audio/vocab/U7_phrasalVerb_take_after_example.mp3",
       "ipa": "/teɪk ˈɑːftə/",
       "definition": "to look or behave like an older member of your family",
-      "example": "Ben takes after his aunt, who is a professional designer."
+      "example": "Ben takes after his aunt, who is a professional designer.",
+      "highlightForms": [
+        "takes after",
+        "take after"
+      ]
     },
     {
       "id": "U7_phrasalVerb_take_off",
@@ -5908,7 +5945,11 @@
       "audioExample": "assets/audio/vocab/U7_phrasalVerb_drop_off_example.mp3",
       "ipa": "/drɒp ɒf/",
       "definition": "to fall asleep, often unintentionally",
-      "example": "Leo nearly dropped off while writing the final labels."
+      "example": "Leo nearly dropped off while writing the final labels.",
+      "highlightForms": [
+        "dropped off",
+        "drop off"
+      ]
     },
     {
       "id": "U7_phrasalVerb_drown_out",
@@ -5927,7 +5968,11 @@
       "audioExample": "assets/audio/vocab/U7_phrasalVerb_drown_out_example.mp3",
       "ipa": "/draʊn aʊt/",
       "definition": "to prevent a sound from being heard by making a louder noise",
-      "example": "The drilling drowned out Hana’s instructions."
+      "example": "The drilling drowned out Hana’s instructions.",
+      "highlightForms": [
+        "drowned out",
+        "drown out"
+      ]
     },
     {
       "id": "U7_phrasalVerb_fall_for",
@@ -5965,7 +6010,11 @@
       "audioExample": "assets/audio/vocab/U7_phrasalVerb_get_along_with_example.mp3",
       "ipa": "/ɡet əˈlɒŋ wɪð/",
       "definition": "to have a friendly relationship with somebody",
-      "example": "The volunteers got along with the visiting artists."
+      "example": "The volunteers got along with the visiting artists.",
+      "highlightForms": [
+        "got along with",
+        "get along with"
+      ]
     },
     {
       "id": "U7_phrasalVerb_grow_on",
@@ -5984,7 +6033,11 @@
       "audioExample": "assets/audio/vocab/U7_phrasalVerb_grow_on_example.mp3",
       "ipa": "/ɡrəʊ ɒn/",
       "definition": "to become more enjoyable or attractive gradually",
-      "example": "The unusual sculpture grew on Maya after she studied it carefully."
+      "example": "The unusual sculpture grew on Maya after she studied it carefully.",
+      "highlightForms": [
+        "grew on",
+        "grow on"
+      ]
     },
     {
       "id": "U7_phrasalVerb_show_off",
@@ -6022,7 +6075,11 @@
       "audioExample": "assets/audio/vocab/U7_phrasalVerb_name_after_example.mp3",
       "ipa": "/neɪm ˈɑːftə/",
       "definition": "to give somebody or something the same name as another person or thing",
-      "example": "The main gallery was named after a former art teacher."
+      "example": "The main gallery was named after a former art teacher.",
+      "highlightForms": [
+        "named after",
+        "name after"
+      ]
     },
     {
       "id": "U7_phrasalVerb_let_down",
@@ -6057,7 +6114,13 @@
       "keyChunk": "go down as a success",
       "passageId": "U7_PV",
       "audioWord": "assets/audio/vocab/U7_phrasalVerb_go_down_(as).mp3",
-      "audioExample": "assets/audio/vocab/U7_phrasalVerb_go_down_(as)_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_phrasalVerb_go_down_(as)_example.mp3",
+      "ipa": "/ɡəʊ daʊn æz/",
+      "definition": "to be remembered or regarded in a particular way",
+      "example": "The exhibition began to go down as one of Riverside's best festivals.",
+      "highlightForms": [
+        "go down as"
+      ]
     },
     {
       "id": "U4_collocation_best",
@@ -6665,9 +6728,12 @@
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_impression.mp3",
       "audioExample": "assets/audio/vocab/U7_collocation_impression_example.mp3",
-      "ipa": "/ɡɪv ˌsʌmbədi ði ɪmˈpreʃn/",
-      "definition": null,
-      "example": "gallery was closed."
+      "example": "He wanted the exhibition to make a strong impression on local artists and visitors.",
+      "keyChunkVi": "gây ấn tượng mạnh với ai",
+      "audioPhrase": "make a strong impression",
+      "highlightForms": [
+        "make a strong impression on"
+      ]
     },
     {
       "id": "U7_collocation_part",
@@ -6683,7 +6749,15 @@
       "keyChunk": "take part in; play a part/role in",
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_part.mp3",
-      "audioExample": "assets/audio/vocab/U7_collocation_part_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_collocation_part_example.mp3",
+      "keyChunkVi": "tham gia vào; đóng vai trò trong",
+      "example": "Hana, who was taking part in the opening as the presenter, had an important part to play in welcoming the guests.",
+      "audioPhrase": "take part in something",
+      "highlightForms": [
+        "part to play",
+        "had a part in",
+        "taking part in"
+      ]
     },
     {
       "id": "U7_collocation_queue",
@@ -6700,9 +6774,13 @@
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_queue.mp3",
       "audioExample": "assets/audio/vocab/U7_collocation_queue_example.mp3",
-      "ipa": "/weɪt ɪn ə ˈkjuː/",
-      "definition": null,
-      "example": null
+      "example": "Visitors had to join a queue outside the gallery and wait in a queue while staff checked their tickets.",
+      "keyChunkVi": "xếp vào hàng; chờ trong hàng",
+      "audioPhrase": "wait in a queue",
+      "highlightForms": [
+        "join a queue",
+        "wait in a queue"
+      ]
     },
     {
       "id": "U7_collocation_show",
@@ -6718,7 +6796,14 @@
       "keyChunk": "on show; steal the show; show appreciation for",
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_show.mp3",
-      "audioExample": "assets/audio/vocab/U7_collocation_show_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_collocation_show_example.mp3",
+      "keyChunkVi": "được trưng bày; chiếm trọn sự chú ý; bày tỏ sự trân trọng đối với",
+      "example": "The young actress completely stole the show, and Ben later invited visitors to show appreciation for the students' work.",
+      "audioPhrase": "steal the show",
+      "highlightForms": [
+        "stole the show",
+        "show appreciation for"
+      ]
     },
     {
       "id": "U7_collocation_voice",
@@ -6735,9 +6820,12 @@
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_voice.mp3",
       "audioExample": "assets/audio/vocab/U7_collocation_voice_example.mp3",
-      "ipa": "/ɪn ə ləʊ ˈvɔɪs/",
-      "definition": null,
-      "example": null
+      "example": "Ben invited visitors to voice an opinion about the exhibition before they left.",
+      "keyChunkVi": "bày tỏ ý kiến về điều gì",
+      "audioPhrase": "voice an opinion",
+      "highlightForms": [
+        "voice an opinion about"
+      ]
     },
     {
       "id": "U7_collocation_silence",
@@ -6753,7 +6841,13 @@
       "keyChunk": "in silence",
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_silence.mp3",
-      "audioExample": "assets/audio/vocab/U7_collocation_silence_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_collocation_silence_example.mp3",
+      "keyChunkVi": "trong im lặng",
+      "example": "Everyone stood in silence while Ben thanked the artists for their hard work.",
+      "audioPhrase": "stand in silence",
+      "highlightForms": [
+        "in silence"
+      ]
     },
     {
       "id": "U7_collocation_fun",
@@ -6769,7 +6863,13 @@
       "keyChunk": "have fun",
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_fun.mp3",
-      "audioExample": "assets/audio/vocab/U7_collocation_fun_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_collocation_fun_example.mp3",
+      "keyChunkVi": "vui chơi; tận hưởng niềm vui",
+      "example": "By the end of the night, the gallery was still full of people having fun and discussing art.",
+      "audioPhrase": "have fun",
+      "highlightForms": [
+        "having fun"
+      ]
     },
     {
       "id": "U7_collocation_home",
@@ -6785,7 +6885,13 @@
       "keyChunk": "make yourself at home",
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_home.mp3",
-      "audioExample": "assets/audio/vocab/U7_collocation_home_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_collocation_home_example.mp3",
+      "keyChunkVi": "cứ tự nhiên như ở nhà",
+      "example": "Ben told the volunteers to make themselves at home in the reception area before visitors arrived.",
+      "audioPhrase": "make yourself at home",
+      "highlightForms": [
+        "make themselves at home"
+      ]
     },
     {
       "id": "U7_collocation_apologise",
@@ -6801,7 +6907,10 @@
       "keyChunk": "apologise to sb for sth/doing",
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_apologise.mp3",
-      "audioExample": "assets/audio/vocab/U7_collocation_apologise_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_collocation_apologise_example.mp3",
+      "keyChunkVi": "xin lỗi ai vì điều gì/đã làm gì",
+      "example": "Hana had to apologise to Leo for criticising his descriptions so harshly.",
+      "audioPhrase": "apologise for something"
     },
     {
       "id": "U7_collocation_avoid",
@@ -6817,7 +6926,10 @@
       "keyChunk": "avoid doing sth",
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_avoid.mp3",
-      "audioExample": "assets/audio/vocab/U7_collocation_avoid_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_collocation_avoid_example.mp3",
+      "keyChunkVi": "tránh làm điều gì",
+      "example": "They tried to avoid placing fragile pottery near the busy entrance.",
+      "audioPhrase": "avoid doing something"
     },
     {
       "id": "U7_collocation_bound",
@@ -6833,7 +6945,10 @@
       "keyChunk": "be bound to do",
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_bound.mp3",
-      "audioExample": "assets/audio/vocab/U7_collocation_bound_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_collocation_bound_example.mp3",
+      "keyChunkVi": "chắc chắn sẽ làm gì",
+      "example": "Ben believed the three-dimensional installation was bound to attract attention.",
+      "audioPhrase": "be bound to happen"
     },
     {
       "id": "U7_collocation_deserve",
@@ -6849,7 +6964,10 @@
       "keyChunk": "deserve sth; deserve to do",
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_deserve.mp3",
-      "audioExample": "assets/audio/vocab/U7_collocation_deserve_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_collocation_deserve_example.mp3",
+      "keyChunkVi": "xứng đáng nhận được điều gì; xứng đáng được làm gì",
+      "example": "The artist felt that every student deserved to be recognised for their hard work.",
+      "audioPhrase": "deserve to do something"
     },
     {
       "id": "U7_collocation_enjoy",
@@ -6865,7 +6983,10 @@
       "keyChunk": "enjoy sth/doing",
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_enjoy.mp3",
-      "audioExample": "assets/audio/vocab/U7_collocation_enjoy_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_collocation_enjoy_example.mp3",
+      "keyChunkVi": "thích điều gì/thích làm gì",
+      "example": "Hana enjoyed filming the opening while the rest of the team welcomed the guests.",
+      "audioPhrase": "enjoy doing something"
     },
     {
       "id": "U7_collocation_instead",
@@ -6881,7 +7002,10 @@
       "keyChunk": "instead of sth/doing",
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_instead.mp3",
-      "audioExample": "assets/audio/vocab/U7_collocation_instead_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_collocation_instead_example.mp3",
+      "keyChunkVi": "thay vì điều gì/làm gì",
+      "example": "They chose a digital guide instead of printing hundreds of leaflets.",
+      "audioPhrase": "instead of doing something"
     },
     {
       "id": "U7_collocation_promise",
@@ -6897,7 +7021,10 @@
       "keyChunk": "promise to do; promise sb sth; promise that",
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_promise.mp3",
-      "audioExample": "assets/audio/vocab/U7_collocation_promise_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_collocation_promise_example.mp3",
+      "keyChunkVi": "hứa sẽ làm gì; hứa với ai điều gì; hứa rằng",
+      "example": "Ben promised to finish the layout early so the gallery would be ready by Friday.",
+      "audioPhrase": "promise to do something"
     },
     {
       "id": "U7_collocation_prove",
@@ -6913,7 +7040,10 @@
       "keyChunk": "prove to be; prove sth to sb",
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_prove.mp3",
-      "audioExample": "assets/audio/vocab/U7_collocation_prove_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_collocation_prove_example.mp3",
+      "keyChunkVi": "chứng tỏ là; chứng minh điều gì với ai",
+      "example": "The painting named after the River Thames proved to be the visitors' favourite.",
+      "audioPhrase": "prove to be true"
     },
     {
       "id": "U7_collocation_supposed",
@@ -6929,7 +7059,10 @@
       "keyChunk": "be supposed to do",
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_supposed.mp3",
-      "audioExample": "assets/audio/vocab/U7_collocation_supposed_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_collocation_supposed_example.mp3",
+      "keyChunkVi": "được cho là phải làm gì",
+      "example": "Ben reminded the young artist that he was supposed to explain his ideas clearly.",
+      "audioPhrase": "be supposed to do something"
     },
     {
       "id": "U7_collocation_talented",
@@ -6945,7 +7078,10 @@
       "keyChunk": "be talented at sth/doing",
       "passageId": "U7_COLLOC",
       "audioWord": "assets/audio/vocab/U7_collocation_talented.mp3",
-      "audioExample": "assets/audio/vocab/U7_collocation_talented_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_collocation_talented_example.mp3",
+      "keyChunkVi": "có năng khiếu về điều gì/làm gì",
+      "example": "Ben, who was talented at designing unusual displays, helped plan the whole exhibition.",
+      "audioPhrase": "be talented at something"
     },
     {
       "id": "U4_b2verb_accomplish",
@@ -7165,7 +7301,10 @@
       "keyChunk": "appeal to visitors",
       "passageId": null,
       "audioWord": "assets/audio/vocab/U7_b2verb_appeal.mp3",
-      "audioExample": "assets/audio/vocab/U7_b2verb_appeal_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_b2verb_appeal_example.mp3",
+      "ipa": "/əˈpiːl/",
+      "definition": "to be attractive or interesting to someone",
+      "example": "The abstract sculptures appealed to many visitors who enjoyed modern art."
     },
     {
       "id": "U7_b2verb_assess",
@@ -7181,7 +7320,10 @@
       "keyChunk": "assess quality/performance",
       "passageId": null,
       "audioWord": "assets/audio/vocab/U7_b2verb_assess.mp3",
-      "audioExample": "assets/audio/vocab/U7_b2verb_assess_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_b2verb_assess_example.mp3",
+      "ipa": "/əˈses/",
+      "definition": "to judge or decide the amount, value or quality of something",
+      "example": "The judges were asked to assess the quality of each student's artwork."
     },
     {
       "id": "U7_b2verb_associate",
@@ -7197,7 +7339,10 @@
       "keyChunk": "associate art with culture",
       "passageId": null,
       "audioWord": "assets/audio/vocab/U7_b2verb_associate.mp3",
-      "audioExample": "assets/audio/vocab/U7_b2verb_associate_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_b2verb_associate_example.mp3",
+      "ipa": "/əˈsəʊʃieɪt/",
+      "definition": "to connect someone or something in your mind with someone or something else",
+      "example": "Many visitors associate the festival with creativity and community spirit."
     },
     {
       "id": "U7_b2verb_contribute",
@@ -7213,7 +7358,10 @@
       "keyChunk": "contribute ideas/work",
       "passageId": null,
       "audioWord": "assets/audio/vocab/U7_b2verb_contribute.mp3",
-      "audioExample": "assets/audio/vocab/U7_b2verb_contribute_example.mp3"
+      "audioExample": "assets/audio/vocab/U7_b2verb_contribute_example.mp3",
+      "ipa": "/kənˈtrɪbjuːt/",
+      "definition": "to give something, such as ideas, effort or money, in order to help achieve something",
+      "example": "Every member of the club contributed ideas for the final exhibition."
     },
     {
       "id": "U5_phrasalVerb_bring_up",
