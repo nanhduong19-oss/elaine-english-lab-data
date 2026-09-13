@@ -2994,7 +2994,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_actor.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_actor_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_actor_example.mp3",
+      "ipa": "/ˈæktə/",
+      "definition": "a person who performs in a play, film or TV show",
+      "example": "Leo asked several actors to audition for the main role."
     },
     {
       "id": "U6_core_performer",
@@ -3010,7 +3013,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_performer.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_performer_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_performer_example.mp3",
+      "ipa": "/pəˈfɔːmə/",
+      "definition": "a person who performs for an audience, such as an actor, musician or dancer",
+      "example": "Every performer arrived early for the final rehearsal."
     },
     {
       "id": "U6_core_comedian",
@@ -3026,7 +3032,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_comedian.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_comedian_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_comedian_example.mp3",
+      "ipa": "/kəˈmiːdiən/",
+      "definition": "a person who entertains an audience by telling jokes or performing funny material",
+      "example": "The comedian made the whole audience laugh during the interval."
     },
     {
       "id": "U6_core_director",
@@ -3042,7 +3051,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_director.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_director_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_director_example.mp3",
+      "ipa": "/dəˈrektə/",
+      "definition": "a person who controls how a film, play or TV show is made and performed",
+      "example": "Hana was chosen as the director of the school production."
     },
     {
       "id": "U6_core_critic",
@@ -3077,7 +3089,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_composer.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_composer_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_composer_example.mp3",
+      "ipa": "/kəmˈpəʊzə/",
+      "definition": "a person who writes music",
+      "example": "The composer wrote an original score for the play."
     },
     {
       "id": "U6_core_conductor",
@@ -3093,7 +3108,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_conductor.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_conductor_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_conductor_example.mp3",
+      "ipa": "/kənˈdʌktə/",
+      "definition": "a person who directs a group of musicians, especially an orchestra",
+      "example": "The conductor raised his baton to begin the overture."
     },
     {
       "id": "U6_core_fan",
@@ -3128,7 +3146,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_dancer.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_dancer_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_dancer_example.mp3",
+      "ipa": "/ˈdɑːnsə/",
+      "definition": "a person who dances, especially as a performance",
+      "example": "Two dancers from the ballet club joined the cast."
     },
     {
       "id": "U6_core_guitarist",
@@ -3144,7 +3165,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_guitarist.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_guitarist_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_guitarist_example.mp3",
+      "ipa": "/ɡɪˈtɑːrɪst/",
+      "definition": "a person who plays the guitar",
+      "example": "The guitarist practised the same tune again and again."
     },
     {
       "id": "U6_core_audience",
@@ -3160,7 +3184,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_audience.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_audience_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_audience_example.mp3",
+      "ipa": "/ˈɔːdiəns/",
+      "definition": "the group of people watching or listening to a performance",
+      "example": "The audience clapped loudly at the end of the show."
     },
     {
       "id": "U6_core_cast",
@@ -3176,7 +3203,10 @@
       "keyChunk": "a cast of student actors",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_cast.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_cast_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_cast_example.mp3",
+      "ipa": "/kɑːst/",
+      "definition": "all the actors who perform in a play, film or show",
+      "example": "The cast included students from every year group."
     },
     {
       "id": "U6_core_viewer",
@@ -3192,7 +3222,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_viewer.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_viewer_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_viewer_example.mp3",
+      "ipa": "/ˈvjuːə/",
+      "definition": "a person who watches television or a video",
+      "example": "Millions of viewers tuned in to watch the final episode."
     },
     {
       "id": "U6_core_script",
@@ -3208,7 +3241,10 @@
       "keyChunk": "write the script",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_script.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_script_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_script_example.mp3",
+      "ipa": "/skrɪpt/",
+      "definition": "the written text of a play, film or broadcast",
+      "example": "Leo wrote the script for the opening scene."
     },
     {
       "id": "U6_core_dialogue",
@@ -3224,7 +3260,10 @@
       "keyChunk": "natural dialogue",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_dialogue.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_dialogue_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_dialogue_example.mp3",
+      "ipa": "/ˈdaɪəlɒɡ/",
+      "definition": "the words spoken by characters in a play, film or book",
+      "example": "The dialogue sounded natural once the actors had rehearsed it."
     },
     {
       "id": "U6_core_screenplay",
@@ -3240,7 +3279,10 @@
       "keyChunk": "a screenplay for the trailer",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_screenplay.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_screenplay_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_screenplay_example.mp3",
+      "ipa": "/ˈskriːnpleɪ/",
+      "definition": "the script for a film, including instructions for filming",
+      "example": "Leo also wrote a short screenplay for the trailer."
     },
     {
       "id": "U6_core_trailer",
@@ -3256,7 +3298,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_trailer.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_trailer_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_trailer_example.mp3",
+      "ipa": "/ˈtreɪlə/",
+      "definition": "a short film advertisement showing parts of a film or programme",
+      "example": "The trailer was released online a week before the premiere."
     },
     {
       "id": "U6_core_set",
@@ -3272,7 +3317,10 @@
       "keyChunk": "design/build the set",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_set.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_set_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_set_example.mp3",
+      "ipa": "/set/",
+      "definition": "the scenery and furniture built for a play or film",
+      "example": "Ben built the set for the final scene."
     },
     {
       "id": "U6_core_scenery",
@@ -3288,7 +3336,10 @@
       "keyChunk": "painted scenery",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_scenery.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_scenery_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_scenery_example.mp3",
+      "ipa": "/ˈsiːnəri/",
+      "definition": "the painted backgrounds and other structures used on a stage",
+      "example": "Ben painted the scenery himself over the weekend."
     },
     {
       "id": "U6_core_costume",
@@ -3304,7 +3355,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_costume.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_costume_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_costume_example.mp3",
+      "ipa": "/ˈkɒstjuːm/",
+      "definition": "clothes worn by an actor to represent a character",
+      "example": "Each actor tried on their costume before the dress rehearsal."
     },
     {
       "id": "U6_core_venue",
@@ -3320,7 +3374,10 @@
       "keyChunk": "manage the venue",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_venue.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_venue_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_venue_example.mp3",
+      "ipa": "/ˈvenjuː/",
+      "definition": "the place where an event happens",
+      "example": "Maya booked the venue for the premiere."
     },
     {
       "id": "U6_core_box_office",
@@ -3336,7 +3393,10 @@
       "keyChunk": "tickets at the box office",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_box_office.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_box_office_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_box_office_example.mp3",
+      "ipa": "/ˈbɒks ˌɒfɪs/",
+      "definition": "the place where tickets are sold at a theatre or cinema",
+      "example": "Tickets went on sale at the box office an hour before the show."
     },
     {
       "id": "U6_core_rehearsal",
@@ -3352,7 +3412,10 @@
       "keyChunk": "the final rehearsal",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_rehearsal.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_rehearsal_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_rehearsal_example.mp3",
+      "ipa": "/rɪˈhɜːsl/",
+      "definition": "a practice session for a performance",
+      "example": "The final rehearsal ran until nine o'clock."
     },
     {
       "id": "U6_core_stage",
@@ -3368,7 +3431,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_stage.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_stage_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_stage_example.mp3",
+      "ipa": "/steɪdʒ/",
+      "definition": "the raised platform where actors perform",
+      "example": "Leo walked onto the stage to test the microphone."
     },
     {
       "id": "U6_core_scene",
@@ -3384,7 +3450,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_scene.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_scene_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_scene_example.mp3",
+      "ipa": "/siːn/",
+      "definition": "a part of a play or film in which the action happens in one place",
+      "example": "The opening scene took place in a crowded market."
     },
     {
       "id": "U6_core_performance",
@@ -3400,7 +3469,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_performance.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_performance_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_performance_example.mp3",
+      "ipa": "/pəˈfɔːməns/",
+      "definition": "an occasion when a play, film or piece of music is presented to an audience",
+      "example": "The evening performance sold out within a day."
     },
     {
       "id": "U6_core_production",
@@ -3416,7 +3488,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_production.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_production_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_production_example.mp3",
+      "ipa": "/prəˈdʌkʃn/",
+      "definition": "a play, film or programme that has been made or staged",
+      "example": "Hana directed the whole production from start to finish."
     },
     {
       "id": "U6_core_interval",
@@ -3432,7 +3507,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_interval.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_interval_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_interval_example.mp3",
+      "ipa": "/ˈɪntəvl/",
+      "definition": "a short break between parts of a performance",
+      "example": "Drinks were sold during the interval."
     },
     {
       "id": "U6_core_direction",
@@ -3448,7 +3526,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_direction.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_direction_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_direction_example.mp3",
+      "ipa": "/dəˈrekʃn/",
+      "definition": "the artistic control and guidance given to a play or film",
+      "example": "Under Hana's direction, the cast improved with every rehearsal."
     },
     {
       "id": "U6_core_location",
@@ -3464,7 +3545,10 @@
       "keyChunk": "shot on location",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_location.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_location_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_location_example.mp3",
+      "ipa": "/ləʊˈkeɪʃn/",
+      "definition": "a place, especially outside a studio, where a film is made",
+      "example": "Part of the film was shot on location by the river."
     },
     {
       "id": "U6_core_storyline",
@@ -3480,7 +3564,10 @@
       "keyChunk": "reorganise the storyline",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_storyline.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_storyline_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_storyline_example.mp3",
+      "ipa": "/ˈstɔːrilaɪn/",
+      "definition": "the plot of a book, film or play",
+      "example": "Leo reorganised the storyline after the first read-through."
     },
     {
       "id": "U6_core_subtitles",
@@ -3496,7 +3583,10 @@
       "keyChunk": "add English subtitles",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_subtitles.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_subtitles_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_subtitles_example.mp3",
+      "ipa": "/ˈsʌbtaɪtlz/",
+      "definition": "written translations or captions shown at the bottom of a screen",
+      "example": "The team added English subtitles for international visitors."
     },
     {
       "id": "U6_core_special_effects",
@@ -3512,7 +3602,10 @@
       "keyChunk": "convincing special effects",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_special_effects.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_special_effects_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_special_effects_example.mp3",
+      "ipa": "/ˈspeʃl ɪˌfekts/",
+      "definition": "visual or sound tricks used to create illusions in a film or show",
+      "example": "The special effects made the storm scene look convincing."
     },
     {
       "id": "U6_core_plot",
@@ -3547,7 +3640,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_acting.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_acting_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_acting_example.mp3",
+      "ipa": "/ˈæktɪŋ/",
+      "definition": "the skill or profession of performing in plays or films",
+      "example": "Everyone praised the acting in the final scene."
     },
     {
       "id": "U6_core_camera_work",
@@ -3563,7 +3659,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_camera_work.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_camera_work_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_camera_work_example.mp3",
+      "ipa": "/ˈkæmrə wɜːk/",
+      "definition": "the style or technique used to film a scene",
+      "example": "The camera work made the small stage look much bigger."
     },
     {
       "id": "U6_core_main_character",
@@ -3579,7 +3678,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_main_character.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_main_character_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_main_character_example.mp3",
+      "ipa": "/ˌmeɪn ˈkærəktə/",
+      "definition": "the most important person in a story",
+      "example": "The main character struggles to trust anyone at the start of the play."
     },
     {
       "id": "U6_core_screen",
@@ -3595,7 +3697,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_screen.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_screen_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_screen_example.mp3",
+      "ipa": "/skriːn/",
+      "definition": "the flat surface on which films, videos or images are shown",
+      "example": "The trailer was projected onto a huge screen."
     },
     {
       "id": "U6_core_chat_show",
@@ -3611,7 +3716,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_chat_show.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_chat_show_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_chat_show_example.mp3",
+      "ipa": "/ˈtʃæt ʃəʊ/",
+      "definition": "a TV programme in which famous people are interviewed",
+      "example": "The director appeared on a chat show to promote the film."
     },
     {
       "id": "U6_core_comedy",
@@ -3627,7 +3735,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_comedy.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_comedy_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_comedy_example.mp3",
+      "ipa": "/ˈkɒmədi/",
+      "definition": "entertainment, especially a film, play or programme, intended to make people laugh",
+      "example": "The comedy was the most popular part of the evening."
     },
     {
       "id": "U6_core_costume_drama",
@@ -3643,7 +3754,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_costume_drama.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_costume_drama_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_costume_drama_example.mp3",
+      "ipa": "/ˈkɒstjuːm ˌdrɑːmə/",
+      "definition": "a TV programme or film set in a past historical period, with actors wearing clothes from that time",
+      "example": "The costume drama was set in the nineteenth century."
     },
     {
       "id": "U6_core_current_affairs",
@@ -3659,7 +3773,10 @@
       "keyChunk": "a current affairs report",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_current_affairs.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_current_affairs_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_current_affairs_example.mp3",
+      "ipa": "/ˌkʌrənt əˈfeəz/",
+      "definition": "news and important events happening at the present time",
+      "example": "The school news team filmed a short current affairs report."
     },
     {
       "id": "U6_core_documentary",
@@ -3675,7 +3792,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_documentary.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_documentary_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_documentary_example.mp3",
+      "ipa": "/ˌdɒkjuˈmentri/",
+      "definition": "a film or television programme giving factual information about a subject",
+      "example": "Ben suggested making a documentary about the rehearsals."
     },
     {
       "id": "U6_core_reality_tv_show",
@@ -3691,7 +3811,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_reality_tv_show.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_reality_tv_show_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_reality_tv_show_example.mp3",
+      "ipa": "/riˈæləti ˌtiː ˈviː ʃəʊ/",
+      "definition": "a television programme that shows real people in unscripted situations",
+      "example": "Not everyone in the class enjoys watching a reality TV show."
     },
     {
       "id": "U6_core_soap_opera",
@@ -3707,7 +3830,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_soap_opera.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_soap_opera_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_soap_opera_example.mp3",
+      "ipa": "/ˈsəʊp ˌɒprə/",
+      "definition": "a television drama series about the daily lives of a group of characters",
+      "example": "The soap opera has been running for over ten years."
     },
     {
       "id": "U6_core_cartoon",
@@ -3723,7 +3849,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_cartoon.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_cartoon_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_cartoon_example.mp3",
+      "ipa": "/kɑːˈtuːn/",
+      "definition": "an animated film or television programme",
+      "example": "Younger children in the audience loved the cartoon."
     },
     {
       "id": "U6_core_animated",
@@ -3739,7 +3868,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_animated.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_animated_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_animated_example.mp3",
+      "ipa": "/ˈænɪmeɪtɪd/",
+      "definition": "made using a technique that creates the appearance of movement in drawings or models",
+      "example": "The animated sequence took the longest to prepare."
     },
     {
       "id": "U6_core_score",
@@ -3755,7 +3887,10 @@
       "keyChunk": "an original score",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_score.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_score_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_score_example.mp3",
+      "ipa": "/skɔː/",
+      "definition": "the music that has been written for a film, play or show",
+      "example": "The composer wrote an original score for the play."
     },
     {
       "id": "U6_core_orchestra",
@@ -3771,7 +3906,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_orchestra.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_orchestra_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_orchestra_example.mp3",
+      "ipa": "/ˈɔːkɪstrə/",
+      "definition": "a large group of musicians who play different instruments together",
+      "example": "A small orchestra played live during the performance."
     },
     {
       "id": "U6_core_choir",
@@ -3787,7 +3925,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_choir.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_choir_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_choir_example.mp3",
+      "ipa": "/ˈkwaɪə/",
+      "definition": "an organised group of singers, especially one that performs in public",
+      "example": "The school choir opened the show with a short song."
     },
     {
       "id": "U6_core_soundtrack",
@@ -3803,7 +3944,10 @@
       "keyChunk": "the film/show soundtrack",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_soundtrack.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_soundtrack_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_soundtrack_example.mp3",
+      "ipa": "/ˈsaʊndtræk/",
+      "definition": "the recorded music from a film, show or video game",
+      "example": "Many students downloaded the soundtrack after the premiere."
     },
     {
       "id": "U6_core_rock",
@@ -3819,7 +3963,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_rock.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_rock_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_rock_example.mp3",
+      "ipa": "/rɒk/",
+      "definition": "a type of popular music with a strong beat, usually played on electric guitars",
+      "example": "The band played rock during the interval."
     },
     {
       "id": "U6_core_pop",
@@ -3835,7 +3982,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_pop.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_pop_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_pop_example.mp3",
+      "ipa": "/pɒp/",
+      "definition": "popular modern music aimed at a general audience",
+      "example": "The soundtrack mixed pop with classical pieces."
     },
     {
       "id": "U6_core_jazz",
@@ -3851,7 +4001,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_jazz.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_jazz_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_jazz_example.mp3",
+      "ipa": "/dʒæz/",
+      "definition": "a style of music with strong rhythms that developed from African-American music",
+      "example": "A small jazz group performed before the main show."
     },
     {
       "id": "U6_core_folk",
@@ -3867,7 +4020,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_folk.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_folk_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_folk_example.mp3",
+      "ipa": "/fəʊk/",
+      "definition": "traditional music that is passed down within a community or culture",
+      "example": "The opening number was based on a folk song."
     },
     {
       "id": "U6_core_classical_music",
@@ -3883,7 +4039,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_classical_music.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_classical_music_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_classical_music_example.mp3",
+      "ipa": "/ˌklæsɪkl ˈmjuːzɪk/",
+      "definition": "traditional, formal music such as symphonies and concertos",
+      "example": "The orchestra rehearsed a piece of classical music."
     },
     {
       "id": "U6_core_world_music",
@@ -3899,7 +4058,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_world_music.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_world_music_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_world_music_example.mp3",
+      "ipa": "/ˈwɜːld ˌmjuːzɪk/",
+      "definition": "music from cultures around the world, especially non-Western traditions",
+      "example": "The programme included examples of world music from several countries."
     },
     {
       "id": "U6_core_rock_'n'_roll",
@@ -3915,7 +4077,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_rock_'n'_roll.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_rock_'n'_roll_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_rock_'n'_roll_example.mp3",
+      "ipa": "/ˌrɒk ən ˈrəʊl/",
+      "definition": "an early style of popular music with a strong beat, popular from the 1950s",
+      "example": "The dance number was set to classic rock 'n' roll."
     },
     {
       "id": "U6_core_country_and_western",
@@ -3931,7 +4096,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_country_and_western.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_country_and_western_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_country_and_western_example.mp3",
+      "ipa": "/ˌkʌntri ənd ˈwestən/",
+      "definition": "a style of popular music from the southern and western United States",
+      "example": "One scene featured a country and western band."
     },
     {
       "id": "U6_core_cover_version",
@@ -3947,7 +4115,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_cover_version.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_cover_version_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_cover_version_example.mp3",
+      "ipa": "/ˈkʌvə ˌvɜːʃn/",
+      "definition": "a new recording of a song that was originally performed by someone else",
+      "example": "The choir performed a cover version of a famous song."
     },
     {
       "id": "U6_core_track",
@@ -3982,7 +4153,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_duet.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_duet_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_duet_example.mp3",
+      "ipa": "/djuˈet/",
+      "definition": "a piece of music performed by two singers or musicians",
+      "example": "Maya and Ben sang a duet in the second act."
     },
     {
       "id": "U6_core_tune",
@@ -3998,7 +4172,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_tune.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_tune_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_tune_example.mp3",
+      "ipa": "/tjuːn/",
+      "definition": "a series of musical notes that form a pleasant or memorable pattern",
+      "example": "The guitarist practised the same tune again and again."
     },
     {
       "id": "U6_core_beat",
@@ -4033,7 +4210,10 @@
       "keyChunk": "work on the rhythm",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_rhythm.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_rhythm_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_rhythm_example.mp3",
+      "ipa": "/ˈrɪðəm/",
+      "definition": "a regular repeated pattern of sound in music",
+      "example": "The dancers worked on the rhythm until every step matched the beat."
     },
     {
       "id": "U6_core_lyrics",
@@ -4049,7 +4229,10 @@
       "keyChunk": "song lyrics",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_lyrics.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_lyrics_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_lyrics_example.mp3",
+      "ipa": "/ˈlɪrɪks/",
+      "definition": "the words of a song",
+      "example": "Leo helped write the song lyrics for the closing number."
     },
     {
       "id": "U6_core_harmony",
@@ -4065,7 +4248,10 @@
       "keyChunk": "four-part harmony",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_harmony.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_harmony_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_harmony_example.mp3",
+      "ipa": "/ˈhɑːməni/",
+      "definition": "a pleasant combination of musical notes played or sung together",
+      "example": "The choir sang the final chorus in four-part harmony."
     },
     {
       "id": "U6_core_in_tune",
@@ -4081,7 +4267,10 @@
       "keyChunk": "sing in tune",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_in_tune.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_in_tune_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_in_tune_example.mp3",
+      "ipa": "/ɪn ˈtjuːn/",
+      "definition": "singing or playing music at the correct musical pitch",
+      "example": "It took several rehearsals before everyone could sing in tune."
     },
     {
       "id": "U6_core_convincing",
@@ -4097,7 +4286,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_convincing.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_convincing_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_convincing_example.mp3",
+      "ipa": "/kənˈvɪnsɪŋ/",
+      "definition": "believable or persuasive",
+      "example": "The special effects made the storm scene very convincing."
     },
     {
       "id": "U6_core_imaginative",
@@ -4113,7 +4305,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_imaginative.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_imaginative_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_imaginative_example.mp3",
+      "ipa": "/ɪˈmædʒɪnətɪv/",
+      "definition": "showing new and creative ideas",
+      "example": "The set design was unusually imaginative."
     },
     {
       "id": "U6_core_distinctive",
@@ -4129,7 +4324,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_distinctive.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_distinctive_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_distinctive_example.mp3",
+      "ipa": "/dɪˈstɪŋktɪv/",
+      "definition": "having a quality that makes something easy to recognise and different from others",
+      "example": "The soundtrack had a distinctive style that stayed in your memory."
     },
     {
       "id": "U6_core_predictable",
@@ -4164,7 +4362,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_brilliant.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_brilliant_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_brilliant_example.mp3",
+      "ipa": "/ˈbrɪliənt/",
+      "definition": "extremely good or impressive",
+      "example": "Critics called the lead actor's performance brilliant."
     },
     {
       "id": "U6_core_compelling",
@@ -4180,7 +4381,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_compelling.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_compelling_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_compelling_example.mp3",
+      "ipa": "/kəmˈpelɪŋ/",
+      "definition": "so interesting or exciting that it holds your attention completely",
+      "example": "The storyline became more compelling in the second half."
     },
     {
       "id": "U6_core_delightful",
@@ -4196,7 +4400,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_delightful.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_delightful_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_delightful_example.mp3",
+      "ipa": "/dɪˈlaɪtfl/",
+      "definition": "very pleasant and enjoyable",
+      "example": "The children's dance was a delightful addition to the show."
     },
     {
       "id": "U6_core_gripping",
@@ -4212,7 +4419,10 @@
       "keyChunk": "a gripping performance/story",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_gripping.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_gripping_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_gripping_example.mp3",
+      "ipa": "/ˈɡrɪpɪŋ/",
+      "definition": "so exciting or interesting that it holds your full attention",
+      "example": "Reviewers praised the play for its gripping storyline."
     },
     {
       "id": "U6_core_stunning",
@@ -4228,7 +4438,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_stunning.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_stunning_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_stunning_example.mp3",
+      "ipa": "/ˈstʌnɪŋ/",
+      "definition": "extremely impressive or beautiful",
+      "example": "The lighting created a stunning effect in the final scene."
     },
     {
       "id": "U6_core_superb",
@@ -4244,7 +4457,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_superb.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_superb_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_superb_example.mp3",
+      "ipa": "/suːˈpɜːb/",
+      "definition": "excellent; of very high quality",
+      "example": "The orchestra gave a superb performance on opening night."
     },
     {
       "id": "U6_core_dramatic",
@@ -4260,7 +4476,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_dramatic.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_dramatic_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_dramatic_example.mp3",
+      "ipa": "/drəˈmætɪk/",
+      "definition": "exciting, impressive or sudden in a way that attracts attention",
+      "example": "The lights went out for a dramatic pause before the final scene."
     },
     {
       "id": "U6_core_memorable",
@@ -4276,7 +4495,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_memorable.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_memorable_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_memorable_example.mp3",
+      "ipa": "/ˈmemərəbl/",
+      "definition": "worth remembering or easy to remember",
+      "example": "The closing number was the most memorable part of the show."
     },
     {
       "id": "U6_core_outstanding",
@@ -4292,7 +4514,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_outstanding.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_outstanding_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_outstanding_example.mp3",
+      "ipa": "/aʊtˈstændɪŋ/",
+      "definition": "extremely good; clearly better than others",
+      "example": "The programme described the lead actor's performance as outstanding."
     },
     {
       "id": "U6_core_dull",
@@ -4308,7 +4533,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_dull.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_dull_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_dull_example.mp3",
+      "ipa": "/dʌl/",
+      "definition": "not interesting or exciting; boring",
+      "example": "The first half felt a little dull compared to the exciting ending."
     },
     {
       "id": "U6_core_tedious",
@@ -4324,7 +4552,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_tedious.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_tedious_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_tedious_example.mp3",
+      "ipa": "/ˈtiːdiəs/",
+      "definition": "long, slow and boring",
+      "example": "Some scenes felt tedious because they went on for too long."
     },
     {
       "id": "U6_core_uninspired",
@@ -4340,7 +4571,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_uninspired.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_uninspired_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_uninspired_example.mp3",
+      "ipa": "/ˌʌnɪnˈspaɪəd/",
+      "definition": "lacking creativity or new ideas",
+      "example": "One critic thought the costumes looked uninspired."
     },
     {
       "id": "U6_core_rave_reviews",
@@ -4356,7 +4590,10 @@
       "keyChunk": "receive rave reviews",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_rave_reviews.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_rave_reviews_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_rave_reviews_example.mp3",
+      "ipa": "/ˈreɪv rɪˌvjuːz/",
+      "definition": "extremely enthusiastic and positive opinions published about something",
+      "example": "The show received rave reviews from local newspapers."
     },
     {
       "id": "U6_core_fascinating",
@@ -4372,7 +4609,10 @@
       "keyChunk": null,
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_core_fascinating.mp3",
-      "audioExample": "assets/audio/vocab/U6_core_fascinating_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_core_fascinating_example.mp3",
+      "ipa": "/ˈfæsɪneɪtɪŋ/",
+      "definition": "extremely interesting",
+      "example": "Maya found the backstage tour fascinating."
     },
     {
       "id": "U7_core_art",
@@ -6175,7 +6415,13 @@
       "keyChunk": "be proud of sb/sth",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_collocation_proud.mp3",
-      "audioExample": "assets/audio/vocab/U6_collocation_proud_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_collocation_proud_example.mp3",
+      "keyChunkVi": "tự hào về ai/điều gì",
+      "example": "Hana felt proud of everyone in the cast after the final performance.",
+      "audioPhrase": "be proud of something",
+      "highlightForms": [
+        "proud of"
+      ]
     },
     {
       "id": "U6_collocation_point",
@@ -6191,7 +6437,13 @@
       "keyChunk": "there is no point in doing",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_collocation_point.mp3",
-      "audioExample": "assets/audio/vocab/U6_collocation_point_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_collocation_point_example.mp3",
+      "keyChunkVi": "không có ích gì khi làm gì",
+      "example": "There was no point in rehearsing the scene again so late at night.",
+      "audioPhrase": "there is no point in doing something",
+      "highlightForms": [
+        "no point in"
+      ]
     },
     {
       "id": "U6_collocation_case",
@@ -6207,7 +6459,13 @@
       "keyChunk": "in case + clause",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_collocation_case.mp3",
-      "audioExample": "assets/audio/vocab/U6_collocation_case_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_collocation_case_example.mp3",
+      "keyChunkVi": "phòng khi; đề phòng trường hợp",
+      "example": "Ben brought extra costumes in case one of them was damaged.",
+      "audioPhrase": "in case something happens",
+      "highlightForms": [
+        "in case"
+      ]
     },
     {
       "id": "U6_collocation_fail",
@@ -6223,7 +6481,14 @@
       "keyChunk": "fail to do",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_collocation_fail.mp3",
-      "audioExample": "assets/audio/vocab/U6_collocation_fail_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_collocation_fail_example.mp3",
+      "keyChunkVi": "không làm được/không thành công trong việc làm gì",
+      "example": "The lighting crew failed to fix the problem before the show began.",
+      "audioPhrase": "fail to do something",
+      "highlightForms": [
+        "failed to",
+        "fail to"
+      ]
     },
     {
       "id": "U6_collocation_surprised",
@@ -6239,7 +6504,15 @@
       "keyChunk": "be surprised at/by; be surprised how",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_collocation_surprised.mp3",
-      "audioExample": "assets/audio/vocab/U6_collocation_surprised_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_collocation_surprised_example.mp3",
+      "keyChunkVi": "ngạc nhiên trước điều gì; ngạc nhiên về việc/cách mà",
+      "example": "The director was surprised at how quickly the cast learned their lines.",
+      "audioPhrase": "be surprised at something",
+      "highlightForms": [
+        "surprised at",
+        "surprised by",
+        "surprised how"
+      ]
     },
     {
       "id": "U6_collocation_soon",
@@ -6255,7 +6528,13 @@
       "keyChunk": "as soon as + clause",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_collocation_soon.mp3",
-      "audioExample": "assets/audio/vocab/U6_collocation_soon_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_collocation_soon_example.mp3",
+      "keyChunkVi": "ngay khi",
+      "example": "As soon as the curtain rose, the audience fell silent.",
+      "audioPhrase": "as soon as something happens",
+      "highlightForms": [
+        "as soon as"
+      ]
     },
     {
       "id": "U6_collocation_agree",
@@ -6271,7 +6550,18 @@
       "keyChunk": "agree that; agree with sb about/on sth; agree to do",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_collocation_agree.mp3",
-      "audioExample": "assets/audio/vocab/U6_collocation_agree_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_collocation_agree_example.mp3",
+      "keyChunkVi": "đồng ý rằng; đồng ý với ai về điều gì; đồng ý làm gì",
+      "example": "Everyone agreed that the final rehearsal had gone well.",
+      "audioPhrase": "agree that something is true",
+      "highlightForms": [
+        "agreed that",
+        "agree that",
+        "agreed with",
+        "agree with",
+        "agreed to",
+        "agree to"
+      ]
     },
     {
       "id": "U6_collocation_likely",
@@ -6287,7 +6577,15 @@
       "keyChunk": "be likely to do; it is likely that",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_collocation_likely.mp3",
-      "audioExample": "assets/audio/vocab/U6_collocation_likely_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_collocation_likely_example.mp3",
+      "keyChunkVi": "có khả năng sẽ làm gì; có khả năng rằng",
+      "example": "The show is likely to attract a large audience this year.",
+      "audioPhrase": "be likely to do something",
+      "highlightForms": [
+        "likely to",
+        "is likely that",
+        "it is likely"
+      ]
     },
     {
       "id": "U6_collocation_review_language",
@@ -6303,7 +6601,16 @@
       "keyChunk": "receive rave reviews; an outstanding performance; a gripping storyline",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_collocation_review_language.mp3",
-      "audioExample": "assets/audio/vocab/U6_collocation_review_language_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_collocation_review_language_example.mp3",
+      "keyChunkVi": "nhận được đánh giá cực kỳ tích cực; một màn trình diễn xuất sắc; một cốt truyện lôi cuốn",
+      "example": "The production received rave reviews for its outstanding performances and gripping storyline.",
+      "audioPhrase": "receive rave reviews",
+      "highlightForms": [
+        "rave reviews",
+        "outstanding performance",
+        "outstanding performances",
+        "gripping storyline"
+      ]
     },
     {
       "id": "U6_collocation_production_language",
@@ -6319,7 +6626,17 @@
       "keyChunk": "final rehearsal; live performance; on location; special effects; original score",
       "passageId": "U6_CORE",
       "audioWord": "assets/audio/vocab/U6_collocation_production_language.mp3",
-      "audioExample": "assets/audio/vocab/U6_collocation_production_language_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_collocation_production_language_example.mp3",
+      "keyChunkVi": "buổi tập dượt cuối cùng; buổi biểu diễn trực tiếp; quay tại địa điểm thực tế; hiệu ứng đặc biệt; nhạc nền sáng tác riêng",
+      "example": "The final rehearsal took place the night before the live performance.",
+      "audioPhrase": "the final rehearsal",
+      "highlightForms": [
+        "final rehearsal",
+        "live performance",
+        "on location",
+        "special effects",
+        "original score"
+      ]
     },
     {
       "id": "U7_collocation_impression",
@@ -6760,7 +7077,10 @@
       "keyChunk": "broadcast a programme live",
       "passageId": null,
       "audioWord": "assets/audio/vocab/U6_b2verb_broadcast.mp3",
-      "audioExample": "assets/audio/vocab/U6_b2verb_broadcast_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_b2verb_broadcast_example.mp3",
+      "ipa": "/ˈbrɔːdkɑːst/",
+      "definition": "to send out a programme on television or radio",
+      "example": "The school decided to broadcast the premiere live on its website."
     },
     {
       "id": "U6_b2verb_capture",
@@ -6776,7 +7096,10 @@
       "keyChunk": "capture a moment/image",
       "passageId": null,
       "audioWord": "assets/audio/vocab/U6_b2verb_capture.mp3",
-      "audioExample": "assets/audio/vocab/U6_b2verb_capture_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_b2verb_capture_example.mp3",
+      "ipa": "/ˈkæptʃə/",
+      "definition": "to record or preserve a moment, image or feeling",
+      "example": "The photographer captured a perfect image of the final bow."
     },
     {
       "id": "U6_b2verb_cast",
@@ -6792,7 +7115,10 @@
       "keyChunk": "be cast in a role",
       "passageId": null,
       "audioWord": "assets/audio/vocab/U6_b2verb_cast.mp3",
-      "audioExample": "assets/audio/vocab/U6_b2verb_cast_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_b2verb_cast_example.mp3",
+      "ipa": "/kɑːst/",
+      "definition": "to choose an actor for a particular role",
+      "example": "Leo was cast in the role of the lead detective."
     },
     {
       "id": "U6_b2verb_compose",
@@ -6808,7 +7134,10 @@
       "keyChunk": "compose music",
       "passageId": null,
       "audioWord": "assets/audio/vocab/U6_b2verb_compose.mp3",
-      "audioExample": "assets/audio/vocab/U6_b2verb_compose_example.mp3"
+      "audioExample": "assets/audio/vocab/U6_b2verb_compose_example.mp3",
+      "ipa": "/kəmˈpəʊz/",
+      "definition": "to write a piece of music",
+      "example": "A former student composed the music for the closing scene."
     },
     {
       "id": "U7_b2verb_appeal",
