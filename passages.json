@@ -5429,1060 +5429,6 @@
           "sentenceWithGap": "The young artist was ___ to explain his ideas clearly.",
           "answer": "supposed"
         }
-      ],
-      "mcqSets": [
-        {
-          "id": "A",
-          "label": "Recognition & Components",
-          "questions": [
-            {
-              "id": "A1",
-              "questionHtml": "Ben apologised ___ the artist ___ touching the sculpture without permission.",
-              "options": [
-                "for / to",
-                "to / for",
-                "with / about",
-                "at / for"
-              ],
-              "answer": "to / for",
-              "sentenceVi": "Ben đã xin lỗi nghệ sĩ vì đã chạm vào tác phẩm điêu khắc mà không được phép.",
-              "explanation": "'apologise to sb for sth/doing' = xin lỗi AI (to) VÌ điều gì (for); các phương án khác đảo ngược hoặc sai giới từ."
-            },
-            {
-              "id": "A2",
-              "questionHtml": "Visitors should avoid ___ the paintings unless a guide gives them permission.",
-              "options": [
-                "to touch",
-                "touch",
-                "to touching",
-                "touching"
-              ],
-              "answer": "touching",
-              "sentenceVi": "Khách tham quan nên tránh chạm vào các bức tranh trừ khi được hướng dẫn viên cho phép.",
-              "explanation": "'avoid' theo sau bởi V-ing, không dùng to-infinitive; 'touching' đúng."
-            },
-            {
-              "id": "A3",
-              "questionHtml": "The new exhibition is bound ___ attract plenty of attention.",
-              "options": [
-                "to",
-                "for",
-                "of",
-                "at"
-              ],
-              "answer": "to",
-              "sentenceVi": "Triển lãm mới chắc chắn sẽ thu hút rất nhiều sự chú ý.",
-              "explanation": "'be bound to + V nguyên mẫu' = chắc chắn sẽ; for/of/at không đi với 'bound' trong mẫu này."
-            },
-            {
-              "id": "A4",
-              "questionHtml": "After months of hard work, the students deserve ___ for their achievement.",
-              "options": [
-                "recognise",
-                "recognising",
-                "recognition",
-                "to recognising"
-              ],
-              "answer": "recognition",
-              "sentenceVi": "Sau nhiều tháng làm việc chăm chỉ, các học sinh xứng đáng được công nhận vì thành tích của mình.",
-              "explanation": "'deserve' + danh từ ('recognition'); các phương án còn lại sai dạng từ."
-            },
-            {
-              "id": "A5",
-              "questionHtml": "Hana enjoyed ___ to the artists about their work.",
-              "options": [
-                "talking",
-                "to talk",
-                "talk",
-                "to talking"
-              ],
-              "answer": "talking",
-              "sentenceVi": "Hana thích trò chuyện với các nghệ sĩ về tác phẩm của họ.",
-              "explanation": "'enjoy + V-ing', không dùng to-infinitive; 'talking' đúng."
-            },
-            {
-              "id": "A6",
-              "questionHtml": "___ printing hundreds of invitations, the school promoted the exhibition online.",
-              "options": [
-                "Instead to",
-                "Instead from",
-                "Instead of",
-                "Instead for"
-              ],
-              "answer": "Instead of",
-              "sentenceVi": "Thay vì in hàng trăm thiệp mời, trường đã quảng bá triển lãm trên mạng.",
-              "explanation": "'instead of + V-ing/danh từ' là cấu trúc đúng; instead to/from/for đều sai."
-            },
-            {
-              "id": "A7",
-              "questionHtml": "The artist promised ___ she would return for another workshop.",
-              "options": [
-                "about",
-                "to",
-                "for",
-                "that"
-              ],
-              "answer": "that",
-              "sentenceVi": "Nghệ sĩ hứa rằng cô ấy sẽ quay lại cho một buổi hội thảo khác.",
-              "explanation": "'promise + that-clause' dùng khi theo sau là cả một mệnh đề có chủ ngữ và động từ riêng."
-            },
-            {
-              "id": "A8",
-              "questionHtml": "The simple lighting system proved ___ extremely effective.",
-              "options": [
-                "being",
-                "to be",
-                "be",
-                "as"
-              ],
-              "answer": "to be",
-              "sentenceVi": "Hệ thống chiếu sáng đơn giản hoá ra lại cực kỳ hiệu quả.",
-              "explanation": "'prove to be + tính từ' là cấu trúc đúng."
-            },
-            {
-              "id": "A9",
-              "questionHtml": "All volunteers are supposed ___ thirty minutes before the gallery opens.",
-              "options": [
-                "arriving",
-                "arrive",
-                "for arriving",
-                "to arrive"
-              ],
-              "answer": "to arrive",
-              "sentenceVi": "Tất cả tình nguyện viên được yêu cầu phải đến trước ba mươi phút khi phòng tranh mở cửa.",
-              "explanation": "'be supposed to + V nguyên mẫu' đúng cấu trúc."
-            },
-            {
-              "id": "A10",
-              "questionHtml": "Maya is particularly talented ___ arranging colours and shapes.",
-              "options": [
-                "in",
-                "at",
-                "for",
-                "to"
-              ],
-              "answer": "at",
-              "sentenceVi": "Maya đặc biệt có năng khiếu trong việc sắp xếp màu sắc và hình khối.",
-              "explanation": "'talented at + V-ing/danh từ' là giới từ cố định đi với 'talented'."
-            },
-            {
-              "id": "A11",
-              "questionHtml": "The organiser apologised ___ the visitors ___ the unexpected delay.",
-              "options": [
-                "with / about",
-                "for / to",
-                "to / for",
-                "at / with"
-              ],
-              "answer": "to / for",
-              "sentenceVi": "Ban tổ chức đã xin lỗi khách tham quan vì sự chậm trễ bất ngờ.",
-              "explanation": "'apologise to sb for sth' - giống mẫu câu apologise cơ bản."
-            },
-            {
-              "id": "A12",
-              "questionHtml": "The students avoided ___ the fragile ceramics near the door.",
-              "options": [
-                "placing",
-                "to place",
-                "place",
-                "to placing"
-              ],
-              "answer": "placing",
-              "sentenceVi": "Các học sinh tránh đặt đồ gốm dễ vỡ gần cửa ra vào.",
-              "explanation": "'avoid + V-ing'."
-            },
-            {
-              "id": "A13",
-              "questionHtml": "With such an unusual design, the sculpture is bound ___ noticed.",
-              "options": [
-                "for being",
-                "being",
-                "to be",
-                "be"
-              ],
-              "answer": "to be",
-              "sentenceVi": "Với thiết kế khác thường như vậy, tác phẩm điêu khắc chắc chắn sẽ được chú ý.",
-              "explanation": "'be bound to be + V3/ed' (dạng bị động) vẫn theo mẫu 'bound to + V nguyên mẫu'."
-            },
-            {
-              "id": "A14",
-              "questionHtml": "The young painter deserves ___ first prize for this work.",
-              "options": [
-                "to win",
-                "winning",
-                "win",
-                "to winning"
-              ],
-              "answer": "to win",
-              "sentenceVi": "Họa sĩ trẻ xứng đáng giành giải nhất cho tác phẩm này.",
-              "explanation": "'deserve + to-infinitive' cũng là một cấu trúc đúng của 'deserve'."
-            },
-            {
-              "id": "A15",
-              "questionHtml": "Most visitors really ___ the interactive exhibition.",
-              "options": [
-                "enjoying",
-                "enjoyed",
-                "to enjoy",
-                "enjoy to"
-              ],
-              "answer": "enjoyed",
-              "sentenceVi": "Hầu hết khách tham quan đều rất thích triển lãm tương tác này.",
-              "explanation": "'enjoy + danh từ' (tân ngữ trực tiếp), chia đúng thì quá khứ 'enjoyed'."
-            },
-            {
-              "id": "A16",
-              "questionHtml": "The team used digital screens ___ the printed catalogue.",
-              "options": [
-                "instead from",
-                "instead to",
-                "instead for",
-                "instead of"
-              ],
-              "answer": "instead of",
-              "sentenceVi": "Đội ngũ tổ chức dùng màn hình kỹ thuật số thay vì catalogue in giấy.",
-              "explanation": "'instead of + danh từ' đúng cấu trúc."
-            },
-            {
-              "id": "A17",
-              "questionHtml": "The visiting artist promised ___ next year.",
-              "options": [
-                "returning",
-                "to return",
-                "return",
-                "to returning"
-              ],
-              "answer": "to return",
-              "sentenceVi": "Nghệ sĩ đến thăm hứa sẽ quay lại vào năm sau.",
-              "explanation": "'promise + to-infinitive' đúng cấu trúc."
-            },
-            {
-              "id": "A18",
-              "questionHtml": "The event proved the value of teamwork ___ the head teacher.",
-              "options": [
-                "for",
-                "about",
-                "to",
-                "with"
-              ],
-              "answer": "to",
-              "sentenceVi": "Sự kiện đã chứng minh giá trị của làm việc nhóm cho hiệu trưởng thấy.",
-              "explanation": "'prove sth to sb' = chứng minh điều gì cho ai thấy."
-            },
-            {
-              "id": "A19",
-              "questionHtml": "Students are supposed ___ their bags outside the gallery.",
-              "options": [
-                "to leave",
-                "leaving",
-                "leave",
-                "for leaving"
-              ],
-              "answer": "to leave",
-              "sentenceVi": "Học sinh được yêu cầu để túi bên ngoài phòng tranh.",
-              "explanation": "'be supposed to + V nguyên mẫu'."
-            },
-            {
-              "id": "A20",
-              "questionHtml": "Leo is talented ___ creating digital posters.",
-              "options": [
-                "for",
-                "to",
-                "in",
-                "at"
-              ],
-              "answer": "at",
-              "sentenceVi": "Leo có năng khiếu trong việc tạo áp phích kỹ thuật số.",
-              "explanation": "'talented at + V-ing'."
-            },
-            {
-              "id": "A21",
-              "questionHtml": "Hana apologised ___ Leo ___ changing the layout without asking him.",
-              "options": [
-                "to / for",
-                "for / to",
-                "with / about",
-                "at / for"
-              ],
-              "answer": "to / for",
-              "sentenceVi": "Hana xin lỗi Leo vì đã thay đổi bố cục mà không hỏi ý kiến cậu ấy.",
-              "explanation": "'apologise to sb for doing sth'."
-            },
-            {
-              "id": "A22",
-              "questionHtml": "Staff should avoid ___ strong cleaning products near the paintings.",
-              "options": [
-                "to use",
-                "use",
-                "to using",
-                "using"
-              ],
-              "answer": "using",
-              "sentenceVi": "Nhân viên nên tránh dùng các sản phẩm tẩy rửa mạnh gần các bức tranh.",
-              "explanation": "'avoid + V-ing'."
-            },
-            {
-              "id": "A23",
-              "questionHtml": "The colourful installation is bound ___ younger visitors.",
-              "options": [
-                "attracting",
-                "attract",
-                "to attract",
-                "for attracting"
-              ],
-              "answer": "to attract",
-              "sentenceVi": "Tác phẩm sắp đặt đầy màu sắc chắc chắn sẽ thu hút khách tham quan nhỏ tuổi.",
-              "explanation": "'be bound to + V nguyên mẫu'."
-            },
-            {
-              "id": "A24",
-              "questionHtml": "Her original design certainly deserves ___ in the final exhibition.",
-              "options": [
-                "to displaying",
-                "a place",
-                "to display",
-                "for a place"
-              ],
-              "answer": "a place",
-              "sentenceVi": "Thiết kế độc đáo của cô ấy chắc chắn xứng đáng có một chỗ trong triển lãm cuối cùng.",
-              "explanation": "'deserve + danh từ' ('a place')."
-            },
-            {
-              "id": "A25",
-              "questionHtml": "The students enjoyed ___ with the professional artists.",
-              "options": [
-                "to work",
-                "work",
-                "working",
-                "to working"
-              ],
-              "answer": "working",
-              "sentenceVi": "Các học sinh thích được làm việc cùng các nghệ sĩ chuyên nghiệp.",
-              "explanation": "'enjoy + V-ing'."
-            },
-            {
-              "id": "A26",
-              "questionHtml": "___ buying expensive new frames, they reused the old ones.",
-              "options": [
-                "Instead to",
-                "Instead of",
-                "Instead from",
-                "Instead for"
-              ],
-              "answer": "Instead of",
-              "sentenceVi": "Thay vì mua khung tranh mới đắt tiền, họ tái sử dụng những khung cũ.",
-              "explanation": "'instead of + V-ing'."
-            },
-            {
-              "id": "A27",
-              "questionHtml": "The curator promised the students ___.",
-              "options": [
-                "to a larger display area",
-                "for a larger display area",
-                "with a larger display area",
-                "a larger display area"
-              ],
-              "answer": "a larger display area",
-              "sentenceVi": "Người phụ trách bảo tàng hứa với các học sinh một khu trưng bày rộng hơn.",
-              "explanation": "'promise sb sth' = hứa với ai điều gì, không cần giới từ."
-            },
-            {
-              "id": "A28",
-              "questionHtml": "The inexpensive display boards proved ___ strong enough for the exhibition.",
-              "options": [
-                "to be",
-                "being",
-                "be",
-                "as"
-              ],
-              "answer": "to be",
-              "sentenceVi": "Những tấm bảng trưng bày giá rẻ hoá ra đủ chắc chắn cho triển lãm.",
-              "explanation": "'prove to be + tính từ'."
-            },
-            {
-              "id": "A29",
-              "questionHtml": "Visitors are supposed ___ the safety instructions.",
-              "options": [
-                "following",
-                "follow",
-                "for following",
-                "to follow"
-              ],
-              "answer": "to follow",
-              "sentenceVi": "Khách tham quan được yêu cầu tuân theo các hướng dẫn an toàn.",
-              "explanation": "'be supposed to + V nguyên mẫu'."
-            },
-            {
-              "id": "A30",
-              "questionHtml": "Sophie is extremely talented ___ sculpture.",
-              "options": [
-                "at",
-                "in",
-                "for",
-                "to"
-              ],
-              "answer": "at",
-              "sentenceVi": "Sophie cực kỳ có năng khiếu về điêu khắc.",
-              "explanation": "'talented at + danh từ'."
-            },
-            {
-              "id": "A31",
-              "questionHtml": "Ben apologised ___ the artist ___ the damage to the frame.",
-              "options": [
-                "for / to",
-                "to / for",
-                "with / about",
-                "at / with"
-              ],
-              "answer": "to / for",
-              "sentenceVi": "Ben xin lỗi nghệ sĩ vì đã làm hỏng khung tranh.",
-              "explanation": "'apologise to sb for sth'."
-            },
-            {
-              "id": "A32",
-              "questionHtml": "Visitors must avoid ___ the original paintings.",
-              "options": [
-                "to touch",
-                "touch",
-                "touching",
-                "to touching"
-              ],
-              "answer": "touching",
-              "sentenceVi": "Khách tham quan phải tránh chạm vào các bức tranh gốc.",
-              "explanation": "'avoid + V-ing'."
-            },
-            {
-              "id": "A33",
-              "questionHtml": "An exhibition this unusual is bound ___ popular online.",
-              "options": [
-                "becoming",
-                "to become",
-                "become",
-                "for becoming"
-              ],
-              "answer": "to become",
-              "sentenceVi": "Một triển lãm khác thường như vậy chắc chắn sẽ trở nên nổi tiếng trên mạng.",
-              "explanation": "'be bound to + V nguyên mẫu'."
-            },
-            {
-              "id": "A34",
-              "questionHtml": "The student artist deserves ___ more opportunities to display her work.",
-              "options": [
-                "receiving",
-                "receive",
-                "to receiving",
-                "to receive"
-              ],
-              "answer": "to receive",
-              "sentenceVi": "Nữ nghệ sĩ học sinh này xứng đáng nhận được nhiều cơ hội hơn để trưng bày tác phẩm của mình.",
-              "explanation": "'deserve + to-infinitive'."
-            },
-            {
-              "id": "A35",
-              "questionHtml": "Maya really enjoyed ___ the different styles of painting.",
-              "options": [
-                "exploring",
-                "to explore",
-                "explore",
-                "to exploring"
-              ],
-              "answer": "exploring",
-              "sentenceVi": "Maya thực sự thích khám phá các phong cách hội họa khác nhau.",
-              "explanation": "'enjoy + V-ing'."
-            },
-            {
-              "id": "A36",
-              "questionHtml": "___ using one large room, the team created several smaller exhibition areas.",
-              "options": [
-                "Instead to",
-                "Instead from",
-                "Instead of",
-                "Instead for"
-              ],
-              "answer": "Instead of",
-              "sentenceVi": "Thay vì dùng một phòng lớn, đội ngũ đã tạo ra nhiều khu trưng bày nhỏ hơn.",
-              "explanation": "'instead of + V-ing'."
-            },
-            {
-              "id": "A37",
-              "questionHtml": "Hana promised ___ every artwork would be returned safely.",
-              "options": [
-                "to",
-                "about",
-                "that",
-                "for"
-              ],
-              "answer": "that",
-              "sentenceVi": "Hana hứa rằng mọi tác phẩm sẽ được trả lại an toàn.",
-              "explanation": "'promise + that-clause'."
-            },
-            {
-              "id": "A38",
-              "questionHtml": "The photographs proved the damage ___ the insurance officer.",
-              "options": [
-                "to",
-                "for",
-                "about",
-                "with"
-              ],
-              "answer": "to",
-              "sentenceVi": "Những bức ảnh đã chứng minh thiệt hại cho nhân viên bảo hiểm thấy.",
-              "explanation": "'prove sth to sb'."
-            },
-            {
-              "id": "A39",
-              "questionHtml": "Everyone is supposed ___ quiet while the artist is speaking.",
-              "options": [
-                "remaining",
-                "remain",
-                "for remaining",
-                "to remain"
-              ],
-              "answer": "to remain",
-              "sentenceVi": "Mọi người được yêu cầu giữ im lặng khi nghệ sĩ đang phát biểu.",
-              "explanation": "'be supposed to + V nguyên mẫu'."
-            },
-            {
-              "id": "A40",
-              "questionHtml": "Leo is talented ___ with colour and light.",
-              "options": [
-                "in working",
-                "at working",
-                "to work",
-                "for working"
-              ],
-              "answer": "at working",
-              "sentenceVi": "Leo có năng khiếu trong việc làm việc với màu sắc và ánh sáng.",
-              "explanation": "'talented at + V-ing'."
-            }
-          ]
-        },
-        {
-          "id": "B",
-          "label": "FCE Word Pattern Mastery",
-          "questions": [
-            {
-              "id": "B1",
-              "questionHtml": "After moving the sculpture without permission, Ben immediately ___.",
-              "options": [
-                "avoided moving it",
-                "promised the artist",
-                "proved his mistake",
-                "apologised to the artist for moving it"
-              ],
-              "answer": "apologised to the artist for moving it",
-              "sentenceVi": "Sau khi di chuyển tác phẩm điêu khắc mà không được phép, Ben ngay lập tức xin lỗi nghệ sĩ vì đã làm việc đó.",
-              "explanation": "Tình huống cần xin lỗi vì đã lỡ làm sai → 'apologise to sb for doing sth'; avoid/promise/prove không phù hợp ngữ cảnh."
-            },
-            {
-              "id": "B2",
-              "questionHtml": "To protect the fragile pottery, staff ___ it near the busy entrance.",
-              "options": [
-                "avoided placing",
-                "avoided to place",
-                "avoided place",
-                "avoided to placing"
-              ],
-              "answer": "avoided placing",
-              "sentenceVi": "Để bảo vệ đồ gốm dễ vỡ, nhân viên tránh đặt nó gần lối vào đông người.",
-              "explanation": "'avoid + V-ing' đúng cấu trúc; các phương án khác sai dạng động từ theo sau 'avoided'."
-            },
-            {
-              "id": "B3",
-              "questionHtml": "With more than 500 people already registered, the exhibition ___ attract a large audience.",
-              "options": [
-                "is supposed for",
-                "proves to",
-                "is bound to",
-                "deserves for"
-              ],
-              "answer": "is bound to",
-              "sentenceVi": "Với hơn 500 người đã đăng ký, triển lãm chắc chắn sẽ thu hút lượng khán giả đông đảo.",
-              "explanation": "'be bound to' = chắc chắn sẽ, phù hợp khi đã có thông tin dẫn đến kết quả gần như chắc chắn."
-            },
-            {
-              "id": "B4",
-              "questionHtml": "After working on the project for several months, the students clearly ___ some recognition.",
-              "options": [
-                "avoid",
-                "deserve",
-                "are bound",
-                "prove"
-              ],
-              "answer": "deserve",
-              "sentenceVi": "Sau nhiều tháng làm việc cho dự án, rõ ràng các học sinh xứng đáng được ghi nhận.",
-              "explanation": "'deserve' phù hợp ngữ cảnh đã cố gắng nên xứng đáng được ghi nhận."
-            },
-            {
-              "id": "B5",
-              "questionHtml": "Maya ___ interviewing the local artists because their stories were fascinating.",
-              "options": [
-                "avoided",
-                "enjoyed",
-                "promised",
-                "deserved"
-              ],
-              "answer": "enjoyed",
-              "sentenceVi": "Maya thích phỏng vấn các nghệ sĩ địa phương vì câu chuyện của họ rất cuốn hút.",
-              "explanation": "'enjoy' phù hợp với việc gì đó khiến người ta thấy vui/hứng thú."
-            },
-            {
-              "id": "B6",
-              "questionHtml": "___ printing hundreds of catalogues, the organisers created a digital version.",
-              "options": [
-                "Instead to",
-                "Instead from",
-                "Instead of",
-                "Instead for"
-              ],
-              "answer": "Instead of",
-              "sentenceVi": "Thay vì in hàng trăm cuốn catalogue, ban tổ chức đã tạo một phiên bản kỹ thuật số.",
-              "explanation": "'instead of + V-ing' để so sánh 2 phương án thay thế nhau."
-            },
-            {
-              "id": "B7",
-              "questionHtml": "Before leaving, the painter made a firm commitment and ___ return next year with a larger collection.",
-              "options": [
-                "promised to",
-                "proved to",
-                "was supposed for",
-                "deserved for"
-              ],
-              "answer": "promised to",
-              "sentenceVi": "Trước khi rời đi, họa sĩ đã cam kết chắc chắn và hứa sẽ quay lại năm sau với một bộ sưu tập lớn hơn.",
-              "explanation": "'promise to + V nguyên mẫu' phù hợp với việc cam kết sẽ làm gì trong tương lai."
-            },
-            {
-              "id": "B8",
-              "questionHtml": "The inexpensive lighting system ___ surprisingly effective.",
-              "options": [
-                "proved as",
-                "proved being",
-                "proved be",
-                "proved to be"
-              ],
-              "answer": "proved to be",
-              "sentenceVi": "Hệ thống chiếu sáng giá rẻ hoá ra lại hiệu quả đến bất ngờ.",
-              "explanation": "'prove to be' dùng khi một điều gì đó cuối cùng cho thấy đúng là như vậy, trái với kỳ vọng ban đầu."
-            },
-            {
-              "id": "B9",
-              "questionHtml": "All exhibitors ___ label their artwork clearly before the gallery opens.",
-              "options": [
-                "are supposed to",
-                "are supposed for",
-                "suppose to",
-                "are supposed that"
-              ],
-              "answer": "are supposed to",
-              "sentenceVi": "Tất cả người trưng bày được yêu cầu phải dán nhãn rõ ràng cho tác phẩm trước khi phòng tranh mở cửa.",
-              "explanation": "'be supposed to' diễn tả quy định/việc được mong đợi phải làm."
-            },
-            {
-              "id": "B10",
-              "questionHtml": "Linh is particularly ___ arranging different shades of colour.",
-              "options": [
-                "talented for",
-                "talented in",
-                "talented at",
-                "talented to"
-              ],
-              "answer": "talented at",
-              "sentenceVi": "Linh đặc biệt có năng khiếu trong việc sắp xếp các sắc độ màu khác nhau.",
-              "explanation": "'talented at + V-ing' diễn tả năng khiếu ở một kỹ năng cụ thể."
-            },
-            {
-              "id": "B11",
-              "questionHtml": "Hana ___ Leo ___ arriving late for the gallery opening.",
-              "options": [
-                "promised / about",
-                "apologised to / for",
-                "avoided / for",
-                "proved to / about"
-              ],
-              "answer": "apologised to / for",
-              "sentenceVi": "Hana xin lỗi Leo vì đã đến muộn buổi khai mạc phòng tranh.",
-              "explanation": "'apologise to sb for doing sth'."
-            },
-            {
-              "id": "B12",
-              "questionHtml": "Because the sculptures were extremely valuable, staff ___ them without gloves.",
-              "options": [
-                "avoided touch",
-                "avoided to touching",
-                "avoided to touch",
-                "avoided touching"
-              ],
-              "answer": "avoided touching",
-              "sentenceVi": "Vì các tác phẩm điêu khắc rất có giá trị, nhân viên tránh chạm vào chúng mà không đeo găng tay.",
-              "explanation": "'avoid + V-ing'."
-            },
-            {
-              "id": "B13",
-              "questionHtml": "The exhibition has already been featured by three newspapers, so it ___ attract even more visitors this weekend.",
-              "options": [
-                "deserves for",
-                "is supposed for",
-                "is bound to",
-                "proves as"
-              ],
-              "answer": "is bound to",
-              "sentenceVi": "Triển lãm đã được ba tờ báo đưa tin, vì vậy chắc chắn sẽ thu hút thêm nhiều khách tham quan hơn vào cuối tuần này.",
-              "explanation": "'be bound to' hợp lý khi đã có bằng chứng dẫn đến kết quả gần như chắc chắn."
-            },
-            {
-              "id": "B14",
-              "questionHtml": "After creating such an original collection, Maya certainly ___ a place in the exhibition.",
-              "options": [
-                "avoids",
-                "deserves",
-                "promises",
-                "proves"
-              ],
-              "answer": "deserves",
-              "sentenceVi": "Sau khi tạo ra một bộ sưu tập độc đáo như vậy, Maya chắc chắn xứng đáng có một chỗ trong triển lãm.",
-              "explanation": "'deserve' phù hợp khi ai đó đã nỗ lực/tạo ra thành quả xứng đáng được ghi nhận."
-            },
-            {
-              "id": "B15",
-              "questionHtml": "The younger children kept returning to the interactive display because they clearly ___ it.",
-              "options": [
-                "promised",
-                "avoided",
-                "deserved",
-                "enjoyed"
-              ],
-              "answer": "enjoyed",
-              "sentenceVi": "Những đứa trẻ nhỏ cứ quay lại khu trưng bày tương tác vì rõ ràng chúng rất thích nó.",
-              "explanation": "'enjoy' phù hợp với hành động lặp lại vì thích thú."
-            },
-            {
-              "id": "B16",
-              "questionHtml": "___ covering every wall with paintings, the team left some empty space around each work.",
-              "options": [
-                "Instead of",
-                "Instead to",
-                "Instead from",
-                "Instead for"
-              ],
-              "answer": "Instead of",
-              "sentenceVi": "Thay vì phủ kín mọi bức tường bằng tranh, đội ngũ đã để lại khoảng trống quanh mỗi tác phẩm.",
-              "explanation": "'instead of + V-ing'."
-            },
-            {
-              "id": "B17",
-              "questionHtml": "The gallery owner ___ the students a larger room for their next exhibition.",
-              "options": [
-                "proved",
-                "promised",
-                "avoided",
-                "deserved"
-              ],
-              "answer": "promised",
-              "sentenceVi": "Chủ phòng tranh hứa với các học sinh một căn phòng rộng hơn cho triển lãm tiếp theo.",
-              "explanation": "'promise sb sth'."
-            },
-            {
-              "id": "B18",
-              "questionHtml": "The simple display system ___ much more successful than anyone expected.",
-              "options": [
-                "proved as",
-                "proved being",
-                "proved be",
-                "proved to be"
-              ],
-              "answer": "proved to be",
-              "sentenceVi": "Hệ thống trưng bày đơn giản hoá ra thành công hơn nhiều so với mong đợi của mọi người.",
-              "explanation": "'prove to be' + tính từ so sánh hơn."
-            },
-            {
-              "id": "B19",
-              "questionHtml": "Visitors ___ leave large bags outside the exhibition room.",
-              "options": [
-                "are supposed to",
-                "deserve to",
-                "prove to",
-                "are bound for"
-              ],
-              "answer": "are supposed to",
-              "sentenceVi": "Khách tham quan được yêu cầu để túi lớn bên ngoài phòng triển lãm.",
-              "explanation": "'be supposed to'."
-            },
-            {
-              "id": "B20",
-              "questionHtml": "Sophie is extremely ___ producing realistic portraits.",
-              "options": [
-                "talented for",
-                "talented in",
-                "talented at",
-                "talented to"
-              ],
-              "answer": "talented at",
-              "sentenceVi": "Sophie cực kỳ có năng khiếu trong việc vẽ chân dung tả thực.",
-              "explanation": "'talented at + V-ing'."
-            },
-            {
-              "id": "B21",
-              "questionHtml": "After accidentally damaging the frame, Leo ___.",
-              "options": [
-                "avoided the artist",
-                "promised the artist for it",
-                "apologised to the artist for damaging it",
-                "proved the damage"
-              ],
-              "answer": "apologised to the artist for damaging it",
-              "sentenceVi": "Sau khi vô tình làm hỏng khung tranh, Leo đã xin lỗi nghệ sĩ vì việc đó.",
-              "explanation": "'apologise to sb for doing sth' phù hợp với tình huống đã lỡ gây ra lỗi."
-            },
-            {
-              "id": "B22",
-              "questionHtml": "To reduce the risk of accidents, the organisers ___ too many visitors into the room at once.",
-              "options": [
-                "avoided allowing",
-                "avoided to allow",
-                "avoided allow",
-                "avoided to allowing"
-              ],
-              "answer": "avoided allowing",
-              "sentenceVi": "Để giảm nguy cơ tai nạn, ban tổ chức tránh cho quá nhiều khách vào phòng cùng một lúc.",
-              "explanation": "'avoid + V-ing' ('allowing')."
-            },
-            {
-              "id": "B23",
-              "questionHtml": "Three television channels have already confirmed coverage, so the exhibition ___ receive plenty of publicity.",
-              "options": [
-                "deserves for",
-                "proves as",
-                "is supposed for",
-                "is bound to"
-              ],
-              "answer": "is bound to",
-              "sentenceVi": "Ba kênh truyền hình đã xác nhận sẽ đưa tin, vì vậy triển lãm chắc chắn sẽ được quảng bá rộng rãi.",
-              "explanation": "'be bound to' hợp lý khi có bằng chứng rõ ràng dẫn tới kết quả gần như chắc chắn."
-            },
-            {
-              "id": "B24",
-              "questionHtml": "The young sculptor ___ to win the competition after producing such impressive work.",
-              "options": [
-                "deserves winning",
-                "deserves to",
-                "deserves for",
-                "deserves to winning"
-              ],
-              "answer": "deserves to",
-              "sentenceVi": "Nhà điêu khắc trẻ xứng đáng giành chiến thắng trong cuộc thi sau khi tạo ra một tác phẩm ấn tượng như vậy.",
-              "explanation": "'deserve to + V nguyên mẫu'."
-            },
-            {
-              "id": "B25",
-              "questionHtml": "Visitors stayed longer than expected because they ___ learning about how the sculptures had been made.",
-              "options": [
-                "enjoyed",
-                "avoided",
-                "promised",
-                "deserved"
-              ],
-              "answer": "enjoyed",
-              "sentenceVi": "Khách tham quan ở lại lâu hơn dự kiến vì họ thích tìm hiểu cách các tác phẩm điêu khắc được tạo ra.",
-              "explanation": "'enjoy + V-ing'."
-            },
-            {
-              "id": "B26",
-              "questionHtml": "The students displayed digital photographs ___ printed copies.",
-              "options": [
-                "instead to",
-                "instead from",
-                "instead for",
-                "instead of"
-              ],
-              "answer": "instead of",
-              "sentenceVi": "Các học sinh trưng bày ảnh kỹ thuật số thay vì bản in.",
-              "explanation": "'instead of + danh từ'."
-            },
-            {
-              "id": "B27",
-              "questionHtml": "The organiser ___ all the work would be returned safely after the exhibition.",
-              "options": [
-                "proved that",
-                "promised that",
-                "avoided that",
-                "deserved that"
-              ],
-              "answer": "promised that",
-              "sentenceVi": "Ban tổ chức hứa rằng mọi tác phẩm sẽ được trả lại an toàn sau triển lãm.",
-              "explanation": "'promise + that-clause'."
-            },
-            {
-              "id": "B28",
-              "questionHtml": "The event ___ a major success despite the limited budget.",
-              "options": [
-                "proved as",
-                "proved be",
-                "proved to be",
-                "proved being"
-              ],
-              "answer": "proved to be",
-              "sentenceVi": "Sự kiện hoá ra là một thành công lớn dù ngân sách hạn chế.",
-              "explanation": "'prove to be + danh từ'."
-            },
-            {
-              "id": "B29",
-              "questionHtml": "Students are ___ ask permission before moving any artwork.",
-              "options": [
-                "bound for",
-                "talented at",
-                "deserving to",
-                "supposed to"
-              ],
-              "answer": "supposed to",
-              "sentenceVi": "Học sinh được yêu cầu phải xin phép trước khi di chuyển bất kỳ tác phẩm nào.",
-              "explanation": "'be supposed to'."
-            },
-            {
-              "id": "B30",
-              "questionHtml": "Ben is especially ___ designing exhibition posters.",
-              "options": [
-                "talented in",
-                "talented for",
-                "talented at",
-                "talented to"
-              ],
-              "answer": "talented at",
-              "sentenceVi": "Ben đặc biệt có năng khiếu trong việc thiết kế áp phích triển lãm.",
-              "explanation": "'talented at + V-ing'."
-            },
-            {
-              "id": "B31",
-              "questionHtml": "The organiser immediately ___ the visiting artist ___ the confusion over the timetable.",
-              "options": [
-                "apologised to / for",
-                "promised / for",
-                "avoided / about",
-                "proved to / for"
-              ],
-              "answer": "apologised to / for",
-              "sentenceVi": "Ban tổ chức ngay lập tức xin lỗi nghệ sĩ khách mời vì sự nhầm lẫn về lịch trình.",
-              "explanation": "'apologise to sb for sth'."
-            },
-            {
-              "id": "B32",
-              "questionHtml": "The gallery staff ___ putting the paintings in direct sunlight.",
-              "options": [
-                "avoided to",
-                "avoided",
-                "promised",
-                "deserved"
-              ],
-              "answer": "avoided",
-              "sentenceVi": "Nhân viên phòng tranh tránh đặt các bức tranh dưới ánh nắng trực tiếp.",
-              "explanation": "'avoid + V-ing'."
-            },
-            {
-              "id": "B33",
-              "questionHtml": "Such an innovative design ___ attract attention from professional artists.",
-              "options": [
-                "deserves for",
-                "is bound to",
-                "is supposed for",
-                "proves as"
-              ],
-              "answer": "is bound to",
-              "sentenceVi": "Một thiết kế sáng tạo như vậy chắc chắn sẽ thu hút sự chú ý từ các nghệ sĩ chuyên nghiệp.",
-              "explanation": "'be bound to'."
-            },
-            {
-              "id": "B34",
-              "questionHtml": "The students who organised the event ___ credit for its success.",
-              "options": [
-                "deserve",
-                "avoid",
-                "promise",
-                "prove"
-              ],
-              "answer": "deserve",
-              "sentenceVi": "Các học sinh đã tổ chức sự kiện xứng đáng được ghi nhận công lao vì thành công của nó.",
-              "explanation": "'deserve + danh từ' ('credit')."
-            },
-            {
-              "id": "B35",
-              "questionHtml": "Hana said working with professional artists was the best part of the project because she ___ working with them.",
-              "options": [
-                "avoided",
-                "promised",
-                "enjoyed",
-                "deserved"
-              ],
-              "answer": "enjoyed",
-              "sentenceVi": "Hana nói rằng làm việc với các nghệ sĩ chuyên nghiệp là phần hay nhất của dự án vì cô ấy rất thích được làm việc cùng họ.",
-              "explanation": "'enjoy + V-ing'."
-            },
-            {
-              "id": "B36",
-              "questionHtml": "___ buying new display boards, the students repaired the old ones.",
-              "options": [
-                "Instead to",
-                "Instead from",
-                "Instead for",
-                "Instead of"
-              ],
-              "answer": "Instead of",
-              "sentenceVi": "Thay vì mua bảng trưng bày mới, các học sinh đã sửa lại những cái cũ.",
-              "explanation": "'instead of + V-ing'."
-            },
-            {
-              "id": "B37",
-              "questionHtml": "Before leaving, the artist made a firm promise and ___ bring several new paintings for the next exhibition.",
-              "options": [
-                "promised to",
-                "proved to",
-                "deserved for",
-                "was supposed for"
-              ],
-              "answer": "promised to",
-              "sentenceVi": "Trước khi rời đi, nghệ sĩ đã hứa chắc chắn sẽ mang thêm vài bức tranh mới cho triển lãm tiếp theo.",
-              "explanation": "'promise to + V nguyên mẫu'."
-            },
-            {
-              "id": "B38",
-              "questionHtml": "The photographs helped ___ the value of the project ___ the school governors.",
-              "options": [
-                "promise / to",
-                "avoid / for",
-                "prove / to",
-                "deserve / for"
-              ],
-              "answer": "prove / to",
-              "sentenceVi": "Những bức ảnh đã giúp chứng minh giá trị của dự án cho ban giám hiệu thấy.",
-              "explanation": "'prove sth to sb'."
-            },
-            {
-              "id": "B39",
-              "questionHtml": "All visitors are ___ follow the gallery rules.",
-              "options": [
-                "talented at",
-                "supposed to",
-                "bound for",
-                "deserving to"
-              ],
-              "answer": "supposed to",
-              "sentenceVi": "Tất cả khách tham quan được yêu cầu tuân theo nội quy phòng tranh.",
-              "explanation": "'be supposed to'."
-            },
-            {
-              "id": "B40",
-              "questionHtml": "Maya has always been ___ working with three-dimensional forms.",
-              "options": [
-                "talented in",
-                "talented for",
-                "talented to",
-                "talented at"
-              ],
-              "answer": "talented at",
-              "sentenceVi": "Maya luôn có năng khiếu làm việc với các hình khối ba chiều.",
-              "explanation": "'talented at + V-ing'."
-            }
-          ]
-        }
       ]
     },
     {
@@ -8604,6 +7550,1068 @@
               "answer": "proud of",
               "sentenceVi": "Nhà trường rất tự hào khi nhận được những phản hồi tích cực như vậy từ các nhà phê bình chuyên nghiệp.",
               "explanation": "'be proud of' nghĩa tự hào về; A, B, D không đúng cấu trúc hoặc nghĩa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "passageId": "U7_WP",
+      "unit": "U7",
+      "title": "The Exhibition Everyone Remembered",
+      "text": "When the Riverside Art Week came around, Ben knew he could count on Maya, Leo and Hana to help him put on an exhibition. He promised to finish the layout early and said that the gallery would be ready by Friday. Because Ben takes after his creative aunt, he is talented at designing unusual displays, and everyone expected the event to take off online. During preparation, Leo nearly dropped off while writing labels, and loud drilling drowned out Hana’s instructions. Maya refused to fall for Ben’s joke about a missing statue. Although the group usually got along with one another, Hana had to apologise to Leo for criticising his descriptions. They tried to avoid placing fragile pottery near the entrance and chose a digital guide instead of printing hundreds of leaflets. At first, one abstract sculpture did not appeal to Maya, but it slowly grew on her. Ben warned a young artist not to show off and reminded him that he was supposed to explain his ideas clearly. The artist was happy to answer questions and felt that every student deserved to be recognised. A painting named after the River Thames proved to be the visitors’ favourite. No one wanted to let down the local artists. The exhibition was bound to attract attention, and Hana enjoyed filming the opening. By evening, the event had begun to go down as one of Riverside’s best festivals, proving to the team that careful cooperation could turn a simple school project into something memorable.",
+      "audio": "assets/audio/passages/U7_PV.m4a",
+      "image": "assets/images/passages/U7_WP.jpg",
+      "mcqSets": [
+        {
+          "id": "A",
+          "label": "Recognition & Components",
+          "questions": [
+            {
+              "id": "A1",
+              "questionHtml": "Ben apologised ___ the artist ___ touching the sculpture without permission.",
+              "options": [
+                "for / to",
+                "to / for",
+                "with / about",
+                "at / for"
+              ],
+              "answer": "to / for",
+              "sentenceVi": "Ben đã xin lỗi nghệ sĩ vì đã chạm vào tác phẩm điêu khắc mà không được phép.",
+              "explanation": "'apologise to sb for sth/doing' = xin lỗi AI (to) VÌ điều gì (for); các phương án khác đảo ngược hoặc sai giới từ."
+            },
+            {
+              "id": "A2",
+              "questionHtml": "Visitors should avoid ___ the paintings unless a guide gives them permission.",
+              "options": [
+                "to touch",
+                "touch",
+                "to touching",
+                "touching"
+              ],
+              "answer": "touching",
+              "sentenceVi": "Khách tham quan nên tránh chạm vào các bức tranh trừ khi được hướng dẫn viên cho phép.",
+              "explanation": "'avoid' theo sau bởi V-ing, không dùng to-infinitive; 'touching' đúng."
+            },
+            {
+              "id": "A3",
+              "questionHtml": "The new exhibition is bound ___ attract plenty of attention.",
+              "options": [
+                "to",
+                "for",
+                "of",
+                "at"
+              ],
+              "answer": "to",
+              "sentenceVi": "Triển lãm mới chắc chắn sẽ thu hút rất nhiều sự chú ý.",
+              "explanation": "'be bound to + V nguyên mẫu' = chắc chắn sẽ; for/of/at không đi với 'bound' trong mẫu này."
+            },
+            {
+              "id": "A4",
+              "questionHtml": "After months of hard work, the students deserve ___ for their achievement.",
+              "options": [
+                "recognise",
+                "recognising",
+                "recognition",
+                "to recognising"
+              ],
+              "answer": "recognition",
+              "sentenceVi": "Sau nhiều tháng làm việc chăm chỉ, các học sinh xứng đáng được công nhận vì thành tích của mình.",
+              "explanation": "'deserve' + danh từ ('recognition'); các phương án còn lại sai dạng từ."
+            },
+            {
+              "id": "A5",
+              "questionHtml": "Hana enjoyed ___ to the artists about their work.",
+              "options": [
+                "talking",
+                "to talk",
+                "talk",
+                "to talking"
+              ],
+              "answer": "talking",
+              "sentenceVi": "Hana thích trò chuyện với các nghệ sĩ về tác phẩm của họ.",
+              "explanation": "'enjoy + V-ing', không dùng to-infinitive; 'talking' đúng."
+            },
+            {
+              "id": "A6",
+              "questionHtml": "___ printing hundreds of invitations, the school promoted the exhibition online.",
+              "options": [
+                "Instead to",
+                "Instead from",
+                "Instead of",
+                "Instead for"
+              ],
+              "answer": "Instead of",
+              "sentenceVi": "Thay vì in hàng trăm thiệp mời, trường đã quảng bá triển lãm trên mạng.",
+              "explanation": "'instead of + V-ing/danh từ' là cấu trúc đúng; instead to/from/for đều sai."
+            },
+            {
+              "id": "A7",
+              "questionHtml": "The artist promised ___ she would return for another workshop.",
+              "options": [
+                "about",
+                "to",
+                "for",
+                "that"
+              ],
+              "answer": "that",
+              "sentenceVi": "Nghệ sĩ hứa rằng cô ấy sẽ quay lại cho một buổi hội thảo khác.",
+              "explanation": "'promise + that-clause' dùng khi theo sau là cả một mệnh đề có chủ ngữ và động từ riêng."
+            },
+            {
+              "id": "A8",
+              "questionHtml": "The simple lighting system proved ___ extremely effective.",
+              "options": [
+                "being",
+                "to be",
+                "be",
+                "as"
+              ],
+              "answer": "to be",
+              "sentenceVi": "Hệ thống chiếu sáng đơn giản hoá ra lại cực kỳ hiệu quả.",
+              "explanation": "'prove to be + tính từ' là cấu trúc đúng."
+            },
+            {
+              "id": "A9",
+              "questionHtml": "All volunteers are supposed ___ thirty minutes before the gallery opens.",
+              "options": [
+                "arriving",
+                "arrive",
+                "for arriving",
+                "to arrive"
+              ],
+              "answer": "to arrive",
+              "sentenceVi": "Tất cả tình nguyện viên được yêu cầu phải đến trước ba mươi phút khi phòng tranh mở cửa.",
+              "explanation": "'be supposed to + V nguyên mẫu' đúng cấu trúc."
+            },
+            {
+              "id": "A10",
+              "questionHtml": "Maya is particularly talented ___ arranging colours and shapes.",
+              "options": [
+                "in",
+                "at",
+                "for",
+                "to"
+              ],
+              "answer": "at",
+              "sentenceVi": "Maya đặc biệt có năng khiếu trong việc sắp xếp màu sắc và hình khối.",
+              "explanation": "'talented at + V-ing/danh từ' là giới từ cố định đi với 'talented'."
+            },
+            {
+              "id": "A11",
+              "questionHtml": "The organiser apologised ___ the visitors ___ the unexpected delay.",
+              "options": [
+                "with / about",
+                "for / to",
+                "to / for",
+                "at / with"
+              ],
+              "answer": "to / for",
+              "sentenceVi": "Ban tổ chức đã xin lỗi khách tham quan vì sự chậm trễ bất ngờ.",
+              "explanation": "'apologise to sb for sth' - giống mẫu câu apologise cơ bản."
+            },
+            {
+              "id": "A12",
+              "questionHtml": "The students avoided ___ the fragile ceramics near the door.",
+              "options": [
+                "placing",
+                "to place",
+                "place",
+                "to placing"
+              ],
+              "answer": "placing",
+              "sentenceVi": "Các học sinh tránh đặt đồ gốm dễ vỡ gần cửa ra vào.",
+              "explanation": "'avoid + V-ing'."
+            },
+            {
+              "id": "A13",
+              "questionHtml": "With such an unusual design, the sculpture is bound ___ noticed.",
+              "options": [
+                "for being",
+                "being",
+                "to be",
+                "be"
+              ],
+              "answer": "to be",
+              "sentenceVi": "Với thiết kế khác thường như vậy, tác phẩm điêu khắc chắc chắn sẽ được chú ý.",
+              "explanation": "'be bound to be + V3/ed' (dạng bị động) vẫn theo mẫu 'bound to + V nguyên mẫu'."
+            },
+            {
+              "id": "A14",
+              "questionHtml": "The young painter deserves ___ first prize for this work.",
+              "options": [
+                "to win",
+                "winning",
+                "win",
+                "to winning"
+              ],
+              "answer": "to win",
+              "sentenceVi": "Họa sĩ trẻ xứng đáng giành giải nhất cho tác phẩm này.",
+              "explanation": "'deserve + to-infinitive' cũng là một cấu trúc đúng của 'deserve'."
+            },
+            {
+              "id": "A15",
+              "questionHtml": "Most visitors really ___ the interactive exhibition.",
+              "options": [
+                "enjoying",
+                "enjoyed",
+                "to enjoy",
+                "enjoy to"
+              ],
+              "answer": "enjoyed",
+              "sentenceVi": "Hầu hết khách tham quan đều rất thích triển lãm tương tác này.",
+              "explanation": "'enjoy + danh từ' (tân ngữ trực tiếp), chia đúng thì quá khứ 'enjoyed'."
+            },
+            {
+              "id": "A16",
+              "questionHtml": "The team used digital screens ___ the printed catalogue.",
+              "options": [
+                "instead from",
+                "instead to",
+                "instead for",
+                "instead of"
+              ],
+              "answer": "instead of",
+              "sentenceVi": "Đội ngũ tổ chức dùng màn hình kỹ thuật số thay vì catalogue in giấy.",
+              "explanation": "'instead of + danh từ' đúng cấu trúc."
+            },
+            {
+              "id": "A17",
+              "questionHtml": "The visiting artist promised ___ next year.",
+              "options": [
+                "returning",
+                "to return",
+                "return",
+                "to returning"
+              ],
+              "answer": "to return",
+              "sentenceVi": "Nghệ sĩ đến thăm hứa sẽ quay lại vào năm sau.",
+              "explanation": "'promise + to-infinitive' đúng cấu trúc."
+            },
+            {
+              "id": "A18",
+              "questionHtml": "The event proved the value of teamwork ___ the head teacher.",
+              "options": [
+                "for",
+                "about",
+                "to",
+                "with"
+              ],
+              "answer": "to",
+              "sentenceVi": "Sự kiện đã chứng minh giá trị của làm việc nhóm cho hiệu trưởng thấy.",
+              "explanation": "'prove sth to sb' = chứng minh điều gì cho ai thấy."
+            },
+            {
+              "id": "A19",
+              "questionHtml": "Students are supposed ___ their bags outside the gallery.",
+              "options": [
+                "to leave",
+                "leaving",
+                "leave",
+                "for leaving"
+              ],
+              "answer": "to leave",
+              "sentenceVi": "Học sinh được yêu cầu để túi bên ngoài phòng tranh.",
+              "explanation": "'be supposed to + V nguyên mẫu'."
+            },
+            {
+              "id": "A20",
+              "questionHtml": "Leo is talented ___ creating digital posters.",
+              "options": [
+                "for",
+                "to",
+                "in",
+                "at"
+              ],
+              "answer": "at",
+              "sentenceVi": "Leo có năng khiếu trong việc tạo áp phích kỹ thuật số.",
+              "explanation": "'talented at + V-ing'."
+            },
+            {
+              "id": "A21",
+              "questionHtml": "Hana apologised ___ Leo ___ changing the layout without asking him.",
+              "options": [
+                "to / for",
+                "for / to",
+                "with / about",
+                "at / for"
+              ],
+              "answer": "to / for",
+              "sentenceVi": "Hana xin lỗi Leo vì đã thay đổi bố cục mà không hỏi ý kiến cậu ấy.",
+              "explanation": "'apologise to sb for doing sth'."
+            },
+            {
+              "id": "A22",
+              "questionHtml": "Staff should avoid ___ strong cleaning products near the paintings.",
+              "options": [
+                "to use",
+                "use",
+                "to using",
+                "using"
+              ],
+              "answer": "using",
+              "sentenceVi": "Nhân viên nên tránh dùng các sản phẩm tẩy rửa mạnh gần các bức tranh.",
+              "explanation": "'avoid + V-ing'."
+            },
+            {
+              "id": "A23",
+              "questionHtml": "The colourful installation is bound ___ younger visitors.",
+              "options": [
+                "attracting",
+                "attract",
+                "to attract",
+                "for attracting"
+              ],
+              "answer": "to attract",
+              "sentenceVi": "Tác phẩm sắp đặt đầy màu sắc chắc chắn sẽ thu hút khách tham quan nhỏ tuổi.",
+              "explanation": "'be bound to + V nguyên mẫu'."
+            },
+            {
+              "id": "A24",
+              "questionHtml": "Her original design certainly deserves ___ in the final exhibition.",
+              "options": [
+                "to displaying",
+                "a place",
+                "to display",
+                "for a place"
+              ],
+              "answer": "a place",
+              "sentenceVi": "Thiết kế độc đáo của cô ấy chắc chắn xứng đáng có một chỗ trong triển lãm cuối cùng.",
+              "explanation": "'deserve + danh từ' ('a place')."
+            },
+            {
+              "id": "A25",
+              "questionHtml": "The students enjoyed ___ with the professional artists.",
+              "options": [
+                "to work",
+                "work",
+                "working",
+                "to working"
+              ],
+              "answer": "working",
+              "sentenceVi": "Các học sinh thích được làm việc cùng các nghệ sĩ chuyên nghiệp.",
+              "explanation": "'enjoy + V-ing'."
+            },
+            {
+              "id": "A26",
+              "questionHtml": "___ buying expensive new frames, they reused the old ones.",
+              "options": [
+                "Instead to",
+                "Instead of",
+                "Instead from",
+                "Instead for"
+              ],
+              "answer": "Instead of",
+              "sentenceVi": "Thay vì mua khung tranh mới đắt tiền, họ tái sử dụng những khung cũ.",
+              "explanation": "'instead of + V-ing'."
+            },
+            {
+              "id": "A27",
+              "questionHtml": "The curator promised the students ___.",
+              "options": [
+                "to a larger display area",
+                "for a larger display area",
+                "with a larger display area",
+                "a larger display area"
+              ],
+              "answer": "a larger display area",
+              "sentenceVi": "Người phụ trách bảo tàng hứa với các học sinh một khu trưng bày rộng hơn.",
+              "explanation": "'promise sb sth' = hứa với ai điều gì, không cần giới từ."
+            },
+            {
+              "id": "A28",
+              "questionHtml": "The inexpensive display boards proved ___ strong enough for the exhibition.",
+              "options": [
+                "to be",
+                "being",
+                "be",
+                "as"
+              ],
+              "answer": "to be",
+              "sentenceVi": "Những tấm bảng trưng bày giá rẻ hoá ra đủ chắc chắn cho triển lãm.",
+              "explanation": "'prove to be + tính từ'."
+            },
+            {
+              "id": "A29",
+              "questionHtml": "Visitors are supposed ___ the safety instructions.",
+              "options": [
+                "following",
+                "follow",
+                "for following",
+                "to follow"
+              ],
+              "answer": "to follow",
+              "sentenceVi": "Khách tham quan được yêu cầu tuân theo các hướng dẫn an toàn.",
+              "explanation": "'be supposed to + V nguyên mẫu'."
+            },
+            {
+              "id": "A30",
+              "questionHtml": "Sophie is extremely talented ___ sculpture.",
+              "options": [
+                "at",
+                "in",
+                "for",
+                "to"
+              ],
+              "answer": "at",
+              "sentenceVi": "Sophie cực kỳ có năng khiếu về điêu khắc.",
+              "explanation": "'talented at + danh từ'."
+            },
+            {
+              "id": "A31",
+              "questionHtml": "Ben apologised ___ the artist ___ the damage to the frame.",
+              "options": [
+                "for / to",
+                "to / for",
+                "with / about",
+                "at / with"
+              ],
+              "answer": "to / for",
+              "sentenceVi": "Ben xin lỗi nghệ sĩ vì đã làm hỏng khung tranh.",
+              "explanation": "'apologise to sb for sth'."
+            },
+            {
+              "id": "A32",
+              "questionHtml": "Visitors must avoid ___ the original paintings.",
+              "options": [
+                "to touch",
+                "touch",
+                "touching",
+                "to touching"
+              ],
+              "answer": "touching",
+              "sentenceVi": "Khách tham quan phải tránh chạm vào các bức tranh gốc.",
+              "explanation": "'avoid + V-ing'."
+            },
+            {
+              "id": "A33",
+              "questionHtml": "An exhibition this unusual is bound ___ popular online.",
+              "options": [
+                "becoming",
+                "to become",
+                "become",
+                "for becoming"
+              ],
+              "answer": "to become",
+              "sentenceVi": "Một triển lãm khác thường như vậy chắc chắn sẽ trở nên nổi tiếng trên mạng.",
+              "explanation": "'be bound to + V nguyên mẫu'."
+            },
+            {
+              "id": "A34",
+              "questionHtml": "The student artist deserves ___ more opportunities to display her work.",
+              "options": [
+                "receiving",
+                "receive",
+                "to receiving",
+                "to receive"
+              ],
+              "answer": "to receive",
+              "sentenceVi": "Nữ nghệ sĩ học sinh này xứng đáng nhận được nhiều cơ hội hơn để trưng bày tác phẩm của mình.",
+              "explanation": "'deserve + to-infinitive'."
+            },
+            {
+              "id": "A35",
+              "questionHtml": "Maya really enjoyed ___ the different styles of painting.",
+              "options": [
+                "exploring",
+                "to explore",
+                "explore",
+                "to exploring"
+              ],
+              "answer": "exploring",
+              "sentenceVi": "Maya thực sự thích khám phá các phong cách hội họa khác nhau.",
+              "explanation": "'enjoy + V-ing'."
+            },
+            {
+              "id": "A36",
+              "questionHtml": "___ using one large room, the team created several smaller exhibition areas.",
+              "options": [
+                "Instead to",
+                "Instead from",
+                "Instead of",
+                "Instead for"
+              ],
+              "answer": "Instead of",
+              "sentenceVi": "Thay vì dùng một phòng lớn, đội ngũ đã tạo ra nhiều khu trưng bày nhỏ hơn.",
+              "explanation": "'instead of + V-ing'."
+            },
+            {
+              "id": "A37",
+              "questionHtml": "Hana promised ___ every artwork would be returned safely.",
+              "options": [
+                "to",
+                "about",
+                "that",
+                "for"
+              ],
+              "answer": "that",
+              "sentenceVi": "Hana hứa rằng mọi tác phẩm sẽ được trả lại an toàn.",
+              "explanation": "'promise + that-clause'."
+            },
+            {
+              "id": "A38",
+              "questionHtml": "The photographs proved the damage ___ the insurance officer.",
+              "options": [
+                "to",
+                "for",
+                "about",
+                "with"
+              ],
+              "answer": "to",
+              "sentenceVi": "Những bức ảnh đã chứng minh thiệt hại cho nhân viên bảo hiểm thấy.",
+              "explanation": "'prove sth to sb'."
+            },
+            {
+              "id": "A39",
+              "questionHtml": "Everyone is supposed ___ quiet while the artist is speaking.",
+              "options": [
+                "remaining",
+                "remain",
+                "for remaining",
+                "to remain"
+              ],
+              "answer": "to remain",
+              "sentenceVi": "Mọi người được yêu cầu giữ im lặng khi nghệ sĩ đang phát biểu.",
+              "explanation": "'be supposed to + V nguyên mẫu'."
+            },
+            {
+              "id": "A40",
+              "questionHtml": "Leo is talented ___ with colour and light.",
+              "options": [
+                "in working",
+                "at working",
+                "to work",
+                "for working"
+              ],
+              "answer": "at working",
+              "sentenceVi": "Leo có năng khiếu trong việc làm việc với màu sắc và ánh sáng.",
+              "explanation": "'talented at + V-ing'."
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "label": "FCE Word Pattern Mastery",
+          "questions": [
+            {
+              "id": "B1",
+              "questionHtml": "After moving the sculpture without permission, Ben immediately ___.",
+              "options": [
+                "avoided moving it",
+                "promised the artist",
+                "proved his mistake",
+                "apologised to the artist for moving it"
+              ],
+              "answer": "apologised to the artist for moving it",
+              "sentenceVi": "Sau khi di chuyển tác phẩm điêu khắc mà không được phép, Ben ngay lập tức xin lỗi nghệ sĩ vì đã làm việc đó.",
+              "explanation": "Tình huống cần xin lỗi vì đã lỡ làm sai → 'apologise to sb for doing sth'; avoid/promise/prove không phù hợp ngữ cảnh."
+            },
+            {
+              "id": "B2",
+              "questionHtml": "To protect the fragile pottery, staff ___ it near the busy entrance.",
+              "options": [
+                "avoided placing",
+                "avoided to place",
+                "avoided place",
+                "avoided to placing"
+              ],
+              "answer": "avoided placing",
+              "sentenceVi": "Để bảo vệ đồ gốm dễ vỡ, nhân viên tránh đặt nó gần lối vào đông người.",
+              "explanation": "'avoid + V-ing' đúng cấu trúc; các phương án khác sai dạng động từ theo sau 'avoided'."
+            },
+            {
+              "id": "B3",
+              "questionHtml": "With more than 500 people already registered, the exhibition ___ attract a large audience.",
+              "options": [
+                "is supposed for",
+                "proves to",
+                "is bound to",
+                "deserves for"
+              ],
+              "answer": "is bound to",
+              "sentenceVi": "Với hơn 500 người đã đăng ký, triển lãm chắc chắn sẽ thu hút lượng khán giả đông đảo.",
+              "explanation": "'be bound to' = chắc chắn sẽ, phù hợp khi đã có thông tin dẫn đến kết quả gần như chắc chắn."
+            },
+            {
+              "id": "B4",
+              "questionHtml": "After working on the project for several months, the students clearly ___ some recognition.",
+              "options": [
+                "avoid",
+                "deserve",
+                "are bound",
+                "prove"
+              ],
+              "answer": "deserve",
+              "sentenceVi": "Sau nhiều tháng làm việc cho dự án, rõ ràng các học sinh xứng đáng được ghi nhận.",
+              "explanation": "'deserve' phù hợp ngữ cảnh đã cố gắng nên xứng đáng được ghi nhận."
+            },
+            {
+              "id": "B5",
+              "questionHtml": "Maya ___ interviewing the local artists because their stories were fascinating.",
+              "options": [
+                "avoided",
+                "enjoyed",
+                "promised",
+                "deserved"
+              ],
+              "answer": "enjoyed",
+              "sentenceVi": "Maya thích phỏng vấn các nghệ sĩ địa phương vì câu chuyện của họ rất cuốn hút.",
+              "explanation": "'enjoy' phù hợp với việc gì đó khiến người ta thấy vui/hứng thú."
+            },
+            {
+              "id": "B6",
+              "questionHtml": "___ printing hundreds of catalogues, the organisers created a digital version.",
+              "options": [
+                "Instead to",
+                "Instead from",
+                "Instead of",
+                "Instead for"
+              ],
+              "answer": "Instead of",
+              "sentenceVi": "Thay vì in hàng trăm cuốn catalogue, ban tổ chức đã tạo một phiên bản kỹ thuật số.",
+              "explanation": "'instead of + V-ing' để so sánh 2 phương án thay thế nhau."
+            },
+            {
+              "id": "B7",
+              "questionHtml": "Before leaving, the painter made a firm commitment and ___ return next year with a larger collection.",
+              "options": [
+                "promised to",
+                "proved to",
+                "was supposed for",
+                "deserved for"
+              ],
+              "answer": "promised to",
+              "sentenceVi": "Trước khi rời đi, họa sĩ đã cam kết chắc chắn và hứa sẽ quay lại năm sau với một bộ sưu tập lớn hơn.",
+              "explanation": "'promise to + V nguyên mẫu' phù hợp với việc cam kết sẽ làm gì trong tương lai."
+            },
+            {
+              "id": "B8",
+              "questionHtml": "The inexpensive lighting system ___ surprisingly effective.",
+              "options": [
+                "proved as",
+                "proved being",
+                "proved be",
+                "proved to be"
+              ],
+              "answer": "proved to be",
+              "sentenceVi": "Hệ thống chiếu sáng giá rẻ hoá ra lại hiệu quả đến bất ngờ.",
+              "explanation": "'prove to be' dùng khi một điều gì đó cuối cùng cho thấy đúng là như vậy, trái với kỳ vọng ban đầu."
+            },
+            {
+              "id": "B9",
+              "questionHtml": "All exhibitors ___ label their artwork clearly before the gallery opens.",
+              "options": [
+                "are supposed to",
+                "are supposed for",
+                "suppose to",
+                "are supposed that"
+              ],
+              "answer": "are supposed to",
+              "sentenceVi": "Tất cả người trưng bày được yêu cầu phải dán nhãn rõ ràng cho tác phẩm trước khi phòng tranh mở cửa.",
+              "explanation": "'be supposed to' diễn tả quy định/việc được mong đợi phải làm."
+            },
+            {
+              "id": "B10",
+              "questionHtml": "Linh is particularly ___ arranging different shades of colour.",
+              "options": [
+                "talented for",
+                "talented in",
+                "talented at",
+                "talented to"
+              ],
+              "answer": "talented at",
+              "sentenceVi": "Linh đặc biệt có năng khiếu trong việc sắp xếp các sắc độ màu khác nhau.",
+              "explanation": "'talented at + V-ing' diễn tả năng khiếu ở một kỹ năng cụ thể."
+            },
+            {
+              "id": "B11",
+              "questionHtml": "Hana ___ Leo ___ arriving late for the gallery opening.",
+              "options": [
+                "promised / about",
+                "apologised to / for",
+                "avoided / for",
+                "proved to / about"
+              ],
+              "answer": "apologised to / for",
+              "sentenceVi": "Hana xin lỗi Leo vì đã đến muộn buổi khai mạc phòng tranh.",
+              "explanation": "'apologise to sb for doing sth'."
+            },
+            {
+              "id": "B12",
+              "questionHtml": "Because the sculptures were extremely valuable, staff ___ them without gloves.",
+              "options": [
+                "avoided touch",
+                "avoided to touching",
+                "avoided to touch",
+                "avoided touching"
+              ],
+              "answer": "avoided touching",
+              "sentenceVi": "Vì các tác phẩm điêu khắc rất có giá trị, nhân viên tránh chạm vào chúng mà không đeo găng tay.",
+              "explanation": "'avoid + V-ing'."
+            },
+            {
+              "id": "B13",
+              "questionHtml": "The exhibition has already been featured by three newspapers, so it ___ attract even more visitors this weekend.",
+              "options": [
+                "deserves for",
+                "is supposed for",
+                "is bound to",
+                "proves as"
+              ],
+              "answer": "is bound to",
+              "sentenceVi": "Triển lãm đã được ba tờ báo đưa tin, vì vậy chắc chắn sẽ thu hút thêm nhiều khách tham quan hơn vào cuối tuần này.",
+              "explanation": "'be bound to' hợp lý khi đã có bằng chứng dẫn đến kết quả gần như chắc chắn."
+            },
+            {
+              "id": "B14",
+              "questionHtml": "After creating such an original collection, Maya certainly ___ a place in the exhibition.",
+              "options": [
+                "avoids",
+                "deserves",
+                "promises",
+                "proves"
+              ],
+              "answer": "deserves",
+              "sentenceVi": "Sau khi tạo ra một bộ sưu tập độc đáo như vậy, Maya chắc chắn xứng đáng có một chỗ trong triển lãm.",
+              "explanation": "'deserve' phù hợp khi ai đó đã nỗ lực/tạo ra thành quả xứng đáng được ghi nhận."
+            },
+            {
+              "id": "B15",
+              "questionHtml": "The younger children kept returning to the interactive display because they clearly ___ it.",
+              "options": [
+                "promised",
+                "avoided",
+                "deserved",
+                "enjoyed"
+              ],
+              "answer": "enjoyed",
+              "sentenceVi": "Những đứa trẻ nhỏ cứ quay lại khu trưng bày tương tác vì rõ ràng chúng rất thích nó.",
+              "explanation": "'enjoy' phù hợp với hành động lặp lại vì thích thú."
+            },
+            {
+              "id": "B16",
+              "questionHtml": "___ covering every wall with paintings, the team left some empty space around each work.",
+              "options": [
+                "Instead of",
+                "Instead to",
+                "Instead from",
+                "Instead for"
+              ],
+              "answer": "Instead of",
+              "sentenceVi": "Thay vì phủ kín mọi bức tường bằng tranh, đội ngũ đã để lại khoảng trống quanh mỗi tác phẩm.",
+              "explanation": "'instead of + V-ing'."
+            },
+            {
+              "id": "B17",
+              "questionHtml": "The gallery owner ___ the students a larger room for their next exhibition.",
+              "options": [
+                "proved",
+                "promised",
+                "avoided",
+                "deserved"
+              ],
+              "answer": "promised",
+              "sentenceVi": "Chủ phòng tranh hứa với các học sinh một căn phòng rộng hơn cho triển lãm tiếp theo.",
+              "explanation": "'promise sb sth'."
+            },
+            {
+              "id": "B18",
+              "questionHtml": "The simple display system ___ much more successful than anyone expected.",
+              "options": [
+                "proved as",
+                "proved being",
+                "proved be",
+                "proved to be"
+              ],
+              "answer": "proved to be",
+              "sentenceVi": "Hệ thống trưng bày đơn giản hoá ra thành công hơn nhiều so với mong đợi của mọi người.",
+              "explanation": "'prove to be' + tính từ so sánh hơn."
+            },
+            {
+              "id": "B19",
+              "questionHtml": "Visitors ___ leave large bags outside the exhibition room.",
+              "options": [
+                "are supposed to",
+                "deserve to",
+                "prove to",
+                "are bound for"
+              ],
+              "answer": "are supposed to",
+              "sentenceVi": "Khách tham quan được yêu cầu để túi lớn bên ngoài phòng triển lãm.",
+              "explanation": "'be supposed to'."
+            },
+            {
+              "id": "B20",
+              "questionHtml": "Sophie is extremely ___ producing realistic portraits.",
+              "options": [
+                "talented for",
+                "talented in",
+                "talented at",
+                "talented to"
+              ],
+              "answer": "talented at",
+              "sentenceVi": "Sophie cực kỳ có năng khiếu trong việc vẽ chân dung tả thực.",
+              "explanation": "'talented at + V-ing'."
+            },
+            {
+              "id": "B21",
+              "questionHtml": "After accidentally damaging the frame, Leo ___.",
+              "options": [
+                "avoided the artist",
+                "promised the artist for it",
+                "apologised to the artist for damaging it",
+                "proved the damage"
+              ],
+              "answer": "apologised to the artist for damaging it",
+              "sentenceVi": "Sau khi vô tình làm hỏng khung tranh, Leo đã xin lỗi nghệ sĩ vì việc đó.",
+              "explanation": "'apologise to sb for doing sth' phù hợp với tình huống đã lỡ gây ra lỗi."
+            },
+            {
+              "id": "B22",
+              "questionHtml": "To reduce the risk of accidents, the organisers ___ too many visitors into the room at once.",
+              "options": [
+                "avoided allowing",
+                "avoided to allow",
+                "avoided allow",
+                "avoided to allowing"
+              ],
+              "answer": "avoided allowing",
+              "sentenceVi": "Để giảm nguy cơ tai nạn, ban tổ chức tránh cho quá nhiều khách vào phòng cùng một lúc.",
+              "explanation": "'avoid + V-ing' ('allowing')."
+            },
+            {
+              "id": "B23",
+              "questionHtml": "Three television channels have already confirmed coverage, so the exhibition ___ receive plenty of publicity.",
+              "options": [
+                "deserves for",
+                "proves as",
+                "is supposed for",
+                "is bound to"
+              ],
+              "answer": "is bound to",
+              "sentenceVi": "Ba kênh truyền hình đã xác nhận sẽ đưa tin, vì vậy triển lãm chắc chắn sẽ được quảng bá rộng rãi.",
+              "explanation": "'be bound to' hợp lý khi có bằng chứng rõ ràng dẫn tới kết quả gần như chắc chắn."
+            },
+            {
+              "id": "B24",
+              "questionHtml": "The young sculptor ___ to win the competition after producing such impressive work.",
+              "options": [
+                "deserves winning",
+                "deserves to",
+                "deserves for",
+                "deserves to winning"
+              ],
+              "answer": "deserves to",
+              "sentenceVi": "Nhà điêu khắc trẻ xứng đáng giành chiến thắng trong cuộc thi sau khi tạo ra một tác phẩm ấn tượng như vậy.",
+              "explanation": "'deserve to + V nguyên mẫu'."
+            },
+            {
+              "id": "B25",
+              "questionHtml": "Visitors stayed longer than expected because they ___ learning about how the sculptures had been made.",
+              "options": [
+                "enjoyed",
+                "avoided",
+                "promised",
+                "deserved"
+              ],
+              "answer": "enjoyed",
+              "sentenceVi": "Khách tham quan ở lại lâu hơn dự kiến vì họ thích tìm hiểu cách các tác phẩm điêu khắc được tạo ra.",
+              "explanation": "'enjoy + V-ing'."
+            },
+            {
+              "id": "B26",
+              "questionHtml": "The students displayed digital photographs ___ printed copies.",
+              "options": [
+                "instead to",
+                "instead from",
+                "instead for",
+                "instead of"
+              ],
+              "answer": "instead of",
+              "sentenceVi": "Các học sinh trưng bày ảnh kỹ thuật số thay vì bản in.",
+              "explanation": "'instead of + danh từ'."
+            },
+            {
+              "id": "B27",
+              "questionHtml": "The organiser ___ all the work would be returned safely after the exhibition.",
+              "options": [
+                "proved that",
+                "promised that",
+                "avoided that",
+                "deserved that"
+              ],
+              "answer": "promised that",
+              "sentenceVi": "Ban tổ chức hứa rằng mọi tác phẩm sẽ được trả lại an toàn sau triển lãm.",
+              "explanation": "'promise + that-clause'."
+            },
+            {
+              "id": "B28",
+              "questionHtml": "The event ___ a major success despite the limited budget.",
+              "options": [
+                "proved as",
+                "proved be",
+                "proved to be",
+                "proved being"
+              ],
+              "answer": "proved to be",
+              "sentenceVi": "Sự kiện hoá ra là một thành công lớn dù ngân sách hạn chế.",
+              "explanation": "'prove to be + danh từ'."
+            },
+            {
+              "id": "B29",
+              "questionHtml": "Students are ___ ask permission before moving any artwork.",
+              "options": [
+                "bound for",
+                "talented at",
+                "deserving to",
+                "supposed to"
+              ],
+              "answer": "supposed to",
+              "sentenceVi": "Học sinh được yêu cầu phải xin phép trước khi di chuyển bất kỳ tác phẩm nào.",
+              "explanation": "'be supposed to'."
+            },
+            {
+              "id": "B30",
+              "questionHtml": "Ben is especially ___ designing exhibition posters.",
+              "options": [
+                "talented in",
+                "talented for",
+                "talented at",
+                "talented to"
+              ],
+              "answer": "talented at",
+              "sentenceVi": "Ben đặc biệt có năng khiếu trong việc thiết kế áp phích triển lãm.",
+              "explanation": "'talented at + V-ing'."
+            },
+            {
+              "id": "B31",
+              "questionHtml": "The organiser immediately ___ the visiting artist ___ the confusion over the timetable.",
+              "options": [
+                "apologised to / for",
+                "promised / for",
+                "avoided / about",
+                "proved to / for"
+              ],
+              "answer": "apologised to / for",
+              "sentenceVi": "Ban tổ chức ngay lập tức xin lỗi nghệ sĩ khách mời vì sự nhầm lẫn về lịch trình.",
+              "explanation": "'apologise to sb for sth'."
+            },
+            {
+              "id": "B32",
+              "questionHtml": "The gallery staff ___ putting the paintings in direct sunlight.",
+              "options": [
+                "avoided to",
+                "avoided",
+                "promised",
+                "deserved"
+              ],
+              "answer": "avoided",
+              "sentenceVi": "Nhân viên phòng tranh tránh đặt các bức tranh dưới ánh nắng trực tiếp.",
+              "explanation": "'avoid + V-ing'."
+            },
+            {
+              "id": "B33",
+              "questionHtml": "Such an innovative design ___ attract attention from professional artists.",
+              "options": [
+                "deserves for",
+                "is bound to",
+                "is supposed for",
+                "proves as"
+              ],
+              "answer": "is bound to",
+              "sentenceVi": "Một thiết kế sáng tạo như vậy chắc chắn sẽ thu hút sự chú ý từ các nghệ sĩ chuyên nghiệp.",
+              "explanation": "'be bound to'."
+            },
+            {
+              "id": "B34",
+              "questionHtml": "The students who organised the event ___ credit for its success.",
+              "options": [
+                "deserve",
+                "avoid",
+                "promise",
+                "prove"
+              ],
+              "answer": "deserve",
+              "sentenceVi": "Các học sinh đã tổ chức sự kiện xứng đáng được ghi nhận công lao vì thành công của nó.",
+              "explanation": "'deserve + danh từ' ('credit')."
+            },
+            {
+              "id": "B35",
+              "questionHtml": "Hana said working with professional artists was the best part of the project because she ___ working with them.",
+              "options": [
+                "avoided",
+                "promised",
+                "enjoyed",
+                "deserved"
+              ],
+              "answer": "enjoyed",
+              "sentenceVi": "Hana nói rằng làm việc với các nghệ sĩ chuyên nghiệp là phần hay nhất của dự án vì cô ấy rất thích được làm việc cùng họ.",
+              "explanation": "'enjoy + V-ing'."
+            },
+            {
+              "id": "B36",
+              "questionHtml": "___ buying new display boards, the students repaired the old ones.",
+              "options": [
+                "Instead to",
+                "Instead from",
+                "Instead for",
+                "Instead of"
+              ],
+              "answer": "Instead of",
+              "sentenceVi": "Thay vì mua bảng trưng bày mới, các học sinh đã sửa lại những cái cũ.",
+              "explanation": "'instead of + V-ing'."
+            },
+            {
+              "id": "B37",
+              "questionHtml": "Before leaving, the artist made a firm promise and ___ bring several new paintings for the next exhibition.",
+              "options": [
+                "promised to",
+                "proved to",
+                "deserved for",
+                "was supposed for"
+              ],
+              "answer": "promised to",
+              "sentenceVi": "Trước khi rời đi, nghệ sĩ đã hứa chắc chắn sẽ mang thêm vài bức tranh mới cho triển lãm tiếp theo.",
+              "explanation": "'promise to + V nguyên mẫu'."
+            },
+            {
+              "id": "B38",
+              "questionHtml": "The photographs helped ___ the value of the project ___ the school governors.",
+              "options": [
+                "promise / to",
+                "avoid / for",
+                "prove / to",
+                "deserve / for"
+              ],
+              "answer": "prove / to",
+              "sentenceVi": "Những bức ảnh đã giúp chứng minh giá trị của dự án cho ban giám hiệu thấy.",
+              "explanation": "'prove sth to sb'."
+            },
+            {
+              "id": "B39",
+              "questionHtml": "All visitors are ___ follow the gallery rules.",
+              "options": [
+                "talented at",
+                "supposed to",
+                "bound for",
+                "deserving to"
+              ],
+              "answer": "supposed to",
+              "sentenceVi": "Tất cả khách tham quan được yêu cầu tuân theo nội quy phòng tranh.",
+              "explanation": "'be supposed to'."
+            },
+            {
+              "id": "B40",
+              "questionHtml": "Maya has always been ___ working with three-dimensional forms.",
+              "options": [
+                "talented in",
+                "talented for",
+                "talented to",
+                "talented at"
+              ],
+              "answer": "talented at",
+              "sentenceVi": "Maya luôn có năng khiếu làm việc với các hình khối ba chiều.",
+              "explanation": "'talented at + V-ing'."
             }
           ]
         }
