@@ -6799,7 +6799,7 @@
       "audioExample": "assets/audio/vocab/U7_collocation_show_example.mp3",
       "keyChunkVi": "được trưng bày; chiếm trọn sự chú ý; bày tỏ sự trân trọng đối với",
       "example": "The young actress completely stole the show, and Ben later invited visitors to show appreciation for the students' work.",
-      "audioPhrase": "steal the show",
+      "audioPhrase": "on show; steal the show; show appreciation for",
       "highlightForms": [
         "stole the show",
         "show appreciation for"
@@ -6967,7 +6967,11 @@
       "audioExample": "assets/audio/vocab/U7_wordPattern_deserve_example.mp3",
       "keyChunkVi": "xứng đáng nhận được điều gì; xứng đáng được làm gì",
       "example": "The artist felt that every student deserved to be recognised for their hard work.",
-      "audioPhrase": "deserve to do something"
+      "audioPhrase": "deserve to do something",
+      "highlightForms": [
+        "deserved",
+        "deserve"
+      ]
     },
     {
       "id": "U7_wordPattern_enjoy",
@@ -6986,7 +6990,11 @@
       "audioExample": "assets/audio/vocab/U7_wordPattern_enjoy_example.mp3",
       "keyChunkVi": "thích điều gì/thích làm gì",
       "example": "Hana enjoyed filming the opening while the rest of the team welcomed the guests.",
-      "audioPhrase": "enjoy doing something"
+      "audioPhrase": "enjoy doing something",
+      "highlightForms": [
+        "enjoyed",
+        "enjoy"
+      ]
     },
     {
       "id": "U7_wordPattern_instead",
@@ -7024,7 +7032,11 @@
       "audioExample": "assets/audio/vocab/U7_wordPattern_promise_example.mp3",
       "keyChunkVi": "hứa sẽ làm gì; hứa với ai điều gì; hứa rằng",
       "example": "Ben promised to finish the layout early so the gallery would be ready by Friday.",
-      "audioPhrase": "promise to do something"
+      "audioPhrase": "promise to do something",
+      "highlightForms": [
+        "promised",
+        "promise"
+      ]
     },
     {
       "id": "U7_wordPattern_prove",
@@ -7043,7 +7055,11 @@
       "audioExample": "assets/audio/vocab/U7_wordPattern_prove_example.mp3",
       "keyChunkVi": "chứng tỏ là; chứng minh điều gì với ai",
       "example": "The painting named after the River Thames proved to be the visitors' favourite.",
-      "audioPhrase": "prove to be true"
+      "audioPhrase": "prove to be true",
+      "highlightForms": [
+        "proved",
+        "prove"
+      ]
     },
     {
       "id": "U7_wordPattern_supposed",
