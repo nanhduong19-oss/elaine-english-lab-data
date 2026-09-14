@@ -4496,7 +4496,549 @@
           "answer": "impressive"
         }
       ],
-      "image": "assets/images/passages/U7_CORE.jpg"
+      "image": "assets/images/passages/U7_CORE.jpg",
+      "quizQuestions": [
+        {
+          "id": "U7_CORE_quiz1",
+          "sentenceWithGap": "Ben believes ___ can help visitors see familiar ideas in a new way.",
+          "options": [
+            "art",
+            "a painting",
+            "a sculpture",
+            "an artist"
+          ],
+          "answer": "art",
+          "sentenceVi": "Ben tin rằng nghệ thuật có thể giúp khách tham quan nhìn những ý tưởng quen thuộc theo cách mới."
+        },
+        {
+          "id": "U7_CORE_quiz2",
+          "sentenceWithGap": "The festival celebrates ___ through exhibitions, books and performances.",
+          "options": [
+            "the arts",
+            "an exhibition",
+            "a gallery",
+            "a work of art"
+          ],
+          "answer": "the arts",
+          "sentenceVi": "Lễ hội tôn vinh các loại hình nghệ thuật qua triển lãm, sách và biểu diễn."
+        },
+        {
+          "id": "U7_CORE_quiz3",
+          "sentenceWithGap": "The gallery introduces students to painting, sculpture and other forms of ___.",
+          "options": [
+            "fine art",
+            "arts and crafts",
+            "architecture",
+            "a print"
+          ],
+          "answer": "fine art",
+          "sentenceVi": "Phòng tranh giới thiệu cho học sinh về hội hoạ, điêu khắc và các loại hình mỹ thuật khác."
+        },
+        {
+          "id": "U7_CORE_quiz4",
+          "sentenceWithGap": "A local ___ lent the school an original landscape.",
+          "options": [
+            "artist",
+            "art lover",
+            "architect",
+            "potter"
+          ],
+          "answer": "artist",
+          "sentenceVi": "Một nghệ sĩ địa phương đã cho trường mượn một bức tranh phong cảnh gốc."
+        },
+        {
+          "id": "U7_CORE_quiz5",
+          "sentenceWithGap": "Ben used his ___ ability to design the exhibition entrance.",
+          "options": [
+            "artistic",
+            "impressive",
+            "conventional",
+            "realistic"
+          ],
+          "answer": "artistic",
+          "sentenceVi": "Ben đã dùng khả năng nghệ thuật của mình để thiết kế lối vào triển lãm."
+        },
+        {
+          "id": "U7_CORE_quiz6",
+          "sentenceWithGap": "The opening attracted ___ from across the community.",
+          "options": [
+            "art lovers",
+            "sculptors",
+            "architects",
+            "potters"
+          ],
+          "answer": "art lovers",
+          "sentenceVi": "Buổi khai mạc thu hút những người yêu nghệ thuật từ khắp cộng đồng."
+        },
+        {
+          "id": "U7_CORE_quiz7",
+          "sentenceWithGap": "Each student selected one ___ for the central display.",
+          "options": [
+            "work of art",
+            "art collection",
+            "reproduction",
+            "sketch"
+          ],
+          "answer": "work of art",
+          "sentenceVi": "Mỗi học sinh chọn một tác phẩm nghệ thuật để trưng bày ở khu trung tâm."
+        },
+        {
+          "id": "U7_CORE_quiz8",
+          "sentenceWithGap": "The ___ club made decorations from recycled materials.",
+          "options": [
+            "arts and crafts",
+            "fine art",
+            "the arts",
+            "architecture"
+          ],
+          "answer": "arts and crafts",
+          "sentenceVi": "Câu lạc bộ thủ công mỹ nghệ đã làm đồ trang trí từ vật liệu tái chế."
+        },
+        {
+          "id": "U7_CORE_quiz9",
+          "sentenceWithGap": "___ was the most popular activity in the children's workshop.",
+          "options": [
+            "Painting",
+            "Sculpture",
+            "Architecture",
+            "Pottery"
+          ],
+          "answer": "Painting",
+          "sentenceVi": "Vẽ tranh là hoạt động phổ biến nhất trong buổi workshop dành cho trẻ em."
+        },
+        {
+          "id": "U7_CORE_quiz10",
+          "sentenceWithGap": "Leo produced a careful ___ of the old theatre.",
+          "options": [
+            "drawing",
+            "sculpture",
+            "statue",
+            "textile"
+          ],
+          "answer": "drawing",
+          "sentenceVi": "Leo đã vẽ một bức vẽ tỉ mỉ về nhà hát cũ."
+        },
+        {
+          "id": "U7_CORE_quiz11",
+          "sentenceWithGap": "A large metal ___ stood in the centre of the gallery.",
+          "options": [
+            "sculpture",
+            "painting",
+            "print",
+            "portrait"
+          ],
+          "answer": "sculpture",
+          "sentenceVi": "Một tác phẩm điêu khắc kim loại lớn đứng ở trung tâm phòng tranh."
+        },
+        {
+          "id": "U7_CORE_quiz12",
+          "sentenceWithGap": "The exhibition included a section on modern ___.",
+          "options": [
+            "architecture",
+            "ceramics",
+            "textiles",
+            "jewellery"
+          ],
+          "answer": "architecture",
+          "sentenceVi": "Triển lãm có một khu vực về kiến trúc hiện đại."
+        },
+        {
+          "id": "U7_CORE_quiz13",
+          "sentenceWithGap": "The ___ display contained decorated bowls and tiles.",
+          "options": [
+            "ceramics",
+            "textiles",
+            "jewellery",
+            "architecture"
+          ],
+          "answer": "ceramics",
+          "sentenceVi": "Khu trưng bày gốm sứ có các bát và gạch trang trí."
+        },
+        {
+          "id": "U7_CORE_quiz14",
+          "sentenceWithGap": "Visitors watched a demonstration of traditional ___.",
+          "options": [
+            "pottery",
+            "architecture",
+            "textiles",
+            "jewellery"
+          ],
+          "answer": "pottery",
+          "sentenceVi": "Khách tham quan xem trình diễn làm gốm truyền thống."
+        },
+        {
+          "id": "U7_CORE_quiz15",
+          "sentenceWithGap": "The ___ section featured handwoven wall hangings.",
+          "options": [
+            "textiles",
+            "ceramics",
+            "jewellery",
+            "sculptures"
+          ],
+          "answer": "textiles",
+          "sentenceVi": "Khu vực vải dệt trưng bày các tấm treo tường dệt tay."
+        },
+        {
+          "id": "U7_CORE_quiz16",
+          "sentenceWithGap": "Hana displayed ___ made from glass and recycled metal.",
+          "options": [
+            "jewellery",
+            "pottery",
+            "textiles",
+            "sculpture"
+          ],
+          "answer": "jewellery",
+          "sentenceVi": "Hana trưng bày trang sức làm từ thuỷ tinh và kim loại tái chế."
+        },
+        {
+          "id": "U7_CORE_quiz17",
+          "sentenceWithGap": "A stone ___ welcomed visitors at the gallery entrance.",
+          "options": [
+            "statue",
+            "portrait",
+            "print",
+            "sketch"
+          ],
+          "answer": "statue",
+          "sentenceVi": "Một bức tượng đá chào đón khách tham quan ở lối vào phòng tranh."
+        },
+        {
+          "id": "U7_CORE_quiz18",
+          "sentenceWithGap": "The ___ captured the musician's thoughtful expression.",
+          "options": [
+            "portrait",
+            "landscape",
+            "still life",
+            "sketch"
+          ],
+          "answer": "portrait",
+          "sentenceVi": "Bức chân dung ghi lại vẻ trầm tư của người nhạc sĩ."
+        },
+        {
+          "id": "U7_CORE_quiz19",
+          "sentenceWithGap": "Ben chose a colourful ___ for the main wall.",
+          "options": [
+            "landscape",
+            "portrait",
+            "still life",
+            "statue"
+          ],
+          "answer": "landscape",
+          "sentenceVi": "Ben chọn một bức tranh phong cảnh nhiều màu sắc cho bức tường chính."
+        },
+        {
+          "id": "U7_CORE_quiz20",
+          "sentenceWithGap": "The ___ showed a vase, several apples and an old book.",
+          "options": [
+            "still life",
+            "landscape",
+            "portrait",
+            "sketch"
+          ],
+          "answer": "still life",
+          "sentenceVi": "Bức tranh tĩnh vật vẽ một chiếc bình, vài quả táo và một cuốn sách cũ."
+        },
+        {
+          "id": "U7_CORE_quiz21",
+          "sentenceWithGap": "The artist showed visitors the first ___ for the mural.",
+          "options": [
+            "sketch",
+            "print",
+            "reproduction",
+            "statue"
+          ],
+          "answer": "sketch",
+          "sentenceVi": "Nghệ sĩ cho khách xem bản phác thảo đầu tiên cho bức tranh tường."
+        },
+        {
+          "id": "U7_CORE_quiz22",
+          "sentenceWithGap": "A delicate ___ of the river was placed near the window.",
+          "options": [
+            "watercolour",
+            "oil painting",
+            "print",
+            "statue"
+          ],
+          "answer": "watercolour",
+          "sentenceVi": "Một bức tranh màu nước tinh tế vẽ dòng sông được đặt gần cửa sổ."
+        },
+        {
+          "id": "U7_CORE_quiz23",
+          "sentenceWithGap": "The ___ had rich colours and a thick surface texture.",
+          "options": [
+            "oil painting",
+            "watercolour",
+            "print",
+            "sketch"
+          ],
+          "answer": "oil painting",
+          "sentenceVi": "Bức tranh sơn dầu có màu sắc đậm và bề mặt dày."
+        },
+        {
+          "id": "U7_CORE_quiz24",
+          "sentenceWithGap": "Affordable ___ of the winning artwork were available at the shop.",
+          "options": [
+            "prints",
+            "sketches",
+            "sculptures",
+            "statues"
+          ],
+          "answer": "prints",
+          "sentenceVi": "Các bản in giá phải chăng của tác phẩm đoạt giải được bán tại cửa hàng."
+        },
+        {
+          "id": "U7_CORE_quiz25",
+          "sentenceWithGap": "The ___ explained how light influenced her choice of colours.",
+          "options": [
+            "painter",
+            "sculptor",
+            "potter",
+            "architect"
+          ],
+          "answer": "painter",
+          "sentenceVi": "Hoạ sĩ giải thích cách ánh sáng ảnh hưởng đến việc chọn màu sắc của cô."
+        },
+        {
+          "id": "U7_CORE_quiz26",
+          "sentenceWithGap": "The ___ shaped the figure from a single block of wood.",
+          "options": [
+            "sculptor",
+            "painter",
+            "potter",
+            "architect"
+          ],
+          "answer": "sculptor",
+          "sentenceVi": "Nhà điêu khắc đã tạo hình bức tượng từ một khối gỗ duy nhất."
+        },
+        {
+          "id": "U7_CORE_quiz27",
+          "sentenceWithGap": "The ___ demonstrated how to form a bowl on a wheel.",
+          "options": [
+            "potter",
+            "sculptor",
+            "painter",
+            "architect"
+          ],
+          "answer": "potter",
+          "sentenceVi": "Người thợ gốm trình diễn cách tạo hình một chiếc bát trên bàn xoay."
+        },
+        {
+          "id": "U7_CORE_quiz28",
+          "sentenceWithGap": "An ___ contributed a model of an eco-friendly building.",
+          "options": [
+            "architect",
+            "artist",
+            "sculptor",
+            "potter"
+          ],
+          "answer": "architect",
+          "sentenceVi": "Một kiến trúc sư đã đóng góp một mô hình toà nhà thân thiện với môi trường."
+        },
+        {
+          "id": "U7_CORE_quiz29",
+          "sentenceWithGap": "The school hall was transformed into a bright ___.",
+          "options": [
+            "gallery",
+            "studio",
+            "exhibition",
+            "collection"
+          ],
+          "answer": "gallery",
+          "sentenceVi": "Hội trường trường học được biến thành một phòng tranh sáng sủa."
+        },
+        {
+          "id": "U7_CORE_quiz30",
+          "sentenceWithGap": "The ___ opened on Saturday morning.",
+          "options": [
+            "exhibition",
+            "gallery",
+            "studio",
+            "collection"
+          ],
+          "answer": "exhibition",
+          "sentenceVi": "Triển lãm khai mạc vào sáng thứ Bảy."
+        },
+        {
+          "id": "U7_CORE_quiz31",
+          "sentenceWithGap": "The local museum lent part of its ___ to the festival.",
+          "options": [
+            "art collection",
+            "work of art",
+            "exhibition",
+            "gallery"
+          ],
+          "answer": "art collection",
+          "sentenceVi": "Bảo tàng địa phương đã cho lễ hội mượn một phần bộ sưu tập nghệ thuật của mình."
+        },
+        {
+          "id": "U7_CORE_quiz32",
+          "sentenceWithGap": "Ben visited the artist's ___ before selecting the paintings.",
+          "options": [
+            "studio",
+            "gallery",
+            "exhibition",
+            "collection"
+          ],
+          "answer": "studio",
+          "sentenceVi": "Ben đến thăm xưởng vẽ của nghệ sĩ trước khi chọn các bức tranh."
+        },
+        {
+          "id": "U7_CORE_quiz33",
+          "sentenceWithGap": "The original sculpture was ___ for the first time.",
+          "options": [
+            "on public display",
+            "an art collection",
+            "a reproduction",
+            "picturesque"
+          ],
+          "answer": "on public display",
+          "sentenceVi": "Tác phẩm điêu khắc gốc lần đầu tiên được trưng bày công khai."
+        },
+        {
+          "id": "U7_CORE_quiz34",
+          "sentenceWithGap": "The ___ painting used bold shapes and unexpected colours.",
+          "options": [
+            "abstract",
+            "realistic",
+            "conventional",
+            "picturesque"
+          ],
+          "answer": "abstract",
+          "sentenceVi": "Bức tranh trừu tượng sử dụng các hình khối táo bạo và màu sắc bất ngờ."
+        },
+        {
+          "id": "U7_CORE_quiz35",
+          "sentenceWithGap": "The portrait was so ___ that it looked like a photograph.",
+          "options": [
+            "realistic",
+            "abstract",
+            "conventional",
+            "creative"
+          ],
+          "answer": "realistic",
+          "sentenceVi": "Bức chân dung chân thực đến mức trông như một tấm ảnh."
+        },
+        {
+          "id": "U7_CORE_quiz36",
+          "sentenceWithGap": "The judges praised the student's ___ approach to the theme.",
+          "options": [
+            "original",
+            "conventional",
+            "realistic",
+            "picturesque"
+          ],
+          "answer": "original",
+          "sentenceVi": "Ban giám khảo khen ngợi cách tiếp cận độc đáo của học sinh với chủ đề."
+        },
+        {
+          "id": "U7_CORE_quiz37",
+          "sentenceWithGap": "A ___ was displayed because the original was too valuable to move.",
+          "options": [
+            "reproduction",
+            "sketch",
+            "work of art",
+            "art collection"
+          ],
+          "answer": "reproduction",
+          "sentenceVi": "Một bản sao được trưng bày vì bản gốc quá quý giá để di chuyển."
+        },
+        {
+          "id": "U7_CORE_quiz38",
+          "sentenceWithGap": "The recycled-material installation was both ___ and practical.",
+          "options": [
+            "creative",
+            "conventional",
+            "realistic",
+            "picturesque"
+          ],
+          "answer": "creative",
+          "sentenceVi": "Tác phẩm sắp đặt từ vật liệu tái chế vừa sáng tạo vừa thực tế."
+        },
+        {
+          "id": "U7_CORE_quiz39",
+          "sentenceWithGap": "Maya preferred a ___ landscape to the experimental pieces.",
+          "options": [
+            "conventional",
+            "abstract",
+            "original",
+            "creative"
+          ],
+          "answer": "conventional",
+          "sentenceVi": "Maya thích một bức tranh phong cảnh theo lối truyền thống hơn là các tác phẩm thử nghiệm."
+        },
+        {
+          "id": "U7_CORE_quiz40",
+          "sentenceWithGap": "Each painter developed a recognisable ___.",
+          "options": [
+            "style",
+            "shade",
+            "colour",
+            "collection"
+          ],
+          "answer": "style",
+          "sentenceVi": "Mỗi hoạ sĩ đều phát triển một phong cách dễ nhận biết riêng."
+        },
+        {
+          "id": "U7_CORE_quiz41",
+          "sentenceWithGap": "The artist used several ___ of green in the landscape.",
+          "options": [
+            "shades",
+            "styles",
+            "collections",
+            "textiles"
+          ],
+          "answer": "shades",
+          "sentenceVi": "Nghệ sĩ đã dùng nhiều sắc độ xanh lá khác nhau trong bức tranh phong cảnh."
+        },
+        {
+          "id": "U7_CORE_quiz42",
+          "sentenceWithGap": "Bright ___ helped the poster stand out.",
+          "options": [
+            "colour",
+            "shade",
+            "style",
+            "texture"
+          ],
+          "answer": "colour",
+          "sentenceVi": "Màu sắc tươi sáng giúp tấm áp phích nổi bật."
+        },
+        {
+          "id": "U7_CORE_quiz43",
+          "sentenceWithGap": "The painting showed a ___ village beside the river.",
+          "options": [
+            "picturesque",
+            "abstract",
+            "conventional",
+            "original"
+          ],
+          "answer": "picturesque",
+          "sentenceVi": "Bức tranh vẽ một ngôi làng đẹp như tranh bên bờ sông."
+        },
+        {
+          "id": "U7_CORE_quiz44",
+          "sentenceWithGap": "The large installation made an ___ centrepiece.",
+          "options": [
+            "impressive",
+            "conventional",
+            "realistic",
+            "abstract"
+          ],
+          "answer": "impressive",
+          "sentenceVi": "Tác phẩm sắp đặt lớn tạo nên một điểm nhấn trung tâm ấn tượng."
+        },
+        {
+          "id": "U7_CORE_quiz45",
+          "sentenceWithGap": "The large ___ installation made visitors feel the sculpture was almost real.",
+          "options": [
+            "three-dimensional",
+            "abstract",
+            "realistic",
+            "original"
+          ],
+          "answer": "three-dimensional",
+          "sentenceVi": "Tác phẩm sắp đặt ba chiều lớn khiến khách tham quan cảm thấy như tác phẩm gần như thật."
+        }
+      ]
     },
     {
       "passageId": "U7_PV",
