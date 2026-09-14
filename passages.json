@@ -5429,6 +5429,1060 @@
           "sentenceWithGap": "The young artist was ___ to explain his ideas clearly.",
           "answer": "supposed"
         }
+      ],
+      "mcqSets": [
+        {
+          "id": "A",
+          "label": "Recognition & Components",
+          "questions": [
+            {
+              "id": "A1",
+              "questionHtml": "The entrance display made ___ everyone who visited the gallery.",
+              "options": [
+                "a strong impression on",
+                "a strong impression for",
+                "a strong impression to",
+                "a strong impression with"
+              ],
+              "answer": "a strong impression on",
+              "sentenceVi": "Khu trưng bày ở lối vào đã tạo ấn tượng mạnh với tất cả những người đến tham quan phòng tranh.",
+              "explanation": "Target: make a strong impression on sb = tạo ấn tượng mạnh với ai for / to / with không đi với impression trong collocation này. Cấu trúc đầy đủ: make + a strong impression + on + person."
+            },
+            {
+              "id": "A2",
+              "questionHtml": "More than forty students decided to ___ the school exhibition.",
+              "options": [
+                "play part at",
+                "make part in",
+                "take part in",
+                "take a role at"
+              ],
+              "answer": "take part in",
+              "sentenceVi": "Hơn bốn mươi học sinh đã quyết định tham gia triển lãm của trường.",
+              "explanation": "take part in sth = tham gia vào hoạt động/sự kiện. play part at ❌, make part in ❌, take a role at ❌."
+            },
+            {
+              "id": "A3",
+              "questionHtml": "When we arrived, we had to ___ before entering the gallery.",
+              "options": [
+                "join a queue",
+                "make a queue",
+                "take a queue",
+                "join in queue"
+              ],
+              "answer": "join a queue",
+              "sentenceVi": "Khi chúng tôi đến, chúng tôi phải xếp vào hàng trước khi vào phòng tranh.",
+              "explanation": "join a queue = bước vào/xếp vào một hàng đang chờ. Khác: wait in a queue = đã ở trong hàng và chờ. make/take a queue không phải collocation chuẩn."
+            },
+            {
+              "id": "A4",
+              "questionHtml": "Several paintings by former students are currently ___ in the main hall.",
+              "options": [
+                "at show",
+                "in show",
+                "on show",
+                "under show"
+              ],
+              "answer": "on show",
+              "sentenceVi": "Một số bức tranh của cựu học sinh hiện đang được trưng bày trong sảnh chính.",
+              "explanation": "be on show = đang được trưng bày. at show / in show / under show ❌."
+            },
+            {
+              "id": "A5",
+              "questionHtml": "Students were encouraged to ___ the proposed gallery design.",
+              "options": [
+                "voice an opinion about",
+                "say an opinion to",
+                "make an opinion about",
+                "speak an opinion for"
+              ],
+              "answer": "voice an opinion about",
+              "sentenceVi": "Học sinh được khuyến khích bày tỏ ý kiến về thiết kế phòng tranh được đề xuất.",
+              "explanation": "voice an opinion about sth = bày tỏ ý kiến về điều gì. Không dùng say/make/speak an opinion trong target collocation này."
+            },
+            {
+              "id": "A6",
+              "questionHtml": "Everyone listened ___ while the artist explained the meaning of the painting.",
+              "options": [
+                "at silence",
+                "with silence",
+                "in silence",
+                "by silence"
+              ],
+              "answer": "in silence",
+              "sentenceVi": "Mọi người im lặng lắng nghe khi nghệ sĩ giải thích ý nghĩa của bức tranh.",
+              "explanation": "in silence = trong im lặng, không nói gì. at silence / with silence / by silence ❌."
+            },
+            {
+              "id": "A7",
+              "questionHtml": "The younger students clearly ___ during the art workshop.",
+              "options": [
+                "made fun",
+                "did fun",
+                "had fun",
+                "took fun"
+              ],
+              "answer": "had fun",
+              "sentenceVi": "Các học sinh nhỏ tuổi rõ ràng đã rất vui trong buổi workshop nghệ thuật.",
+              "explanation": "have fun = vui vẻ, có khoảng thời gian vui. Past tense: have → had. make/do/take fun ❌."
+            },
+            {
+              "id": "A8",
+              "questionHtml": "The host welcomed the visiting artists and told them to ___.",
+              "options": [
+                "make their home",
+                "make themselves at home",
+                "stay themselves home",
+                "feel themselves home"
+              ],
+              "answer": "make themselves at home",
+              "sentenceVi": "Chủ nhà chào đón các nghệ sĩ đến thăm và bảo họ cứ tự nhiên như ở nhà.",
+              "explanation": "make yourself/yourselves/themselves at home = cứ tự nhiên như ở nhà. Subject = the visiting artists → plural reflexive: themselves."
+            },
+            {
+              "id": "A9",
+              "questionHtml": "The sculpture made a strong ___ on the visiting artists.",
+              "options": [
+                "influence",
+                "impression",
+                "view",
+                "role"
+              ],
+              "answer": "impression",
+              "sentenceVi": "Tác phẩm điêu khắc đã tạo ấn tượng mạnh với những nghệ sĩ đến thăm.",
+              "explanation": "make a strong impression on sb. Không phải: influence, view, role."
+            },
+            {
+              "id": "A10",
+              "questionHtml": "Volunteers played an important ___ preparing the gallery.",
+              "options": [
+                "role to",
+                "place in",
+                "position at",
+                "part in"
+              ],
+              "answer": "part in",
+              "sentenceVi": "Các tình nguyện viên đóng vai trò quan trọng trong việc chuẩn bị phòng tranh.",
+              "explanation": "play an important part in doing sth = đóng vai trò quan trọng trong việc gì. play an important role in cũng là pattern song song."
+            },
+            {
+              "id": "A11",
+              "questionHtml": "Visitors waited ___ for nearly twenty minutes.",
+              "options": [
+                "on a queue",
+                "in a queue",
+                "at queue",
+                "by queue"
+              ],
+              "answer": "in a queue",
+              "sentenceVi": "Khách tham quan đã phải xếp hàng chờ gần hai mươi phút.",
+              "explanation": "wait in a queue = chờ trong hàng. on/at/by a queue không phải target phrase."
+            },
+            {
+              "id": "A12",
+              "questionHtml": "Although every student performed well, Leo managed to ___ with his dramatic presentation.",
+              "options": [
+                "take the show",
+                "show the steal",
+                "make the show",
+                "steal the show"
+              ],
+              "answer": "steal the show",
+              "sentenceVi": "Mặc dù tất cả học sinh đều biểu diễn tốt, Leo vẫn nổi bật nhất nhờ phần trình bày đầy kịch tính của mình.",
+              "explanation": "steal the show = nổi bật nhất, thu hút sự chú ý hơn tất cả những người khác. take/make the show không có nghĩa này."
+            },
+            {
+              "id": "A13",
+              "questionHtml": "Maya openly voiced an opinion ___ the new exhibition theme.",
+              "options": [
+                "at",
+                "about",
+                "for",
+                "with"
+              ],
+              "answer": "about",
+              "sentenceVi": "Maya công khai bày tỏ ý kiến về chủ đề triển lãm mới.",
+              "explanation": "voice an opinion about sth."
+            },
+            {
+              "id": "A14",
+              "questionHtml": "The audience stood ___ for several seconds before beginning to clap.",
+              "options": [
+                "with silent",
+                "on silence",
+                "at silence",
+                "in silence"
+              ],
+              "answer": "in silence",
+              "sentenceVi": "Khán giả đứng im lặng trong vài giây trước khi bắt đầu vỗ tay.",
+              "explanation": "stand in silence = đứng im lặng."
+            },
+            {
+              "id": "A15",
+              "questionHtml": "The activity allowed children to learn new techniques and ___ at the same time.",
+              "options": [
+                "make fun",
+                "take fun",
+                "do fun",
+                "have fun"
+              ],
+              "answer": "have fun",
+              "sentenceVi": "Hoạt động này giúp trẻ em học các kỹ thuật mới và đồng thời có khoảng thời gian vui vẻ.",
+              "explanation": "learn ... and have fun at the same time. make/take/do fun ❌."
+            },
+            {
+              "id": "A16",
+              "questionHtml": "When the parents arrived, the teacher invited them to ___ while they waited.",
+              "options": [
+                "stay their home",
+                "make their home",
+                "make themselves at home",
+                "have themselves home"
+              ],
+              "answer": "make themselves at home",
+              "sentenceVi": "Khi phụ huynh đến, giáo viên mời họ cứ tự nhiên trong lúc chờ đợi.",
+              "explanation": "Subject = the parents → plural: themselves."
+            },
+            {
+              "id": "A17",
+              "questionHtml": "The unusual use of light made a strong impression ___ the judges.",
+              "options": [
+                "at",
+                "for",
+                "on",
+                "with"
+              ],
+              "answer": "on",
+              "sentenceVi": "Cách sử dụng ánh sáng khác thường đã tạo ấn tượng mạnh với ban giám khảo.",
+              "explanation": "make a strong impression on sb."
+            },
+            {
+              "id": "A18",
+              "questionHtml": "Maya was pleased to ___ the painting workshop.",
+              "options": [
+                "take part in",
+                "take part at",
+                "make part in",
+                "play part to"
+              ],
+              "answer": "take part in",
+              "sentenceVi": "Maya rất vui khi được tham gia workshop vẽ tranh.",
+              "explanation": "take part in + activity."
+            },
+            {
+              "id": "A19",
+              "questionHtml": "If the entrance is busy, please ___ behind the other visitors.",
+              "options": [
+                "wait a queue",
+                "take a queue",
+                "join a queue",
+                "make queue"
+              ],
+              "answer": "join a queue",
+              "sentenceVi": "Nếu khu vực lối vào đông, vui lòng xếp vào hàng phía sau những khách khác.",
+              "explanation": "Clue: behind the other visitors → đã có một hàng người tồn tại → join."
+            },
+            {
+              "id": "A20",
+              "questionHtml": "The audience wanted to ___ the volunteers for all their hard work.",
+              "options": [
+                "show appreciation for",
+                "give appreciation at",
+                "make appreciation to",
+                "take appreciation of"
+              ],
+              "answer": "show appreciation for",
+              "sentenceVi": "Khán giả muốn thể hiện sự trân trọng đối với các tình nguyện viên vì tất cả công sức của họ.",
+              "explanation": "show appreciation for sb/sth = thể hiện sự trân trọng/biết ơn đối với ai/cái gì."
+            },
+            {
+              "id": "A21",
+              "questionHtml": "Which phrase is correct?",
+              "options": [
+                "speak an opinion about",
+                "make an opinion about",
+                "voice an opinion about",
+                "say an opinion at"
+              ],
+              "answer": "voice an opinion about",
+              "sentenceVi": "Cụm đúng là \"bày tỏ ý kiến về điều gì\".",
+              "explanation": "Đây là collocation chuẩn. speak/make/say an opinion không phải target phrase."
+            },
+            {
+              "id": "A22",
+              "questionHtml": "Which expression means \"without speaking or making a sound\"?",
+              "options": [
+                "in silence",
+                "at silence",
+                "with silent",
+                "by silence"
+              ],
+              "answer": "in silence",
+              "sentenceVi": "Không nói hoặc tạo ra âm thanh.",
+              "explanation": "without speaking or making a sound = in silence."
+            },
+            {
+              "id": "A23",
+              "questionHtml": "We want everyone to ___ while exploring the interactive exhibits.",
+              "options": [
+                "have fun",
+                "make fun",
+                "do fun",
+                "take fun"
+              ],
+              "answer": "have fun",
+              "sentenceVi": "Chúng tôi muốn mọi người vui vẻ trong khi khám phá các khu trưng bày tương tác.",
+              "explanation": "have fun while doing sth."
+            },
+            {
+              "id": "A24",
+              "questionHtml": "\"Please ___ while we finish preparing the gallery,\" Hana told the guests.",
+              "options": [
+                "stay yourselves home",
+                "keep yourselves home",
+                "have yourselves home",
+                "make yourselves at home"
+              ],
+              "answer": "make yourselves at home",
+              "sentenceVi": "\"Mọi người cứ tự nhiên nhé trong lúc chúng tôi hoàn tất việc chuẩn bị phòng tranh,\" Hana nói với các vị khách.",
+              "explanation": "Direct speech to plural guests: yourselves."
+            },
+            {
+              "id": "A25",
+              "questionHtml": "Which phrase is correct?",
+              "options": [
+                "do a strong impression on",
+                "give a strong impression for",
+                "take a strong impression of",
+                "make a strong impression on"
+              ],
+              "answer": "make a strong impression on",
+              "sentenceVi": "Tạo ấn tượng mạnh với ai.",
+              "explanation": "Đúng full collocation."
+            },
+            {
+              "id": "A26",
+              "questionHtml": "Good lighting can play an important ___ the way visitors experience an artwork.",
+              "options": [
+                "part to",
+                "role in",
+                "role at",
+                "place of"
+              ],
+              "answer": "role in",
+              "sentenceVi": "Ánh sáng tốt có thể đóng vai trò quan trọng trong cách khách tham quan cảm nhận một tác phẩm nghệ thuật.",
+              "explanation": "play an important role in sth/doing sth."
+            },
+            {
+              "id": "A27",
+              "questionHtml": "Which expression means \"remain in a line while waiting\"?",
+              "options": [
+                "join at a queue",
+                "take a queue",
+                "wait a queue",
+                "wait in a queue"
+              ],
+              "answer": "wait in a queue",
+              "sentenceVi": "Chờ trong một hàng người.",
+              "explanation": "Question asks: \"remain in a line while waiting\" → wait in a queue. Khác: join a queue = bước vào hàng."
+            },
+            {
+              "id": "A28",
+              "questionHtml": "The winning sculpture will remain ___ for another month.",
+              "options": [
+                "at show",
+                "on show",
+                "in showing",
+                "for show"
+              ],
+              "answer": "on show",
+              "sentenceVi": "Tác phẩm điêu khắc đoạt giải sẽ tiếp tục được trưng bày thêm một tháng nữa.",
+              "explanation": "remain on show = tiếp tục được trưng bày."
+            },
+            {
+              "id": "A29",
+              "questionHtml": "During the meeting, every student could ___ the proposal.",
+              "options": [
+                "make an opinion on",
+                "speak an opinion for",
+                "give opinion at",
+                "voice an opinion about"
+              ],
+              "answer": "voice an opinion about",
+              "sentenceVi": "Trong cuộc họp, mỗi học sinh đều có thể bày tỏ ý kiến về đề xuất đó.",
+              "explanation": "voice an opinion about the proposal."
+            },
+            {
+              "id": "A30",
+              "questionHtml": "The judges examined the final artwork ___.",
+              "options": [
+                "at silence",
+                "in silence",
+                "with silently",
+                "on silence"
+              ],
+              "answer": "in silence",
+              "sentenceVi": "Ban giám khảo im lặng xem xét tác phẩm cuối cùng.",
+              "explanation": "examine sth in silence."
+            },
+            {
+              "id": "A31",
+              "questionHtml": "Maya's final presentation immediately ___ the audience.",
+              "options": [
+                "made a strong impression on",
+                "gave a strong impression to",
+                "took a strong impression from",
+                "did a strong impression for"
+              ],
+              "answer": "made a strong impression on",
+              "sentenceVi": "Phần trình bày cuối cùng của Maya lập tức tạo ấn tượng mạnh với khán giả.",
+              "explanation": "Past tense: make → made."
+            },
+            {
+              "id": "A32",
+              "questionHtml": "Which phrase means \"participate in an activity\"?",
+              "options": [
+                "play a part of",
+                "take a role at",
+                "take part in",
+                "make part in"
+              ],
+              "answer": "take part in",
+              "sentenceVi": "Tham gia vào một hoạt động.",
+              "explanation": "Definition: participate in an activity = take part in."
+            },
+            {
+              "id": "A33",
+              "questionHtml": "Several late arrivals had to ___ that had already formed outside.",
+              "options": [
+                "join a queue",
+                "wait a queue",
+                "make the queue",
+                "take queue"
+              ],
+              "answer": "join a queue",
+              "sentenceVi": "Một số người đến muộn phải xếp vào hàng đã hình thành bên ngoài.",
+              "explanation": "Clue: that had already formed → hàng đã tồn tại."
+            },
+            {
+              "id": "A34",
+              "questionHtml": "Which phrase means \"attract more attention than everyone else\"?",
+              "options": [
+                "be on show",
+                "show appreciation",
+                "steal the show",
+                "take part in the show"
+              ],
+              "answer": "steal the show",
+              "sentenceVi": "Trở thành người/phần nổi bật nhất.",
+              "explanation": "attract more attention than everyone else = steal the show."
+            },
+            {
+              "id": "A35",
+              "questionHtml": "The survey gives visitors a chance to ___ the exhibition.",
+              "options": [
+                "voice an opinion about",
+                "take an opinion on",
+                "do an opinion about",
+                "speak an opinion with"
+              ],
+              "answer": "voice an opinion about",
+              "sentenceVi": "Phiếu phản hồi cho khách tham quan cơ hội bày tỏ ý kiến về triển lãm.",
+              "explanation": "feedback form → express a view."
+            },
+            {
+              "id": "A36",
+              "questionHtml": "The exhibition made such a strong ___ on the parents that many returned the next day.",
+              "options": [
+                "role",
+                "impression",
+                "show",
+                "opinion"
+              ],
+              "answer": "impression",
+              "sentenceVi": "Triển lãm tạo ấn tượng mạnh với phụ huynh đến mức nhiều người đã quay lại vào ngày hôm sau.",
+              "explanation": "make such a strong impression on sb that..."
+            },
+            {
+              "id": "A37",
+              "questionHtml": "Social media played a major ___ attracting visitors to the event.",
+              "options": [
+                "place to",
+                "part at",
+                "role of",
+                "role in"
+              ],
+              "answer": "role in",
+              "sentenceVi": "Mạng xã hội đóng vai trò lớn trong việc thu hút khách đến sự kiện.",
+              "explanation": "play a major role in doing sth."
+            },
+            {
+              "id": "A38",
+              "questionHtml": "We spent half an hour ___ before the doors opened.",
+              "options": [
+                "joining a queue",
+                "waiting in a queue",
+                "making a queue",
+                "taking a queue"
+              ],
+              "answer": "waiting in a queue",
+              "sentenceVi": "Chúng tôi đã dành nửa giờ xếp hàng chờ trước khi cửa mở.",
+              "explanation": "After: spend + time + doing → spent half an hour waiting in a queue."
+            },
+            {
+              "id": "A39",
+              "questionHtml": "Parents stood and applauded to ___ the students' effort.",
+              "options": [
+                "make appreciation for",
+                "give appreciation with",
+                "take appreciation of",
+                "show appreciation for"
+              ],
+              "answer": "show appreciation for",
+              "sentenceVi": "Phụ huynh đứng lên vỗ tay để thể hiện sự trân trọng đối với nỗ lực của các học sinh.",
+              "explanation": "applaud to show appreciation for sth."
+            },
+            {
+              "id": "A40",
+              "questionHtml": "Leo was nervous, but he finally voiced his opinion ___ including more digital art.",
+              "options": [
+                "for",
+                "about",
+                "with",
+                "at"
+              ],
+              "answer": "about",
+              "sentenceVi": "Leo khá lo lắng, nhưng cuối cùng cậu vẫn bày tỏ ý kiến về việc đưa thêm nghệ thuật kỹ thuật số vào triển lãm.",
+              "explanation": "voice one's opinion about sth."
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "label": "FCE Collocation Mastery",
+          "questions": [
+            {
+              "id": "B1",
+              "questionHtml": "The entrance installation was so unusual that it immediately ___ everyone who entered the gallery.",
+              "options": [
+                "played a role in",
+                "showed appreciation for",
+                "voiced an opinion about",
+                "made a strong impression on"
+              ],
+              "answer": "made a strong impression on",
+              "sentenceVi": "Tác phẩm sắp đặt ở lối vào khác thường đến mức lập tức tạo ấn tượng mạnh với tất cả những người bước vào phòng tranh.",
+              "explanation": "Context: unusual entrance installation → affected visitors strongly. play a role in cần một process/result. show appreciation for = thể hiện sự trân trọng. voice an opinion about = bày tỏ ý kiến."
+            },
+            {
+              "id": "B2",
+              "questionHtml": "Social media played an important ___ attracting hundreds of visitors to the exhibition.",
+              "options": [
+                "impression on",
+                "role in",
+                "opinion about",
+                "queue in"
+              ],
+              "answer": "role in",
+              "sentenceVi": "Mạng xã hội đóng vai trò quan trọng trong việc thu hút hàng trăm khách đến triển lãm.",
+              "explanation": "play an important role in doing sth. Subject: social media → chức năng/tác động trong việc thu hút khách."
+            },
+            {
+              "id": "B3",
+              "questionHtml": "When several late arrivals reached the entrance, they ___ that had already formed outside.",
+              "options": [
+                "waited at queue",
+                "made a queue",
+                "took the queue",
+                "joined a queue"
+              ],
+              "answer": "joined a queue",
+              "sentenceVi": "Khi một số khách đến muộn tới lối vào, họ xếp vào hàng đã hình thành bên ngoài.",
+              "explanation": "Clue: queue had already formed → late arrivals join it."
+            },
+            {
+              "id": "B4",
+              "questionHtml": "Several paintings by former students are currently ___ near the school entrance.",
+              "options": [
+                "in a queue",
+                "on show",
+                "at home",
+                "in silence"
+              ],
+              "answer": "on show",
+              "sentenceVi": "Một số bức tranh của cựu học sinh hiện đang được trưng bày gần lối vào trường.",
+              "explanation": "artwork is on show."
+            },
+            {
+              "id": "B5",
+              "questionHtml": "During the planning meeting, every student was encouraged to ___ how the gallery should be organised.",
+              "options": [
+                "make an impression on",
+                "play a role in",
+                "show appreciation for",
+                "voice an opinion about"
+              ],
+              "answer": "voice an opinion about",
+              "sentenceVi": "Trong cuộc họp lập kế hoạch, mỗi học sinh đều được khuyến khích bày tỏ ý kiến về cách sắp xếp phòng tranh.",
+              "explanation": "Planning meeting → students express views."
+            },
+            {
+              "id": "B6",
+              "questionHtml": "When the artist revealed the final painting, everyone looked at it ___ for several moments.",
+              "options": [
+                "at home",
+                "in silence",
+                "on show",
+                "in a queue"
+              ],
+              "answer": "in silence",
+              "sentenceVi": "Khi nghệ sĩ công bố bức tranh cuối cùng, mọi người im lặng nhìn nó trong vài phút.",
+              "explanation": "look at something in silence."
+            },
+            {
+              "id": "B7",
+              "questionHtml": "Although the workshop was educational, the organisers also wanted the children to ___.",
+              "options": [
+                "make themselves at home",
+                "have fun",
+                "wait in a queue",
+                "voice an opinion"
+              ],
+              "answer": "have fun",
+              "sentenceVi": "Mặc dù workshop mang tính giáo dục, ban tổ chức cũng muốn các em nhỏ vui vẻ.",
+              "explanation": "Contrast: educational and enjoyable."
+            },
+            {
+              "id": "B8",
+              "questionHtml": "When the visiting artists arrived, Ben welcomed them warmly and told them to ___.",
+              "options": [
+                "make themselves at home",
+                "wait in a queue",
+                "be on show",
+                "take part in"
+              ],
+              "answer": "make themselves at home",
+              "sentenceVi": "Khi các nghệ sĩ đến, Ben chào đón họ nồng nhiệt và bảo họ cứ tự nhiên như ở nhà.",
+              "explanation": "Subject = visiting artists → themselves."
+            },
+            {
+              "id": "B9",
+              "questionHtml": "The organisers wanted the first room to ___ visitors as soon as they entered.",
+              "options": [
+                "make a strong impression on",
+                "take part in",
+                "wait in a queue for",
+                "show appreciation for"
+              ],
+              "answer": "make a strong impression on",
+              "sentenceVi": "Ban tổ chức muốn căn phòng đầu tiên tạo ấn tượng mạnh với khách ngay khi họ bước vào.",
+              "explanation": "The organisers want the first room to immediately affect visitors."
+            },
+            {
+              "id": "B10",
+              "questionHtml": "Maya ___ organising the opening event as well as displaying two paintings of her own.",
+              "options": [
+                "joined a queue in",
+                "played a show in",
+                "took part in",
+                "made a part in"
+              ],
+              "answer": "took part in",
+              "sentenceVi": "Maya tham gia tổ chức sự kiện khai mạc đồng thời trưng bày hai bức tranh của chính mình.",
+              "explanation": "Maya actively participated in: organising the opening event."
+            },
+            {
+              "id": "B11",
+              "questionHtml": "Because only a few visitors could enter at once, everyone had to ___.",
+              "options": [
+                "wait in a queue",
+                "take a queue",
+                "make queue",
+                "wait on queue"
+              ],
+              "answer": "wait in a queue",
+              "sentenceVi": "Vì mỗi lần chỉ có một vài khách được vào, mọi người phải xếp hàng chờ.",
+              "explanation": "Because admission capacity is limited, people remain in a line."
+            },
+            {
+              "id": "B12",
+              "questionHtml": "Although all the students performed well, the youngest artist completely ___ with her unusual installation.",
+              "options": [
+                "took part in",
+                "showed appreciation for",
+                "stole the show",
+                "voiced an opinion"
+              ],
+              "answer": "stole the show",
+              "sentenceVi": "Mặc dù tất cả học sinh đều làm tốt, nghệ sĩ nhỏ tuổi nhất vẫn nổi bật nhất nhờ tác phẩm sắp đặt khác thường.",
+              "explanation": "Although everyone did well, the youngest artist attracted most attention."
+            },
+            {
+              "id": "B13",
+              "questionHtml": "Rather than simply agreeing with everyone else, Maya confidently ___ the proposed layout.",
+              "options": [
+                "voiced an opinion about",
+                "made an impression on",
+                "waited in a queue for",
+                "showed appreciation for"
+              ],
+              "answer": "voiced an opinion about",
+              "sentenceVi": "Thay vì đơn giản đồng ý với mọi người, Maya tự tin bày tỏ ý kiến về cách bố trí được đề xuất.",
+              "explanation": "Clue: rather than simply agreeing → Maya expressed her own view."
+            },
+            {
+              "id": "B14",
+              "questionHtml": "The judges examined each artwork ___ before discussing their final decision.",
+              "options": [
+                "at silence",
+                "with silence",
+                "in silence",
+                "on silence"
+              ],
+              "answer": "in silence",
+              "sentenceVi": "Ban giám khảo im lặng xem xét từng tác phẩm trước khi thảo luận quyết định cuối cùng.",
+              "explanation": "examine artworks in silence."
+            },
+            {
+              "id": "B15",
+              "questionHtml": "The younger students ___ while experimenting with paint and recycled materials.",
+              "options": [
+                "made fun",
+                "did fun",
+                "had fun",
+                "took fun"
+              ],
+              "answer": "had fun",
+              "sentenceVi": "Các học sinh nhỏ tuổi đã rất vui khi thử nghiệm với sơn và các vật liệu tái chế.",
+              "explanation": "Past context: younger students + experimenting → had fun."
+            },
+            {
+              "id": "B16",
+              "questionHtml": "\"There are drinks on the table, so please ___ while you wait,\" Hana told the guests.",
+              "options": [
+                "show appreciation",
+                "make yourselves at home",
+                "have yourselves home",
+                "stay yourselves home"
+              ],
+              "answer": "make yourselves at home",
+              "sentenceVi": "\"Trên bàn có đồ uống, nên mọi người cứ tự nhiên nhé trong lúc chờ,\" Hana nói với các vị khách.",
+              "explanation": "Direct speech to multiple guests: yourselves."
+            },
+            {
+              "id": "B17",
+              "questionHtml": "The combination of light and colour made such a strong ___ the judges that they returned to see it again.",
+              "options": [
+                "role in",
+                "impression on",
+                "opinion about",
+                "appreciation for"
+              ],
+              "answer": "impression on",
+              "sentenceVi": "Sự kết hợp giữa ánh sáng và màu sắc tạo ấn tượng mạnh với ban giám khảo đến mức họ quay lại xem thêm lần nữa.",
+              "explanation": "Full structure: made such a strong impression on the judges that..."
+            },
+            {
+              "id": "B18",
+              "questionHtml": "Careful lighting played a major ___ making the gallery look more professional.",
+              "options": [
+                "impression on",
+                "show in",
+                "appreciation for",
+                "part in"
+              ],
+              "answer": "part in",
+              "sentenceVi": "Ánh sáng được bố trí cẩn thận đóng vai trò lớn trong việc khiến phòng tranh trông chuyên nghiệp hơn.",
+              "explanation": "play a major part in doing sth."
+            },
+            {
+              "id": "B19",
+              "questionHtml": "Anyone arriving without a ticket was asked to ___ at the information desk.",
+              "options": [
+                "wait a queue",
+                "join a queue",
+                "take queue",
+                "stand a queue"
+              ],
+              "answer": "join a queue",
+              "sentenceVi": "Bất kỳ ai đến mà không có vé đều được yêu cầu xếp vào hàng tại bàn thông tin.",
+              "explanation": "Arriving without ticket → enter an existing line."
+            },
+            {
+              "id": "B20",
+              "questionHtml": "At the end of the event, everyone stood to ___ the volunteers who had worked all weekend.",
+              "options": [
+                "make an impression on",
+                "steal the show",
+                "take part in",
+                "show appreciation for"
+              ],
+              "answer": "show appreciation for",
+              "sentenceVi": "Cuối sự kiện, mọi người đứng lên để thể hiện sự trân trọng đối với các tình nguyện viên đã làm việc suốt cuối tuần.",
+              "explanation": "Standing/applauding = express gratitude/recognition."
+            },
+            {
+              "id": "B21",
+              "questionHtml": "Students should be able to ___ school events even when their views differ from their teachers'.",
+              "options": [
+                "make an opinion about",
+                "voice an opinion about",
+                "show appreciation about",
+                "play an opinion in"
+              ],
+              "answer": "voice an opinion about",
+              "sentenceVi": "Học sinh nên có khả năng bày tỏ ý kiến về các sự kiện của trường ngay cả khi quan điểm của các em khác với giáo viên.",
+              "explanation": "Even if views differ → students should express them."
+            },
+            {
+              "id": "B22",
+              "questionHtml": "For the first minute, students were asked to study the painting ___.",
+              "options": [
+                "at silent",
+                "with silent",
+                "on silence",
+                "in silence"
+              ],
+              "answer": "in silence",
+              "sentenceVi": "Trong phút đầu tiên, học sinh được yêu cầu quan sát bức tranh trong im lặng.",
+              "explanation": "study a painting in silence."
+            },
+            {
+              "id": "B23",
+              "questionHtml": "The teacher reminded the children that the activity was not a competition and that they should simply ___.",
+              "options": [
+                "take fun",
+                "make fun",
+                "do fun",
+                "have fun"
+              ],
+              "answer": "have fun",
+              "sentenceVi": "Giáo viên nhắc các em rằng hoạt động này không phải là cuộc thi và các em chỉ cần vui vẻ.",
+              "explanation": "Not a competition → simply enjoy themselves."
+            },
+            {
+              "id": "B24",
+              "questionHtml": "The parents were invited to ___ in the reception area before the presentation began.",
+              "options": [
+                "make their home",
+                "stay themselves home",
+                "make themselves at home",
+                "have themselves home"
+              ],
+              "answer": "make themselves at home",
+              "sentenceVi": "Phụ huynh được mời cứ tự nhiên trong khu vực tiếp đón trước khi phần trình bày bắt đầu.",
+              "explanation": "Subject = parents → themselves."
+            },
+            {
+              "id": "B25",
+              "questionHtml": "Which sentence uses the collocation correctly?",
+              "options": [
+                "The sculpture did a strong impression on me.",
+                "The sculpture gave a strong impression for me.",
+                "The sculpture made a strong impression on me.",
+                "The sculpture took a strong impression of me."
+              ],
+              "answer": "The sculpture made a strong impression on me.",
+              "sentenceVi": "Tác phẩm điêu khắc đã tạo ấn tượng mạnh với tôi.",
+              "explanation": "Only grammatically and collocationally correct sentence. do a strong impression ❌, give ... impression for ❌, take ... impression of ❌."
+            },
+            {
+              "id": "B26",
+              "questionHtml": "More than fifty students ___ preparing artwork for the exhibition.",
+              "options": [
+                "took part in",
+                "made part in",
+                "played part at",
+                "took a role at"
+              ],
+              "answer": "took part in",
+              "sentenceVi": "Hơn năm mươi học sinh đã tham gia chuẩn bị tác phẩm cho triển lãm.",
+              "explanation": "students participated in preparing artwork."
+            },
+            {
+              "id": "B27",
+              "questionHtml": "We had to ___ for almost thirty minutes before entering the gallery.",
+              "options": [
+                "join at queue",
+                "wait a queue",
+                "wait in a queue",
+                "take a queue"
+              ],
+              "answer": "wait in a queue",
+              "sentenceVi": "Chúng tôi phải xếp hàng chờ gần ba mươi phút trước khi vào phòng tranh.",
+              "explanation": "Duration: for almost thirty minutes → focus is waiting, not joining."
+            },
+            {
+              "id": "B28",
+              "questionHtml": "The winning photographs will remain ___ for another two weeks.",
+              "options": [
+                "on show",
+                "at home",
+                "in a queue",
+                "in silence"
+              ],
+              "answer": "on show",
+              "sentenceVi": "Những bức ảnh đoạt giải sẽ tiếp tục được trưng bày thêm hai tuần nữa.",
+              "explanation": "remain on show."
+            },
+            {
+              "id": "B29",
+              "questionHtml": "During the discussion, Leo finally decided to ___ whether digital art should be included.",
+              "options": [
+                "play a part in",
+                "make an impression on",
+                "voice an opinion about",
+                "steal the show"
+              ],
+              "answer": "voice an opinion about",
+              "sentenceVi": "Trong cuộc thảo luận, Leo cuối cùng quyết định bày tỏ ý kiến về việc có nên đưa nghệ thuật kỹ thuật số vào hay không.",
+              "explanation": "Discussion context → express view on digital art."
+            },
+            {
+              "id": "B30",
+              "questionHtml": "After the unexpected announcement, everyone sat ___ for a few seconds.",
+              "options": [
+                "in silence",
+                "at silence",
+                "with silence",
+                "by silence"
+              ],
+              "answer": "in silence",
+              "sentenceVi": "Sau thông báo bất ngờ, mọi người ngồi im lặng trong vài giây.",
+              "explanation": "sit in silence."
+            },
+            {
+              "id": "B31",
+              "questionHtml": "Although the room was small, its creative design ___ the visiting artists.",
+              "options": [
+                "played a role in",
+                "showed appreciation for",
+                "voiced an opinion about",
+                "made a strong impression on"
+              ],
+              "answer": "made a strong impression on",
+              "sentenceVi": "Mặc dù căn phòng nhỏ, thiết kế sáng tạo của nó vẫn tạo ấn tượng mạnh với các nghệ sĩ đến thăm.",
+              "explanation": "Creative design → impressed visiting artists."
+            },
+            {
+              "id": "B32",
+              "questionHtml": "Good teamwork played an important ___ ensuring that the event ran smoothly.",
+              "options": [
+                "impression on",
+                "role in",
+                "queue in",
+                "opinion about"
+              ],
+              "answer": "role in",
+              "sentenceVi": "Làm việc nhóm tốt đóng vai trò quan trọng trong việc đảm bảo sự kiện diễn ra suôn sẻ.",
+              "explanation": "teamwork played an important role in ensuring..."
+            },
+            {
+              "id": "B33",
+              "questionHtml": "When another group of visitors arrived, they were told to ___ behind the people already waiting.",
+              "options": [
+                "make a queue",
+                "wait the queue",
+                "take a queue",
+                "join a queue"
+              ],
+              "answer": "join a queue",
+              "sentenceVi": "Khi một nhóm khách khác đến, họ được yêu cầu xếp vào hàng phía sau những người đang chờ.",
+              "explanation": "Clue: behind the people already waiting → enter an existing line."
+            },
+            {
+              "id": "B34",
+              "questionHtml": "The lead dancer performed for only three minutes but still managed to ___.",
+              "options": [
+                "show appreciation",
+                "steal the show",
+                "voice an opinion",
+                "wait in a queue"
+              ],
+              "answer": "steal the show",
+              "sentenceVi": "Vũ công chính chỉ biểu diễn ba phút nhưng vẫn trở thành người nổi bật nhất.",
+              "explanation": "Lead dancer attracted most attention despite short performance."
+            },
+            {
+              "id": "B35",
+              "questionHtml": "The feedback form gives visitors an opportunity to ___ the exhibition.",
+              "options": [
+                "show appreciation to",
+                "take part about",
+                "make an opinion on",
+                "voice an opinion about"
+              ],
+              "answer": "voice an opinion about",
+              "sentenceVi": "Phiếu phản hồi cho khách tham quan cơ hội bày tỏ ý kiến về triển lãm.",
+              "explanation": "Feedback form → express opinion."
+            },
+            {
+              "id": "B36",
+              "questionHtml": "The student's confident presentation ___ the professional judges.",
+              "options": [
+                "made a strong impression on",
+                "took part in",
+                "stole the show from",
+                "waited in a queue for"
+              ],
+              "answer": "made a strong impression on",
+              "sentenceVi": "Phần trình bày tự tin của học sinh đã tạo ấn tượng mạnh với các giám khảo chuyên nghiệp.",
+              "explanation": "Confident presentation → impressed judges."
+            },
+            {
+              "id": "B37",
+              "questionHtml": "Several parents also decided to ___ the weekend art workshop.",
+              "options": [
+                "steal the show",
+                "play a part to",
+                "take part in",
+                "make a part in"
+              ],
+              "answer": "take part in",
+              "sentenceVi": "Một số phụ huynh cũng quyết định tham gia workshop nghệ thuật cuối tuần.",
+              "explanation": "Parents participated in workshop."
+            },
+            {
+              "id": "B38",
+              "questionHtml": "The gallery was extremely busy, so some visitors had to ___ outside in the rain.",
+              "options": [
+                "wait in a queue",
+                "join in queue",
+                "take queue",
+                "wait on a queue"
+              ],
+              "answer": "wait in a queue",
+              "sentenceVi": "Phòng tranh rất đông nên một số khách phải xếp hàng chờ bên ngoài dưới mưa.",
+              "explanation": "Clue: gallery extremely busy + outside in rain → remain waiting in line."
+            },
+            {
+              "id": "B39",
+              "questionHtml": "The audience applauded loudly to ___ the students' hard work.",
+              "options": [
+                "make an impression on",
+                "play a role in",
+                "show appreciation for",
+                "take part in"
+              ],
+              "answer": "show appreciation for",
+              "sentenceVi": "Khán giả vỗ tay lớn để thể hiện sự trân trọng đối với công sức của các học sinh.",
+              "explanation": "Applause is a way of showing appreciation."
+            },
+            {
+              "id": "B40",
+              "questionHtml": "Although the other students disagreed, Maya calmly ___ the use of digital displays.",
+              "options": [
+                "voiced an opinion about",
+                "waited in a queue for",
+                "made herself at home with",
+                "showed appreciation about"
+              ],
+              "answer": "voiced an opinion about",
+              "sentenceVi": "Mặc dù các học sinh khác không đồng ý, Maya vẫn bình tĩnh bày tỏ ý kiến về việc sử dụng các màn hình kỹ thuật số.",
+              "explanation": "Even though others disagreed, Maya expressed her view calmly."
+            }
+          ]
+        }
       ]
     },
     {
