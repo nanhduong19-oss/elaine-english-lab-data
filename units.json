@@ -80,7 +80,7 @@
           "id": 7,
           "name": "Unit 7: Arts & Exhibitions",
           "skills": {
-            "vocab": false,
+            "vocab": true,
             "wordFormation": false,
             "ueo": false,
             "reading": false,
