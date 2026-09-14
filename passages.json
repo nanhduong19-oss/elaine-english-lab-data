@@ -5414,20 +5414,8 @@
         {
           "id": "U7_COLLOC_gap8",
           "audio": "assets/audio/passages/U7_COLLOC_gap8.mp3",
-          "sentenceWithGap": "The artist was happy to answer questions and felt that every student ___ to be recognised.",
-          "answer": "deserved"
-        },
-        {
-          "id": "U7_COLLOC_gap9",
-          "audio": "assets/audio/passages/U7_COLLOC_gap9.mp3",
-          "sentenceWithGap": "They tried to ___ placing fragile pottery near the entrance.",
-          "answer": "avoid"
-        },
-        {
-          "id": "U7_COLLOC_gap10",
-          "audio": "assets/audio/passages/U7_COLLOC_gap10.mp3",
-          "sentenceWithGap": "The young artist was ___ to explain his ideas clearly.",
-          "answer": "supposed"
+          "sentenceWithGap": "When the Riverside Festival gallery finally opened, everyone hoped the evening would be ___.",
+          "answer": "fun"
         }
       ],
       "mcqSets": [
