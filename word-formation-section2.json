@@ -1,4 +1,21 @@
 {
-  "mcq": [],
-  "matching": []
+  "mcq": [
+    { "family": "able", "prompt": "She has the ___ to solve complex problems.", "options": ["ability", "disability", "enable", "unable"], "answer": "ability" },
+    { "family": "able", "prompt": "The device was ___ due to a software bug.", "options": ["disabled", "enable", "ability", "unable"], "answer": "disabled" },
+    { "family": "appear", "prompt": "The ghost seemed to ___ out of nowhere.", "options": ["appear", "appearance", "apparent", "apparently"], "answer": "appear" },
+    { "family": "appear", "prompt": "It is ___ that he made a mistake.", "options": ["apparent", "appear", "appearance", "disappear"], "answer": "apparent" },
+    { "family": "fortune", "prompt": "They lost their entire ___ in the crash.", "options": ["fortune", "misfortune", "fortunate", "unfortunately"], "answer": "fortune" },
+    { "family": "fortune", "prompt": "It was ___ that no one got hurt.", "options": ["fortunate", "unfortunate", "fortune", "misfortune"], "answer": "fortunate" },
+    { "family": "know", "prompt": "He answered every question with confidence and ___.", "options": ["knowledge", "know", "known", "knowingly"], "answer": "knowledge" },
+    { "family": "know", "prompt": "The cause of the fire remains ___.", "options": ["unknown", "knowledge", "know", "knowingly"], "answer": "unknown" },
+    { "family": "popular", "prompt": "The mayor's ___ declined after the scandal.", "options": ["popularity", "popular", "unpopular", "popularly"], "answer": "popularity" },
+    { "family": "popular", "prompt": "The decision was ___ among voters.", "options": ["unpopular", "popularity", "popular", "popularly"], "answer": "unpopular" }
+  ],
+  "matching": [
+    { "id": "able_m1", "family": "able", "pairs": [ { "word": "ability", "meaningVi": "khả năng" }, { "word": "disabled", "meaningVi": "bị khuyết tật / mất khả năng" } ] },
+    { "id": "appear_m1", "family": "appear", "pairs": [ { "word": "appear", "meaningVi": "xuất hiện" }, { "word": "disappearance", "meaningVi": "sự biến mất" } ] },
+    { "id": "fortune_m1", "family": "fortune", "pairs": [ { "word": "fortunate", "meaningVi": "may mắn" }, { "word": "misfortune", "meaningVi": "điều bất hạnh" } ] },
+    { "id": "know_m1", "family": "know", "pairs": [ { "word": "knowledge", "meaningVi": "kiến thức" }, { "word": "knowledgeable", "meaningVi": "hiểu biết" } ] },
+    { "id": "popular_m1", "family": "popular", "pairs": [ { "word": "popularity", "meaningVi": "sự nổi tiếng" }, { "word": "unpopular", "meaningVi": "không được ưa chuộng" } ] }
+  ]
 }

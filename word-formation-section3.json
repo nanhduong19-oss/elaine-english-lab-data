@@ -1,3 +1,14 @@
 {
-  "contextItems": []
+  "contextItems": [
+    { "family": "able", "sentenceWithGap": "The new policy will ___ students to apply online.", "answer": "enable" },
+    { "family": "able", "sentenceWithGap": "Without proper training, staff are often ___ to handle emergencies.", "answer": "unable" },
+    { "family": "appear", "sentenceWithGap": "The actor will ___ in the upcoming film festival.", "answer": "appear" },
+    { "family": "appear", "sentenceWithGap": "Her ___ at the party was unexpected.", "answer": "appearance" },
+    { "family": "fortune", "sentenceWithGap": "By good ___, the flight was not cancelled.", "answer": "fortune" },
+    { "family": "fortune", "sentenceWithGap": "The company was ___ enough to secure the contract early.", "answer": "fortunate" },
+    { "family": "know", "sentenceWithGap": "Scientists still lack ___ about the deep ocean.", "answer": "knowledge" },
+    { "family": "know", "sentenceWithGap": "The whereabouts of the missing hiker remain ___.", "answer": "unknown" },
+    { "family": "popular", "sentenceWithGap": "Social media boosted the brand's ___ overnight.", "answer": "popularity" },
+    { "family": "popular", "sentenceWithGap": "The new tax law proved deeply ___.", "answer": "unpopular" }
+  ]
 }
