@@ -1,14 +1,4 @@
 {
-  "mcq": [
-    { "id": "m1", "family": "able", "prompt": "The new policy will ___ better access to healthcare.", "options": ["enable", "ability", "unable", "disability"], "answer": "enable" },
-    { "id": "m2", "family": "appear", "prompt": "Some documents seem to have simply ___.", "options": ["disappear", "appearance", "apparent", "reappear"], "answer": "disappear" }
-  ],
-  "matching": [
-    { "id": "r1", "pairs": [
-      { "word": "enable", "meaningVi": "cho phép, tạo điều kiện" },
-      { "word": "ability", "meaningVi": "khả năng" },
-      { "word": "unable", "meaningVi": "không thể" },
-      { "word": "disappear", "meaningVi": "biến mất" }
-    ] }
-  ]
+  "mcq": [],
+  "matching": []
 }

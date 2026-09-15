@@ -1,6 +1,3 @@
 {
-  "listeningBank": [
-    { "id": "t1", "audio": "assets/audio/word-formation/wf_test_q1.mp3", "sentenceWithGap": "The new policy will ___ better access to healthcare.", "answer": "enable" },
-    { "id": "t2", "audio": "assets/audio/word-formation/wf_test_q2.mp3", "sentenceWithGap": "Firefighters need to ___ to emergency calls quickly.", "answer": "disappear" }
-  ]
+  "listeningBank": []
 }

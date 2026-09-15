@@ -1,6 +1,3 @@
 {
-  "contextItems": [
-    { "id": "c1", "family": "able", "sentenceWithGap": "The new policy will ___ better access to healthcare.", "answer": "enable" },
-    { "id": "c2", "family": "appear", "sentenceWithGap": "Some might otherwise have ___.", "answer": "disappeared" }
-  ]
+  "contextItems": []
 }
