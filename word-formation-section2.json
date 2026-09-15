@@ -1,4 +1,85 @@
 {
-  "mcq": [],
-  "matching": []
+  "mcq": [
+    { "id": "wf_able_m01", "family": "able", "prompt": "Because of his injuries after the accident, he was temporarily ___ to drive.", "options": ["ability", "able", "unable", "enable"], "answer": "unable" },
+    { "id": "wf_able_m02", "family": "able", "prompt": "The course aims to ___ students to work independently.", "options": ["enable", "ability", "unable", "disability"], "answer": "enable" },
+    { "id": "wf_able_m03", "family": "able", "prompt": "She has a natural ___ to remember people's faces.", "options": ["enable", "ability", "unable", "disabled"], "answer": "ability" },
+    { "id": "wf_able_m04", "family": "able", "prompt": "The new entrance provides better access for ___ visitors.", "options": ["ability", "enable", "unable", "disabled"], "answer": "disabled" },
+    { "id": "wf_able_m05", "family": "able", "prompt": "A technical fault may ___ the security system.", "options": ["ability", "disable", "unable", "disability"], "answer": "disable" },
+    { "id": "wf_able_m06", "family": "able", "prompt": "The charity provides support for people with a physical ___.", "options": ["disabled", "disable", "disability", "unable"], "answer": "disability" },
+    { "id": "wf_able_m07", "family": "able", "prompt": "With the right equipment, she is perfectly ___ to do the job.", "options": ["ability", "enable", "disability", "able"], "answer": "able" },
+    { "id": "wf_able_m08", "family": "able", "prompt": "Which form is a noun meaning \"khả năng\"?", "options": ["ability", "able", "enable", "unable"], "answer": "ability" },
+
+    { "id": "wf_appear_m01", "family": "appear", "prompt": "The magician seemed to ___ in front of our eyes.", "options": ["disappear", "appearance", "apparent", "disappearance"], "answer": "disappear" },
+    { "id": "wf_appear_m02", "family": "appear", "prompt": "Her first public ___ attracted a lot of attention.", "options": ["disappear", "appearance", "apparently", "reappear"], "answer": "appearance" },
+    { "id": "wf_appear_m03", "family": "appear", "prompt": "After several months away, the birds began to ___ in the area.", "options": ["appearance", "disappearance", "reappear", "apparent"], "answer": "reappear" },
+    { "id": "wf_appear_m04", "family": "appear", "prompt": "The police are investigating the sudden ___ of the painting from the locked gallery.", "options": ["apparent", "appearance", "reappear", "disappearance"], "answer": "disappearance" },
+    { "id": "wf_appear_m05", "family": "appear", "prompt": "It soon became ___ that the plan would not work.", "options": ["apparent", "apparently", "appearance", "disappear"], "answer": "apparent" },
+    { "id": "wf_appear_m06", "family": "appear", "prompt": "___, the building has been empty for several years.", "options": ["Appearance", "Apparently", "Apparent", "Reappear"], "answer": "Apparently" },
+    { "id": "wf_appear_m07", "family": "appear", "prompt": "The stars slowly ___ as the sky becomes darker.", "options": ["appearance", "apparent", "appear", "disappearance"], "answer": "appear" },
+    { "id": "wf_appear_m08", "family": "appear", "prompt": "Which noun means \"sự xuất hiện\"?", "options": ["apparent", "disappear", "apparently", "appearance"], "answer": "appearance" },
+
+    { "id": "wf_fortune_m01", "family": "fortune", "prompt": "We were ___ enough to find a taxi immediately.", "options": ["fortunate", "fortune", "unfortunately", "misfortune"], "answer": "fortunate" },
+    { "id": "wf_fortune_m02", "family": "fortune", "prompt": "___, the match was cancelled because of heavy rain.", "options": ["Fortunate", "Unfortunately", "Fortune", "Unfortunate"], "answer": "Unfortunately" },
+    { "id": "wf_fortune_m03", "family": "fortune", "prompt": "The family had suffered great ___ before their situation finally improved.", "options": ["fortunately", "fortunate", "misfortune", "unfortunate"], "answer": "misfortune" },
+    { "id": "wf_fortune_m04", "family": "fortune", "prompt": "It was extremely ___ that all the files were deleted.", "options": ["fortune", "fortunately", "fortunate", "unfortunate"], "answer": "unfortunate" },
+    { "id": "wf_fortune_m05", "family": "fortune", "prompt": "___, everyone managed to escape safely.", "options": ["Fortunately", "Fortune", "Unfortunate", "Misfortune"], "answer": "Fortunately" },
+    { "id": "wf_fortune_m06", "family": "fortune", "prompt": "Which adjective means \"may mắn\"?", "options": ["fortune", "fortunate", "fortunately", "unfortunately"], "answer": "fortunate" },
+    { "id": "wf_fortune_m07", "family": "fortune", "prompt": "Which adverb means \"thật không may\"?", "options": ["unfortunate", "fortune", "unfortunately", "fortunate"], "answer": "unfortunately" },
+    { "id": "wf_fortune_m08", "family": "fortune", "prompt": "Which noun means \"bất hạnh\"?", "options": ["fortunate", "unfortunately", "fortune", "misfortune"], "answer": "misfortune" },
+
+    { "id": "wf_know_m01", "family": "know", "prompt": "The research has increased our ___ of the disease.", "options": ["knowledge", "known", "unknown", "knowingly"], "answer": "knowledge" },
+    { "id": "wf_know_m02", "family": "know", "prompt": "The village was almost ___ to tourists twenty years ago.", "options": ["knowledge", "unknown", "knowingly", "knowledgeable"], "answer": "unknown" },
+    { "id": "wf_know_m03", "family": "know", "prompt": "She is widely ___ for her work in environmental science.", "options": ["knowledge", "unknown", "known", "knowingly"], "answer": "known" },
+    { "id": "wf_know_m04", "family": "know", "prompt": "The guide was highly ___ about local wildlife.", "options": ["known", "knowledge", "knowingly", "knowledgeable"], "answer": "knowledgeable" },
+    { "id": "wf_know_m05", "family": "know", "prompt": "The company ___ ignored the safety regulations.", "options": ["knowingly", "knowledge", "knowledgeable", "unknown"], "answer": "knowingly" },
+    { "id": "wf_know_m06", "family": "know", "prompt": "Which noun means \"kiến thức\"?", "options": ["known", "knowledge", "knowingly", "knowledgeable"], "answer": "knowledge" },
+    { "id": "wf_know_m07", "family": "know", "prompt": "Which adjective means \"không được biết đến\"?", "options": ["knowledge", "known", "unknown", "knowingly"], "answer": "unknown" },
+    { "id": "wf_know_m08", "family": "know", "prompt": "The actor became well ___ after the series was shown internationally.", "options": ["knowledge", "knowledgeable", "knowingly", "known"], "answer": "known" },
+
+    { "id": "wf_popular_m01", "family": "popular", "prompt": "The programme gained enormous ___ among young viewers.", "options": ["popularity", "popular", "unpopular", "popularly"], "answer": "popularity" },
+    { "id": "wf_popular_m02", "family": "popular", "prompt": "The new rule was extremely ___ with students.", "options": ["popularity", "unpopular", "popularly", "popularise"], "answer": "unpopular" },
+    { "id": "wf_popular_m03", "family": "popular", "prompt": "The café is particularly ___ with local families and is usually full at weekends.", "options": ["popularity", "unpopular", "popular", "popularly"], "answer": "popular" },
+    { "id": "wf_popular_m04", "family": "popular", "prompt": "The area is ___ known as the city's creative district.", "options": ["popularity", "popular", "popularise", "popularly"], "answer": "popularly" },
+    { "id": "wf_popular_m05", "family": "popular", "prompt": "The campaign helped to ___ the sport among younger children.", "options": ["popularise", "popularity", "unpopular", "popularly"], "answer": "popularise" },
+    { "id": "wf_popular_m06", "family": "popular", "prompt": "Which noun means \"sự nổi tiếng\"?", "options": ["popular", "popularity", "popularly", "unpopular"], "answer": "popularity" },
+    { "id": "wf_popular_m07", "family": "popular", "prompt": "Which adjective means \"không được ưa chuộng\"?", "options": ["popularly", "popularity", "unpopular", "popularise"], "answer": "unpopular" },
+    { "id": "wf_popular_m08", "family": "popular", "prompt": "The band's ___ increased after its first international tour.", "options": ["popular", "popularly", "unpopular", "popularity"], "answer": "popularity" }
+  ],
+  "matching": [
+    { "id": "wf_able_matching", "family": "able", "pairs": [
+      { "word": "enable", "meaningVi": "cho phép, tạo điều kiện" },
+      { "word": "ability", "meaningVi": "khả năng" },
+      { "word": "unable", "meaningVi": "không thể" },
+      { "word": "disability", "meaningVi": "tình trạng khuyết tật" },
+      { "word": "disabled", "meaningVi": "khuyết tật; bị hỏng, không dùng được" }
+    ] },
+    { "id": "wf_appear_matching", "family": "appear", "pairs": [
+      { "word": "disappear", "meaningVi": "biến mất" },
+      { "word": "appearance", "meaningVi": "sự xuất hiện" },
+      { "word": "reappear", "meaningVi": "xuất hiện trở lại" },
+      { "word": "disappearance", "meaningVi": "sự biến mất" },
+      { "word": "apparently", "meaningVi": "có vẻ như; nghe nói là" }
+    ] },
+    { "id": "wf_fortune_matching", "family": "fortune", "pairs": [
+      { "word": "fortunate", "meaningVi": "may mắn" },
+      { "word": "unfortunate", "meaningVi": "không may" },
+      { "word": "unfortunately", "meaningVi": "thật không may" },
+      { "word": "fortunately", "meaningVi": "may mắn thay" },
+      { "word": "misfortune", "meaningVi": "bất hạnh" }
+    ] },
+    { "id": "wf_know_matching", "family": "know", "pairs": [
+      { "word": "knowledge", "meaningVi": "kiến thức" },
+      { "word": "unknown", "meaningVi": "không được biết đến" },
+      { "word": "known", "meaningVi": "được biết đến" },
+      { "word": "knowledgeable", "meaningVi": "hiểu biết" },
+      { "word": "knowingly", "meaningVi": "một cách cố ý; biết rõ mà vẫn làm" }
+    ] },
+    { "id": "wf_popular_matching", "family": "popular", "pairs": [
+      { "word": "popularity", "meaningVi": "sự nổi tiếng" },
+      { "word": "unpopular", "meaningVi": "không được ưa chuộng" },
+      { "word": "popular", "meaningVi": "phổ biến" },
+      { "word": "popularise", "meaningVi": "phổ biến hóa" },
+      { "word": "popularly", "meaningVi": "một cách phổ biến" }
+    ] }
+  ]
 }

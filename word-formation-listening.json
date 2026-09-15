@@ -1,3 +1,33 @@
 {
-  "listening": []
+  "listening": [
+    { "id": "wf_able_l01", "family": "able", "sentenceWithGap": "The new software will ___ students to organise their notes more effectively.", "answer": "enable", "audio": "assets/audio/word-formation/wf_able_l01.mp3" },
+    { "id": "wf_able_l02", "family": "able", "sentenceWithGap": "Because of a serious injury, he was ___ to finish the race.", "answer": "unable", "audio": "assets/audio/word-formation/wf_able_l02.mp3" },
+    { "id": "wf_able_l03", "family": "able", "sentenceWithGap": "Her greatest ___ is explaining difficult ideas clearly.", "answer": "ability", "audio": "assets/audio/word-formation/wf_able_l03.mp3" },
+    { "id": "wf_able_l04", "family": "able", "sentenceWithGap": "The museum has improved access for ___ visitors.", "answer": "disabled", "audio": "assets/audio/word-formation/wf_able_l04.mp3" },
+    { "id": "wf_able_l05", "family": "able", "sentenceWithGap": "A serious technical fault could temporarily ___ the alarm system.", "answer": "disable", "audio": "assets/audio/word-formation/wf_able_l05.mp3" },
+
+    { "id": "wf_appear_l01", "family": "appear", "sentenceWithGap": "The actor's first public ___ after ten years away attracted enormous attention.", "answer": "appearance", "audio": "assets/audio/word-formation/wf_appear_l01.mp3" },
+    { "id": "wf_appear_l02", "family": "appear", "sentenceWithGap": "Thick fog can make the mountains seem to ___.", "answer": "disappear", "audio": "assets/audio/word-formation/wf_appear_l02.mp3" },
+    { "id": "wf_appear_l03", "family": "appear", "sentenceWithGap": "It soon became ___ that the information on the website was incorrect.", "answer": "apparent", "audio": "assets/audio/word-formation/wf_appear_l03.mp3" },
+    { "id": "wf_appear_l04", "family": "appear", "sentenceWithGap": "The unexplained ___ of the painting from the locked gallery caused great concern.", "answer": "disappearance", "audio": "assets/audio/word-formation/wf_appear_l04.mp3" },
+    { "id": "wf_appear_l05", "family": "appear", "sentenceWithGap": "___, the gallery is planning to reopen next month.", "answer": "apparently", "audio": "assets/audio/word-formation/wf_appear_l05.mp3" },
+
+    { "id": "wf_fortune_l01", "family": "fortune", "sentenceWithGap": "We were extremely ___ to get tickets for the final performance.", "answer": "fortunate", "audio": "assets/audio/word-formation/wf_fortune_l01.mp3" },
+    { "id": "wf_fortune_l02", "family": "fortune", "sentenceWithGap": "___, heavy rain forced the organisers to cancel the event.", "answer": "unfortunately", "audio": "assets/audio/word-formation/wf_fortune_l02.mp3" },
+    { "id": "wf_fortune_l03", "family": "fortune", "sentenceWithGap": "It was very ___ that the equipment failed at the last minute.", "answer": "unfortunate", "audio": "assets/audio/word-formation/wf_fortune_l03.mp3" },
+    { "id": "wf_fortune_l04", "family": "fortune", "sentenceWithGap": "___, nobody was injured in the accident.", "answer": "fortunately", "audio": "assets/audio/word-formation/wf_fortune_l04.mp3" },
+    { "id": "wf_fortune_l05", "family": "fortune", "sentenceWithGap": "Good ___ played a part in their unexpected success.", "answer": "fortune", "audio": "assets/audio/word-formation/wf_fortune_l05.mp3" },
+
+    { "id": "wf_know_l01", "family": "know", "sentenceWithGap": "The course gave me useful ___ of digital photography.", "answer": "knowledge", "audio": "assets/audio/word-formation/wf_know_l01.mp3" },
+    { "id": "wf_know_l02", "family": "know", "sentenceWithGap": "Before winning the international prize, the artist was almost completely ___ outside his home town.", "answer": "unknown", "audio": "assets/audio/word-formation/wf_know_l02.mp3" },
+    { "id": "wf_know_l03", "family": "know", "sentenceWithGap": "She is a well-___ expert in environmental science.", "answer": "known", "audio": "assets/audio/word-formation/wf_know_l03.mp3" },
+    { "id": "wf_know_l04", "family": "know", "sentenceWithGap": "Our guide was extremely ___ about local history.", "answer": "knowledgeable", "audio": "assets/audio/word-formation/wf_know_l04.mp3" },
+    { "id": "wf_know_l05", "family": "know", "sentenceWithGap": "The company ___ sold products that it knew were faulty.", "answer": "knowingly", "audio": "assets/audio/word-formation/wf_know_l05.mp3" },
+
+    { "id": "wf_popular_l01", "family": "popular", "sentenceWithGap": "The singer's ___ grew rapidly after the video went viral.", "answer": "popularity", "audio": "assets/audio/word-formation/wf_popular_l01.mp3" },
+    { "id": "wf_popular_l02", "family": "popular", "sentenceWithGap": "The decision proved extremely ___ with local residents, and hundreds signed a petition against it.", "answer": "unpopular", "audio": "assets/audio/word-formation/wf_popular_l02.mp3" },
+    { "id": "wf_popular_l03", "family": "popular", "sentenceWithGap": "The sport remains particularly ___ among teenagers, with thousands joining local clubs each year.", "answer": "popular", "audio": "assets/audio/word-formation/wf_popular_l03.mp3" },
+    { "id": "wf_popular_l04", "family": "popular", "sentenceWithGap": "The area is ___ known as the city's creative district.", "answer": "popularly", "audio": "assets/audio/word-formation/wf_popular_l04.mp3" },
+    { "id": "wf_popular_l05", "family": "popular", "sentenceWithGap": "The campaign helped to ___ the sport among younger children.", "answer": "popularise", "audio": "assets/audio/word-formation/wf_popular_l05.mp3" }
+  ]
 }

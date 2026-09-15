@@ -1,3 +1,38 @@
 {
-  "contextItems": []
+  "contextItems": [
+    { "id": "wf_able_c01", "family": "able", "sentenceWithGap": "The new software will ___ teachers to track progress more easily.", "answer": "enable" },
+    { "id": "wf_able_c02", "family": "able", "sentenceWithGap": "Her greatest ___ is staying calm under pressure.", "answer": "ability" },
+    { "id": "wf_able_c03", "family": "able", "sentenceWithGap": "Without internet access, we were ___ to complete the task.", "answer": "unable" },
+    { "id": "wf_able_c04", "family": "able", "sentenceWithGap": "The school has improved support for students with a ___.", "answer": "disability" },
+    { "id": "wf_able_c05", "family": "able", "sentenceWithGap": "The old security system was ___ after repeated technical problems.", "answer": "disabled" },
+    { "id": "wf_able_c06", "family": "able", "sentenceWithGap": "The new settings allow users to ___ several unnecessary features.", "answer": "disable" },
+
+    { "id": "wf_appear_c01", "family": "appear", "sentenceWithGap": "The actor's first public ___ after several years away attracted a large crowd.", "answer": "appearance" },
+    { "id": "wf_appear_c02", "family": "appear", "sentenceWithGap": "Some stars seem to ___ during the day because the sunlight is too bright.", "answer": "disappear" },
+    { "id": "wf_appear_c03", "family": "appear", "sentenceWithGap": "The police are still investigating the mysterious ___ of the painting from a locked room.", "answer": "disappearance" },
+    { "id": "wf_appear_c04", "family": "appear", "sentenceWithGap": "Her second public ___ attracted even more attention than the first.", "answer": "appearance" },
+    { "id": "wf_appear_c05", "family": "appear", "sentenceWithGap": "The mountains can completely ___ when the fog becomes very thick.", "answer": "disappear" },
+    { "id": "wf_appear_c06", "family": "appear", "sentenceWithGap": "___, the museum is planning to extend its opening hours.", "answer": "apparently" },
+
+    { "id": "wf_fortune_c01", "family": "fortune", "sentenceWithGap": "We were extremely ___ to get seats in the front row.", "answer": "fortunate" },
+    { "id": "wf_fortune_c02", "family": "fortune", "sentenceWithGap": "___, the flight was delayed by six hours.", "answer": "unfortunately" },
+    { "id": "wf_fortune_c03", "family": "fortune", "sentenceWithGap": "It was ___ that the weather changed just before the event began, forcing the organisers to cancel it.", "answer": "unfortunate" },
+    { "id": "wf_fortune_c04", "family": "fortune", "sentenceWithGap": "___, nobody was hurt in the accident.", "answer": "fortunately" },
+    { "id": "wf_fortune_c05", "family": "fortune", "sentenceWithGap": "___, the equipment stopped working halfway through the presentation.", "answer": "unfortunately" },
+    { "id": "wf_fortune_c06", "family": "fortune", "sentenceWithGap": "She was ___ enough to find her lost wallet before leaving the station.", "answer": "fortunate" },
+
+    { "id": "wf_know_c01", "family": "know", "sentenceWithGap": "The course gave students practical ___ of basic coding.", "answer": "knowledge" },
+    { "id": "wf_know_c02", "family": "know", "sentenceWithGap": "Before winning the international award, the artist was almost completely ___ outside his home country.", "answer": "unknown" },
+    { "id": "wf_know_c03", "family": "know", "sentenceWithGap": "She is widely ___ for her research on climate change.", "answer": "known" },
+    { "id": "wf_know_c04", "family": "know", "sentenceWithGap": "Our guide was very ___ about the history of the castle.", "answer": "knowledgeable" },
+    { "id": "wf_know_c05", "family": "know", "sentenceWithGap": "The company ___ broke the rules and was later fined.", "answer": "knowingly" },
+    { "id": "wf_know_c06", "family": "know", "sentenceWithGap": "Reading widely can greatly increase your ___ of the world.", "answer": "knowledge" },
+
+    { "id": "wf_popular_c01", "family": "popular", "sentenceWithGap": "The band's ___ grew rapidly after the song was used in a film.", "answer": "popularity" },
+    { "id": "wf_popular_c02", "family": "popular", "sentenceWithGap": "The decision was so ___ that the school changed it a week later.", "answer": "unpopular" },
+    { "id": "wf_popular_c03", "family": "popular", "sentenceWithGap": "The television series gained enormous ___ among teenage viewers.", "answer": "popularity" },
+    { "id": "wf_popular_c04", "family": "popular", "sentenceWithGap": "The app's ___ increased after several positive reviews.", "answer": "popularity" },
+    { "id": "wf_popular_c05", "family": "popular", "sentenceWithGap": "The new policy remained deeply ___ with many parents.", "answer": "unpopular" },
+    { "id": "wf_popular_c06", "family": "popular", "sentenceWithGap": "The sport has seen a significant rise in ___ over the last decade.", "answer": "popularity" }
+  ]
 }
