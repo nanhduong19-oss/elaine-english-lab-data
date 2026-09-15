@@ -1,14 +1,3 @@
 {
-  "listening": [
-    { "family": "able", "sentenceWithGap": "Doctors need the ___ to work under pressure.", "answer": "ability", "audio": "assets/audio/word-formation/able_l01.mp3" },
-    { "family": "able", "sentenceWithGap": "He was ___ to attend due to illness.", "answer": "unable", "audio": "assets/audio/word-formation/able_l02.mp3" },
-    { "family": "appear", "sentenceWithGap": "The sun will ___ from behind the clouds soon.", "answer": "appear", "audio": "assets/audio/word-formation/appear_l01.mp3" },
-    { "family": "appear", "sentenceWithGap": "Her sudden ___ surprised everyone.", "answer": "appearance", "audio": "assets/audio/word-formation/appear_l02.mp3" },
-    { "family": "fortune", "sentenceWithGap": "It was pure ___ that she found the ring.", "answer": "fortune", "audio": "assets/audio/word-formation/fortune_l01.mp3" },
-    { "family": "fortune", "sentenceWithGap": "The team was, ___, well prepared for the storm.", "answer": "fortunately", "audio": "assets/audio/word-formation/fortune_l02.mp3" },
-    { "family": "know", "sentenceWithGap": "Her vast ___ of history impressed the professor.", "answer": "knowledge", "audio": "assets/audio/word-formation/know_l01.mp3" },
-    { "family": "know", "sentenceWithGap": "The results are still ___ at this stage.", "answer": "unknown", "audio": "assets/audio/word-formation/know_l02.mp3" },
-    { "family": "popular", "sentenceWithGap": "The song's ___ grew rapidly online.", "answer": "popularity", "audio": "assets/audio/word-formation/popular_l01.mp3" },
-    { "family": "popular", "sentenceWithGap": "The idea proved ___ among students.", "answer": "popular", "audio": "assets/audio/word-formation/popular_l02.mp3" }
-  ]
+  "listening": []
 }
