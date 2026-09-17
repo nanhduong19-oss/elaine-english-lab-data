@@ -8076,6 +8076,98 @@
             }
           ]
         }
+      ],
+      "gapSentences": [
+        {
+          "id": "U5_WP_gap1",
+          "audio": "assets/audio/passages/U5_WP_gap1.mp3",
+          "sentenceWithGap": "Leo explained, ___ the editor, that the issue would come out on Friday.",
+          "answer": "according to"
+        },
+        {
+          "id": "U5_WP_gap2",
+          "audio": "assets/audio/passages/U5_WP_gap2.mp3",
+          "sentenceWithGap": "The editor ___ that the novelist had accepted their invitation.",
+          "answer": "announced"
+        },
+        {
+          "id": "U5_WP_gap3",
+          "audio": "assets/audio/passages/U5_WP_gap3.mp3",
+          "sentenceWithGap": "Leo ___ the book to be suitable for teenage readers.",
+          "answer": "believed"
+        },
+        {
+          "id": "U5_WP_gap4",
+          "audio": "assets/audio/passages/U5_WP_gap4.mp3",
+          "sentenceWithGap": "Leo flicked through issues and ___ the articles that stood out.",
+          "answer": "commented on"
+        },
+        {
+          "id": "U5_WP_gap5",
+          "audio": "assets/audio/passages/U5_WP_gap5.mp3",
+          "sentenceWithGap": "Maya was ___ one character and described him as unreliable.",
+          "answer": "confused by"
+        },
+        {
+          "id": "U5_WP_gap6",
+          "audio": "assets/audio/passages/U5_WP_gap6.mp3",
+          "sentenceWithGap": "Hana ___ the writer and soon heard from her.",
+          "answer": "corresponded with"
+        },
+        {
+          "id": "U5_WP_gap7",
+          "audio": "assets/audio/passages/U5_WP_gap7.mp3",
+          "sentenceWithGap": "Maya was confused by one character and ___ him as unreliable.",
+          "answer": "described"
+        },
+        {
+          "id": "U5_WP_gap8",
+          "audio": "assets/audio/passages/U5_WP_gap8.mp3",
+          "sentenceWithGap": "Hana corresponded with the writer and soon ___ her.",
+          "answer": "heard from"
+        },
+        {
+          "id": "U5_WP_gap9",
+          "audio": "assets/audio/passages/U5_WP_gap9.mp3",
+          "sentenceWithGap": "She ___ the team that the author was likely to arrive early.",
+          "answer": "informed"
+        },
+        {
+          "id": "U5_WP_gap10",
+          "audio": "assets/audio/passages/U5_WP_gap10.mp3",
+          "sentenceWithGap": "She informed the team that the author was ___ to arrive early.",
+          "answer": "likely"
+        },
+        {
+          "id": "U5_WP_gap11",
+          "audio": "assets/audio/passages/U5_WP_gap11.mp3",
+          "sentenceWithGap": "She informed the team that the author was likely to arrive early and ___ everyone to prepare questions.",
+          "answer": "persuaded"
+        },
+        {
+          "id": "U5_WP_gap12",
+          "audio": "assets/audio/passages/U5_WP_gap12.mp3",
+          "sentenceWithGap": "There was no ___ in changing the schedule again.",
+          "answer": "point"
+        },
+        {
+          "id": "U5_WP_gap13",
+          "audio": "assets/audio/passages/U5_WP_gap13.mp3",
+          "sentenceWithGap": "During rehearsal, Ben ___ the novelist a programme and described the stage arrangement to her.",
+          "answer": "sent"
+        },
+        {
+          "id": "U5_WP_gap14",
+          "audio": "assets/audio/passages/U5_WP_gap14.mp3",
+          "sentenceWithGap": "The author ___ the students by arriving before lunch.",
+          "answer": "surprised"
+        },
+        {
+          "id": "U5_WP_gap15",
+          "audio": "assets/audio/passages/U5_WP_gap15.mp3",
+          "sentenceWithGap": "Ben saw through the invention and ___ her not to include it.",
+          "answer": "told"
+        }
       ]
     },
     {
