@@ -10417,6 +10417,629 @@
           "answer": "talented"
         }
       ]
+    },
+    {
+      "passageId": "U9_CORE",
+      "unit": "U9",
+      "title": "Different People, Different Personalities",
+      "text": "People have very different personalities, and no single description can explain everyone. Some people are highly intelligent, bright or clever, while others are especially sharp and notice details quickly. A shrewd person makes good practical judgements, an able person has the skills to succeed, and someone who is gifted or talented may have an unusually strong natural ability. However, intelligence is not always used positively: a cunning, crafty or sly person may use clever ideas secretly or dishonestly.\n\nSome people are practical and down-to-earth, preferring realistic plans to impossible dreams. People also differ in the way they socialise. An extroverted, outgoing, sociable or gregarious person enjoys being with others, whereas an introverted person usually prefers quieter conversations and time alone.\n\nTemperament varies as well. One person may remain relaxed, easy-going, even-tempered or laid-back, while another becomes tense under pressure. Some people are naturally argumentative or quarrelsome and often turn small disagreements into conflicts.\n\nCharacter is usually revealed through behaviour. An honest person tells the truth, a sincere person genuinely means what they say, and a trustworthy person keeps promises. By contrast, an irresponsible person may ignore duties and consequences. A caring, thoughtful, sympathetic, respectful or devoted person pays attention to other people’s needs and feelings.\n\nPeople also see themselves differently. Someone may be self-confident or self-assured, yet still remain modest. Another person may appear self-important, while secretly feeling insecure. A dedicated or ambitious person works towards clear goals, but a pushy person pressures others too much.\n\nEveryday behaviour matters too. Some people are polite, while others are rude, unkind or deliberately mean. A sensible, reasonable and mature person accepts responsibility, whereas an immature person may blame others. A sensitive person notices feelings, but an insensitive person may ignore them.\n\nCreative people may be imaginative, original, unconventional, eccentric or inquisitive. An economical person uses money and resources carefully. Someone who has a heart of gold is extremely kind, while a person whose heart is in the right place has good intentions. Even a friend who can be a pain in the neck may still mean well. Some people have their head screwed on and make practical decisions; others have their head in the clouds. The most dependable people can keep their head when difficulties arise.",
+      "audio": "assets/audio/passages/MT3_u9_personalities.mp3",
+      "gapSentences": [
+        {
+          "id": "U9_CORE_gap1",
+          "audio": "assets/audio/passages/U9_CORE_gap1.mp3",
+          "sentenceWithGap": "A shrewd person makes good practical judgements, an able person has the skills to succeed, and someone who is gifted or ___ may have an unusually strong natural ability.",
+          "answer": "talented"
+        },
+        {
+          "id": "U9_CORE_gap2",
+          "audio": "assets/audio/passages/U9_CORE_gap2.mp3",
+          "sentenceWithGap": "An extroverted, ___, sociable or gregarious person enjoys being with others, whereas an introverted person usually prefers quieter conversations and time alone.",
+          "answer": "outgoing"
+        },
+        {
+          "id": "U9_CORE_gap3",
+          "audio": "assets/audio/passages/U9_CORE_gap3.mp3",
+          "sentenceWithGap": "One person may remain relaxed, easy-going, even-tempered or ___, while another becomes tense under pressure.",
+          "answer": "laid-back"
+        },
+        {
+          "id": "U9_CORE_gap4",
+          "audio": "assets/audio/passages/U9_CORE_gap4.mp3",
+          "sentenceWithGap": "An ___ person tells the truth, a sincere person genuinely means what they say, and a trustworthy person keeps promises.",
+          "answer": "honest"
+        },
+        {
+          "id": "U9_CORE_gap5",
+          "audio": "assets/audio/passages/U9_CORE_gap5.mp3",
+          "sentenceWithGap": "By contrast, an ___ person may ignore duties and consequences.",
+          "answer": "irresponsible"
+        },
+        {
+          "id": "U9_CORE_gap6",
+          "audio": "assets/audio/passages/U9_CORE_gap6.mp3",
+          "sentenceWithGap": "A caring, thoughtful, sympathetic, ___ or devoted person pays attention to other people’s needs and feelings.",
+          "answer": "respectful"
+        },
+        {
+          "id": "U9_CORE_gap7",
+          "audio": "assets/audio/passages/U9_CORE_gap7.mp3",
+          "sentenceWithGap": "Someone may be self-confident or self-assured, yet still remain ___.",
+          "answer": "modest"
+        },
+        {
+          "id": "U9_CORE_gap8",
+          "audio": "assets/audio/passages/U9_CORE_gap8.mp3",
+          "sentenceWithGap": "A sensible, reasonable and mature person accepts responsibility, whereas an ___ person may blame others.",
+          "answer": "immature"
+        },
+        {
+          "id": "U9_CORE_gap9",
+          "audio": "assets/audio/passages/U9_CORE_gap9.mp3",
+          "sentenceWithGap": "Creative people may be ___, original, unconventional, eccentric or inquisitive.",
+          "answer": "imaginative"
+        },
+        {
+          "id": "U9_CORE_gap10",
+          "audio": "assets/audio/passages/U9_CORE_gap10.mp3",
+          "sentenceWithGap": "The most dependable people can ___ when difficulties arise.",
+          "answer": "keep their head"
+        }
+      ]
+    },
+    {
+      "passageId": "U10_COLLOC",
+      "unit": "U10",
+      "title": "Stories Behind the Feelings",
+      "text": "Linden Park Community House organised an evening called Stories Behind the Feelings. Each activity explored the relationships, choices and experiences that influence people’s emotions.\n\nAt the entrance, visitors could show their approval of the event by leaving a supportive message. Emily’s organisation met with everyone’s approval, although she and Lucas briefly had an argument about the timetable. Lucas thought he had won the argument, but he later accepted Emily’s more practical plan.\n\nOne area focused on care and courage. Johny helped take care of several younger volunteers because he genuinely cared about their confidence. One shy student finally had the courage to speak in public. Everyone agreed that it takes courage to describe personal fears in front of strangers.\n\nThe drama group appeared in disguise. Some students wore disguises, while Jayden disguised himself as an elderly storyteller. Lucas was disguised as a famous explorer. Their performance encouraged visitors to dream of doing something adventurous. One child described a dream he had had about travelling, while another admitted that she often daydreamed during difficult lessons.\n\nOther displays celebrated families and friendships. Some visitors came from a nuclear family, while others described life in an extended family. One older couple spoke about how they had started a family and how they had first fallen in love with each other.\n\nAt the friendship wall, students explained how they had made friends with new classmates and how they had managed to stay friends after disagreements. Lucas thanked his best friend for doing him a favour and admitted that he still owed him a favour.\n\nA discussion group asked whether schools should provide more emotional support. Most visitors were in favour of the idea. Some arrived in a bad mood, but the welcoming activities soon put them in a good mood. Others were not in the right mood for a serious discussion and preferred the music corner.\n\nBefore leaving, visitors were asked to make a promise to support someone who was struggling. Emily promised to organise another event and warned the team not to break their promise to the community.",
+      "audio": "assets/audio/passages/MT3_u10_stories.mp3",
+      "gapSentences": [
+        {
+          "id": "U10_COLLOC_gap1",
+          "audio": "assets/audio/passages/U10_COLLOC_gap1.mp3",
+          "sentenceWithGap": "Emily’s organisation met with everyone’s approval, although she and Lucas briefly ___ about the timetable.",
+          "answer": "had an argument"
+        },
+        {
+          "id": "U10_COLLOC_gap2",
+          "audio": "assets/audio/passages/U10_COLLOC_gap2.mp3",
+          "sentenceWithGap": "Lucas thought he had ___, but he later accepted Emily’s more practical plan.",
+          "answer": "won the argument"
+        },
+        {
+          "id": "U10_COLLOC_gap3",
+          "audio": "assets/audio/passages/U10_COLLOC_gap3.mp3",
+          "sentenceWithGap": "Johny helped ___ several younger volunteers because he genuinely cared about their confidence.",
+          "answer": "take care of"
+        },
+        {
+          "id": "U10_COLLOC_gap4",
+          "audio": "assets/audio/passages/U10_COLLOC_gap4.mp3",
+          "sentenceWithGap": "One shy student finally ___ to speak in public.",
+          "answer": "had the courage"
+        },
+        {
+          "id": "U10_COLLOC_gap5",
+          "audio": "assets/audio/passages/U10_COLLOC_gap5.mp3",
+          "sentenceWithGap": "Some students wore disguises, while Jayden ___ as an elderly storyteller.",
+          "answer": "disguised himself"
+        },
+        {
+          "id": "U10_COLLOC_gap6",
+          "audio": "assets/audio/passages/U10_COLLOC_gap6.mp3",
+          "sentenceWithGap": "One child described a dream he had had about travelling, while another admitted that she often ___ during difficult lessons.",
+          "answer": "daydreamed"
+        },
+        {
+          "id": "U10_COLLOC_gap7",
+          "audio": "assets/audio/passages/U10_COLLOC_gap7.mp3",
+          "sentenceWithGap": "Some visitors came from a nuclear family, while others described life in an ___.",
+          "answer": "extended family"
+        },
+        {
+          "id": "U10_COLLOC_gap8",
+          "audio": "assets/audio/passages/U10_COLLOC_gap8.mp3",
+          "sentenceWithGap": "Some arrived ___, but the welcoming activities soon put them in a good mood.",
+          "answer": "in a bad mood"
+        },
+        {
+          "id": "U10_COLLOC_gap9",
+          "audio": "assets/audio/passages/U10_COLLOC_gap9.mp3",
+          "sentenceWithGap": "Before leaving, visitors were asked to ___ to support someone who was struggling.",
+          "answer": "make a promise"
+        },
+        {
+          "id": "U10_COLLOC_gap10",
+          "audio": "assets/audio/passages/U10_COLLOC_gap10.mp3",
+          "sentenceWithGap": "Emily promised to organise another event and warned the team not to break their ___ to the community.",
+          "answer": "promise"
+        }
+      ]
+    },
+    {
+      "passageId": "U10_CORE",
+      "unit": "U10",
+      "title": "One Event, Many Feelings",
+      "text": "People can react very differently to the same event. At Linden Park Community House, a student festival created a wide range of feelings among the volunteers.\n\nBefore the festival began, Lucas was enthusiastic and full of energy. He was glad that so many visitors had registered and felt pleased with the team’s preparations. Emily remained calm and relaxed because every task had been carefully organised. Johny felt quietly content with his work, while Jayden was inspired by the colourful displays and began planning new ideas.\n\nNot everyone felt so positive. One volunteer became bored while waiting for visitors, and another felt discontented because she had been given a smaller role than expected. When the sound system stopped working, several students became angry, while Emily was seriously concerned about the effect on the programme. Lucas was surprised by the technical problem, but he tried not to let the team panic.\n\nThe situation itself was worrying, but Johny kept a cool head. He reminded everyone that technical problems were common and encouraged them to take everything as it came. His calm response was extremely pleasing to the organisers. Within twenty minutes, the equipment was working again, and things were looking up.\n\nThe afternoon activities produced more emotional reactions. A science demonstration was exciting, although one sudden explosion was so frightening that several students jumped. A ghost-story performance was deliberately terrifying, while a quiet art workshop was much more relaxing. One presentation was rather boring, and a cancelled performance was deeply disappointing.\n\nBy the end of the day, some volunteers were completely done in, while one student felt under the weather and went home early. Others were still in high spirits and seemed to be on top form. Emily was thankful that nobody had been injured, and Lucas was sorry that he had complained earlier.\n\nWhen the final visitor numbers were announced, Jayden’s head was spinning with excitement. The whole team felt as happy as could be. They had faced stress, fear and disappointment, but their emotional control had helped turn a difficult day into a successful one.",
+      "audio": "assets/audio/passages/MT3_u10_feelings.mp3",
+      "gapSentences": [
+        {
+          "id": "U10_CORE_gap1",
+          "audio": "assets/audio/passages/U10_CORE_gap1.mp3",
+          "sentenceWithGap": "He was glad that so many visitors had registered and felt ___ with the team’s preparations.",
+          "answer": "pleased"
+        },
+        {
+          "id": "U10_CORE_gap2",
+          "audio": "assets/audio/passages/U10_CORE_gap2.mp3",
+          "sentenceWithGap": "Johny felt quietly content with his work, while Jayden was ___ by the colourful displays and began planning new ideas.",
+          "answer": "inspired"
+        },
+        {
+          "id": "U10_CORE_gap3",
+          "audio": "assets/audio/passages/U10_CORE_gap3.mp3",
+          "sentenceWithGap": "One volunteer became ___ while waiting for visitors, and another felt discontented because she had been given a smaller role than expected.",
+          "answer": "bored"
+        },
+        {
+          "id": "U10_CORE_gap4",
+          "audio": "assets/audio/passages/U10_CORE_gap4.mp3",
+          "sentenceWithGap": "When the sound system stopped working, several students became angry, while Emily was seriously ___ about the effect on the programme.",
+          "answer": "concerned"
+        },
+        {
+          "id": "U10_CORE_gap5",
+          "audio": "assets/audio/passages/U10_CORE_gap5.mp3",
+          "sentenceWithGap": "The situation itself was worrying, but Johny ___.",
+          "answer": "kept a cool head"
+        },
+        {
+          "id": "U10_CORE_gap6",
+          "audio": "assets/audio/passages/U10_CORE_gap6.mp3",
+          "sentenceWithGap": "His ___ response was extremely pleasing to the organisers.",
+          "answer": "calm"
+        },
+        {
+          "id": "U10_CORE_gap7",
+          "audio": "assets/audio/passages/U10_CORE_gap7.mp3",
+          "sentenceWithGap": "Within twenty minutes, the equipment was working again, and ___.",
+          "answer": "things were looking up"
+        },
+        {
+          "id": "U10_CORE_gap8",
+          "audio": "assets/audio/passages/U10_CORE_gap8.mp3",
+          "sentenceWithGap": "A science demonstration was ___, although one sudden explosion was so frightening that several students jumped.",
+          "answer": "exciting"
+        },
+        {
+          "id": "U10_CORE_gap9",
+          "audio": "assets/audio/passages/U10_CORE_gap9.mp3",
+          "sentenceWithGap": "One presentation was rather boring, and a cancelled performance was deeply ___.",
+          "answer": "disappointing"
+        },
+        {
+          "id": "U10_CORE_gap10",
+          "audio": "assets/audio/passages/U10_CORE_gap10.mp3",
+          "sentenceWithGap": "They had faced ___, fear and disappointment, but their emotional control had helped turn a difficult day into a successful one.",
+          "answer": "stress"
+        }
+      ]
+    },
+    {
+      "passageId": "U11_COLLOC",
+      "unit": "U11",
+      "title": "What Brings People Together?",
+      "text": "Linden Park Community House organised a family reunion to celebrate the different ways people form lasting relationships. Some visitors came from a nuclear family, while others arrived with members of their extended family, including grandparents, cousins, aunts and uncles. Although the families were different, everyone was encouraged to share stories and take part in group activities.\n\nLucas found it easy to make friends with the new volunteers because they all enjoyed music and community projects. He quickly discovered that he and one student had several things in common, including a love of football and photography. By contrast, Johny and another volunteer believed they had nothing in common. Johny preferred quiet activities, while the other boy enjoyed performing on stage. However, after working together, they realised that both of them cared about helping younger children.\n\nDuring the event, an older couple told the group how they had met many years earlier. The man said that he had fallen in love with his future wife during their first conversation. She laughed and described it as love at first sight, although she admitted that a strong relationship had taken time and effort to build.\n\nTheir story also showed the importance of trust. Before moving to another city, the man had made a promise to keep in touch. He kept that promise, and their relationship gradually became stronger. Another visitor explained that when someone breaks a promise, it can damage trust and make communication difficult.\n\nAt the end of the reunion, former classmates exchanged contact details and agreed to stay friends, even though some of them now lived far apart. The day showed that shared interests may bring people together, but honesty, respect and effort help relationships last.",
+      "audio": "assets/audio/passages/MT3_u11_together.mp3",
+      "gapSentences": [
+        {
+          "id": "U11_COLLOC_gap1",
+          "audio": "assets/audio/passages/U11_COLLOC_gap1.mp3",
+          "sentenceWithGap": "Some visitors came from a nuclear family, while others arrived with members of their ___, including grandparents, cousins, aunts and uncles.",
+          "answer": "extended family"
+        },
+        {
+          "id": "U11_COLLOC_gap2",
+          "audio": "assets/audio/passages/U11_COLLOC_gap2.mp3",
+          "sentenceWithGap": "Lucas found it easy to ___ with the new volunteers because they all enjoyed music and community projects.",
+          "answer": "make friends"
+        },
+        {
+          "id": "U11_COLLOC_gap3",
+          "audio": "assets/audio/passages/U11_COLLOC_gap3.mp3",
+          "sentenceWithGap": "By contrast, Johny and another volunteer believed they ___.",
+          "answer": "had nothing in common"
+        },
+        {
+          "id": "U11_COLLOC_gap4",
+          "audio": "assets/audio/passages/U11_COLLOC_gap4.mp3",
+          "sentenceWithGap": "The man said that he had ___ his future wife during their first conversation.",
+          "answer": "fallen in love with"
+        },
+        {
+          "id": "U11_COLLOC_gap5",
+          "audio": "assets/audio/passages/U11_COLLOC_gap5.mp3",
+          "sentenceWithGap": "She laughed and described it as ___, although she admitted that a strong relationship had taken time and effort to build.",
+          "answer": "love at first sight"
+        },
+        {
+          "id": "U11_COLLOC_gap6",
+          "audio": "assets/audio/passages/U11_COLLOC_gap6.mp3",
+          "sentenceWithGap": "Before moving to another city, the man had ___ to keep in touch.",
+          "answer": "made a promise"
+        },
+        {
+          "id": "U11_COLLOC_gap7",
+          "audio": "assets/audio/passages/U11_COLLOC_gap7.mp3",
+          "sentenceWithGap": "Another visitor explained that when someone ___, it can damage trust and make communication difficult.",
+          "answer": "breaks a promise"
+        },
+        {
+          "id": "U11_COLLOC_gap8",
+          "audio": "assets/audio/passages/U11_COLLOC_gap8.mp3",
+          "sentenceWithGap": "At the end of the reunion, former classmates exchanged contact details and agreed to ___, even though some of them now lived far apart.",
+          "answer": "stay friends"
+        }
+      ]
+    },
+    {
+      "passageId": "U11_CORE",
+      "unit": "U11",
+      "title": "A Family History Day at Linden Park",
+      "text": "Linden Park Community House was preparing a Family History Day to help residents learn more about their families, their roots and the experiences that had shaped them. Emily organised the registration area, Lucas welcomed visitors, Johny recorded their stories, and Jayden designed a display showing several generations of local families.\n\nThe first group to arrive included three generations living in one household. The children came with their parents and a grandparent, while several other relatives joined them later. The eldest boy introduced his younger brother and sister. Because they shared the same parents, they were siblings. Their mother's sister was their aunt, and her husband was their uncle. Their son was the children's cousin. From the aunt's point of view, the boy was her nephew, while his sister was her niece.\n\nNearby, Jayden was drawing a family tree for a blended family. One student lived with her mother and stepfather, together with a stepbrother from her stepfather's earlier marriage. Another visitor had a stepmother and a stepsister. Emily explained that these relationships were different from those created through marriage. A spouse's brother could be a brother-in-law, while a spouse's sister could be a sister-in-law. The parents of a husband or wife were their parents-in-law.\n\nThe displays also showed different family structures. One board presented a nuclear family, while another showed an extended family including grandparents, aunts, uncles and cousins. A third described a single-parent family. One visitor was an only child, while another was the eldest child in a family of four.\n\nIn the history corner, residents shared photographs of their ancestors and described their family background and upbringing. One elderly visitor said that, throughout his lifetime, his family had moved several times but had never forgotten its cultural roots.\n\nThe day ended with a family gathering and an unexpected reunion between former neighbours. Lucas suggested making it an annual neighbourhood event.\n\nLinden Park Community House was preparing a neighbourhood festival, and the volunteer team included people with many different kinds of relationships. Lucas worked with his best friend, Jayden, while Johny was a close friend whom he trusted with personal worries. Emily invited a good friend from another school. Some volunteers were only casual acquaintances, and one student regularly exchanged messages with a penfriend abroad.\n\nThe wider team included Lucas's classmate, an adult colleague from the Community House office and several local neighbours. Two university volunteers were flatmates, while another pair were roommates at a student residence. The project gave everyone a chance to meet, cooperate and form stronger social connections.\n\nAt first, the team got on well. Lucas and Jayden enjoyed each other's company, had several things in common and supported one another during the preparations. Emily reminded everyone to keep in touch with volunteers who could not attend every meeting. She believed that strong relationships depended on trust and loyalty.\n\nA problem developed when Lucas changed the performance schedule without discussing it with Johny. Their difference of opinion began as a small disagreement, but it soon turned into an argument. Johny felt that Lucas had put too much pressure on the team, while Lucas thought Johny was refusing to accept necessary changes. They fell out and stopped speaking for the rest of the afternoon.\n\nJayden did not want to take sides, so Emily encouraged both boys to explain their feelings calmly. Lucas admitted that he had acted too quickly and apologised to Johny for not listening. Johny accepted the apology and forgave him. They finally made up and agreed that good friends could disagree without allowing one argument to destroy their relationship.\n\nLater, two adult volunteers shared how they had first got to know each other at Linden Park. They began to date, then got together, got engaged and eventually planned to get married. Another visitor explained that she and her former partner had got divorced but had managed to stay friends.\n\nBy the evening, Lucas and Johny were working side by side again.\n\nLinden Park Community House launched a project called Connected Community to help local people build relationships both online and face to face. Lucas welcomed residents to a neighbourhood event, while Emily helped them join a private social network for community activities. Johny reminded everyone to treat each online contact with the same respect they would show someone in person.\n\nThe project brought together different social groups. Some participants were neighbours, while others were former classmates or workmates. Two university volunteers were housemates, another student lived with a flatmate, and two younger volunteers were roommates at a summer programme. Jayden also invited his penfriend, whom he had met through an international art exchange.\n\nAt the registration desk, participants could send a friend request to people they already knew. They were advised to check the person's identity before they accepted a friend request. Once connected, members could interact in group discussions, exchange messages, post comments and share photos from community events. They could also tag somebody in a picture, but Emily reminded them to ask permission first.\n\nThe network helped one resident find an old school friend with whom she had lost touch. Another volunteer used online communication to maintain a steady relationship with her partner while they lived in different cities. A profile about adult relationships also introduced the terms boyfriend, girlfriend, couple, fiancé, fiancée and ex.\n\nNot every online relationship was positive. One student felt under pressure to reply immediately. Another experienced a betrayal when someone shared a private message without permission. Johny explained that people could unfriend or defriend somebody if continued contact made them uncomfortable or unsafe.\n\nThe project also included a story about family responsibility. A local business owner had worked for years to support his family and provide for his family. Later, he inherited part of a family fortune. Instead of keeping the entire inheritance, he chose to donate money to Linden Park.\n\nBy the end of the event, residents understood that technology could strengthen relationships, but trust, consent and responsible communication were still essential.",
+      "audio": "assets/audio/passages/MT3_u11_family.mp3",
+      "parts": [
+        {
+          "title": "A Family History Day at Linden Park",
+          "text": "Linden Park Community House was preparing a Family History Day to help residents learn more about their families, their roots and the experiences that had shaped them. Emily organised the registration area, Lucas welcomed visitors, Johny recorded their stories, and Jayden designed a display showing several generations of local families.\n\nThe first group to arrive included three generations living in one household. The children came with their parents and a grandparent, while several other relatives joined them later. The eldest boy introduced his younger brother and sister. Because they shared the same parents, they were siblings. Their mother's sister was their aunt, and her husband was their uncle. Their son was the children's cousin. From the aunt's point of view, the boy was her nephew, while his sister was her niece.\n\nNearby, Jayden was drawing a family tree for a blended family. One student lived with her mother and stepfather, together with a stepbrother from her stepfather's earlier marriage. Another visitor had a stepmother and a stepsister. Emily explained that these relationships were different from those created through marriage. A spouse's brother could be a brother-in-law, while a spouse's sister could be a sister-in-law. The parents of a husband or wife were their parents-in-law.\n\nThe displays also showed different family structures. One board presented a nuclear family, while another showed an extended family including grandparents, aunts, uncles and cousins. A third described a single-parent family. One visitor was an only child, while another was the eldest child in a family of four.\n\nIn the history corner, residents shared photographs of their ancestors and described their family background and upbringing. One elderly visitor said that, throughout his lifetime, his family had moved several times but had never forgotten its cultural roots.\n\nThe day ended with a family gathering and an unexpected reunion between former neighbours. Lucas suggested making it an annual neighbourhood event.",
+          "audio": "assets/audio/passages/MT3_u11_family.mp3"
+        },
+        {
+          "title": "Staying Close, Falling Out and Making Up",
+          "text": "Linden Park Community House was preparing a neighbourhood festival, and the volunteer team included people with many different kinds of relationships. Lucas worked with his best friend, Jayden, while Johny was a close friend whom he trusted with personal worries. Emily invited a good friend from another school. Some volunteers were only casual acquaintances, and one student regularly exchanged messages with a penfriend abroad.\n\nThe wider team included Lucas's classmate, an adult colleague from the Community House office and several local neighbours. Two university volunteers were flatmates, while another pair were roommates at a student residence. The project gave everyone a chance to meet, cooperate and form stronger social connections.\n\nAt first, the team got on well. Lucas and Jayden enjoyed each other's company, had several things in common and supported one another during the preparations. Emily reminded everyone to keep in touch with volunteers who could not attend every meeting. She believed that strong relationships depended on trust and loyalty.\n\nA problem developed when Lucas changed the performance schedule without discussing it with Johny. Their difference of opinion began as a small disagreement, but it soon turned into an argument. Johny felt that Lucas had put too much pressure on the team, while Lucas thought Johny was refusing to accept necessary changes. They fell out and stopped speaking for the rest of the afternoon.\n\nJayden did not want to take sides, so Emily encouraged both boys to explain their feelings calmly. Lucas admitted that he had acted too quickly and apologised to Johny for not listening. Johny accepted the apology and forgave him. They finally made up and agreed that good friends could disagree without allowing one argument to destroy their relationship.\n\nLater, two adult volunteers shared how they had first got to know each other at Linden Park. They began to date, then got together, got engaged and eventually planned to get married. Another visitor explained that she and her former partner had got divorced but had managed to stay friends.\n\nBy the evening, Lucas and Johny were working side by side again.",
+          "audio": "assets/audio/passages/MT3_u11_staying.mp3"
+        },
+        {
+          "title": "From Neighbours to Online Friends",
+          "text": "Linden Park Community House launched a project called Connected Community to help local people build relationships both online and face to face. Lucas welcomed residents to a neighbourhood event, while Emily helped them join a private social network for community activities. Johny reminded everyone to treat each online contact with the same respect they would show someone in person.\n\nThe project brought together different social groups. Some participants were neighbours, while others were former classmates or workmates. Two university volunteers were housemates, another student lived with a flatmate, and two younger volunteers were roommates at a summer programme. Jayden also invited his penfriend, whom he had met through an international art exchange.\n\nAt the registration desk, participants could send a friend request to people they already knew. They were advised to check the person's identity before they accepted a friend request. Once connected, members could interact in group discussions, exchange messages, post comments and share photos from community events. They could also tag somebody in a picture, but Emily reminded them to ask permission first.\n\nThe network helped one resident find an old school friend with whom she had lost touch. Another volunteer used online communication to maintain a steady relationship with her partner while they lived in different cities. A profile about adult relationships also introduced the terms boyfriend, girlfriend, couple, fiancé, fiancée and ex.\n\nNot every online relationship was positive. One student felt under pressure to reply immediately. Another experienced a betrayal when someone shared a private message without permission. Johny explained that people could unfriend or defriend somebody if continued contact made them uncomfortable or unsafe.\n\nThe project also included a story about family responsibility. A local business owner had worked for years to support his family and provide for his family. Later, he inherited part of a family fortune. Instead of keeping the entire inheritance, he chose to donate money to Linden Park.\n\nBy the end of the event, residents understood that technology could strengthen relationships, but trust, consent and responsible communication were still essential.",
+          "audio": "assets/audio/passages/MT3_u11_online.mp3"
+        }
+      ],
+      "gapSentences": [
+        {
+          "id": "U11_CORE_gap1",
+          "audio": "assets/audio/passages/U11_CORE_gap1.mp3",
+          "sentenceWithGap": "The first group to arrive included three generations living in one ___.",
+          "answer": "household"
+        },
+        {
+          "id": "U11_CORE_gap2",
+          "audio": "assets/audio/passages/U11_CORE_gap2.mp3",
+          "sentenceWithGap": "One visitor was an ___, while another was the eldest child in a family of four.",
+          "answer": "only child"
+        },
+        {
+          "id": "U11_CORE_gap3",
+          "audio": "assets/audio/passages/U11_CORE_gap3.mp3",
+          "sentenceWithGap": "One elderly visitor said that, throughout his lifetime, his family had moved several times but had never forgotten its ___.",
+          "answer": "cultural roots"
+        },
+        {
+          "id": "U11_CORE_gap4",
+          "audio": "assets/audio/passages/U11_CORE_gap4.mp3",
+          "sentenceWithGap": "She believed that strong relationships depended on ___ and loyalty.",
+          "answer": "trust"
+        },
+        {
+          "id": "U11_CORE_gap5",
+          "audio": "assets/audio/passages/U11_CORE_gap5.mp3",
+          "sentenceWithGap": "Their ___ began as a small disagreement, but it soon turned into an argument.",
+          "answer": "difference of opinion"
+        },
+        {
+          "id": "U11_CORE_gap6",
+          "audio": "assets/audio/passages/U11_CORE_gap6.mp3",
+          "sentenceWithGap": "They began to ___, then got together, got engaged and eventually planned to get married.",
+          "answer": "date"
+        },
+        {
+          "id": "U11_CORE_gap7",
+          "audio": "assets/audio/passages/U11_CORE_gap7.mp3",
+          "sentenceWithGap": "Two university volunteers were housemates, another student lived with a flatmate, and two younger volunteers were ___ at a summer programme.",
+          "answer": "roommates"
+        },
+        {
+          "id": "U11_CORE_gap8",
+          "audio": "assets/audio/passages/U11_CORE_gap8.mp3",
+          "sentenceWithGap": "At the registration desk, participants could ___ to people they already knew.",
+          "answer": "send a friend request"
+        },
+        {
+          "id": "U11_CORE_gap9",
+          "audio": "assets/audio/passages/U11_CORE_gap9.mp3",
+          "sentenceWithGap": "Another experienced a betrayal when someone shared a private message without ___.",
+          "answer": "permission"
+        },
+        {
+          "id": "U11_CORE_gap10",
+          "audio": "assets/audio/passages/U11_CORE_gap10.mp3",
+          "sentenceWithGap": "A local business owner had worked for years to ___ and provide for his family.",
+          "answer": "support his family"
+        }
+      ]
+    },
+    {
+      "passageId": "U11_PV",
+      "unit": "U11",
+      "title": "Learning to Rely on One Another",
+      "text": "When a new volunteer named Amir joined the Linden Park team, Lucas introduced him to the other students and explained how the Community House worked. Amir was quiet but friendly, and Emily soon became fond of his careful way of organising materials. However, Johny was unsure about him at first. Amir worked very independently and sometimes seemed unwilling to ask for help.\n\nDuring the first week, Lucas and Amir got on well, but Johny became jealous of the attention Amir received for his ideas. He began to complain about small mistakes and even seemed to look down on Amir because he was less confident when speaking in front of a group. Amir felt under pressure but did not know how to cope with the situation.\n\nEventually, he confided in Emily. She reminded him that he could rely on the team and did not need to solve every problem alone. She also spoke privately to Johny and explained that criticism should be fair and respectful. Johny admitted that he had acted badly. In fact, he looked up to Amir's creativity and was worried that his own ideas would be ignored.\n\nThe two boys later discussed the problem, but the conversation became tense and they briefly fell out with each other. Lucas encouraged them to listen instead of blaming one another. Johny apologised for putting pressure on Amir, while Amir agreed to communicate more openly. They finally made up and completed the project together.\n\nBy the end of the week, Amir felt more independent of constant support, but he also understood that independence did not mean refusing help. The team had learnt that strong relationships grow when people respect differences, communicate honestly and look out for one another.",
+      "audio": "assets/audio/passages/MT3_u11_rely.mp3",
+      "gapSentences": [
+        {
+          "id": "U11_PV_gap1",
+          "audio": "assets/audio/passages/U11_PV_gap1.mp3",
+          "sentenceWithGap": "During the first week, Lucas and Amir ___ well, but Johny became jealous of the attention Amir received for his ideas.",
+          "answer": "got on"
+        },
+        {
+          "id": "U11_PV_gap2",
+          "audio": "assets/audio/passages/U11_PV_gap2.mp3",
+          "sentenceWithGap": "He began to complain about small mistakes and even seemed to ___ Amir because he was less confident when speaking in front of a group.",
+          "answer": "look down on"
+        },
+        {
+          "id": "U11_PV_gap3",
+          "audio": "assets/audio/passages/U11_PV_gap3.mp3",
+          "sentenceWithGap": "She reminded him that he could ___ the team and did not need to solve every problem alone.",
+          "answer": "rely on"
+        },
+        {
+          "id": "U11_PV_gap4",
+          "audio": "assets/audio/passages/U11_PV_gap4.mp3",
+          "sentenceWithGap": "In fact, he ___ Amir's creativity and was worried that his own ideas would be ignored.",
+          "answer": "looked up to"
+        },
+        {
+          "id": "U11_PV_gap5",
+          "audio": "assets/audio/passages/U11_PV_gap5.mp3",
+          "sentenceWithGap": "The two boys later discussed the problem, but the conversation became tense and they briefly ___ each other.",
+          "answer": "fell out with"
+        },
+        {
+          "id": "U11_PV_gap6",
+          "audio": "assets/audio/passages/U11_PV_gap6.mp3",
+          "sentenceWithGap": "They finally ___ and completed the project together.",
+          "answer": "made up"
+        },
+        {
+          "id": "U11_PV_gap7",
+          "audio": "assets/audio/passages/U11_PV_gap7.mp3",
+          "sentenceWithGap": "The team had learnt that strong relationships grow when people respect differences, communicate honestly and ___ one another.",
+          "answer": "look out for"
+        }
+      ]
+    },
+    {
+      "passageId": "U11_WP",
+      "unit": "U11",
+      "title": "Learning to Rely on One Another",
+      "text": "When a new volunteer named Amir joined the Linden Park team, Lucas introduced him to the other students and explained how the Community House worked. Amir was quiet but friendly, and Emily soon became fond of his careful way of organising materials. However, Johny was unsure about him at first. Amir worked very independently and sometimes seemed unwilling to ask for help.\n\nDuring the first week, Lucas and Amir got on well, but Johny became jealous of the attention Amir received for his ideas. He began to complain about small mistakes and even seemed to look down on Amir because he was less confident when speaking in front of a group. Amir felt under pressure but did not know how to cope with the situation.\n\nEventually, he confided in Emily. She reminded him that he could rely on the team and did not need to solve every problem alone. She also spoke privately to Johny and explained that criticism should be fair and respectful. Johny admitted that he had acted badly. In fact, he looked up to Amir's creativity and was worried that his own ideas would be ignored.\n\nThe two boys later discussed the problem, but the conversation became tense and they briefly fell out with each other. Lucas encouraged them to listen instead of blaming one another. Johny apologised for putting pressure on Amir, while Amir agreed to communicate more openly. They finally made up and completed the project together.\n\nBy the end of the week, Amir felt more independent of constant support, but he also understood that independence did not mean refusing help. The team had learnt that strong relationships grow when people respect differences, communicate honestly and look out for one another.",
+      "audio": "assets/audio/passages/MT3_u11_rely.mp3",
+      "gapSentences": [
+        {
+          "id": "U11_WP_gap1",
+          "audio": "assets/audio/passages/U11_WP_gap1.mp3",
+          "sentenceWithGap": "When a new volunteer named Amir joined the Linden Park team, Lucas ___ the other students and explained how the Community House worked.",
+          "answer": "introduced him to"
+        },
+        {
+          "id": "U11_WP_gap2",
+          "audio": "assets/audio/passages/U11_WP_gap2.mp3",
+          "sentenceWithGap": "Amir was quiet but friendly, and Emily soon became ___ his careful way of organising materials.",
+          "answer": "fond of"
+        },
+        {
+          "id": "U11_WP_gap3",
+          "audio": "assets/audio/passages/U11_WP_gap3.mp3",
+          "sentenceWithGap": "During the first week, Lucas and Amir got on well, but Johny became ___ the attention Amir received for his ideas.",
+          "answer": "jealous of"
+        },
+        {
+          "id": "U11_WP_gap4",
+          "audio": "assets/audio/passages/U11_WP_gap4.mp3",
+          "sentenceWithGap": "He began to ___ small mistakes and even seemed to look down on Amir because he was less confident when speaking in front of a group.",
+          "answer": "complain about"
+        },
+        {
+          "id": "U11_WP_gap5",
+          "audio": "assets/audio/passages/U11_WP_gap5.mp3",
+          "sentenceWithGap": "Amir felt under pressure but did not know how to ___ the situation.",
+          "answer": "cope with"
+        },
+        {
+          "id": "U11_WP_gap6",
+          "audio": "assets/audio/passages/U11_WP_gap6.mp3",
+          "sentenceWithGap": "Johny apologised for ___ Amir, while Amir agreed to communicate more openly.",
+          "answer": "putting pressure on"
+        },
+        {
+          "id": "U11_WP_gap7",
+          "audio": "assets/audio/passages/U11_WP_gap7.mp3",
+          "sentenceWithGap": "By the end of the week, Amir felt more ___ constant support, but he also understood that independence did not mean refusing help.",
+          "answer": "independent of"
+        }
+      ]
+    },
+    {
+      "passageId": "U12_COLLOC",
+      "unit": "U12",
+      "title": "Thinking Before Taking Sides",
+      "text": "Linden Park Community House was considering a new rule to limit mobile-phone use during youth activities. Lucas was in favour of the proposal because he believed phones often distracted students from group discussions. Several parents showed approval of his position, and one volunteer said she completely agreed with Lucas. Johny, however, objected to banning phones completely. He argued that students sometimes needed them to contact their families or complete research tasks.\n\nBefore the team made a decision, Emily asked everyone to think through the implications of the rule. She reminded them that they needed to agree on the purpose of the restriction before they could agree to a final policy. Jayden suggested that the group should think the proposal over for a few days rather than make a hurried choice.\n\nThe discussion became tense when one volunteer attacked Lucas for supporting the restriction and accused him of wanting to control other students. Lucas found it difficult to think straight, and he and Johny soon had an argument about whether personal freedom was more important than concentration. Emily explained that disagreeing with a proposal did not mean attacking the person who had suggested it. She also warned that the centre should not force students to give up their phones without listening to their concerns.\n\nJohny then did Lucas a favour by checking the results of a recent student survey. The figures showed that most students did not approve of a complete ban, but many supported phone-free periods during workshops. Lucas admitted that he owed Johny a favour for finding useful evidence. When Emily asked them to think back to previous activities, they remembered that students had often put their phones away willingly during practical projects.\n\nThe survey helped convince the team of the benefits of a balanced approach. They finally agreed on allowing phones during breaks but not during discussions, and everyone agreed to test the rule for one month. The Community House manager gave approval for the trial, while parents showed approval for the team's thoughtful solution. Jayden said he would not think twice about supporting a rule that respected both concentration and personal responsibility.",
+      "audio": "assets/audio/passages/MT3_u12_sides.mp3",
+      "gapSentences": [
+        {
+          "id": "U12_COLLOC_gap1",
+          "audio": "assets/audio/passages/U12_COLLOC_gap1.mp3",
+          "sentenceWithGap": "Lucas was ___ the proposal because he believed phones often distracted students from group discussions.",
+          "answer": "in favour of"
+        },
+        {
+          "id": "U12_COLLOC_gap2",
+          "audio": "assets/audio/passages/U12_COLLOC_gap2.mp3",
+          "sentenceWithGap": "Several parents ___ his position, and one volunteer said she completely agreed with Lucas.",
+          "answer": "showed approval of"
+        },
+        {
+          "id": "U12_COLLOC_gap3",
+          "audio": "assets/audio/passages/U12_COLLOC_gap3.mp3",
+          "sentenceWithGap": "Lucas found it difficult to think straight, and he and Johny soon ___ whether personal freedom was more important than concentration.",
+          "answer": "had an argument about"
+        },
+        {
+          "id": "U12_COLLOC_gap4",
+          "audio": "assets/audio/passages/U12_COLLOC_gap4.mp3",
+          "sentenceWithGap": "The Community House manager ___ for the trial, while parents showed approval for the team's thoughtful solution.",
+          "answer": "gave approval"
+        }
+      ]
+    },
+    {
+      "passageId": "U12_CORE",
+      "unit": "U12",
+      "title": "The Linden Park Community Forum",
+      "text": "Linden Park volunteers met to choose a youth project. They brought different opinions, beliefs, views, points of view and attitudes. Johny noticed doubts in some, but strong conviction and judgement in others. Lucas thought a study space was best, Emily believed in a wellbeing programme, and Johny felt the garden should come first. Jayden maintained that art would attract teenagers, held the view that it offered wider benefits and was convinced attendance would be high, though one volunteer continued to doubt it.\n\nLucas chose to support Jayden. Some volunteers approved, others disapproved, while several opposed the proposal or objected to its cost. Emily asked everyone to agree on priorities, disagree respectfully, and approve of or disapprove of each idea after considering facts. Lucas remained firm with a strong preference for practical results. Johny took a moderate, middle-of-the-road position. One visitor preferred a traditional, conservative plan, while another was more open-minded and broad-minded. Emily warned that becoming obsessive about one proposal would prevent fair discussion.\n\nJayden presented his design. Volunteers liked, loved and adored it. They admired his creativity, respected his effort, said it would appeal to teenagers, and found it fascinating and captivating. Emily was fond of the colours, Lucas was keen on the digital section, and Jayden was passionate about it. The design was highly praised as first-rate, top-notch and among the best. Johny praised Jayden for being on the ball. Yet one volunteer disliked the layout, could not stand the cost, another could not bear its colours, and both criticised the plan, became critical, picked holes in details and made an absurd, insulting and offensive remark.\n\nThe remark caused a misunderstanding, and one volunteer seemed at fault. Emily said nobody should decide who was to blame without evidence. Jayden admitted one cost figure was unclear and took responsibility. Approval, disapproval, objections and disagreement had caused an argument, but most remained in favour of continuing. Emily warned them not to judge quickly or become judgemental, since prejudice could lead to an unfair judgement. Finally, they combined the strongest parts and reached a balanced decision through evidence and respectful disagreement.",
+      "audio": "assets/audio/passages/MT3_u12_forum.mp3",
+      "gapSentences": [
+        {
+          "id": "U12_CORE_gap1",
+          "audio": "assets/audio/passages/U12_CORE_gap1.mp3",
+          "sentenceWithGap": "They brought different opinions, beliefs, ___, points of view and attitudes.",
+          "answer": "views"
+        },
+        {
+          "id": "U12_CORE_gap2",
+          "audio": "assets/audio/passages/U12_CORE_gap2.mp3",
+          "sentenceWithGap": "Johny noticed ___ in some, but strong conviction and judgement in others.",
+          "answer": "doubts"
+        },
+        {
+          "id": "U12_CORE_gap3",
+          "audio": "assets/audio/passages/U12_CORE_gap3.mp3",
+          "sentenceWithGap": "Jayden maintained that art would attract teenagers, held the view that it offered wider benefits and was ___ attendance would be high, though one volunteer continued to doubt it.",
+          "answer": "convinced"
+        },
+        {
+          "id": "U12_CORE_gap4",
+          "audio": "assets/audio/passages/U12_CORE_gap4.mp3",
+          "sentenceWithGap": "Emily asked everyone to agree on priorities, disagree respectfully, and approve of or ___ of each idea after considering facts.",
+          "answer": "disapprove"
+        },
+        {
+          "id": "U12_CORE_gap5",
+          "audio": "assets/audio/passages/U12_CORE_gap5.mp3",
+          "sentenceWithGap": "Lucas remained ___ with a strong preference for practical results.",
+          "answer": "firm"
+        },
+        {
+          "id": "U12_CORE_gap6",
+          "audio": "assets/audio/passages/U12_CORE_gap6.mp3",
+          "sentenceWithGap": "One visitor preferred a traditional, conservative plan, while another was more ___ and broad-minded.",
+          "answer": "open-minded"
+        },
+        {
+          "id": "U12_CORE_gap7",
+          "audio": "assets/audio/passages/U12_CORE_gap7.mp3",
+          "sentenceWithGap": "They admired his creativity, respected his effort, said it would ___ teenagers, and found it fascinating and captivating.",
+          "answer": "appeal to"
+        },
+        {
+          "id": "U12_CORE_gap8",
+          "audio": "assets/audio/passages/U12_CORE_gap8.mp3",
+          "sentenceWithGap": "Emily was ___ the colours, Lucas was keen on the digital section, and Jayden was passionate about it.",
+          "answer": "fond of"
+        },
+        {
+          "id": "U12_CORE_gap9",
+          "audio": "assets/audio/passages/U12_CORE_gap9.mp3",
+          "sentenceWithGap": "Jayden admitted one cost figure was unclear and ___.",
+          "answer": "took responsibility"
+        },
+        {
+          "id": "U12_CORE_gap10",
+          "audio": "assets/audio/passages/U12_CORE_gap10.mp3",
+          "sentenceWithGap": "Approval, disapproval, objections and disagreement had caused an ___, but most remained in favour of continuing.",
+          "answer": "argument"
+        }
+      ]
+    },
+    {
+      "passageId": "U12_WP",
+      "unit": "U12",
+      "title": "Thinking Before Taking Sides",
+      "text": "Linden Park Community House was considering a new rule to limit mobile-phone use during youth activities. Lucas was in favour of the proposal because he believed phones often distracted students from group discussions. Several parents showed approval of his position, and one volunteer said she completely agreed with Lucas. Johny, however, objected to banning phones completely. He argued that students sometimes needed them to contact their families or complete research tasks.\n\nBefore the team made a decision, Emily asked everyone to think through the implications of the rule. She reminded them that they needed to agree on the purpose of the restriction before they could agree to a final policy. Jayden suggested that the group should think the proposal over for a few days rather than make a hurried choice.\n\nThe discussion became tense when one volunteer attacked Lucas for supporting the restriction and accused him of wanting to control other students. Lucas found it difficult to think straight, and he and Johny soon had an argument about whether personal freedom was more important than concentration. Emily explained that disagreeing with a proposal did not mean attacking the person who had suggested it. She also warned that the centre should not force students to give up their phones without listening to their concerns.\n\nJohny then did Lucas a favour by checking the results of a recent student survey. The figures showed that most students did not approve of a complete ban, but many supported phone-free periods during workshops. Lucas admitted that he owed Johny a favour for finding useful evidence. When Emily asked them to think back to previous activities, they remembered that students had often put their phones away willingly during practical projects.\n\nThe survey helped convince the team of the benefits of a balanced approach. They finally agreed on allowing phones during breaks but not during discussions, and everyone agreed to test the rule for one month. The Community House manager gave approval for the trial, while parents showed approval for the team's thoughtful solution. Jayden said he would not think twice about supporting a rule that respected both concentration and personal responsibility.",
+      "audio": "assets/audio/passages/MT3_u12_sides.mp3",
+      "gapSentences": [
+        {
+          "id": "U12_WP_gap1",
+          "audio": "assets/audio/passages/U12_WP_gap1.mp3",
+          "sentenceWithGap": "Several parents showed approval of his position, and one volunteer said she completely ___ with Lucas.",
+          "answer": "agreed"
+        },
+        {
+          "id": "U12_WP_gap2",
+          "audio": "assets/audio/passages/U12_WP_gap2.mp3",
+          "sentenceWithGap": "Before the team made a decision, Emily asked everyone to ___ of the rule.",
+          "answer": "think through the implications"
+        },
+        {
+          "id": "U12_WP_gap3",
+          "audio": "assets/audio/passages/U12_WP_gap3.mp3",
+          "sentenceWithGap": "She reminded them that they needed to agree on the purpose of the restriction before they could ___ a final policy.",
+          "answer": "agree to"
+        },
+        {
+          "id": "U12_WP_gap4",
+          "audio": "assets/audio/passages/U12_WP_gap4.mp3",
+          "sentenceWithGap": "Lucas found it difficult to ___, and he and Johny soon had an argument about whether personal freedom was more important than concentration.",
+          "answer": "think straight"
+        },
+        {
+          "id": "U12_WP_gap5",
+          "audio": "assets/audio/passages/U12_WP_gap5.mp3",
+          "sentenceWithGap": "She also warned that the centre should not ___ students to give up their phones without listening to their concerns.",
+          "answer": "force"
+        },
+        {
+          "id": "U12_WP_gap6",
+          "audio": "assets/audio/passages/U12_WP_gap6.mp3",
+          "sentenceWithGap": "The figures showed that most students did not ___ a complete ban, but many supported phone-free periods during workshops.",
+          "answer": "approve of"
+        },
+        {
+          "id": "U12_WP_gap7",
+          "audio": "assets/audio/passages/U12_WP_gap7.mp3",
+          "sentenceWithGap": "When Emily asked them to ___ previous activities, they remembered that students had often put their phones away willingly during practical projects.",
+          "answer": "think back to"
+        },
+        {
+          "id": "U12_WP_gap8",
+          "audio": "assets/audio/passages/U12_WP_gap8.mp3",
+          "sentenceWithGap": "The survey helped ___ the team of the benefits of a balanced approach.",
+          "answer": "convince"
+        },
+        {
+          "id": "U12_WP_gap9",
+          "audio": "assets/audio/passages/U12_WP_gap9.mp3",
+          "sentenceWithGap": "They finally ___ allowing phones during breaks but not during discussions, and everyone agreed to test the rule for one month.",
+          "answer": "agreed on"
+        },
+        {
+          "id": "U12_WP_gap10",
+          "audio": "assets/audio/passages/U12_WP_gap10.mp3",
+          "sentenceWithGap": "Jayden said he would ___ supporting a rule that respected both concentration and personal responsibility.",
+          "answer": "not think twice about"
+        }
+      ]
     }
   ]
 }
