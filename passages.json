@@ -9230,6 +9230,68 @@
             }
           ]
         }
+      ],
+      "gapSentences": [
+        {
+          "id": "U6_COLLOC_gap1",
+          "audio": "assets/audio/passages/U6_COLLOC_gap1.mp3",
+          "sentenceWithGap": "Hana felt ___ everyone in the cast after the final performance.",
+          "answer": "proud of"
+        },
+        {
+          "id": "U6_COLLOC_gap2",
+          "audio": "assets/audio/passages/U6_COLLOC_gap2.mp3",
+          "sentenceWithGap": "There was no ___ in rehearsing the scene again so late at night.",
+          "answer": "point"
+        },
+        {
+          "id": "U6_COLLOC_gap3",
+          "audio": "assets/audio/passages/U6_COLLOC_gap3.mp3",
+          "sentenceWithGap": "Ben brought extra costumes ___ one of them was damaged.",
+          "answer": "in case"
+        },
+        {
+          "id": "U6_COLLOC_gap4",
+          "audio": "assets/audio/passages/U6_COLLOC_gap4.mp3",
+          "sentenceWithGap": "The lighting crew ___ fix the problem before the show began.",
+          "answer": "failed to"
+        },
+        {
+          "id": "U6_COLLOC_gap5",
+          "audio": "assets/audio/passages/U6_COLLOC_gap5.mp3",
+          "sentenceWithGap": "The director was ___ at how quickly the cast learned their lines.",
+          "answer": "surprised"
+        },
+        {
+          "id": "U6_COLLOC_gap6",
+          "audio": "assets/audio/passages/U6_COLLOC_gap6.mp3",
+          "sentenceWithGap": "___ the curtain rose, the audience fell silent.",
+          "answer": "As soon as"
+        },
+        {
+          "id": "U6_COLLOC_gap7",
+          "audio": "assets/audio/passages/U6_COLLOC_gap7.mp3",
+          "sentenceWithGap": "Everyone ___ the final rehearsal had gone well.",
+          "answer": "agreed that"
+        },
+        {
+          "id": "U6_COLLOC_gap8",
+          "audio": "assets/audio/passages/U6_COLLOC_gap8.mp3",
+          "sentenceWithGap": "The show is ___ attract a large audience this year.",
+          "answer": "likely to"
+        },
+        {
+          "id": "U6_COLLOC_gap9",
+          "audio": "assets/audio/passages/U6_COLLOC_gap9.mp3",
+          "sentenceWithGap": "The production received ___ for its outstanding performances and gripping storyline.",
+          "answer": "rave reviews"
+        },
+        {
+          "id": "U6_COLLOC_gap10",
+          "audio": "assets/audio/passages/U6_COLLOC_gap10.mp3",
+          "sentenceWithGap": "The final rehearsal took place the night before the ___.",
+          "answer": "live performance"
+        }
       ]
     },
     {
