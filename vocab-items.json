@@ -17426,9 +17426,9 @@
       "keyChunk": null,
       "passageId": "U8_CORE",
       "audioWord": "assets/audio/vocab/U8_core_noticeable_feature.mp3",
-      "ipa": "/ˈfiːtʃər/",
-      "definition": "one noticeable part of a person's face or appearance",
-      "example": "Her bright green eyes were her most striking feature.",
+      "ipa": "/ˈnoʊtɪsəbl ˈfiːtʃər/",
+      "definition": "one part of a person's appearance that stands out and is easy to notice",
+      "example": "Johny concluded that a person's eyes, smile or hair might be their most noticeable feature.",
       "highlightForms": [
         "noticeable feature"
       ]
@@ -18638,9 +18638,9 @@
       "keyChunk": null,
       "passageId": "U13_CORE",
       "audioWord": "assets/audio/vocab/U13_core_charity.mp3",
-      "ipa": "/ˈtʃærətəbl ˌɔːrɡənaɪˈzeɪʃn/",
-      "definition": "a group set up to help people in need rather than to make money",
-      "example": "The charitable organisation delivers food parcels to families every month.",
+      "ipa": "/ˈtʃærəti/",
+      "definition": "an organisation that raises money to help people in need, or the giving of money and help to people in need",
+      "example": "A local charity accepted each donation and encouraged visitors to donate clothes, food and school supplies.",
       "highlightForms": [
         "charity"
       ]
@@ -18806,9 +18806,9 @@
       "keyChunk": null,
       "passageId": "U13_CORE",
       "audioWord": "assets/audio/vocab/U13_core_public_campaign.mp3",
-      "ipa": "/kæmˈpeɪn/",
-      "definition": "a planned series of activities intended to achieve a particular social or political result",
-      "example": "The youth committee launched a campaign to reduce plastic waste.",
+      "ipa": "/ˈpʌblɪk kæmˈpeɪn/",
+      "definition": "a planned series of activities, open to the general public, intended to achieve a particular social or political result",
+      "example": "The public campaign invited residents to take part in community action, including collecting blankets for an animal charity.",
       "highlightForms": [
         "public campaign"
       ]
