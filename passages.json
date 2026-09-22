@@ -11040,6 +11040,156 @@
           "answer": "not think twice about"
         }
       ]
+    },
+    {
+      "passageId": "U8_CORE",
+      "unit": "U8",
+      "title": "More Than a First Impression",
+      "text": "Linden Park Community House was preparing profile boards for a new student volunteering programme. Jayden offered to draw quick portraits, while Johny recorded the details that would help visitors recognise each volunteer.\n\nThe group soon noticed how varied people’s appearances could be. One student had long, straight hair, while another had thick, wavy hair. A younger volunteer had short, curly hair, and the sports instructor wore a neat crew-cut. One adult helper was bald, while another had receding hair and a few wrinkles around his eyes. The oldest volunteer had once had dark hair, but it had gradually gone grey.\n\nHair colour also differed. Some students were fair-haired or blonde, while others were dark-haired. One girl had bright ginger hair, and another had beautiful auburn hair, which was a deeper red-brown. A visiting photographer had a short beard and moustache.\n\nFaces were equally distinctive. One student was thin-faced, another was round-faced, and a younger child had a chubby face. Some volunteers had freckles, while others had a clear, even complexion. Their skin tones ranged naturally from fair skin to dark skin. A few students had become suntanned after spending the summer outdoors, although one had stayed in the sun too long and become slightly sunburnt.\n\nThe volunteers also differed in height and build. Some were tall, some were short, and one was only tallish. One runner was slim, while another looked stocky and strong. The climbing instructor was well-built and muscular.\n\nEmily reminded the group to describe appearance carefully and respectfully. Someone might look smart, elegant or well-dressed, while another person might appear scruffy or untidy-looking after working all day. Words such as attractive, good-looking, handsome, beautiful and stunning describe appearance, but they do not tell us whether a person is kind, responsible or talented.\n\nJohny concluded that a person’s eyes, smile or hair might be their most noticeable feature, but a first impression could never reveal the whole person.\n\nThe following Saturday, the volunteers worked through a full programme of activities at Linden Park.\n\nLucas arrived early, but he had slept badly and kept beginning to yawn. During the morning briefing, dust from an old curtain made Jayden sneeze, while another student began to cough because the rehearsal room was slightly smoky. A tired adult volunteer had fallen asleep in a chair and was quietly snoring. When the missing equipment was finally found, Emily sighed with relief.\n\nThe team then carried several boxes upstairs. By the time Lucas reached the top floor, he was out of breath. Before giving the opening speech, he stopped to take a deep breath. The audience seemed to hold their breath while waiting for the final competition result.\n\nAt lunchtime, Johny reminded the younger students to bite their food carefully, chew it properly and swallow before speaking. One child was sucking a sweet, while another was licking an ice cream. Jayden’s stomach began to rumble because he had missed breakfast.\n\nLater, the drama group practised facial expressions. Emily deliberately winked at Lucas to make him laugh. Johny blinked several times after dust entered his eye. One actor frowned to show confusion, while another grinned broadly after receiving praise. A shy student began to blush when everyone applauded her performance.\n\nBy the afternoon, the room had become warm. Several volunteers started to sweat, although the event organiser preferred the more formal word perspire. Outside, a sudden cold wind made one student shiver. Another student’s hands began to tremble before a presentation, while Lucas laughed so hard at Jayden’s joke that his whole body shook.\n\nThese small actions showed how the body can reveal tiredness, cold, nervousness, relief, amusement and many other physical states.",
+      "audio": "assets/audio/passages/MT3_u8_impression.mp3",
+      "parts": [
+        {
+          "title": "More Than a First Impression",
+          "text": "Linden Park Community House was preparing profile boards for a new student volunteering programme. Jayden offered to draw quick portraits, while Johny recorded the details that would help visitors recognise each volunteer.\n\nThe group soon noticed how varied people’s appearances could be. One student had long, straight hair, while another had thick, wavy hair. A younger volunteer had short, curly hair, and the sports instructor wore a neat crew-cut. One adult helper was bald, while another had receding hair and a few wrinkles around his eyes. The oldest volunteer had once had dark hair, but it had gradually gone grey.\n\nHair colour also differed. Some students were fair-haired or blonde, while others were dark-haired. One girl had bright ginger hair, and another had beautiful auburn hair, which was a deeper red-brown. A visiting photographer had a short beard and moustache.\n\nFaces were equally distinctive. One student was thin-faced, another was round-faced, and a younger child had a chubby face. Some volunteers had freckles, while others had a clear, even complexion. Their skin tones ranged naturally from fair skin to dark skin. A few students had become suntanned after spending the summer outdoors, although one had stayed in the sun too long and become slightly sunburnt.\n\nThe volunteers also differed in height and build. Some were tall, some were short, and one was only tallish. One runner was slim, while another looked stocky and strong. The climbing instructor was well-built and muscular.\n\nEmily reminded the group to describe appearance carefully and respectfully. Someone might look smart, elegant or well-dressed, while another person might appear scruffy or untidy-looking after working all day. Words such as attractive, good-looking, handsome, beautiful and stunning describe appearance, but they do not tell us whether a person is kind, responsible or talented.\n\nJohny concluded that a person’s eyes, smile or hair might be their most noticeable feature, but a first impression could never reveal the whole person.",
+          "audio": "assets/audio/passages/MT3_u8_impression.mp3"
+        },
+        {
+          "title": "What the Body Does",
+          "text": "The following Saturday, the volunteers worked through a full programme of activities at Linden Park.\n\nLucas arrived early, but he had slept badly and kept beginning to yawn. During the morning briefing, dust from an old curtain made Jayden sneeze, while another student began to cough because the rehearsal room was slightly smoky. A tired adult volunteer had fallen asleep in a chair and was quietly snoring. When the missing equipment was finally found, Emily sighed with relief.\n\nThe team then carried several boxes upstairs. By the time Lucas reached the top floor, he was out of breath. Before giving the opening speech, he stopped to take a deep breath. The audience seemed to hold their breath while waiting for the final competition result.\n\nAt lunchtime, Johny reminded the younger students to bite their food carefully, chew it properly and swallow before speaking. One child was sucking a sweet, while another was licking an ice cream. Jayden’s stomach began to rumble because he had missed breakfast.\n\nLater, the drama group practised facial expressions. Emily deliberately winked at Lucas to make him laugh. Johny blinked several times after dust entered his eye. One actor frowned to show confusion, while another grinned broadly after receiving praise. A shy student began to blush when everyone applauded her performance.\n\nBy the afternoon, the room had become warm. Several volunteers started to sweat, although the event organiser preferred the more formal word perspire. Outside, a sudden cold wind made one student shiver. Another student’s hands began to tremble before a presentation, while Lucas laughed so hard at Jayden’s joke that his whole body shook.\n\nThese small actions showed how the body can reveal tiredness, cold, nervousness, relief, amusement and many other physical states.",
+          "audio": "assets/audio/passages/MT3_u8_body.mp3"
+        }
+      ],
+      "gapSentences": [
+        {
+          "id": "U8_CORE_gap1",
+          "audio": "assets/audio/passages/U8_CORE_gap1.mp3",
+          "sentenceWithGap": "A younger volunteer had short, ___, and the sports instructor wore a neat crew-cut.",
+          "answer": "curly hair"
+        },
+        {
+          "id": "U8_CORE_gap2",
+          "audio": "assets/audio/passages/U8_CORE_gap2.mp3",
+          "sentenceWithGap": "One adult helper was bald, while another had receding hair and a few ___ around his eyes.",
+          "answer": "wrinkles"
+        },
+        {
+          "id": "U8_CORE_gap3",
+          "audio": "assets/audio/passages/U8_CORE_gap3.mp3",
+          "sentenceWithGap": "A visiting photographer had a short beard and ___.",
+          "answer": "moustache"
+        },
+        {
+          "id": "U8_CORE_gap4",
+          "audio": "assets/audio/passages/U8_CORE_gap4.mp3",
+          "sentenceWithGap": "Some volunteers had freckles, while others had a clear, even ___.",
+          "answer": "complexion"
+        },
+        {
+          "id": "U8_CORE_gap5",
+          "audio": "assets/audio/passages/U8_CORE_gap5.mp3",
+          "sentenceWithGap": "Someone might look smart, ___ or well-dressed, while another person might appear scruffy or untidy-looking after working all day.",
+          "answer": "elegant"
+        },
+        {
+          "id": "U8_CORE_gap6",
+          "audio": "assets/audio/passages/U8_CORE_gap6.mp3",
+          "sentenceWithGap": "Words such as attractive, good-looking, handsome, beautiful and ___ describe appearance, but they do not tell us whether a person is kind, responsible or talented.",
+          "answer": "stunning"
+        },
+        {
+          "id": "U8_CORE_gap7",
+          "audio": "assets/audio/passages/U8_CORE_gap7.mp3",
+          "sentenceWithGap": "Johny concluded that a person’s eyes, smile or hair might be their most noticeable feature, but a ___ could never reveal the whole person.",
+          "answer": "first impression"
+        },
+        {
+          "id": "U8_CORE_gap8",
+          "audio": "assets/audio/passages/U8_CORE_gap8.mp3",
+          "sentenceWithGap": "Before giving the opening speech, he stopped to ___.",
+          "answer": "take a deep breath"
+        },
+        {
+          "id": "U8_CORE_gap9",
+          "audio": "assets/audio/passages/U8_CORE_gap9.mp3",
+          "sentenceWithGap": "At lunchtime, Johny reminded the younger students to bite their food carefully, chew it properly and ___ before speaking.",
+          "answer": "swallow"
+        },
+        {
+          "id": "U8_CORE_gap10",
+          "audio": "assets/audio/passages/U8_CORE_gap10.mp3",
+          "sentenceWithGap": "One actor ___ to show confusion, while another grinned broadly after receiving praise.",
+          "answer": "frowned"
+        }
+      ]
+    },
+    {
+      "passageId": "U13_CORE",
+      "unit": "U13",
+      "title": "Linden Park Global Action Day",
+      "text": "Linden Park Community House hosted Global Action Day, bringing together a local association, a youth committee, partner organisations and the wider community. One charitable organisation collected books for an orphanage, while every volunteer chose a form of volunteering that matched their skills. Some did voluntary work at information desks; others joined short-term volunteer work in a community project. The organisers asked everyone to cooperate, and the most cooperative volunteers helped newcomers settle in.\n\nA local charity accepted each donation and encouraged visitors to donate clothes, food and school supplies. Its fundraising team hoped to secure enough financial support to provide support for families affected by recent crises. Nearby, Jayden ran a campaign to raise awareness of animal welfare. The public campaign invited residents to take part in community action, including collecting blankets for an animal charity, helping at a rescue shelter and improving support for animals.\n\nJohny’s display explained how disasters affect people. A casualty may be injured or killed, while a victim suffers because of an event and a survivor lives through it. A refugee may cross a border to escape danger, whereas a migrant may move for many reasons. Johny warned that it was ignorant to assume the terms meant the same thing. The display also referred to the wounded, to places where volcanoes erupt, diseases spread rapidly, conflicts break out, and storms sweep through communities. In severe situations, people may starve or suffer from shortages.\n\nEmily then led a workshop about government, each public institution, democracy, public policy, elected representatives and national independence. During a mock election, every candidate represented a constituency. Students cast a vote on a ballot paper, and the winner needed a majority at the temporary polling station. One initially uncooperative participant later accepted the result.\n\nThe final session dealt with cyberbullying, intimidation, an insulting message and other harmful online behaviour. After one student became a victim, Lucas launched an online support campaign. Emily explained that attempts to exclude people could lead to lasting exclusion, and no responsible citizen should ignore it. Such ignorance weakens social responsibility and damages community support. Through genuine cooperation, every social group and tribe can contribute to a fairer civilisation.",
+      "audio": "assets/audio/passages/MT3_u13_action.mp3",
+      "gapSentences": [
+        {
+          "id": "U13_CORE_gap1",
+          "audio": "assets/audio/passages/U13_CORE_gap1.mp3",
+          "sentenceWithGap": "Some did voluntary work at information desks; others joined short-term volunteer work in a ___.",
+          "answer": "community project"
+        },
+        {
+          "id": "U13_CORE_gap2",
+          "audio": "assets/audio/passages/U13_CORE_gap2.mp3",
+          "sentenceWithGap": "The organisers asked everyone to ___, and the most cooperative volunteers helped newcomers settle in.",
+          "answer": "cooperate"
+        },
+        {
+          "id": "U13_CORE_gap3",
+          "audio": "assets/audio/passages/U13_CORE_gap3.mp3",
+          "sentenceWithGap": "A casualty may be injured or killed, while a ___ suffers because of an event and a survivor lives through it.",
+          "answer": "victim"
+        },
+        {
+          "id": "U13_CORE_gap4",
+          "audio": "assets/audio/passages/U13_CORE_gap4.mp3",
+          "sentenceWithGap": "A ___ may cross a border to escape danger, whereas a migrant may move for many reasons.",
+          "answer": "refugee"
+        },
+        {
+          "id": "U13_CORE_gap5",
+          "audio": "assets/audio/passages/U13_CORE_gap5.mp3",
+          "sentenceWithGap": "Johny warned that it was ___ to assume the terms meant the same thing.",
+          "answer": "ignorant"
+        },
+        {
+          "id": "U13_CORE_gap6",
+          "audio": "assets/audio/passages/U13_CORE_gap6.mp3",
+          "sentenceWithGap": "The display also referred to the wounded, to places where volcanoes ___, diseases spread rapidly, conflicts break out, and storms sweep through communities.",
+          "answer": "erupt"
+        },
+        {
+          "id": "U13_CORE_gap7",
+          "audio": "assets/audio/passages/U13_CORE_gap7.mp3",
+          "sentenceWithGap": "In severe situations, people may starve or ___.",
+          "answer": "suffer from shortages"
+        },
+        {
+          "id": "U13_CORE_gap8",
+          "audio": "assets/audio/passages/U13_CORE_gap8.mp3",
+          "sentenceWithGap": "Students cast a vote on a ballot paper, and the winner needed a ___ at the temporary polling station.",
+          "answer": "majority"
+        },
+        {
+          "id": "U13_CORE_gap9",
+          "audio": "assets/audio/passages/U13_CORE_gap9.mp3",
+          "sentenceWithGap": "The final session dealt with ___, intimidation, an insulting message and other harmful online behaviour.",
+          "answer": "cyberbullying"
+        },
+        {
+          "id": "U13_CORE_gap10",
+          "audio": "assets/audio/passages/U13_CORE_gap10.mp3",
+          "sentenceWithGap": "Emily explained that attempts to exclude people could lead to lasting exclusion, and no responsible ___ should ignore it.",
+          "answer": "citizen"
+        }
+      ]
     }
   ]
 }
