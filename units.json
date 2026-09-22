@@ -97,7 +97,7 @@
           "id": 8,
           "name": "Unit 8: Anatomy & Physical Appearance",
           "skills": {
-            "vocab": false,
+            "vocab": true,
             "wordFormation": false,
             "ueo": false,
             "reading": false,
@@ -152,7 +152,7 @@
           "id": 13,
           "name": "Unit 13: Volunteering & Global Issues",
           "skills": {
-            "vocab": false,
+            "vocab": true,
             "wordFormation": false,
             "ueo": false,
             "reading": false,
