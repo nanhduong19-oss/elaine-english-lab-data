@@ -11120,6 +11120,294 @@
           "sentenceWithGap": "One actor ___ to show confusion, while another grinned broadly after receiving praise.",
           "answer": "frowned"
         }
+      ],
+      "quizQuestions": [
+        {
+          "id": "U8_CORE_quiz1",
+          "sentenceWithGap": "As he got older, his hairline slowly moved backwards, although he was not completely bald. He had ___.",
+          "options": [
+            "curly hair",
+            "grey hair",
+            "receding hair",
+            "wavy hair"
+          ],
+          "answer": "receding hair",
+          "sentenceVi": "Khi lớn tuổi hơn, đường chân tóc của ông ấy dần lùi về phía sau, mặc dù ông ấy chưa hói hoàn toàn. Ông ấy có tóc đang thưa dần ở phía trước.",
+          "explanation": "'receding hair' = tóc/đường chân tóc thưa và lùi dần về sau; curly/wavy hair chỉ kiểu tóc, grey hair chỉ màu tóc, không khớp với 'hairline moved backwards'."
+        },
+        {
+          "id": "U8_CORE_quiz2",
+          "sentenceWithGap": "The man had thick hair growing on his chin and cheeks. He had ___.",
+          "options": [
+            "a beard",
+            "wrinkles",
+            "freckles",
+            "a moustache"
+          ],
+          "answer": "a beard",
+          "sentenceVi": "Người đàn ông có lớp lông dày mọc ở cằm và hai bên má. Ông ấy có râu.",
+          "explanation": "'a beard' = râu mọc ở cằm và má; a moustache chỉ mọc phía trên môi, wrinkles là nếp nhăn, freckles là tàn nhang."
+        },
+        {
+          "id": "U8_CORE_quiz3",
+          "sentenceWithGap": "The small brown spots across her nose became more visible in summer. They were ___.",
+          "options": [
+            "complexion",
+            "wrinkles",
+            "sunburn",
+            "freckles"
+          ],
+          "answer": "freckles",
+          "sentenceVi": "Những đốm nhỏ màu nâu trên mũi cô ấy trở nên rõ hơn vào mùa hè. Đó là tàn nhang.",
+          "explanation": "'freckles' = các đốm tàn nhang nhỏ màu nâu trên da; wrinkles là nếp nhăn, complexion là nước da nói chung, sunburn là tình trạng cháy nắng."
+        },
+        {
+          "id": "U8_CORE_quiz4",
+          "sentenceWithGap": "Older people often develop lines around their eyes and mouth called ___.",
+          "options": [
+            "complexion",
+            "wrinkles",
+            "freckles",
+            "beard"
+          ],
+          "answer": "wrinkles",
+          "sentenceVi": "Người lớn tuổi thường xuất hiện những đường nhăn quanh mắt và miệng, được gọi là nếp nhăn.",
+          "explanation": "'wrinkles' = nếp nhăn quanh mắt/miệng; freckles là tàn nhang, complexion là nước da, beard là râu."
+        },
+        {
+          "id": "U8_CORE_quiz5",
+          "sentenceWithGap": "The photographer chose warm lighting because it made the model's ___ look healthier.",
+          "options": [
+            "complexion",
+            "build",
+            "beard",
+            "impression"
+          ],
+          "answer": "complexion",
+          "sentenceVi": "Nhiếp ảnh gia chọn ánh sáng ấm vì nó khiến nước da của người mẫu trông khỏe mạnh hơn.",
+          "explanation": "'complexion' = nước da/sắc da; build là vóc dáng, beard là râu, impression là ấn tượng."
+        },
+        {
+          "id": "U8_CORE_quiz6",
+          "sentenceWithGap": "Jenna is thin, but she looks healthy rather than too thin. She is quite ___.",
+          "options": [
+            "stocky",
+            "overweight",
+            "skinny",
+            "slim"
+          ],
+          "answer": "slim",
+          "sentenceVi": "Jenna gầy nhưng trông khỏe mạnh chứ không quá gầy. Cô ấy khá thon thả.",
+          "explanation": "'slim' = thon gầy theo nghĩa tích cực/khỏe mạnh; skinny mang nghĩa quá gầy, tiêu cực, stocky là thấp và chắc, overweight là thừa cân."
+        },
+        {
+          "id": "U8_CORE_quiz7",
+          "sentenceWithGap": "The doctor advised him to exercise more because he was slightly ___ for his height.",
+          "options": [
+            "muscular",
+            "overweight",
+            "slim",
+            "elegant"
+          ],
+          "answer": "overweight",
+          "sentenceVi": "Bác sĩ khuyên anh ấy tập thể dục nhiều hơn vì anh ấy hơi thừa cân so với chiều cao của mình.",
+          "explanation": "'overweight' = thừa cân; muscular là cơ bắp, slim là thon, elegant là thanh lịch."
+        },
+        {
+          "id": "U8_CORE_quiz8",
+          "sentenceWithGap": "He is quite short but has broad shoulders and a strong, solid body. He is ___.",
+          "options": [
+            "elegant",
+            "slim",
+            "stocky",
+            "skinny"
+          ],
+          "answer": "stocky",
+          "sentenceVi": "Anh ấy khá thấp nhưng có vai rộng và thân hình chắc khỏe. Anh ấy có vóc người thấp và chắc.",
+          "explanation": "'stocky' = người thấp, vai rộng, chắc khỏe; elegant là thanh lịch, slim là thon, skinny là quá gầy."
+        },
+        {
+          "id": "U8_CORE_quiz9",
+          "sentenceWithGap": "The athlete is tall, strong and has a well-proportioned body. He is ___.",
+          "options": [
+            "scruffy",
+            "well-built",
+            "skinny",
+            "sunburnt"
+          ],
+          "answer": "well-built",
+          "sentenceVi": "Vận động viên cao, khỏe và có thân hình cân đối. Anh ấy có vóc dáng rất khỏe mạnh.",
+          "explanation": "'well-built' = thân hình khỏe, cân đối; scruffy là luộm thuộm, skinny là quá gầy, sunburnt là cháy nắng."
+        },
+        {
+          "id": "U8_CORE_quiz10",
+          "sentenceWithGap": "He wore a clean shirt, jacket and polished shoes to the interview and looked very ___.",
+          "options": [
+            "suntanned",
+            "muscular",
+            "bald",
+            "smart"
+          ],
+          "answer": "smart",
+          "sentenceVi": "Anh ấy mặc áo sơ mi sạch, áo khoác và giày được đánh bóng khi đi phỏng vấn nên trông rất chỉnh tề.",
+          "explanation": "'smart' (về ngoại hình) = ăn mặc gọn gàng, chỉnh tề; suntanned là rám nắng, muscular là cơ bắp, bald là hói."
+        },
+        {
+          "id": "U8_CORE_quiz11",
+          "sentenceWithGap": "Her simple black dress and graceful style made her look very ___.",
+          "options": [
+            "sunburnt",
+            "stocky",
+            "elegant",
+            "scruffy"
+          ],
+          "answer": "elegant",
+          "sentenceVi": "Chiếc váy đen đơn giản cùng phong cách duyên dáng khiến cô ấy trông rất thanh lịch.",
+          "explanation": "'elegant' = thanh lịch, duyên dáng; sunburnt là cháy nắng, stocky là thấp và chắc, scruffy là luộm thuộm."
+        },
+        {
+          "id": "U8_CORE_quiz12",
+          "sentenceWithGap": "Alex always chooses his clothes carefully and never looks untidy. He is usually ___.",
+          "options": [
+            "well-dressed",
+            "muscular",
+            "skinny",
+            "bald"
+          ],
+          "answer": "well-dressed",
+          "sentenceVi": "Alex luôn lựa chọn quần áo cẩn thận và không bao giờ trông luộm thuộm. Cậu ấy thường ăn mặc rất chỉnh tề.",
+          "explanation": "'well-dressed' = ăn mặc đẹp, chỉnh tề; muscular là cơ bắp, skinny là quá gầy, bald là hói."
+        },
+        {
+          "id": "U8_CORE_quiz13",
+          "sentenceWithGap": "The actor is pleasant to look at, with a friendly face and a warm smile. Many people find him ___.",
+          "options": [
+            "scruffy",
+            "overweight",
+            "bald",
+            "attractive"
+          ],
+          "answer": "attractive",
+          "sentenceVi": "Nam diễn viên có ngoại hình dễ nhìn, khuôn mặt thân thiện và nụ cười ấm áp. Nhiều người thấy anh ấy hấp dẫn.",
+          "explanation": "'attractive' = hấp dẫn, ưa nhìn; scruffy là luộm thuộm, overweight là thừa cân, bald là hói."
+        },
+        {
+          "id": "U8_CORE_quiz14",
+          "sentenceWithGap": "The actress looked absolutely ___ in the red-carpet photographs.",
+          "options": [
+            "stocky",
+            "stunning",
+            "skinny",
+            "sunburnt"
+          ],
+          "answer": "stunning",
+          "sentenceVi": "Nữ diễn viên trông cực kỳ nổi bật trong những bức ảnh trên thảm đỏ.",
+          "explanation": "'stunning' = cực kỳ đẹp, gây ấn tượng mạnh; stocky là thấp và chắc, skinny là quá gầy, sunburnt là cháy nắng."
+        },
+        {
+          "id": "U8_CORE_quiz15",
+          "sentenceWithGap": "After several years, some of his hair had changed from dark brown to ___.",
+          "options": [
+            "bald",
+            "suntanned",
+            "grey",
+            "receding"
+          ],
+          "answer": "grey",
+          "sentenceVi": "Sau vài năm, một phần tóc của ông ấy đã chuyển từ màu nâu sẫm sang màu bạc.",
+          "explanation": "'grey' (grey hair) = tóc bạc/tóc hoa râm; bald là hói (không còn tóc), receding là tóc/chân tóc lùi dần, suntanned dùng cho da chứ không dùng cho tóc."
+        },
+        {
+          "id": "U8_CORE_quiz16",
+          "sentenceWithGap": "After running up six flights of stairs, I was completely ___ and could hardly speak.",
+          "options": [
+            "out of breath",
+            "holding my breath",
+            "swallowing",
+            "taking a deep breath"
+          ],
+          "answer": "out of breath",
+          "sentenceVi": "Sau khi chạy lên sáu tầng cầu thang, tôi hụt hơi hoàn toàn và gần như không nói được.",
+          "explanation": "'be out of breath' = thở hổn hển, hụt hơi; hold your breath là nín thở, take a deep breath là hít một hơi sâu, swallow là nuốt."
+        },
+        {
+          "id": "U8_CORE_quiz17",
+          "sentenceWithGap": "The doctor asked him to fill his lungs slowly, so he stopped and ___.",
+          "options": [
+            "held his breath",
+            "took a deep breath",
+            "coughed",
+            "sighed"
+          ],
+          "answer": "took a deep breath",
+          "sentenceVi": "Bác sĩ yêu cầu anh ấy từ từ hít đầy không khí vào phổi, vì vậy anh ấy dừng lại và hít một hơi sâu.",
+          "explanation": "'take a deep breath' = hít một hơi thật sâu; hold your breath là nín thở, cough là ho, sigh là thở dài."
+        },
+        {
+          "id": "U8_CORE_quiz18",
+          "sentenceWithGap": "You should ___ your food properly before you swallow it.",
+          "options": [
+            "cough",
+            "sigh",
+            "bite",
+            "chew"
+          ],
+          "answer": "chew",
+          "sentenceVi": "Bạn nên nhai thức ăn kỹ trước khi nuốt.",
+          "explanation": "'chew' = nhai; đúng trình tự là bite (cắn) → chew (nhai) → swallow (nuốt); cough là ho, sigh là thở dài."
+        },
+        {
+          "id": "U8_CORE_quiz19",
+          "sentenceWithGap": "When Maya heard the confusing instructions, she pulled her eyebrows together and began to ___.",
+          "options": [
+            "frown",
+            "wink",
+            "grin",
+            "blink"
+          ],
+          "answer": "frown",
+          "sentenceVi": "Khi Maya nghe những hướng dẫn khó hiểu, cô ấy nhíu hai lông mày lại và bắt đầu cau mày.",
+          "explanation": "'frown' = cau mày/nhíu mày, thường vì lo lắng hoặc không hiểu; wink là nháy mắt, blink là chớp mắt, grin là cười toe toét."
+        },
+        {
+          "id": "U8_CORE_quiz20",
+          "sentenceWithGap": "Leo was so pleased with his result that he began to ___ broadly.",
+          "options": [
+            "blink",
+            "frown",
+            "grin",
+            "sigh"
+          ],
+          "answer": "grin",
+          "sentenceVi": "Leo vui với kết quả của mình đến mức cậu bắt đầu cười toe toét.",
+          "explanation": "'grin' = cười toe toét, cười rộng miệng; frown là cau mày, blink là chớp mắt, sigh là thở dài."
+        }
+      ],
+      "matchWords": [
+        "suntanned",
+        "first impression",
+        "skinny",
+        "sneeze",
+        "cough",
+        "wink",
+        "a moustache",
+        "blink",
+        "sweat / perspire",
+        "scruffy",
+        "sigh",
+        "bite",
+        "wavy hair",
+        "swallow",
+        "bald",
+        "good-looking",
+        "curly hair",
+        "muscular",
+        "hold your breath",
+        "sunburnt",
+        "blush",
+        "shiver",
+        "tremble",
+        "shake"
       ]
     },
     {
