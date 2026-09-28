@@ -10485,7 +10485,8 @@
           "sentenceWithGap": "The most dependable people can ___ when difficulties arise.",
           "answer": "keep their head"
         }
-      ]
+      ],
+      "image": "assets/images/passages/MT3_u9_personalities.png"
     },
     {
       "passageId": "U10_COLLOC",
@@ -10554,7 +10555,8 @@
           "sentenceWithGap": "Emily promised to organise another event and warned the team not to break their ___ to the community.",
           "answer": "promise"
         }
-      ]
+      ],
+      "image": "assets/images/passages/MT3_u10_stories.jpg"
     },
     {
       "passageId": "U10_CORE",
@@ -10623,7 +10625,8 @@
           "sentenceWithGap": "They had faced ___, fear and disappointment, but their emotional control had helped turn a difficult day into a successful one.",
           "answer": "stress"
         }
-      ]
+      ],
+      "image": "assets/images/passages/MT3_u10_feelings.png"
     },
     {
       "passageId": "U11_COLLOC",
@@ -10680,7 +10683,8 @@
           "sentenceWithGap": "At the end of the reunion, former classmates exchanged contact details and agreed to ___, even though some of them now lived far apart.",
           "answer": "stay friends"
         }
-      ]
+      ],
+      "image": "assets/images/passages/MT3_u11_together.jpg"
     },
     {
       "passageId": "U11_CORE",
@@ -10692,17 +10696,20 @@
         {
           "title": "A Family History Day at Linden Park",
           "text": "Linden Park Community House was preparing a Family History Day to help residents learn more about their families, their roots and the experiences that had shaped them. Emily organised the registration area, Lucas welcomed visitors, Johny recorded their stories, and Jayden designed a display showing several generations of local families.\n\nThe first group to arrive included three generations living in one household. The children came with their parents and a grandparent, while several other relatives joined them later. The eldest boy introduced his younger brother and sister. Because they shared the same parents, they were siblings. Their mother's sister was their aunt, and her husband was their uncle. Their son was the children's cousin. From the aunt's point of view, the boy was her nephew, while his sister was her niece.\n\nNearby, Jayden was drawing a family tree for a blended family. One student lived with her mother and stepfather, together with a stepbrother from her stepfather's earlier marriage. Another visitor had a stepmother and a stepsister. Emily explained that these relationships were different from those created through marriage. A spouse's brother could be a brother-in-law, while a spouse's sister could be a sister-in-law. The parents of a husband or wife were their parents-in-law.\n\nThe displays also showed different family structures. One board presented a nuclear family, while another showed an extended family including grandparents, aunts, uncles and cousins. A third described a single-parent family. One visitor was an only child, while another was the eldest child in a family of four.\n\nIn the history corner, residents shared photographs of their ancestors and described their family background and upbringing. One elderly visitor said that, throughout his lifetime, his family had moved several times but had never forgotten its cultural roots.\n\nThe day ended with a family gathering and an unexpected reunion between former neighbours. Lucas suggested making it an annual neighbourhood event.",
-          "audio": "assets/audio/passages/MT3_u11_family.wav"
+          "audio": "assets/audio/passages/MT3_u11_family.wav",
+          "image": "assets/images/passages/MT3_u11_family.jpg"
         },
         {
           "title": "Staying Close, Falling Out and Making Up",
           "text": "Linden Park Community House was preparing a neighbourhood festival, and the volunteer team included people with many different kinds of relationships. Lucas worked with his best friend, Jayden, while Johny was a close friend whom he trusted with personal worries. Emily invited a good friend from another school. Some volunteers were only casual acquaintances, and one student regularly exchanged messages with a penfriend abroad.\n\nThe wider team included Lucas's classmate, an adult colleague from the Community House office and several local neighbours. Two university volunteers were flatmates, while another pair were roommates at a student residence. The project gave everyone a chance to meet, cooperate and form stronger social connections.\n\nAt first, the team got on well. Lucas and Jayden enjoyed each other's company, had several things in common and supported one another during the preparations. Emily reminded everyone to keep in touch with volunteers who could not attend every meeting. She believed that strong relationships depended on trust and loyalty.\n\nA problem developed when Lucas changed the performance schedule without discussing it with Johny. Their difference of opinion began as a small disagreement, but it soon turned into an argument. Johny felt that Lucas had put too much pressure on the team, while Lucas thought Johny was refusing to accept necessary changes. They fell out and stopped speaking for the rest of the afternoon.\n\nJayden did not want to take sides, so Emily encouraged both boys to explain their feelings calmly. Lucas admitted that he had acted too quickly and apologised to Johny for not listening. Johny accepted the apology and forgave him. They finally made up and agreed that good friends could disagree without allowing one argument to destroy their relationship.\n\nLater, two adult volunteers shared how they had first got to know each other at Linden Park. They began to date, then got together, got engaged and eventually planned to get married. Another visitor explained that she and her former partner had got divorced but had managed to stay friends.\n\nBy the evening, Lucas and Johny were working side by side again.",
-          "audio": "assets/audio/passages/MT3_u11_staying.wav"
+          "audio": "assets/audio/passages/MT3_u11_staying.wav",
+          "image": "assets/images/passages/MT3_u11_staying.jpg"
         },
         {
           "title": "From Neighbours to Online Friends",
           "text": "Linden Park Community House launched a project called Connected Community to help local people build relationships both online and face to face. Lucas welcomed residents to a neighbourhood event, while Emily helped them join a private social network for community activities. Johny reminded everyone to treat each online contact with the same respect they would show someone in person.\n\nThe project brought together different social groups. Some participants were neighbours, while others were former classmates or workmates. Two university volunteers were housemates, another student lived with a flatmate, and two younger volunteers were roommates at a summer programme. Jayden also invited his penfriend, whom he had met through an international art exchange.\n\nAt the registration desk, participants could send a friend request to people they already knew. They were advised to check the person's identity before they accepted a friend request. Once connected, members could interact in group discussions, exchange messages, post comments and share photos from community events. They could also tag somebody in a picture, but Emily reminded them to ask permission first.\n\nThe network helped one resident find an old school friend with whom she had lost touch. Another volunteer used online communication to maintain a steady relationship with her partner while they lived in different cities. A profile about adult relationships also introduced the terms boyfriend, girlfriend, couple, fiancé, fiancée and ex.\n\nNot every online relationship was positive. One student felt under pressure to reply immediately. Another experienced a betrayal when someone shared a private message without permission. Johny explained that people could unfriend or defriend somebody if continued contact made them uncomfortable or unsafe.\n\nThe project also included a story about family responsibility. A local business owner had worked for years to support his family and provide for his family. Later, he inherited part of a family fortune. Instead of keeping the entire inheritance, he chose to donate money to Linden Park.\n\nBy the end of the event, residents understood that technology could strengthen relationships, but trust, consent and responsible communication were still essential.",
-          "audio": "assets/audio/passages/MT3_u11_online.wav"
+          "audio": "assets/audio/passages/MT3_u11_online.wav",
+          "image": "assets/images/passages/MT3_u11_online.jpg"
         }
       ],
       "gapSentences": [
@@ -10766,7 +10773,8 @@
           "sentenceWithGap": "A local business owner had worked for years to ___ and provide for his family.",
           "answer": "support his family"
         }
-      ]
+      ],
+      "image": "assets/images/passages/MT3_u11_family.jpg"
     },
     {
       "passageId": "U11_PV",
@@ -10817,7 +10825,8 @@
           "sentenceWithGap": "The team had learnt that strong relationships grow when people respect differences, communicate honestly and ___ one another.",
           "answer": "look out for"
         }
-      ]
+      ],
+      "image": "assets/images/passages/MT3_u11_rely.jpg"
     },
     {
       "passageId": "U11_WP",
@@ -10868,7 +10877,8 @@
           "sentenceWithGap": "By the end of the week, Amir felt more ___ constant support, but he also understood that independence did not mean refusing help.",
           "answer": "independent of"
         }
-      ]
+      ],
+      "image": "assets/images/passages/MT3_u11_rely.jpg"
     },
     {
       "passageId": "U12_COLLOC",
@@ -10901,7 +10911,8 @@
           "sentenceWithGap": "The Community House manager ___ for the trial, while parents showed approval for the team's thoughtful solution.",
           "answer": "gave approval"
         }
-      ]
+      ],
+      "image": "assets/images/passages/MT3_u12_sides.jpg"
     },
     {
       "passageId": "U12_CORE",
@@ -10970,7 +10981,8 @@
           "sentenceWithGap": "Approval, disapproval, objections and disagreement had caused an ___, but most remained in favour of continuing.",
           "answer": "argument"
         }
-      ]
+      ],
+      "image": "assets/images/passages/MT3_u12_forum.jpg"
     },
     {
       "passageId": "U12_WP",
@@ -11039,7 +11051,8 @@
           "sentenceWithGap": "Jayden said he would ___ supporting a rule that respected both concentration and personal responsibility.",
           "answer": "not think twice about"
         }
-      ]
+      ],
+      "image": "assets/images/passages/MT3_u12_sides.jpg"
     },
     {
       "passageId": "U8_CORE",
@@ -11051,12 +11064,14 @@
         {
           "title": "More Than a First Impression",
           "text": "Linden Park Community House was preparing profile boards for a new student volunteering programme. Jayden offered to draw quick portraits, while Johny recorded the details that would help visitors recognise each volunteer.\n\nThe group soon noticed how varied people’s appearances could be. One student had long, straight hair, while another had thick, wavy hair. A younger volunteer had short, curly hair, and the sports instructor wore a neat crew-cut. One adult helper was bald, while another had receding hair and a few wrinkles around his eyes. The oldest volunteer had once had dark hair, but it had gradually gone grey.\n\nHair colour also differed. Some students were fair-haired or blonde, while others were dark-haired. One girl had bright ginger hair, and another had beautiful auburn hair, which was a deeper red-brown. A visiting photographer had a short beard and moustache.\n\nFaces were equally distinctive. One student was thin-faced, another was round-faced, and a younger child had a chubby face. Some volunteers had freckles, while others had a clear, even complexion. Their skin tones ranged naturally from fair skin to dark skin. A few students had become suntanned after spending the summer outdoors, although one had stayed in the sun too long and become slightly sunburnt.\n\nThe volunteers also differed in height and build. Some were tall, some were short, and one was only tallish. One runner was slim, while another looked stocky and strong. The climbing instructor was well-built and muscular.\n\nEmily reminded the group to describe appearance carefully and respectfully. Someone might look smart, elegant or well-dressed, while another person might appear scruffy or untidy-looking after working all day. Words such as attractive, good-looking, handsome, beautiful and stunning describe appearance, but they do not tell us whether a person is kind, responsible or talented.\n\nJohny concluded that a person’s eyes, smile or hair might be their most noticeable feature, but a first impression could never reveal the whole person.",
-          "audio": "assets/audio/passages/MT3_u8_impression.wav"
+          "audio": "assets/audio/passages/MT3_u8_impression.wav",
+          "image": "assets/images/passages/MT3_u8_impression.png"
         },
         {
           "title": "What the Body Does",
           "text": "The following Saturday, the volunteers worked through a full programme of activities at Linden Park.\n\nLucas arrived early, but he had slept badly and kept beginning to yawn. During the morning briefing, dust from an old curtain made Jayden sneeze, while another student began to cough because the rehearsal room was slightly smoky. A tired adult volunteer had fallen asleep in a chair and was quietly snoring. When the missing equipment was finally found, Emily sighed with relief.\n\nThe team then carried several boxes upstairs. By the time Lucas reached the top floor, he was out of breath. Before giving the opening speech, he stopped to take a deep breath. The audience seemed to hold their breath while waiting for the final competition result.\n\nAt lunchtime, Johny reminded the younger students to bite their food carefully, chew it properly and swallow before speaking. One child was sucking a sweet, while another was licking an ice cream. Jayden’s stomach began to rumble because he had missed breakfast.\n\nLater, the drama group practised facial expressions. Emily deliberately winked at Lucas to make him laugh. Johny blinked several times after dust entered his eye. One actor frowned to show confusion, while another grinned broadly after receiving praise. A shy student began to blush when everyone applauded her performance.\n\nBy the afternoon, the room had become warm. Several volunteers started to sweat, although the event organiser preferred the more formal word perspire. Outside, a sudden cold wind made one student shiver. Another student’s hands began to tremble before a presentation, while Lucas laughed so hard at Jayden’s joke that his whole body shook.\n\nThese small actions showed how the body can reveal tiredness, cold, nervousness, relief, amusement and many other physical states.",
-          "audio": "assets/audio/passages/MT3_u8_body.wav"
+          "audio": "assets/audio/passages/MT3_u8_body.wav",
+          "image": "assets/images/passages/MT3_u8_body.jpg"
         }
       ],
       "gapSentences": [
@@ -11408,7 +11423,8 @@
         "shiver",
         "tremble",
         "shake"
-      ]
+      ],
+      "image": "assets/images/passages/MT3_u8_impression.png"
     },
     {
       "passageId": "U13_CORE",
@@ -11477,7 +11493,8 @@
           "sentenceWithGap": "Emily explained that attempts to exclude people could lead to lasting exclusion, and no responsible ___ should ignore it.",
           "answer": "citizen"
         }
-      ]
+      ],
+      "image": "assets/images/passages/MT3_u13_action.jpg"
     }
   ]
 }
