@@ -2449,6 +2449,846 @@
       "sentenceWithGap": "The technician dealt with the complaint calmly and ___.",
       "answer": "professionally",
       "audio": "assets/audio/word-formation/wf_profess_l05.mp3"
+    },
+    {
+      "id": "wf_profit_l01",
+      "family": "profit",
+      "sentenceWithGap": "The bakery reported a healthy ___ after selling every cake at the festival.",
+      "answer": "profit",
+      "audio": "assets/audio/word-formation/wf_profit_l01.mp3"
+    },
+    {
+      "id": "wf_profit_l02",
+      "family": "profit",
+      "sentenceWithGap": "Opening a repair shop could be ___ if local demand remains strong.",
+      "answer": "profitable",
+      "audio": "assets/audio/word-formation/wf_profit_l02.mp3"
+    },
+    {
+      "id": "wf_profit_l03",
+      "family": "profit",
+      "sentenceWithGap": "Running empty buses at midnight proved ___ because almost nobody travelled.",
+      "answer": "unprofitable",
+      "audio": "assets/audio/word-formation/wf_profit_l03.mp3"
+    },
+    {
+      "id": "wf_profit_l04",
+      "family": "profit",
+      "sentenceWithGap": "The charity donated its annual ___ to support families after the floods.",
+      "answer": "profit",
+      "audio": "assets/audio/word-formation/wf_profit_l04.mp3"
+    },
+    {
+      "id": "wf_profit_l05",
+      "family": "profit",
+      "sentenceWithGap": "Buying second-hand furniture is often ___ for independent shop owners.",
+      "answer": "profitable",
+      "audio": "assets/audio/word-formation/wf_profit_l05.mp3"
+    },
+    {
+      "id": "wf_relax_l01",
+      "family": "relax",
+      "sentenceWithGap": "Try to ___ your shoulders before giving your presentation to the class.",
+      "answer": "relax",
+      "audio": "assets/audio/word-formation/wf_relax_l01.mp3"
+    },
+    {
+      "id": "wf_relax_l02",
+      "family": "relax",
+      "sentenceWithGap": "Quiet music can encourage ___ after a stressful day of exams.",
+      "answer": "relaxation",
+      "audio": "assets/audio/word-formation/wf_relax_l02.mp3"
+    },
+    {
+      "id": "wf_relax_l03",
+      "family": "relax",
+      "sentenceWithGap": "Despite the delay, the passengers remained ___ throughout their journey.",
+      "answer": "relaxed",
+      "audio": "assets/audio/word-formation/wf_relax_l03.mp3"
+    },
+    {
+      "id": "wf_relax_l04",
+      "family": "relax",
+      "sentenceWithGap": "Listening to gentle rain is a particularly ___ way to fall asleep.",
+      "answer": "relaxing",
+      "audio": "assets/audio/word-formation/wf_relax_l04.mp3"
+    },
+    {
+      "id": "wf_relax_l05",
+      "family": "relax",
+      "sentenceWithGap": "After the results arrived, everyone felt ___ and stopped worrying.",
+      "answer": "relaxed",
+      "audio": "assets/audio/word-formation/wf_relax_l05.mp3"
+    },
+    {
+      "id": "wf_satisfy_l01",
+      "family": "satisfy",
+      "sentenceWithGap": "A good conclusion should ___ readers by answering the main question clearly.",
+      "answer": "satisfy",
+      "audio": "assets/audio/word-formation/wf_satisfy_l01.mp3"
+    },
+    {
+      "id": "wf_satisfy_l02",
+      "family": "satisfy",
+      "sentenceWithGap": "The customer expressed her ___ with the friendly service at the hotel.",
+      "answer": "satisfaction",
+      "audio": "assets/audio/word-formation/wf_satisfy_l02.mp3"
+    },
+    {
+      "id": "wf_satisfy_l03",
+      "family": "satisfy",
+      "sentenceWithGap": "There was widespread ___ when the concert ended much earlier than advertised.",
+      "answer": "dissatisfaction",
+      "audio": "assets/audio/word-formation/wf_satisfy_l03.mp3"
+    },
+    {
+      "id": "wf_satisfy_l04",
+      "family": "satisfy",
+      "sentenceWithGap": "The teacher described the final project as ___ rather than outstanding.",
+      "answer": "satisfactory",
+      "audio": "assets/audio/word-formation/wf_satisfy_l04.mp3"
+    },
+    {
+      "id": "wf_satisfy_l05",
+      "family": "satisfy",
+      "sentenceWithGap": "The volunteers felt ___ after successfully completing all their assigned tasks.",
+      "answer": "satisfied",
+      "audio": "assets/audio/word-formation/wf_satisfy_l05.mp3"
+    },
+    {
+      "id": "wf_search_l01",
+      "family": "search",
+      "sentenceWithGap": "Recent medical ___ suggests that daily exercise can improve concentration considerably.",
+      "answer": "research",
+      "audio": "assets/audio/word-formation/wf_search_l01.mp3"
+    },
+    {
+      "id": "wf_search_l02",
+      "family": "search",
+      "sentenceWithGap": "A university ___ carefully recorded the results of the laboratory experiment.",
+      "answer": "researcher",
+      "audio": "assets/audio/word-formation/wf_search_l02.mp3"
+    },
+    {
+      "id": "wf_search_l03",
+      "family": "search",
+      "sentenceWithGap": "The rescue team began a systematic ___ for the missing mountain climber.",
+      "answer": "search",
+      "audio": "assets/audio/word-formation/wf_search_l03.mp3"
+    },
+    {
+      "id": "wf_search_l04",
+      "family": "search",
+      "sentenceWithGap": "Independent ___ into ocean pollution has attracted significant public funding.",
+      "answer": "research",
+      "audio": "assets/audio/word-formation/wf_search_l04.mp3"
+    },
+    {
+      "id": "wf_search_l05",
+      "family": "search",
+      "sentenceWithGap": "The young ___ presented her findings at a national science conference.",
+      "answer": "researcher",
+      "audio": "assets/audio/word-formation/wf_search_l05.mp3"
+    },
+    {
+      "id": "wf_see_l01",
+      "family": "see",
+      "sentenceWithGap": "From the hilltop, tourists could ___ several villages across the green valley.",
+      "answer": "see",
+      "audio": "assets/audio/word-formation/wf_see_l01.mp3"
+    },
+    {
+      "id": "wf_see_l02",
+      "family": "see",
+      "sentenceWithGap": "The beautiful ___ of the harbour impressed everyone on the early ferry.",
+      "answer": "sight",
+      "audio": "assets/audio/word-formation/wf_see_l02.mp3"
+    },
+    {
+      "id": "wf_see_l03",
+      "family": "see",
+      "sentenceWithGap": "The interview offered valuable ___ into how professional athletes handle pressure.",
+      "answer": "insight",
+      "audio": "assets/audio/word-formation/wf_see_l03.mp3"
+    },
+    {
+      "id": "wf_see_l04",
+      "family": "see",
+      "sentenceWithGap": "We spent our first afternoon ___ rather than resting at the hotel.",
+      "answer": "sightseeing",
+      "audio": "assets/audio/word-formation/wf_see_l04.mp3"
+    },
+    {
+      "id": "wf_see_l05",
+      "family": "see",
+      "sentenceWithGap": "Visitors can ___ the paintings clearly from the back of the gallery.",
+      "answer": "see",
+      "audio": "assets/audio/word-formation/wf_see_l05.mp3"
+    },
+    {
+      "id": "wf_social_l01",
+      "family": "social",
+      "sentenceWithGap": "The club organises games to help new members ___ with one another.",
+      "answer": "socialise",
+      "audio": "assets/audio/word-formation/wf_social_l01.mp3"
+    },
+    {
+      "id": "wf_social_l02",
+      "family": "social",
+      "sentenceWithGap": "A fair ___ protects people who have different backgrounds and beliefs.",
+      "answer": "society",
+      "audio": "assets/audio/word-formation/wf_social_l02.mp3"
+    },
+    {
+      "id": "wf_social_l03",
+      "family": "social",
+      "sentenceWithGap": "The school encourages ___ interaction through group projects and class events.",
+      "answer": "social",
+      "audio": "assets/audio/word-formation/wf_social_l03.mp3"
+    },
+    {
+      "id": "wf_social_l04",
+      "family": "social",
+      "sentenceWithGap": "Our new neighbour is extremely ___ and chats with everyone nearby.",
+      "answer": "sociable",
+      "audio": "assets/audio/word-formation/wf_social_l04.mp3"
+    },
+    {
+      "id": "wf_social_l05",
+      "family": "social",
+      "sentenceWithGap": "The usually ___ boy preferred being alone and avoided crowded parties, although he never caused any trouble.",
+      "answer": "unsociable",
+      "audio": "assets/audio/word-formation/wf_social_l05.mp3"
+    },
+    {
+      "id": "wf_spectacle_l01",
+      "family": "spectacle",
+      "sentenceWithGap": "The annual parade was a colourful ___ that attracted thousands of visitors.",
+      "answer": "spectacle",
+      "audio": "assets/audio/word-formation/wf_spectacle_l01.mp3"
+    },
+    {
+      "id": "wf_spectacle_l02",
+      "family": "spectacle",
+      "sentenceWithGap": "A disappointed ___ complained that the stadium screen was too small to watch.",
+      "answer": "spectator",
+      "audio": "assets/audio/word-formation/wf_spectacle_l02.mp3"
+    },
+    {
+      "id": "wf_spectacle_l03",
+      "family": "spectacle",
+      "sentenceWithGap": "The northern lights created a ___ display across the winter sky.",
+      "answer": "spectacular",
+      "audio": "assets/audio/word-formation/wf_spectacle_l03.mp3"
+    },
+    {
+      "id": "wf_spectacle_l04",
+      "family": "spectacle",
+      "sentenceWithGap": "The young dancer performed ___ and received a standing ovation.",
+      "answer": "spectacularly",
+      "audio": "assets/audio/word-formation/wf_spectacle_l04.mp3"
+    },
+    {
+      "id": "wf_spectacle_l05",
+      "family": "spectacle",
+      "sentenceWithGap": "The fireworks above the river formed an unforgettable ___ after sunset.",
+      "answer": "spectacle",
+      "audio": "assets/audio/word-formation/wf_spectacle_l05.mp3"
+    },
+    {
+      "id": "wf_succeed_l01",
+      "family": "succeed",
+      "sentenceWithGap": "To ___ in the competition, teams must work well under pressure.",
+      "answer": "succeed",
+      "audio": "assets/audio/word-formation/wf_succeed_l01.mp3"
+    },
+    {
+      "id": "wf_succeed_l02",
+      "family": "succeed",
+      "sentenceWithGap": "The exhibition was a huge ___ and attracted visitors from many cities.",
+      "answer": "success",
+      "audio": "assets/audio/word-formation/wf_succeed_l02.mp3"
+    },
+    {
+      "id": "wf_succeed_l03",
+      "family": "succeed",
+      "sentenceWithGap": "Her first novel became ___ after several positive newspaper reviews.",
+      "answer": "successful",
+      "audio": "assets/audio/word-formation/wf_succeed_l03.mp3"
+    },
+    {
+      "id": "wf_succeed_l04",
+      "family": "succeed",
+      "sentenceWithGap": "Their first attempt was ___ because the equipment failed unexpectedly.",
+      "answer": "unsuccessful",
+      "audio": "assets/audio/word-formation/wf_succeed_l04.mp3"
+    },
+    {
+      "id": "wf_succeed_l05",
+      "family": "succeed",
+      "sentenceWithGap": "The students ___ completed the challenge without asking for extra time.",
+      "answer": "successfully",
+      "audio": "assets/audio/word-formation/wf_succeed_l05.mp3"
+    },
+    {
+      "id": "wf_suit_l01",
+      "family": "suit",
+      "sentenceWithGap": "He bought a dark business ___ for his first formal interview.",
+      "answer": "suit",
+      "audio": "assets/audio/word-formation/wf_suit_l01.mp3"
+    },
+    {
+      "id": "wf_suit_l02",
+      "family": "suit",
+      "sentenceWithGap": "The classroom is ___ for group discussions because it has movable desks.",
+      "answer": "suitable",
+      "audio": "assets/audio/word-formation/wf_suit_l02.mp3"
+    },
+    {
+      "id": "wf_suit_l03",
+      "family": "suit",
+      "sentenceWithGap": "The muddy field was ___ for wheelchair users after the heavy rain.",
+      "answer": "unsuitable",
+      "audio": "assets/audio/word-formation/wf_suit_l03.mp3"
+    },
+    {
+      "id": "wf_suit_l04",
+      "family": "suit",
+      "sentenceWithGap": "The actor wore a bright red ___ during the final performance.",
+      "answer": "suit",
+      "audio": "assets/audio/word-formation/wf_suit_l04.mp3"
+    },
+    {
+      "id": "wf_suit_l05",
+      "family": "suit",
+      "sentenceWithGap": "This quiet study area is ___ for anyone who needs to concentrate.",
+      "answer": "suitable",
+      "audio": "assets/audio/word-formation/wf_suit_l05.mp3"
+    },
+    {
+      "id": "wf_survive_l01",
+      "family": "survive",
+      "sentenceWithGap": "Only a few plants can ___ without water in such extreme heat.",
+      "answer": "survive",
+      "audio": "assets/audio/word-formation/wf_survive_l01.mp3"
+    },
+    {
+      "id": "wf_survive_l02",
+      "family": "survive",
+      "sentenceWithGap": "The animals depend on the forest for their long-term ___.",
+      "answer": "survival",
+      "audio": "assets/audio/word-formation/wf_survive_l02.mp3"
+    },
+    {
+      "id": "wf_survive_l03",
+      "family": "survive",
+      "sentenceWithGap": "The only ___ of the shipwreck was rescued by a fishing boat.",
+      "answer": "survivor",
+      "audio": "assets/audio/word-formation/wf_survive_l03.mp3"
+    },
+    {
+      "id": "wf_survive_l04",
+      "family": "survive",
+      "sentenceWithGap": "Small businesses may struggle to ___ during a serious economic crisis.",
+      "answer": "survive",
+      "audio": "assets/audio/word-formation/wf_survive_l04.mp3"
+    },
+    {
+      "id": "wf_survive_l05",
+      "family": "survive",
+      "sentenceWithGap": "Finding fresh water became essential to the group’s ___ in the desert.",
+      "answer": "survival",
+      "audio": "assets/audio/word-formation/wf_survive_l05.mp3"
+    },
+    {
+      "id": "wf_will_l01",
+      "family": "will",
+      "sentenceWithGap": "Her ___ to help strangers made her an excellent community volunteer.",
+      "answer": "willingness",
+      "audio": "assets/audio/word-formation/wf_will_l01.mp3"
+    },
+    {
+      "id": "wf_will_l02",
+      "family": "will",
+      "sentenceWithGap": "His ___ to apologise damaged what had once been a close friendship.",
+      "answer": "unwillingness",
+      "audio": "assets/audio/word-formation/wf_will_l02.mp3"
+    },
+    {
+      "id": "wf_will_l03",
+      "family": "will",
+      "sentenceWithGap": "The exhausted climber showed remarkable ___ and refused to give up.",
+      "answer": "will",
+      "audio": "assets/audio/word-formation/wf_will_l03.mp3"
+    },
+    {
+      "id": "wf_will_l04",
+      "family": "will",
+      "sentenceWithGap": "The students were ___ to stay late and finish their science project.",
+      "answer": "willing",
+      "audio": "assets/audio/word-formation/wf_will_l04.mp3"
+    },
+    {
+      "id": "wf_will_l05",
+      "family": "will",
+      "sentenceWithGap": "The manager was ___ to discuss the complaint despite several polite requests.",
+      "answer": "unwilling",
+      "audio": "assets/audio/word-formation/wf_will_l05.mp3"
+    },
+    {
+      "id": "wf_accurate_l01",
+      "family": "accurate",
+      "sentenceWithGap": "The ___ of the survey depends on how carefully questions are written.",
+      "answer": "accuracy",
+      "audio": "assets/audio/word-formation/wf_accurate_l01.mp3"
+    },
+    {
+      "id": "wf_accurate_l02",
+      "family": "accurate",
+      "sentenceWithGap": "A small ___ in the timetable caused several pupils to miss their buses.",
+      "answer": "inaccuracy",
+      "audio": "assets/audio/word-formation/wf_accurate_l02.mp3"
+    },
+    {
+      "id": "wf_accurate_l03",
+      "family": "accurate",
+      "sentenceWithGap": "The report provides ___ figures checked against the original financial records.",
+      "answer": "accurate",
+      "audio": "assets/audio/word-formation/wf_accurate_l03.mp3"
+    },
+    {
+      "id": "wf_accurate_l04",
+      "family": "accurate",
+      "sentenceWithGap": "The article included ___ details that were corrected the following morning.",
+      "answer": "inaccurate",
+      "audio": "assets/audio/word-formation/wf_accurate_l04.mp3"
+    },
+    {
+      "id": "wf_accurate_l05",
+      "family": "accurate",
+      "sentenceWithGap": "The technician measured the temperature ___ using a recently tested instrument.",
+      "answer": "accurately",
+      "audio": "assets/audio/word-formation/wf_accurate_l05.mp3"
+    },
+    {
+      "id": "wf_add_l01",
+      "family": "add",
+      "sentenceWithGap": "Please ___ your email address before submitting the registration form online.",
+      "answer": "add",
+      "audio": "assets/audio/word-formation/wf_add_l01.mp3"
+    },
+    {
+      "id": "wf_add_l02",
+      "family": "add",
+      "sentenceWithGap": "The unexpected ___ of two performers made the concert more enjoyable.",
+      "answer": "addition",
+      "audio": "assets/audio/word-formation/wf_add_l02.mp3"
+    },
+    {
+      "id": "wf_add_l03",
+      "family": "add",
+      "sentenceWithGap": "We need ___ chairs because more guests have confirmed their attendance.",
+      "answer": "additional",
+      "audio": "assets/audio/word-formation/wf_add_l03.mp3"
+    },
+    {
+      "id": "wf_add_l04",
+      "family": "add",
+      "sentenceWithGap": "The museum is free; ___, visitors can join a guided tour.",
+      "answer": "additionally",
+      "audio": "assets/audio/word-formation/wf_add_l04.mp3"
+    },
+    {
+      "id": "wf_add_l05",
+      "family": "add",
+      "sentenceWithGap": "The final ___ to the report explains how the figures were collected.",
+      "answer": "addition",
+      "audio": "assets/audio/word-formation/wf_add_l05.mp3"
+    },
+    {
+      "id": "wf_ambition_l01",
+      "family": "ambition",
+      "sentenceWithGap": "Her greatest ___ was to become a professional wildlife photographer.",
+      "answer": "ambition",
+      "audio": "assets/audio/word-formation/wf_ambition_l01.mp3"
+    },
+    {
+      "id": "wf_ambition_l02",
+      "family": "ambition",
+      "sentenceWithGap": "The ___ athlete trained every morning before attending school.",
+      "answer": "ambitious",
+      "audio": "assets/audio/word-formation/wf_ambition_l02.mp3"
+    },
+    {
+      "id": "wf_ambition_l03",
+      "family": "ambition",
+      "sentenceWithGap": "His ___ to study abroad motivated him to improve his English.",
+      "answer": "ambition",
+      "audio": "assets/audio/word-formation/wf_ambition_l03.mp3"
+    },
+    {
+      "id": "wf_ambition_l04",
+      "family": "ambition",
+      "sentenceWithGap": "The committee announced an ___ plan to restore the entire coastline.",
+      "answer": "ambitious",
+      "audio": "assets/audio/word-formation/wf_ambition_l04.mp3"
+    },
+    {
+      "id": "wf_ambition_l05",
+      "family": "ambition",
+      "sentenceWithGap": "A clear ___ can help teenagers decide what skills they need.",
+      "answer": "ambition",
+      "audio": "assets/audio/word-formation/wf_ambition_l05.mp3"
+    },
+    {
+      "id": "wf_apply_l01",
+      "family": "apply",
+      "sentenceWithGap": "Students hoping for financial support must ___ through the official scholarship website.",
+      "answer": "apply",
+      "audio": "assets/audio/word-formation/wf_apply_l01.mp3"
+    },
+    {
+      "id": "wf_apply_l02",
+      "family": "apply",
+      "sentenceWithGap": "Each ___ must provide evidence of relevant work experience.",
+      "answer": "applicant",
+      "audio": "assets/audio/word-formation/wf_apply_l02.mp3"
+    },
+    {
+      "id": "wf_apply_l03",
+      "family": "apply",
+      "sentenceWithGap": "Her online ___ was rejected because several details were missing.",
+      "answer": "application",
+      "audio": "assets/audio/word-formation/wf_apply_l03.mp3"
+    },
+    {
+      "id": "wf_apply_l04",
+      "family": "apply",
+      "sentenceWithGap": "The new safety rules are ___ to all workers at the factory.",
+      "answer": "applicable",
+      "audio": "assets/audio/word-formation/wf_apply_l04.mp3"
+    },
+    {
+      "id": "wf_apply_l05",
+      "family": "apply",
+      "sentenceWithGap": "You can ___ for the position through the company website.",
+      "answer": "apply",
+      "audio": "assets/audio/word-formation/wf_apply_l05.mp3"
+    },
+    {
+      "id": "wf_appropriate_l01",
+      "family": "appropriate",
+      "sentenceWithGap": "Wearing slippers to a formal interview would be completely ___ behaviour.",
+      "answer": "inappropriate",
+      "audio": "assets/audio/word-formation/wf_appropriate_l01.mp3"
+    },
+    {
+      "id": "wf_appropriate_l02",
+      "family": "appropriate",
+      "sentenceWithGap": "The rude remarks were ___ for a public meeting about safety.",
+      "answer": "inappropriate",
+      "audio": "assets/audio/word-formation/wf_appropriate_l02.mp3"
+    },
+    {
+      "id": "wf_appropriate_l03",
+      "family": "appropriate",
+      "sentenceWithGap": "The teacher responded ___ by offering support without embarrassing the student.",
+      "answer": "appropriately",
+      "audio": "assets/audio/word-formation/wf_appropriate_l03.mp3"
+    },
+    {
+      "id": "wf_appropriate_l04",
+      "family": "appropriate",
+      "sentenceWithGap": "He behaved ___ by interrupting guests during the official ceremony.",
+      "answer": "inappropriately",
+      "audio": "assets/audio/word-formation/wf_appropriate_l04.mp3"
+    },
+    {
+      "id": "wf_appropriate_l05",
+      "family": "appropriate",
+      "sentenceWithGap": "Choose ___ clothing for a hike in cold and wet weather.",
+      "answer": "appropriate",
+      "audio": "assets/audio/word-formation/wf_appropriate_l05.mp3"
+    },
+    {
+      "id": "wf_approve_l01",
+      "family": "approve",
+      "sentenceWithGap": "The committee will ___ the plan once all safety checks are complete.",
+      "answer": "approve",
+      "audio": "assets/audio/word-formation/wf_approve_l01.mp3"
+    },
+    {
+      "id": "wf_approve_l02",
+      "family": "approve",
+      "sentenceWithGap": "Many residents ___ of cutting down trees to build new shops and have signed a petition.",
+      "answer": "disapprove",
+      "audio": "assets/audio/word-formation/wf_approve_l02.mp3"
+    },
+    {
+      "id": "wf_approve_l03",
+      "family": "approve",
+      "sentenceWithGap": "The proposal cannot proceed without official ___ from the council.",
+      "answer": "approval",
+      "audio": "assets/audio/word-formation/wf_approve_l03.mp3"
+    },
+    {
+      "id": "wf_approve_l04",
+      "family": "approve",
+      "sentenceWithGap": "The parents expressed their ___ of the dangerous change to school transport.",
+      "answer": "disapproval",
+      "audio": "assets/audio/word-formation/wf_approve_l04.mp3"
+    },
+    {
+      "id": "wf_approve_l05",
+      "family": "approve",
+      "sentenceWithGap": "Experts are unlikely to ___ a design that ignores basic safety standards.",
+      "answer": "approve",
+      "audio": "assets/audio/word-formation/wf_approve_l05.mp3"
+    },
+    {
+      "id": "wf_arrange_l01",
+      "family": "arrange",
+      "sentenceWithGap": "The school will ___ a minibus to collect visitors from the station.",
+      "answer": "arrange",
+      "audio": "assets/audio/word-formation/wf_arrange_l01.mp3"
+    },
+    {
+      "id": "wf_arrange_l02",
+      "family": "arrange",
+      "sentenceWithGap": "We had to ___ the furniture again after the new shelves arrived.",
+      "answer": "rearrange",
+      "audio": "assets/audio/word-formation/wf_arrange_l02.mp3"
+    },
+    {
+      "id": "wf_arrange_l03",
+      "family": "arrange",
+      "sentenceWithGap": "The booking ___ includes breakfast and transport from the airport.",
+      "answer": "arrangement",
+      "audio": "assets/audio/word-formation/wf_arrange_l03.mp3"
+    },
+    {
+      "id": "wf_arrange_l04",
+      "family": "arrange",
+      "sentenceWithGap": "The organiser will ___ a first meeting with parents early next week.",
+      "answer": "arrange",
+      "audio": "assets/audio/word-formation/wf_arrange_l04.mp3"
+    },
+    {
+      "id": "wf_arrange_l05",
+      "family": "arrange",
+      "sentenceWithGap": "They decided to ___ the tables yet again to create a larger performance area.",
+      "answer": "rearrange",
+      "audio": "assets/audio/word-formation/wf_arrange_l05.mp3"
+    },
+    {
+      "id": "wf_assist_l01",
+      "family": "assist",
+      "sentenceWithGap": "Experienced volunteers will ___ visitors who have difficulty finding their seats.",
+      "answer": "assist",
+      "audio": "assets/audio/word-formation/wf_assist_l01.mp3"
+    },
+    {
+      "id": "wf_assist_l02",
+      "family": "assist",
+      "sentenceWithGap": "Anyone needing ___ should speak to a member of staff immediately.",
+      "answer": "assistance",
+      "audio": "assets/audio/word-formation/wf_assist_l02.mp3"
+    },
+    {
+      "id": "wf_assist_l03",
+      "family": "assist",
+      "sentenceWithGap": "The laboratory ___ prepared all the materials for the experiment.",
+      "answer": "assistant",
+      "audio": "assets/audio/word-formation/wf_assist_l03.mp3"
+    },
+    {
+      "id": "wf_assist_l04",
+      "family": "assist",
+      "sentenceWithGap": "Medical staff arrived quickly to ___ people injured in the accident.",
+      "answer": "assist",
+      "audio": "assets/audio/word-formation/wf_assist_l04.mp3"
+    },
+    {
+      "id": "wf_assist_l05",
+      "family": "assist",
+      "sentenceWithGap": "The website offers practical ___ for users with limited computer skills.",
+      "answer": "assistance",
+      "audio": "assets/audio/word-formation/wf_assist_l05.mp3"
+    },
+    {
+      "id": "wf_attract_l01",
+      "family": "attract",
+      "sentenceWithGap": "The festival hopes to ___ visitors from neighbouring towns this summer.",
+      "answer": "attract",
+      "audio": "assets/audio/word-formation/wf_attract_l01.mp3"
+    },
+    {
+      "id": "wf_attract_l02",
+      "family": "attract",
+      "sentenceWithGap": "The ruined castle remains a popular tourist ___ in the region.",
+      "answer": "attraction",
+      "audio": "assets/audio/word-formation/wf_attract_l02.mp3"
+    },
+    {
+      "id": "wf_attract_l03",
+      "family": "attract",
+      "sentenceWithGap": "The colourful exhibition is ___ to children and adults alike.",
+      "answer": "attractive",
+      "audio": "assets/audio/word-formation/wf_attract_l03.mp3"
+    },
+    {
+      "id": "wf_attract_l04",
+      "family": "attract",
+      "sentenceWithGap": "The unused building looked ___ because its windows were broken.",
+      "answer": "unattractive",
+      "audio": "assets/audio/word-formation/wf_attract_l04.mp3"
+    },
+    {
+      "id": "wf_attract_l05",
+      "family": "attract",
+      "sentenceWithGap": "Free workshops may ___ more young people to the science museum.",
+      "answer": "attract",
+      "audio": "assets/audio/word-formation/wf_attract_l05.mp3"
+    },
+    {
+      "id": "wf_aware_l01",
+      "family": "aware",
+      "sentenceWithGap": "The campaign raised public ___ of the risks of sharing private information.",
+      "answer": "awareness",
+      "audio": "assets/audio/word-formation/wf_aware_l01.mp3"
+    },
+    {
+      "id": "wf_aware_l02",
+      "family": "aware",
+      "sentenceWithGap": "Are you ___ that the museum closes earlier on Sundays?",
+      "answer": "aware",
+      "audio": "assets/audio/word-formation/wf_aware_l02.mp3"
+    },
+    {
+      "id": "wf_aware_l03",
+      "family": "aware",
+      "sentenceWithGap": "The hikers were completely ___ of the storm developing behind them.",
+      "answer": "unaware",
+      "audio": "assets/audio/word-formation/wf_aware_l03.mp3"
+    },
+    {
+      "id": "wf_aware_l04",
+      "family": "aware",
+      "sentenceWithGap": "A short workshop improved students’ ___ of common online scams.",
+      "answer": "awareness",
+      "audio": "assets/audio/word-formation/wf_aware_l04.mp3"
+    },
+    {
+      "id": "wf_aware_l05",
+      "family": "aware",
+      "sentenceWithGap": "The manager was ___ of the delays and offered an explanation.",
+      "answer": "aware",
+      "audio": "assets/audio/word-formation/wf_aware_l05.mp3"
+    },
+    {
+      "id": "wf_base_l01",
+      "family": "base",
+      "sentenceWithGap": "The rescue workers returned to their ___ before darkness made travel dangerous.",
+      "answer": "base",
+      "audio": "assets/audio/word-formation/wf_base_l01.mp3"
+    },
+    {
+      "id": "wf_base_l02",
+      "family": "base",
+      "sentenceWithGap": "The beginners learned ___ techniques before attempting the complicated climbing route.",
+      "answer": "basic",
+      "audio": "assets/audio/word-formation/wf_base_l02.mp3"
+    },
+    {
+      "id": "wf_base_l03",
+      "family": "base",
+      "sentenceWithGap": "The documentary is ___ on interviews with several former employees.",
+      "answer": "based",
+      "audio": "assets/audio/word-formation/wf_base_l03.mp3"
+    },
+    {
+      "id": "wf_base_l04",
+      "family": "base",
+      "sentenceWithGap": "The instructions are ___ simple, although the final step takes patience.",
+      "answer": "basically",
+      "audio": "assets/audio/word-formation/wf_base_l04.mp3"
+    },
+    {
+      "id": "wf_base_l05",
+      "family": "base",
+      "sentenceWithGap": "The mountain team set up a temporary ___ near the river.",
+      "answer": "base",
+      "audio": "assets/audio/word-formation/wf_base_l05.mp3"
+    },
+    {
+      "id": "wf_believe_l01",
+      "family": "believe",
+      "sentenceWithGap": "Most scientists ___ the changes are linked to rising global temperatures.",
+      "answer": "believe",
+      "audio": "assets/audio/word-formation/wf_believe_l01.mp3"
+    },
+    {
+      "id": "wf_believe_l02",
+      "family": "believe",
+      "sentenceWithGap": "Her strong ___ in fairness influenced every decision she made.",
+      "answer": "belief",
+      "audio": "assets/audio/word-formation/wf_believe_l02.mp3"
+    },
+    {
+      "id": "wf_believe_l03",
+      "family": "believe",
+      "sentenceWithGap": "The witness gave a ___ account that matched the available evidence.",
+      "answer": "believable",
+      "audio": "assets/audio/word-formation/wf_believe_l03.mp3"
+    },
+    {
+      "id": "wf_believe_l04",
+      "family": "believe",
+      "sentenceWithGap": "The number of visitors was ___ for such a tiny village; nobody had expected so many people.",
+      "answer": "unbelievable",
+      "audio": "assets/audio/word-formation/wf_believe_l04.mp3"
+    },
+    {
+      "id": "wf_believe_l05",
+      "family": "believe",
+      "sentenceWithGap": "Residents ___ the new bridge will improve access to the hospital.",
+      "answer": "believe",
+      "audio": "assets/audio/word-formation/wf_believe_l05.mp3"
+    },
+    {
+      "id": "wf_benefit_l01",
+      "family": "benefit",
+      "sentenceWithGap": "A major ___ of cycling to work is saving money on transport.",
+      "answer": "benefit",
+      "audio": "assets/audio/word-formation/wf_benefit_l01.mp3"
+    },
+    {
+      "id": "wf_benefit_l02",
+      "family": "benefit",
+      "sentenceWithGap": "Regular feedback is ___ for learners preparing for difficult examinations.",
+      "answer": "beneficial",
+      "audio": "assets/audio/word-formation/wf_benefit_l02.mp3"
+    },
+    {
+      "id": "wf_benefit_l03",
+      "family": "benefit",
+      "sentenceWithGap": "The scholarship offers a financial ___ to students from low-income families.",
+      "answer": "benefit",
+      "audio": "assets/audio/word-formation/wf_benefit_l03.mp3"
+    },
+    {
+      "id": "wf_benefit_l04",
+      "family": "benefit",
+      "sentenceWithGap": "Daily stretching can be ___ for people who sit for long periods.",
+      "answer": "beneficial",
+      "audio": "assets/audio/word-formation/wf_benefit_l04.mp3"
+    },
+    {
+      "id": "wf_benefit_l05",
+      "family": "benefit",
+      "sentenceWithGap": "One unexpected ___ of the trip was meeting students from abroad.",
+      "answer": "benefit",
+      "audio": "assets/audio/word-formation/wf_benefit_l05.mp3"
     }
   ]
 }
