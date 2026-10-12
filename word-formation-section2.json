@@ -4373,6 +4373,2230 @@
         "surprised"
       ],
       "answer": "surprise"
+    },
+    {
+      "id": "wf_accept_m01",
+      "family": "accept",
+      "prompt": "The artist finally gained ___ among local critics.",
+      "options": [
+        "accept",
+        "acceptable",
+        "acceptance",
+        "unacceptable"
+      ],
+      "answer": "acceptance"
+    },
+    {
+      "id": "wf_accept_m02",
+      "family": "accept",
+      "prompt": "The quality of the recording was ___ despite some background noise.",
+      "options": [
+        "accept",
+        "acceptance",
+        "unacceptable",
+        "acceptable"
+      ],
+      "answer": "acceptable"
+    },
+    {
+      "id": "wf_accept_m03",
+      "family": "accept",
+      "prompt": "The museum cannot ___ cash payments once its ticket office has closed.",
+      "options": [
+        "acceptable",
+        "accept",
+        "unacceptable",
+        "acceptance"
+      ],
+      "answer": "accept"
+    },
+    {
+      "id": "wf_accept_m04",
+      "family": "accept",
+      "prompt": "The referee described the player's aggressive behaviour as ___ and sent him off.",
+      "options": [
+        "acceptable",
+        "acceptance",
+        "unacceptable",
+        "accept"
+      ],
+      "answer": "unacceptable"
+    },
+    {
+      "id": "wf_accept_m05",
+      "family": "accept",
+      "prompt": "The company's ___ of responsibility helped resolve the dispute.",
+      "options": [
+        "unacceptable",
+        "accept",
+        "acceptable",
+        "acceptance"
+      ],
+      "answer": "acceptance"
+    },
+    {
+      "id": "wf_accept_m06",
+      "family": "accept",
+      "prompt": "Jeans are not considered ___ clothing at this formal ceremony.",
+      "options": [
+        "accept",
+        "acceptance",
+        "acceptable",
+        "unacceptable"
+      ],
+      "answer": "acceptable"
+    },
+    {
+      "id": "wf_accept_m07",
+      "family": "accept",
+      "prompt": "The charity may ___ used laptops if they still work.",
+      "options": [
+        "unacceptable",
+        "acceptable",
+        "acceptance",
+        "accept"
+      ],
+      "answer": "accept"
+    },
+    {
+      "id": "wf_accept_m08",
+      "family": "accept",
+      "prompt": "Which form is a noun meaning \"sự chấp thuận\"?",
+      "options": [
+        "accept",
+        "acceptance",
+        "acceptable",
+        "unacceptable"
+      ],
+      "answer": "acceptance"
+    },
+    {
+      "id": "wf_agree_m01",
+      "family": "agree",
+      "prompt": "I completely ___ with your point about public transport; it is exactly what I think.",
+      "options": [
+        "disagree",
+        "agree",
+        "agreement",
+        "disagreement"
+      ],
+      "answer": "agree"
+    },
+    {
+      "id": "wf_agree_m02",
+      "family": "agree",
+      "prompt": "Experts sometimes ___ about the causes of climate change, which makes public debates difficult.",
+      "options": [
+        "agreement",
+        "disagreement",
+        "agree",
+        "disagree"
+      ],
+      "answer": "disagree"
+    },
+    {
+      "id": "wf_agree_m03",
+      "family": "agree",
+      "prompt": "The neighbours signed an ___ about maintaining the shared garden.",
+      "options": [
+        "disagreement",
+        "agree",
+        "agreement",
+        "disagree"
+      ],
+      "answer": "agreement"
+    },
+    {
+      "id": "wf_agree_m04",
+      "family": "agree",
+      "prompt": "Their ___ over the timetable lasted nearly an hour.",
+      "options": [
+        "disagree",
+        "agree",
+        "agreement",
+        "disagreement"
+      ],
+      "answer": "disagreement"
+    },
+    {
+      "id": "wf_agree_m05",
+      "family": "agree",
+      "prompt": "We spent an ___ afternoon walking through the countryside.",
+      "options": [
+        "agreeable",
+        "disagree",
+        "disagreement",
+        "agree"
+      ],
+      "answer": "agreeable"
+    },
+    {
+      "id": "wf_agree_m06",
+      "family": "agree",
+      "prompt": "I politely ___ with the suggestion that homework should disappear; I think it is still useful.",
+      "options": [
+        "disagree",
+        "disagreement",
+        "agreement",
+        "agree"
+      ],
+      "answer": "disagree"
+    },
+    {
+      "id": "wf_agree_m07",
+      "family": "agree",
+      "prompt": "Both sides expressed ___ on the need for better safety measures, so a plan was approved.",
+      "options": [
+        "disagree",
+        "disagreement",
+        "agree",
+        "agreement"
+      ],
+      "answer": "agreement"
+    },
+    {
+      "id": "wf_agree_m08",
+      "family": "agree",
+      "prompt": "Which form is a noun meaning \"sự bất đồng\"?",
+      "options": [
+        "disagreement",
+        "agree",
+        "disagree",
+        "agreement"
+      ],
+      "answer": "disagreement"
+    },
+    {
+      "id": "wf_begin_m01",
+      "family": "begin",
+      "prompt": "Even a ___ can learn these basic photography techniques.",
+      "options": [
+        "begin",
+        "beginner",
+        "beginning"
+      ],
+      "answer": "beginner"
+    },
+    {
+      "id": "wf_begin_m02",
+      "family": "begin",
+      "prompt": "The band is expected to ___ performing after the break.",
+      "options": [
+        "beginner",
+        "beginning",
+        "begin"
+      ],
+      "answer": "begin"
+    },
+    {
+      "id": "wf_begin_m03",
+      "family": "begin",
+      "prompt": "The film's ___ introduces the main character in a mysterious setting.",
+      "options": [
+        "begin",
+        "beginner",
+        "beginning"
+      ],
+      "answer": "beginning"
+    },
+    {
+      "id": "wf_begin_m04",
+      "family": "begin",
+      "prompt": "The climbing instructor gave every ___ a safety helmet.",
+      "options": [
+        "beginning",
+        "begin",
+        "beginner"
+      ],
+      "answer": "beginner"
+    },
+    {
+      "id": "wf_begin_m05",
+      "family": "begin",
+      "prompt": "We should ___ collecting data before the rainy season starts.",
+      "options": [
+        "beginner",
+        "begin",
+        "beginning"
+      ],
+      "answer": "begin"
+    },
+    {
+      "id": "wf_begin_m06",
+      "family": "begin",
+      "prompt": "From the very ___ of the journey, everyone felt excited.",
+      "options": [
+        "beginning",
+        "begin",
+        "beginner"
+      ],
+      "answer": "beginning"
+    },
+    {
+      "id": "wf_begin_m07",
+      "family": "begin",
+      "prompt": "The guide explains the rules clearly enough for any ___.",
+      "options": [
+        "beginning",
+        "begin",
+        "beginner"
+      ],
+      "answer": "beginner"
+    },
+    {
+      "id": "wf_begin_m08",
+      "family": "begin",
+      "prompt": "Which form is a noun meaning \"người mới bắt đầu\"?",
+      "options": [
+        "beginning",
+        "beginner",
+        "begin"
+      ],
+      "answer": "beginner"
+    },
+    {
+      "id": "wf_character_m01",
+      "family": "character",
+      "prompt": "One unusual ___ of this species is its ability to change colour.",
+      "options": [
+        "character",
+        "characteristic",
+        "characterise",
+        "uncharacteristic"
+      ],
+      "answer": "characteristic"
+    },
+    {
+      "id": "wf_character_m02",
+      "family": "character",
+      "prompt": "The actor plays a mysterious ___ who appears only at night.",
+      "options": [
+        "characteristic",
+        "uncharacteristic",
+        "characterise",
+        "character"
+      ],
+      "answer": "character"
+    },
+    {
+      "id": "wf_character_m03",
+      "family": "character",
+      "prompt": "It was ___ of the normally punctual coach to arrive late.",
+      "options": [
+        "characteristic",
+        "characterise",
+        "character",
+        "uncharacteristic"
+      ],
+      "answer": "uncharacteristic"
+    },
+    {
+      "id": "wf_character_m04",
+      "family": "character",
+      "prompt": "Scientists often ___ this period as one of rapid environmental change.",
+      "options": [
+        "uncharacteristic",
+        "character",
+        "characterise",
+        "characteristic"
+      ],
+      "answer": "characterise"
+    },
+    {
+      "id": "wf_character_m05",
+      "family": "character",
+      "prompt": "Curiosity is an important ___ of successful learners.",
+      "options": [
+        "characteristic",
+        "uncharacteristic",
+        "characterise",
+        "character"
+      ],
+      "answer": "characteristic"
+    },
+    {
+      "id": "wf_character_m06",
+      "family": "character",
+      "prompt": "Her kindness and honesty reveal a remarkably strong ___.",
+      "options": [
+        "characterise",
+        "uncharacteristic",
+        "character",
+        "characteristic"
+      ],
+      "answer": "character"
+    },
+    {
+      "id": "wf_character_m07",
+      "family": "character",
+      "prompt": "The team's careless mistakes were ___ of its usual high standards.",
+      "options": [
+        "characteristic",
+        "uncharacteristic",
+        "character",
+        "characterise"
+      ],
+      "answer": "uncharacteristic"
+    },
+    {
+      "id": "wf_character_m08",
+      "family": "character",
+      "prompt": "Which form is a noun meaning \"nét đặc trưng\"?",
+      "options": [
+        "characterise",
+        "characteristic",
+        "character",
+        "uncharacteristic"
+      ],
+      "answer": "characteristic"
+    },
+    {
+      "id": "wf_consume_m01",
+      "family": "consume",
+      "prompt": "The campaign aims to reduce unnecessary plastic ___.",
+      "options": [
+        "consume",
+        "consumer",
+        "consumption"
+      ],
+      "answer": "consumption"
+    },
+    {
+      "id": "wf_consume_m02",
+      "family": "consume",
+      "prompt": "Athletes need to ___ enough calories during intense training.",
+      "options": [
+        "consumer",
+        "consumption",
+        "consume"
+      ],
+      "answer": "consume"
+    },
+    {
+      "id": "wf_consume_m03",
+      "family": "consume",
+      "prompt": "The company asked a typical ___ to test its new headphones.",
+      "options": [
+        "consume",
+        "consumption",
+        "consumer"
+      ],
+      "answer": "consumer"
+    },
+    {
+      "id": "wf_consume_m04",
+      "family": "consume",
+      "prompt": "Electricity ___ rises sharply during the hottest months.",
+      "options": [
+        "consumer",
+        "consume",
+        "consumption"
+      ],
+      "answer": "consumption"
+    },
+    {
+      "id": "wf_consume_m05",
+      "family": "consume",
+      "prompt": "Some teenagers ___ too many sugary drinks each week.",
+      "options": [
+        "consumption",
+        "consumer",
+        "consume"
+      ],
+      "answer": "consume"
+    },
+    {
+      "id": "wf_consume_m06",
+      "family": "consume",
+      "prompt": "An informed ___ checks labels and compares ingredients carefully.",
+      "options": [
+        "consume",
+        "consumption",
+        "consumer"
+      ],
+      "answer": "consumer"
+    },
+    {
+      "id": "wf_consume_m07",
+      "family": "consume",
+      "prompt": "The report examines patterns of energy ___ across several countries.",
+      "options": [
+        "consumption",
+        "consume",
+        "consumer"
+      ],
+      "answer": "consumption"
+    },
+    {
+      "id": "wf_consume_m08",
+      "family": "consume",
+      "prompt": "Which form is a noun meaning \"sự tiêu thụ\"?",
+      "options": [
+        "consume",
+        "consumer",
+        "consumption"
+      ],
+      "answer": "consumption"
+    },
+    {
+      "id": "wf_courage_m01",
+      "family": "courage",
+      "prompt": "Repeated failures can be ___ for young entrepreneurs.",
+      "options": [
+        "discouraging",
+        "discourage",
+        "encourage",
+        "courage"
+      ],
+      "answer": "discouraging"
+    },
+    {
+      "id": "wf_courage_m02",
+      "family": "courage",
+      "prompt": "The latest test results are ___ because scores have risen steadily.",
+      "options": [
+        "discourage",
+        "encourage",
+        "encouraging",
+        "courage"
+      ],
+      "answer": "encouraging"
+    },
+    {
+      "id": "wf_courage_m03",
+      "family": "courage",
+      "prompt": "The museum hopes to ___ teenagers to explore local history.",
+      "options": [
+        "discourage",
+        "courage",
+        "encouragement",
+        "encourage"
+      ],
+      "answer": "encourage"
+    },
+    {
+      "id": "wf_courage_m04",
+      "family": "courage",
+      "prompt": "A lack of clear information may ___ people from applying.",
+      "options": [
+        "encourage",
+        "encouragement",
+        "courage",
+        "discourage"
+      ],
+      "answer": "discourage"
+    },
+    {
+      "id": "wf_courage_m05",
+      "family": "courage",
+      "prompt": "The young singer appreciated her coach's constant ___.",
+      "options": [
+        "encouragement",
+        "encourage",
+        "discourage",
+        "courage"
+      ],
+      "answer": "encouragement"
+    },
+    {
+      "id": "wf_courage_m06",
+      "family": "courage",
+      "prompt": "The rescue team made a ___ decision despite the danger.",
+      "options": [
+        "courageous",
+        "discourage",
+        "courage",
+        "encourage"
+      ],
+      "answer": "courageous"
+    },
+    {
+      "id": "wf_courage_m07",
+      "family": "courage",
+      "prompt": "The negative comments were ___ and made the pupils lose confidence.",
+      "options": [
+        "discouraging",
+        "discourage",
+        "encourage",
+        "courage"
+      ],
+      "answer": "discouraging"
+    },
+    {
+      "id": "wf_courage_m08",
+      "family": "courage",
+      "prompt": "Which form is an adjective meaning \"dũng cảm\"?",
+      "options": [
+        "discourage",
+        "encourage",
+        "courageous",
+        "courage"
+      ],
+      "answer": "courageous"
+    },
+    {
+      "id": "wf_describe_m01",
+      "family": "describe",
+      "prompt": "The writer uses ___ adjectives to bring the scene to life.",
+      "options": [
+        "describe",
+        "description",
+        "descriptive"
+      ],
+      "answer": "descriptive"
+    },
+    {
+      "id": "wf_describe_m02",
+      "family": "describe",
+      "prompt": "Witnesses struggled to ___ the stranger they had seen.",
+      "options": [
+        "descriptive",
+        "describe",
+        "description"
+      ],
+      "answer": "describe"
+    },
+    {
+      "id": "wf_describe_m03",
+      "family": "describe",
+      "prompt": "His ___ of the experiment lacked several essential details.",
+      "options": [
+        "descriptive",
+        "describe",
+        "description"
+      ],
+      "answer": "description"
+    },
+    {
+      "id": "wf_describe_m04",
+      "family": "describe",
+      "prompt": "A ___ paragraph should help readers picture a place clearly.",
+      "options": [
+        "describe",
+        "description",
+        "descriptive"
+      ],
+      "answer": "descriptive"
+    },
+    {
+      "id": "wf_describe_m05",
+      "family": "describe",
+      "prompt": "The guide will ___ how the ancient tools were used.",
+      "options": [
+        "describe",
+        "description",
+        "descriptive"
+      ],
+      "answer": "describe"
+    },
+    {
+      "id": "wf_describe_m06",
+      "family": "describe",
+      "prompt": "The product ___ includes its size and main features.",
+      "options": [
+        "descriptive",
+        "describe",
+        "description"
+      ],
+      "answer": "description"
+    },
+    {
+      "id": "wf_describe_m07",
+      "family": "describe",
+      "prompt": "The teacher praised the student's vivid, ___ writing.",
+      "options": [
+        "describe",
+        "description",
+        "descriptive"
+      ],
+      "answer": "descriptive"
+    },
+    {
+      "id": "wf_describe_m08",
+      "family": "describe",
+      "prompt": "Which form is an adjective meaning \"mang tính miêu tả\"?",
+      "options": [
+        "describe",
+        "description",
+        "descriptive"
+      ],
+      "answer": "descriptive"
+    },
+    {
+      "id": "wf_difficult_m01",
+      "family": "difficult",
+      "prompt": "He completed the puzzle without any ___ despite its complexity.",
+      "options": [
+        "difficult",
+        "difficulty"
+      ],
+      "answer": "difficulty"
+    },
+    {
+      "id": "wf_difficult_m02",
+      "family": "difficult",
+      "prompt": "The decision was ___ because both options had serious disadvantages.",
+      "options": [
+        "difficulty",
+        "difficult"
+      ],
+      "answer": "difficult"
+    },
+    {
+      "id": "wf_difficult_m03",
+      "family": "difficult",
+      "prompt": "The pilot reported ___ communicating with the control tower.",
+      "options": [
+        "difficult",
+        "difficulty"
+      ],
+      "answer": "difficulty"
+    },
+    {
+      "id": "wf_difficult_m04",
+      "family": "difficult",
+      "prompt": "The instructions are ___ to follow without an illustration.",
+      "options": [
+        "difficulty",
+        "difficult"
+      ],
+      "answer": "difficult"
+    },
+    {
+      "id": "wf_difficult_m05",
+      "family": "difficult",
+      "prompt": "The hikers encountered considerable ___ crossing the flooded river.",
+      "options": [
+        "difficulty",
+        "difficult"
+      ],
+      "answer": "difficulty"
+    },
+    {
+      "id": "wf_difficult_m06",
+      "family": "difficult",
+      "prompt": "Learning a new alphabet can be ___ for adult beginners.",
+      "options": [
+        "difficult",
+        "difficulty"
+      ],
+      "answer": "difficult"
+    },
+    {
+      "id": "wf_difficult_m07",
+      "family": "difficult",
+      "prompt": "The laboratory had ___ obtaining enough reliable samples.",
+      "options": [
+        "difficulty",
+        "difficult"
+      ],
+      "answer": "difficulty"
+    },
+    {
+      "id": "wf_difficult_m08",
+      "family": "difficult",
+      "prompt": "Which form is a noun meaning \"sự khó khăn\"?",
+      "options": [
+        "difficult",
+        "difficulty"
+      ],
+      "answer": "difficulty"
+    },
+    {
+      "id": "wf_efficient_m01",
+      "family": "efficient",
+      "prompt": "An ___ public transport network helps passengers reach their destinations without unnecessary delays.",
+      "options": [
+        "efficiency",
+        "efficient",
+        "efficiently",
+        "inefficient"
+      ],
+      "answer": "efficient"
+    },
+    {
+      "id": "wf_efficient_m02",
+      "family": "efficient",
+      "prompt": "Printing every email is an ___ use of paper and creates unnecessary waste.",
+      "options": [
+        "efficiently",
+        "efficient",
+        "efficiency",
+        "inefficient"
+      ],
+      "answer": "inefficient"
+    },
+    {
+      "id": "wf_efficient_m03",
+      "family": "efficient",
+      "prompt": "The assistant handled customer complaints quickly and ___.",
+      "options": [
+        "inefficient",
+        "efficient",
+        "efficiency",
+        "efficiently"
+      ],
+      "answer": "efficiently"
+    },
+    {
+      "id": "wf_efficient_m04",
+      "family": "efficient",
+      "prompt": "The report compares the energy ___ of several buildings.",
+      "options": [
+        "inefficient",
+        "efficiently",
+        "efficient",
+        "efficiency"
+      ],
+      "answer": "efficiency"
+    },
+    {
+      "id": "wf_efficient_m05",
+      "family": "efficient",
+      "prompt": "The company replaced an ___ process that wasted hours each week.",
+      "options": [
+        "efficiency",
+        "inefficient",
+        "efficiently",
+        "efficient"
+      ],
+      "answer": "inefficient"
+    },
+    {
+      "id": "wf_efficient_m06",
+      "family": "efficient",
+      "prompt": "The council introduced a more ___ way to collect waste that saves time and fuel.",
+      "options": [
+        "efficiency",
+        "inefficient",
+        "efficiently",
+        "efficient"
+      ],
+      "answer": "efficient"
+    },
+    {
+      "id": "wf_efficient_m07",
+      "family": "efficient",
+      "prompt": "Students can work more ___ when tasks are clearly divided.",
+      "options": [
+        "inefficient",
+        "efficiency",
+        "efficiently",
+        "efficient"
+      ],
+      "answer": "efficiently"
+    },
+    {
+      "id": "wf_efficient_m08",
+      "family": "efficient",
+      "prompt": "Which form is an adverb meaning \"một cách hiệu quả\"?",
+      "options": [
+        "efficiency",
+        "efficient",
+        "efficiently",
+        "inefficient"
+      ],
+      "answer": "efficiently"
+    },
+    {
+      "id": "wf_energy_m01",
+      "family": "energy",
+      "prompt": "The audience cheered ___ when the team scored.",
+      "options": [
+        "energetic",
+        "energy",
+        "energetically"
+      ],
+      "answer": "energetically"
+    },
+    {
+      "id": "wf_energy_m02",
+      "family": "energy",
+      "prompt": "Saving ___ is a major priority for the hotel.",
+      "options": [
+        "energy",
+        "energetic",
+        "energetically"
+      ],
+      "answer": "energy"
+    },
+    {
+      "id": "wf_energy_m03",
+      "family": "energy",
+      "prompt": "The new presenter is extremely ___ and keeps everyone interested.",
+      "options": [
+        "energetically",
+        "energetic",
+        "energy"
+      ],
+      "answer": "energetic"
+    },
+    {
+      "id": "wf_energy_m04",
+      "family": "energy",
+      "prompt": "The young volunteers worked ___ to clean the beach.",
+      "options": [
+        "energetically",
+        "energy",
+        "energetic"
+      ],
+      "answer": "energetically"
+    },
+    {
+      "id": "wf_energy_m05",
+      "family": "energy",
+      "prompt": "Eating a balanced breakfast can provide ___ for the morning.",
+      "options": [
+        "energetically",
+        "energy",
+        "energetic"
+      ],
+      "answer": "energy"
+    },
+    {
+      "id": "wf_energy_m06",
+      "family": "energy",
+      "prompt": "The programme includes several ___ activities for teenagers.",
+      "options": [
+        "energy",
+        "energetic",
+        "energetically"
+      ],
+      "answer": "energetic"
+    },
+    {
+      "id": "wf_energy_m07",
+      "family": "energy",
+      "prompt": "The band performed ___ despite the unusually hot weather.",
+      "options": [
+        "energy",
+        "energetic",
+        "energetically"
+      ],
+      "answer": "energetically"
+    },
+    {
+      "id": "wf_energy_m08",
+      "family": "energy",
+      "prompt": "Which form is an adverb meaning \"một cách đầy nhiệt huyết\"?",
+      "options": [
+        "energetic",
+        "energy",
+        "energetically"
+      ],
+      "answer": "energetically"
+    },
+    {
+      "id": "wf_enjoy_m01",
+      "family": "enjoy",
+      "prompt": "The instructor made the challenging lessons surprisingly ___.",
+      "options": [
+        "enjoy",
+        "enjoyable",
+        "enjoyment"
+      ],
+      "answer": "enjoyable"
+    },
+    {
+      "id": "wf_enjoy_m02",
+      "family": "enjoy",
+      "prompt": "Some people ___ exploring unfamiliar cities on foot.",
+      "options": [
+        "enjoy",
+        "enjoyable",
+        "enjoyment"
+      ],
+      "answer": "enjoy"
+    },
+    {
+      "id": "wf_enjoy_m03",
+      "family": "enjoy",
+      "prompt": "The festival was organised for the ___ of local residents.",
+      "options": [
+        "enjoyment",
+        "enjoy",
+        "enjoyable"
+      ],
+      "answer": "enjoyment"
+    },
+    {
+      "id": "wf_enjoy_m04",
+      "family": "enjoy",
+      "prompt": "The concert remained ___ despite the uncomfortable seats.",
+      "options": [
+        "enjoyable",
+        "enjoy",
+        "enjoyment"
+      ],
+      "answer": "enjoyable"
+    },
+    {
+      "id": "wf_enjoy_m05",
+      "family": "enjoy",
+      "prompt": "You will ___ the documentary if you are interested in wildlife.",
+      "options": [
+        "enjoyable",
+        "enjoyment",
+        "enjoy"
+      ],
+      "answer": "enjoy"
+    },
+    {
+      "id": "wf_enjoy_m06",
+      "family": "enjoy",
+      "prompt": "Her greatest ___ comes from helping younger students.",
+      "options": [
+        "enjoyment",
+        "enjoyable",
+        "enjoy"
+      ],
+      "answer": "enjoyment"
+    },
+    {
+      "id": "wf_enjoy_m07",
+      "family": "enjoy",
+      "prompt": "The weekend workshop offered an ___ introduction to photography.",
+      "options": [
+        "enjoyable",
+        "enjoyment",
+        "enjoy"
+      ],
+      "answer": "enjoyable"
+    },
+    {
+      "id": "wf_enjoy_m08",
+      "family": "enjoy",
+      "prompt": "Which form is a noun meaning \"sự thích thú\"?",
+      "options": [
+        "enjoy",
+        "enjoyment",
+        "enjoyable"
+      ],
+      "answer": "enjoyment"
+    },
+    {
+      "id": "wf_enthusiasm_m01",
+      "family": "enthusiasm",
+      "prompt": "Local residents ___ supported the plan to restore the park.",
+      "options": [
+        "enthusiastically",
+        "enthusiastic",
+        "enthusiasm"
+      ],
+      "answer": "enthusiastically"
+    },
+    {
+      "id": "wf_enthusiasm_m02",
+      "family": "enthusiasm",
+      "prompt": "The coach's ___ motivated the entire basketball team.",
+      "options": [
+        "enthusiasm",
+        "enthusiastically",
+        "enthusiastic"
+      ],
+      "answer": "enthusiasm"
+    },
+    {
+      "id": "wf_enthusiasm_m03",
+      "family": "enthusiasm",
+      "prompt": "The principal received ___ feedback about the new library.",
+      "options": [
+        "enthusiastically",
+        "enthusiastic",
+        "enthusiasm"
+      ],
+      "answer": "enthusiastic"
+    },
+    {
+      "id": "wf_enthusiasm_m04",
+      "family": "enthusiasm",
+      "prompt": "The children clapped ___ at the end of the performance.",
+      "options": [
+        "enthusiastic",
+        "enthusiasm",
+        "enthusiastically"
+      ],
+      "answer": "enthusiastically"
+    },
+    {
+      "id": "wf_enthusiasm_m05",
+      "family": "enthusiasm",
+      "prompt": "There was little ___ for the proposal to cancel the festival.",
+      "options": [
+        "enthusiasm",
+        "enthusiastic",
+        "enthusiastically"
+      ],
+      "answer": "enthusiasm"
+    },
+    {
+      "id": "wf_enthusiasm_m06",
+      "family": "enthusiasm",
+      "prompt": "An ___ volunteer offered to lead the clean-up campaign.",
+      "options": [
+        "enthusiastic",
+        "enthusiastically",
+        "enthusiasm"
+      ],
+      "answer": "enthusiastic"
+    },
+    {
+      "id": "wf_enthusiasm_m07",
+      "family": "enthusiasm",
+      "prompt": "The excited visitors ___ joined the traditional dance after watching the performers.",
+      "options": [
+        "enthusiastically",
+        "enthusiasm",
+        "enthusiastic"
+      ],
+      "answer": "enthusiastically"
+    },
+    {
+      "id": "wf_enthusiasm_m08",
+      "family": "enthusiasm",
+      "prompt": "Which form is an adverb meaning \"một cách nhiệt tình\"?",
+      "options": [
+        "enthusiasm",
+        "enthusiastic",
+        "enthusiastically"
+      ],
+      "answer": "enthusiastically"
+    },
+    {
+      "id": "wf_experience_m01",
+      "family": "experience",
+      "prompt": "An ___ cyclist who has only just learned to ride should avoid this dangerous mountain route.",
+      "options": [
+        "experienced",
+        "inexperienced",
+        "experience"
+      ],
+      "answer": "inexperienced"
+    },
+    {
+      "id": "wf_experience_m02",
+      "family": "experience",
+      "prompt": "The internship provided practical ___ in scientific research.",
+      "options": [
+        "inexperienced",
+        "experienced",
+        "experience"
+      ],
+      "answer": "experience"
+    },
+    {
+      "id": "wf_experience_m03",
+      "family": "experience",
+      "prompt": "The company appointed an ___ manager with fifteen years in the industry to lead the project.",
+      "options": [
+        "inexperienced",
+        "experienced",
+        "experience"
+      ],
+      "answer": "experienced"
+    },
+    {
+      "id": "wf_experience_m04",
+      "family": "experience",
+      "prompt": "The ___ presenter, appearing on television for the first time, became nervous in front of the cameras.",
+      "options": [
+        "experienced",
+        "inexperienced",
+        "experience"
+      ],
+      "answer": "inexperienced"
+    },
+    {
+      "id": "wf_experience_m05",
+      "family": "experience",
+      "prompt": "Years of ___ helped the mechanic identify the fault immediately.",
+      "options": [
+        "inexperienced",
+        "experience",
+        "experienced"
+      ],
+      "answer": "experience"
+    },
+    {
+      "id": "wf_experience_m06",
+      "family": "experience",
+      "prompt": "Only ___ climbers are allowed on this difficult expedition.",
+      "options": [
+        "experienced",
+        "experience",
+        "inexperienced"
+      ],
+      "answer": "experienced"
+    },
+    {
+      "id": "wf_experience_m07",
+      "family": "experience",
+      "prompt": "The instructor offered extra support to ___ learners who had never used the equipment before.",
+      "options": [
+        "experienced",
+        "inexperienced",
+        "experience"
+      ],
+      "answer": "inexperienced"
+    },
+    {
+      "id": "wf_experience_m08",
+      "family": "experience",
+      "prompt": "Which form is an adjective meaning \"thiếu kinh nghiệm\"?",
+      "options": [
+        "experienced",
+        "inexperienced",
+        "experience"
+      ],
+      "answer": "inexperienced"
+    },
+    {
+      "id": "wf_extreme_m01",
+      "family": "extreme",
+      "prompt": "The patient complained of numbness in a lower ___.",
+      "options": [
+        "extreme",
+        "extremely",
+        "extremity",
+        "extremist"
+      ],
+      "answer": "extremity"
+    },
+    {
+      "id": "wf_extreme_m02",
+      "family": "extreme",
+      "prompt": "The region frequently experiences ___ weather conditions, including blizzards and heatwaves.",
+      "options": [
+        "extremist",
+        "extreme",
+        "extremity",
+        "extremely"
+      ],
+      "answer": "extreme"
+    },
+    {
+      "id": "wf_extreme_m03",
+      "family": "extreme",
+      "prompt": "The documentary was ___ informative and well researched.",
+      "options": [
+        "extreme",
+        "extremity",
+        "extremist",
+        "extremely"
+      ],
+      "answer": "extremely"
+    },
+    {
+      "id": "wf_extreme_m04",
+      "family": "extreme",
+      "prompt": "The article described how an ___ organisation recruits supporters.",
+      "options": [
+        "extreme",
+        "extremity",
+        "extremely",
+        "extremist"
+      ],
+      "answer": "extremist"
+    },
+    {
+      "id": "wf_extreme_m05",
+      "family": "extreme",
+      "prompt": "Doctors checked each ___ for signs of poor circulation.",
+      "options": [
+        "extreme",
+        "extremely",
+        "extremity",
+        "extremist"
+      ],
+      "answer": "extremity"
+    },
+    {
+      "id": "wf_extreme_m06",
+      "family": "extreme",
+      "prompt": "Rescue teams operated under ___ pressure after the earthquake.",
+      "options": [
+        "extremist",
+        "extremity",
+        "extreme",
+        "extremely"
+      ],
+      "answer": "extreme"
+    },
+    {
+      "id": "wf_extreme_m07",
+      "family": "extreme",
+      "prompt": "The journey proved ___ demanding because of the rough terrain.",
+      "options": [
+        "extremity",
+        "extremely",
+        "extreme",
+        "extremist"
+      ],
+      "answer": "extremely"
+    },
+    {
+      "id": "wf_extreme_m08",
+      "family": "extreme",
+      "prompt": "Which form is a noun meaning \"chi; phần tận cùng cơ thể\"?",
+      "options": [
+        "extremely",
+        "extreme",
+        "extremity",
+        "extremist"
+      ],
+      "answer": "extremity"
+    },
+    {
+      "id": "wf_fashion_m01",
+      "family": "fashion",
+      "prompt": "These shoes looked ___ after styles changed so dramatically.",
+      "options": [
+        "fashionable",
+        "fashion",
+        "unfashionable"
+      ],
+      "answer": "unfashionable"
+    },
+    {
+      "id": "wf_fashion_m02",
+      "family": "fashion",
+      "prompt": "The magazine reports on the latest developments in sustainable ___.",
+      "options": [
+        "fashionable",
+        "fashion",
+        "unfashionable"
+      ],
+      "answer": "fashion"
+    },
+    {
+      "id": "wf_fashion_m03",
+      "family": "fashion",
+      "prompt": "It became ___ to decorate homes with natural materials, and soon every magazine promoted the idea.",
+      "options": [
+        "unfashionable",
+        "fashionable",
+        "fashion"
+      ],
+      "answer": "fashionable"
+    },
+    {
+      "id": "wf_fashion_m04",
+      "family": "fashion",
+      "prompt": "The old-fashioned hat had become ___ by the late 1990s, and nobody wore it any more.",
+      "options": [
+        "fashionable",
+        "unfashionable",
+        "fashion"
+      ],
+      "answer": "unfashionable"
+    },
+    {
+      "id": "wf_fashion_m05",
+      "family": "fashion",
+      "prompt": "The museum displays photographs showing how ___ evolved over time.",
+      "options": [
+        "fashionable",
+        "unfashionable",
+        "fashion"
+      ],
+      "answer": "fashion"
+    },
+    {
+      "id": "wf_fashion_m06",
+      "family": "fashion",
+      "prompt": "The designer opened a boutique in the city's most ___ neighbourhood, where celebrities shop.",
+      "options": [
+        "fashion",
+        "unfashionable",
+        "fashionable"
+      ],
+      "answer": "fashionable"
+    },
+    {
+      "id": "wf_fashion_m07",
+      "family": "fashion",
+      "prompt": "Some traditional styles are unfairly dismissed as ___.",
+      "options": [
+        "fashion",
+        "unfashionable",
+        "fashionable"
+      ],
+      "answer": "unfashionable"
+    },
+    {
+      "id": "wf_fashion_m08",
+      "family": "fashion",
+      "prompt": "Which form is an adjective meaning \"lỗi mốt\"?",
+      "options": [
+        "fashionable",
+        "fashion",
+        "unfashionable"
+      ],
+      "answer": "unfashionable"
+    },
+    {
+      "id": "wf_important_m01",
+      "family": "important",
+      "prompt": "A reliable timetable is ___ for students travelling long distances.",
+      "options": [
+        "importantly",
+        "unimportant",
+        "important",
+        "importance"
+      ],
+      "answer": "important"
+    },
+    {
+      "id": "wf_important_m02",
+      "family": "important",
+      "prompt": "The small spelling difference was ___ to the overall meaning.",
+      "options": [
+        "unimportant",
+        "importantly",
+        "important",
+        "importance"
+      ],
+      "answer": "unimportant"
+    },
+    {
+      "id": "wf_important_m03",
+      "family": "important",
+      "prompt": "Most ___, all passengers escaped without serious injury.",
+      "options": [
+        "unimportant",
+        "importantly",
+        "important",
+        "importance"
+      ],
+      "answer": "importantly"
+    },
+    {
+      "id": "wf_important_m04",
+      "family": "important",
+      "prompt": "Parents stressed the ___ of learning basic financial skills.",
+      "options": [
+        "important",
+        "unimportant",
+        "importantly",
+        "importance"
+      ],
+      "answer": "importance"
+    },
+    {
+      "id": "wf_important_m05",
+      "family": "important",
+      "prompt": "It is ___ that everyone understands the evacuation procedure.",
+      "options": [
+        "unimportant",
+        "important",
+        "importance",
+        "importantly"
+      ],
+      "answer": "important"
+    },
+    {
+      "id": "wf_important_m06",
+      "family": "important",
+      "prompt": "The exact order of the pictures is ___ for this exercise, so you can arrange them as you like.",
+      "options": [
+        "importance",
+        "important",
+        "importantly",
+        "unimportant"
+      ],
+      "answer": "unimportant"
+    },
+    {
+      "id": "wf_important_m07",
+      "family": "important",
+      "prompt": "More ___, the new law protects vulnerable workers.",
+      "options": [
+        "importantly",
+        "importance",
+        "important",
+        "unimportant"
+      ],
+      "answer": "importantly"
+    },
+    {
+      "id": "wf_important_m08",
+      "family": "important",
+      "prompt": "Which form is an adverb meaning \"quan trọng hơn là\"?",
+      "options": [
+        "important",
+        "unimportant",
+        "importance",
+        "importantly"
+      ],
+      "answer": "importantly"
+    },
+    {
+      "id": "wf_lead_m01",
+      "family": "lead",
+      "prompt": "The graph was ___ because its vertical axis started at fifty.",
+      "options": [
+        "mislead",
+        "misleading",
+        "leader",
+        "lead"
+      ],
+      "answer": "misleading"
+    },
+    {
+      "id": "wf_lead_m02",
+      "family": "lead",
+      "prompt": "An inaccurate headline can ___ readers about the actual findings.",
+      "options": [
+        "mislead",
+        "lead",
+        "leadership",
+        "leader"
+      ],
+      "answer": "mislead"
+    },
+    {
+      "id": "wf_lead_m03",
+      "family": "lead",
+      "prompt": "The home team lost its narrow ___ just before half-time.",
+      "options": [
+        "mislead",
+        "leader",
+        "leadership",
+        "lead"
+      ],
+      "answer": "lead"
+    },
+    {
+      "id": "wf_lead_m04",
+      "family": "lead",
+      "prompt": "The expedition ___ checked everyone's equipment before departure.",
+      "options": [
+        "mislead",
+        "leadership",
+        "leader",
+        "lead"
+      ],
+      "answer": "leader"
+    },
+    {
+      "id": "wf_lead_m05",
+      "family": "lead",
+      "prompt": "The course helps teenagers develop practical ___ skills.",
+      "options": [
+        "mislead",
+        "leadership",
+        "leader",
+        "lead"
+      ],
+      "answer": "leadership"
+    },
+    {
+      "id": "wf_lead_m06",
+      "family": "lead",
+      "prompt": "The award went to a ___ expert in renewable energy.",
+      "options": [
+        "leader",
+        "mislead",
+        "leading",
+        "lead"
+      ],
+      "answer": "leading"
+    },
+    {
+      "id": "wf_lead_m07",
+      "family": "lead",
+      "prompt": "The website displayed ___ figures that exaggerated the benefits.",
+      "options": [
+        "lead",
+        "leader",
+        "mislead",
+        "misleading"
+      ],
+      "answer": "misleading"
+    },
+    {
+      "id": "wf_lead_m08",
+      "family": "lead",
+      "prompt": "Which form is a noun meaning \"khả năng lãnh đạo\"?",
+      "options": [
+        "lead",
+        "leader",
+        "mislead",
+        "leadership"
+      ],
+      "answer": "leadership"
+    },
+    {
+      "id": "wf_limit_m01",
+      "family": "limit",
+      "prompt": "The school set a daily ___ of two hours on screen time.",
+      "options": [
+        "limitation",
+        "limited",
+        "unlimited",
+        "limit"
+      ],
+      "answer": "limit"
+    },
+    {
+      "id": "wf_limit_m02",
+      "family": "limit",
+      "prompt": "Poor lighting was a serious ___ of the original design.",
+      "options": [
+        "limitation",
+        "limited",
+        "unlimited",
+        "limit"
+      ],
+      "answer": "limitation"
+    },
+    {
+      "id": "wf_limit_m03",
+      "family": "limit",
+      "prompt": "The charity operates with ___ financial resources and cannot fund every application.",
+      "options": [
+        "limited",
+        "unlimited",
+        "limit",
+        "limitation"
+      ],
+      "answer": "limited"
+    },
+    {
+      "id": "wf_limit_m04",
+      "family": "limit",
+      "prompt": "The pass allows ___ travel on local buses, with no restrictions on the number of journeys.",
+      "options": [
+        "limitation",
+        "limited",
+        "unlimited",
+        "limit"
+      ],
+      "answer": "unlimited"
+    },
+    {
+      "id": "wf_limit_m05",
+      "family": "limit",
+      "prompt": "Strict deadlines can be ___ for projects requiring creativity.",
+      "options": [
+        "limitation",
+        "limited",
+        "limiting",
+        "limit"
+      ],
+      "answer": "limiting"
+    },
+    {
+      "id": "wf_limit_m06",
+      "family": "limit",
+      "prompt": "The museum has set a ___ of twenty visitors per tour.",
+      "options": [
+        "unlimited",
+        "limit",
+        "limited",
+        "limitation"
+      ],
+      "answer": "limit"
+    },
+    {
+      "id": "wf_limit_m07",
+      "family": "limit",
+      "prompt": "A technical ___ prevented the camera from recording underwater.",
+      "options": [
+        "limitation",
+        "limited",
+        "unlimited",
+        "limit"
+      ],
+      "answer": "limitation"
+    },
+    {
+      "id": "wf_limit_m08",
+      "family": "limit",
+      "prompt": "Which form is an adjective meaning \"gây hạn chế\"?",
+      "options": [
+        "limit",
+        "limited",
+        "limitation",
+        "limiting"
+      ],
+      "answer": "limiting"
+    },
+    {
+      "id": "wf_load_m01",
+      "family": "load",
+      "prompt": "Visitors may ___ a free map from the official website.",
+      "options": [
+        "load",
+        "overload",
+        "upload",
+        "download"
+      ],
+      "answer": "download"
+    },
+    {
+      "id": "wf_load_m02",
+      "family": "load",
+      "prompt": "Too much homework can ___ students during examination week.",
+      "options": [
+        "overload",
+        "upload",
+        "load",
+        "download"
+      ],
+      "answer": "overload"
+    },
+    {
+      "id": "wf_load_m03",
+      "family": "load",
+      "prompt": "The bridge was designed to carry a considerable ___.",
+      "options": [
+        "download",
+        "overload",
+        "load",
+        "upload"
+      ],
+      "answer": "load"
+    },
+    {
+      "id": "wf_load_m04",
+      "family": "load",
+      "prompt": "The journalist forgot to ___ the final video to the newspaper's website before the deadline.",
+      "options": [
+        "load",
+        "upload",
+        "download",
+        "overload"
+      ],
+      "answer": "upload"
+    },
+    {
+      "id": "wf_load_m05",
+      "family": "load",
+      "prompt": "You should ___ the software only from trusted websites.",
+      "options": [
+        "upload",
+        "download",
+        "overload",
+        "load"
+      ],
+      "answer": "download"
+    },
+    {
+      "id": "wf_load_m06",
+      "family": "load",
+      "prompt": "Adding unnecessary details can ___ a presentation with information.",
+      "options": [
+        "upload",
+        "download",
+        "overload",
+        "load"
+      ],
+      "answer": "overload"
+    },
+    {
+      "id": "wf_load_m07",
+      "family": "load",
+      "prompt": "The workers lifted the large ___ onto the delivery truck.",
+      "options": [
+        "download",
+        "overload",
+        "load",
+        "upload"
+      ],
+      "answer": "load"
+    },
+    {
+      "id": "wf_load_m08",
+      "family": "load",
+      "prompt": "Which form is a verb meaning \"tải lên\"?",
+      "options": [
+        "load",
+        "download",
+        "upload",
+        "overload"
+      ],
+      "answer": "upload"
+    },
+    {
+      "id": "wf_nation_m01",
+      "family": "nation",
+      "prompt": "The artist became known ___ after winning a major award.",
+      "options": [
+        "nationality",
+        "nation",
+        "international",
+        "internationally"
+      ],
+      "answer": "internationally"
+    },
+    {
+      "id": "wf_nation_m02",
+      "family": "nation",
+      "prompt": "The museum presents the history of the ___ through photographs.",
+      "options": [
+        "nation",
+        "national",
+        "nationality",
+        "international"
+      ],
+      "answer": "nation"
+    },
+    {
+      "id": "wf_nation_m03",
+      "family": "nation",
+      "prompt": "Her ___ determines which passport she can apply for.",
+      "options": [
+        "nation",
+        "international",
+        "nationality",
+        "national"
+      ],
+      "answer": "nationality"
+    },
+    {
+      "id": "wf_nation_m04",
+      "family": "nation",
+      "prompt": "The government announced a new ___ strategy for road safety on roads across the whole country.",
+      "options": [
+        "international",
+        "nationality",
+        "nation",
+        "national"
+      ],
+      "answer": "national"
+    },
+    {
+      "id": "wf_nation_m05",
+      "family": "nation",
+      "prompt": "The conference brought together experts from several countries for ___ cooperation.",
+      "options": [
+        "international",
+        "nationality",
+        "nation",
+        "national"
+      ],
+      "answer": "international"
+    },
+    {
+      "id": "wf_nation_m06",
+      "family": "nation",
+      "prompt": "The campaign was broadcast ___ on major television channels.",
+      "options": [
+        "nationally",
+        "nation",
+        "international",
+        "nationality"
+      ],
+      "answer": "nationally"
+    },
+    {
+      "id": "wf_nation_m07",
+      "family": "nation",
+      "prompt": "The film was distributed ___ rather than only within its home country.",
+      "options": [
+        "internationally",
+        "nationality",
+        "international",
+        "nation"
+      ],
+      "answer": "internationally"
+    },
+    {
+      "id": "wf_nation_m08",
+      "family": "nation",
+      "prompt": "Which form is a noun meaning \"quốc tịch\"?",
+      "options": [
+        "nation",
+        "national",
+        "international",
+        "nationality"
+      ],
+      "answer": "nationality"
+    },
+    {
+      "id": "wf_origin_m01",
+      "family": "origin",
+      "prompt": "Several common expressions ___ in ancient languages spoken many centuries ago.",
+      "options": [
+        "original",
+        "originality",
+        "originate",
+        "origin"
+      ],
+      "answer": "originate"
+    },
+    {
+      "id": "wf_origin_m02",
+      "family": "origin",
+      "prompt": "The label identifies the country of ___ for each product.",
+      "options": [
+        "originate",
+        "original",
+        "originality",
+        "origin"
+      ],
+      "answer": "origin"
+    },
+    {
+      "id": "wf_origin_m03",
+      "family": "origin",
+      "prompt": "The competition rewards imagination and ___ rather than technical perfection.",
+      "options": [
+        "originate",
+        "originality",
+        "original",
+        "origin"
+      ],
+      "answer": "originality"
+    },
+    {
+      "id": "wf_origin_m04",
+      "family": "origin",
+      "prompt": "Please keep the ___ documents in a safe place.",
+      "options": [
+        "originality",
+        "originate",
+        "original",
+        "origin"
+      ],
+      "answer": "original"
+    },
+    {
+      "id": "wf_origin_m05",
+      "family": "origin",
+      "prompt": "The novel was ___ written for younger readers.",
+      "options": [
+        "origin",
+        "originate",
+        "originality",
+        "originally"
+      ],
+      "answer": "originally"
+    },
+    {
+      "id": "wf_origin_m06",
+      "family": "origin",
+      "prompt": "Some of these customs ___ in local fishing communities.",
+      "options": [
+        "origin",
+        "originate",
+        "original",
+        "originality"
+      ],
+      "answer": "originate"
+    },
+    {
+      "id": "wf_origin_m07",
+      "family": "origin",
+      "prompt": "Researchers traced the ___ of the unusual material to a nearby volcano.",
+      "options": [
+        "originate",
+        "original",
+        "origin",
+        "originality"
+      ],
+      "answer": "origin"
+    },
+    {
+      "id": "wf_origin_m08",
+      "family": "origin",
+      "prompt": "Which form is a noun meaning \"tính độc đáo\"?",
+      "options": [
+        "originality",
+        "origin",
+        "originate",
+        "original"
+      ],
+      "answer": "originality"
+    },
+    {
+      "id": "wf_physical_m01",
+      "family": "physical",
+      "prompt": "The famous ___ studied the behaviour of particles.",
+      "options": [
+        "physics",
+        "physicist",
+        "physical",
+        "physically"
+      ],
+      "answer": "physicist"
+    },
+    {
+      "id": "wf_physical_m02",
+      "family": "physical",
+      "prompt": "The doctor recommended more ___ exercise after recovery.",
+      "options": [
+        "physical",
+        "physicist",
+        "physically",
+        "physics"
+      ],
+      "answer": "physical"
+    },
+    {
+      "id": "wf_physical_m03",
+      "family": "physical",
+      "prompt": "The participants were ___ prepared for the difficult expedition.",
+      "options": [
+        "physicist",
+        "physically",
+        "physical",
+        "physics"
+      ],
+      "answer": "physically"
+    },
+    {
+      "id": "wf_physical_m04",
+      "family": "physical",
+      "prompt": "The laboratory conducts experiments involving advanced ___ and complex particle interactions.",
+      "options": [
+        "physics",
+        "physical",
+        "physicist",
+        "physically"
+      ],
+      "answer": "physics"
+    },
+    {
+      "id": "wf_physical_m05",
+      "family": "physical",
+      "prompt": "An experienced ___ demonstrated how magnetic forces act on different materials.",
+      "options": [
+        "physicist",
+        "physically",
+        "physics",
+        "physical"
+      ],
+      "answer": "physicist"
+    },
+    {
+      "id": "wf_physical_m06",
+      "family": "physical",
+      "prompt": "The course includes both practical training and ___ challenges.",
+      "options": [
+        "physicist",
+        "physics",
+        "physically",
+        "physical"
+      ],
+      "answer": "physical"
+    },
+    {
+      "id": "wf_physical_m07",
+      "family": "physical",
+      "prompt": "The hikers were ___ tired after climbing for six hours.",
+      "options": [
+        "physicist",
+        "physically",
+        "physical",
+        "physics"
+      ],
+      "answer": "physically"
+    },
+    {
+      "id": "wf_physical_m08",
+      "family": "physical",
+      "prompt": "Which form is a noun meaning \"nhà vật lý\"?",
+      "options": [
+        "physicist",
+        "physical",
+        "physics",
+        "physically"
+      ],
+      "answer": "physicist"
+    },
+    {
+      "id": "wf_power_m01",
+      "family": "power",
+      "prompt": "A ___ engine allows the boat to travel against strong currents.",
+      "options": [
+        "powerfully",
+        "powerful",
+        "powerless",
+        "power"
+      ],
+      "answer": "powerful"
+    },
+    {
+      "id": "wf_power_m02",
+      "family": "power",
+      "prompt": "The young child felt ___ when the adults ignored his concerns.",
+      "options": [
+        "powerfully",
+        "power",
+        "powerful",
+        "powerless"
+      ],
+      "answer": "powerless"
+    },
+    {
+      "id": "wf_power_m03",
+      "family": "power",
+      "prompt": "The documentary illustrates ___ the effects of climate change.",
+      "options": [
+        "power",
+        "powerless",
+        "powerfully",
+        "powerful"
+      ],
+      "answer": "powerfully"
+    },
+    {
+      "id": "wf_power_m04",
+      "family": "power",
+      "prompt": "The mayor has the ___ to approve certain local projects.",
+      "options": [
+        "power",
+        "powerless",
+        "powerfully",
+        "powerful"
+      ],
+      "answer": "power"
+    },
+    {
+      "id": "wf_power_m05",
+      "family": "power",
+      "prompt": "The charity launched a ___ campaign against food waste.",
+      "options": [
+        "power",
+        "powerful",
+        "powerless",
+        "powerfully"
+      ],
+      "answer": "powerful"
+    },
+    {
+      "id": "wf_power_m06",
+      "family": "power",
+      "prompt": "Small businesses seemed ___ against the larger company's demands.",
+      "options": [
+        "powerfully",
+        "powerless",
+        "power",
+        "powerful"
+      ],
+      "answer": "powerless"
+    },
+    {
+      "id": "wf_power_m07",
+      "family": "power",
+      "prompt": "The actor portrayed the character's grief extremely ___.",
+      "options": [
+        "powerless",
+        "powerful",
+        "power",
+        "powerfully"
+      ],
+      "answer": "powerfully"
+    },
+    {
+      "id": "wf_power_m08",
+      "family": "power",
+      "prompt": "Which form is an adjective meaning \"bất lực\"?",
+      "options": [
+        "power",
+        "powerfully",
+        "powerful",
+        "powerless"
+      ],
+      "answer": "powerless"
+    },
+    {
+      "id": "wf_profess_m01",
+      "family": "profess",
+      "prompt": "The group members ___ loyalty to principles they publicly defend.",
+      "options": [
+        "profess",
+        "profession",
+        "professional",
+        "unprofessional"
+      ],
+      "answer": "profess"
+    },
+    {
+      "id": "wf_profess_m02",
+      "family": "profess",
+      "prompt": "Medicine is a ___ that involves years of specialised training.",
+      "options": [
+        "profess",
+        "unprofessional",
+        "professional",
+        "profession"
+      ],
+      "answer": "profession"
+    },
+    {
+      "id": "wf_profess_m03",
+      "family": "profess",
+      "prompt": "Applicants should use ___ language in formal emails.",
+      "options": [
+        "profess",
+        "professional",
+        "profession",
+        "unprofessional"
+      ],
+      "answer": "professional"
+    },
+    {
+      "id": "wf_profess_m04",
+      "family": "profess",
+      "prompt": "Sharing private client information is completely ___ behaviour.",
+      "options": [
+        "profession",
+        "professional",
+        "profess",
+        "unprofessional"
+      ],
+      "answer": "unprofessional"
+    },
+    {
+      "id": "wf_profess_m05",
+      "family": "profess",
+      "prompt": "The interview was conducted ___ by an experienced journalist.",
+      "options": [
+        "professionally",
+        "professional",
+        "profess",
+        "profession"
+      ],
+      "answer": "professionally"
+    },
+    {
+      "id": "wf_profess_m06",
+      "family": "profess",
+      "prompt": "Some celebrities ___ concern for the environment but waste resources.",
+      "options": [
+        "professional",
+        "unprofessional",
+        "profess",
+        "profession"
+      ],
+      "answer": "profess"
+    },
+    {
+      "id": "wf_profess_m07",
+      "family": "profess",
+      "prompt": "She hopes to enter a ___ connected with environmental research.",
+      "options": [
+        "profession",
+        "professional",
+        "unprofessional",
+        "profess"
+      ],
+      "answer": "profession"
+    },
+    {
+      "id": "wf_profess_m08",
+      "family": "profess",
+      "prompt": "Which form is an adverb meaning \"một cách chuyên nghiệp\"?",
+      "options": [
+        "professional",
+        "profess",
+        "profession",
+        "professionally"
+      ],
+      "answer": "professionally"
     }
   ],
   "matching": [
@@ -5485,6 +7709,518 @@
         {
           "word": "surprisingly",
           "meaningVi": "một cách đáng ngạc nhiên"
+        }
+      ]
+    },
+    {
+      "id": "wf_accept_matching",
+      "family": "accept",
+      "pairs": [
+        {
+          "word": "accept",
+          "meaningVi": "chấp nhận"
+        },
+        {
+          "word": "acceptance",
+          "meaningVi": "sự chấp thuận"
+        },
+        {
+          "word": "acceptable",
+          "meaningVi": "có thể chấp nhận được"
+        },
+        {
+          "word": "unacceptable",
+          "meaningVi": "không thể chấp nhận được"
+        }
+      ]
+    },
+    {
+      "id": "wf_agree_matching",
+      "family": "agree",
+      "pairs": [
+        {
+          "word": "agree",
+          "meaningVi": "đồng ý"
+        },
+        {
+          "word": "disagree",
+          "meaningVi": "không đồng ý"
+        },
+        {
+          "word": "disagreement",
+          "meaningVi": "sự bất đồng"
+        },
+        {
+          "word": "agreement",
+          "meaningVi": "sự thỏa thuận"
+        },
+        {
+          "word": "agreeable",
+          "meaningVi": "dễ mến, dễ hòa hợp"
+        }
+      ]
+    },
+    {
+      "id": "wf_begin_matching",
+      "family": "begin",
+      "pairs": [
+        {
+          "word": "begin",
+          "meaningVi": "bắt đầu"
+        },
+        {
+          "word": "beginning",
+          "meaningVi": "phần mở đầu"
+        },
+        {
+          "word": "beginner",
+          "meaningVi": "người mới bắt đầu"
+        }
+      ]
+    },
+    {
+      "id": "wf_character_matching",
+      "family": "character",
+      "pairs": [
+        {
+          "word": "characterise",
+          "meaningVi": "là nét đặc trưng của"
+        },
+        {
+          "word": "characteristic",
+          "meaningVi": "nét đặc trưng"
+        },
+        {
+          "word": "character",
+          "meaningVi": "nhân vật; tính cách"
+        },
+        {
+          "word": "uncharacteristic",
+          "meaningVi": "không giống tính cách thường thấy"
+        }
+      ]
+    },
+    {
+      "id": "wf_consume_matching",
+      "family": "consume",
+      "pairs": [
+        {
+          "word": "consume",
+          "meaningVi": "tiêu thụ"
+        },
+        {
+          "word": "consumer",
+          "meaningVi": "người tiêu dùng"
+        },
+        {
+          "word": "consumption",
+          "meaningVi": "sự tiêu thụ"
+        }
+      ]
+    },
+    {
+      "id": "wf_courage_matching",
+      "family": "courage",
+      "pairs": [
+        {
+          "word": "encourage",
+          "meaningVi": "khuyến khích"
+        },
+        {
+          "word": "discourage",
+          "meaningVi": "làm nản lòng"
+        },
+        {
+          "word": "courage",
+          "meaningVi": "lòng can đảm"
+        },
+        {
+          "word": "encouragement",
+          "meaningVi": "sự động viên"
+        },
+        {
+          "word": "courageous",
+          "meaningVi": "dũng cảm"
+        }
+      ]
+    },
+    {
+      "id": "wf_describe_matching",
+      "family": "describe",
+      "pairs": [
+        {
+          "word": "describe",
+          "meaningVi": "mô tả"
+        },
+        {
+          "word": "description",
+          "meaningVi": "sự mô tả"
+        },
+        {
+          "word": "descriptive",
+          "meaningVi": "mang tính miêu tả"
+        }
+      ]
+    },
+    {
+      "id": "wf_difficult_matching",
+      "family": "difficult",
+      "pairs": [
+        {
+          "word": "difficulty",
+          "meaningVi": "sự khó khăn"
+        },
+        {
+          "word": "difficult",
+          "meaningVi": "khó khăn"
+        }
+      ]
+    },
+    {
+      "id": "wf_efficient_matching",
+      "family": "efficient",
+      "pairs": [
+        {
+          "word": "efficiency",
+          "meaningVi": "hiệu suất; tính hiệu quả"
+        },
+        {
+          "word": "efficient",
+          "meaningVi": "hiệu quả"
+        },
+        {
+          "word": "inefficient",
+          "meaningVi": "kém hiệu quả"
+        },
+        {
+          "word": "efficiently",
+          "meaningVi": "một cách hiệu quả"
+        }
+      ]
+    },
+    {
+      "id": "wf_energy_matching",
+      "family": "energy",
+      "pairs": [
+        {
+          "word": "energy",
+          "meaningVi": "năng lượng"
+        },
+        {
+          "word": "energetic",
+          "meaningVi": "tràn đầy năng lượng"
+        },
+        {
+          "word": "energetically",
+          "meaningVi": "một cách đầy nhiệt huyết"
+        }
+      ]
+    },
+    {
+      "id": "wf_enjoy_matching",
+      "family": "enjoy",
+      "pairs": [
+        {
+          "word": "enjoy",
+          "meaningVi": "thích; tận hưởng"
+        },
+        {
+          "word": "enjoyment",
+          "meaningVi": "sự thích thú"
+        },
+        {
+          "word": "enjoyable",
+          "meaningVi": "thú vị; dễ chịu"
+        }
+      ]
+    },
+    {
+      "id": "wf_enthusiasm_matching",
+      "family": "enthusiasm",
+      "pairs": [
+        {
+          "word": "enthusiasm",
+          "meaningVi": "sự nhiệt tình"
+        },
+        {
+          "word": "enthusiastic",
+          "meaningVi": "đầy nhiệt tình"
+        },
+        {
+          "word": "enthusiastically",
+          "meaningVi": "một cách nhiệt tình"
+        }
+      ]
+    },
+    {
+      "id": "wf_experience_matching",
+      "family": "experience",
+      "pairs": [
+        {
+          "word": "experience",
+          "meaningVi": "kinh nghiệm"
+        },
+        {
+          "word": "inexperienced",
+          "meaningVi": "thiếu kinh nghiệm"
+        },
+        {
+          "word": "experienced",
+          "meaningVi": "giàu kinh nghiệm"
+        }
+      ]
+    },
+    {
+      "id": "wf_extreme_matching",
+      "family": "extreme",
+      "pairs": [
+        {
+          "word": "extremist",
+          "meaningVi": "người cực đoan"
+        },
+        {
+          "word": "extremity",
+          "meaningVi": "chi; phần tận cùng cơ thể"
+        },
+        {
+          "word": "extreme",
+          "meaningVi": "cực đoan; khắc nghiệt"
+        },
+        {
+          "word": "extremely",
+          "meaningVi": "cực kỳ"
+        }
+      ]
+    },
+    {
+      "id": "wf_fashion_matching",
+      "family": "fashion",
+      "pairs": [
+        {
+          "word": "fashion",
+          "meaningVi": "thời trang"
+        },
+        {
+          "word": "fashionable",
+          "meaningVi": "hợp thời trang"
+        },
+        {
+          "word": "unfashionable",
+          "meaningVi": "lỗi mốt"
+        }
+      ]
+    },
+    {
+      "id": "wf_important_matching",
+      "family": "important",
+      "pairs": [
+        {
+          "word": "importance",
+          "meaningVi": "tầm quan trọng"
+        },
+        {
+          "word": "important",
+          "meaningVi": "quan trọng"
+        },
+        {
+          "word": "unimportant",
+          "meaningVi": "không quan trọng"
+        },
+        {
+          "word": "importantly",
+          "meaningVi": "quan trọng hơn là"
+        }
+      ]
+    },
+    {
+      "id": "wf_lead_matching",
+      "family": "lead",
+      "pairs": [
+        {
+          "word": "mislead",
+          "meaningVi": "đánh lừa; làm hiểu sai"
+        },
+        {
+          "word": "lead",
+          "meaningVi": "vị trí dẫn đầu"
+        },
+        {
+          "word": "leader",
+          "meaningVi": "người lãnh đạo"
+        },
+        {
+          "word": "leadership",
+          "meaningVi": "khả năng lãnh đạo"
+        },
+        {
+          "word": "leading",
+          "meaningVi": "hàng đầu"
+        }
+      ]
+    },
+    {
+      "id": "wf_limit_matching",
+      "family": "limit",
+      "pairs": [
+        {
+          "word": "limit",
+          "meaningVi": "giới hạn"
+        },
+        {
+          "word": "limitation",
+          "meaningVi": "hạn chế; nhược điểm"
+        },
+        {
+          "word": "unlimited",
+          "meaningVi": "không giới hạn"
+        },
+        {
+          "word": "limiting",
+          "meaningVi": "gây hạn chế"
+        }
+      ]
+    },
+    {
+      "id": "wf_load_matching",
+      "family": "load",
+      "pairs": [
+        {
+          "word": "upload",
+          "meaningVi": "tải lên"
+        },
+        {
+          "word": "download",
+          "meaningVi": "tải xuống"
+        },
+        {
+          "word": "overload",
+          "meaningVi": "làm quá tải"
+        },
+        {
+          "word": "load",
+          "meaningVi": "vật nặng; khối hàng"
+        }
+      ]
+    },
+    {
+      "id": "wf_nation_matching",
+      "family": "nation",
+      "pairs": [
+        {
+          "word": "nation",
+          "meaningVi": "quốc gia"
+        },
+        {
+          "word": "nationality",
+          "meaningVi": "quốc tịch"
+        },
+        {
+          "word": "international",
+          "meaningVi": "mang tính quốc tế"
+        },
+        {
+          "word": "national",
+          "meaningVi": "thuộc quốc gia"
+        },
+        {
+          "word": "internationally",
+          "meaningVi": "trên phạm vi quốc tế"
+        }
+      ]
+    },
+    {
+      "id": "wf_origin_matching",
+      "family": "origin",
+      "pairs": [
+        {
+          "word": "originate",
+          "meaningVi": "bắt nguồn"
+        },
+        {
+          "word": "origin",
+          "meaningVi": "nguồn gốc"
+        },
+        {
+          "word": "originality",
+          "meaningVi": "tính độc đáo"
+        },
+        {
+          "word": "original",
+          "meaningVi": "nguyên bản"
+        },
+        {
+          "word": "originally",
+          "meaningVi": "ban đầu"
+        }
+      ]
+    },
+    {
+      "id": "wf_physical_matching",
+      "family": "physical",
+      "pairs": [
+        {
+          "word": "physics",
+          "meaningVi": "môn vật lý"
+        },
+        {
+          "word": "physicist",
+          "meaningVi": "nhà vật lý"
+        },
+        {
+          "word": "physical",
+          "meaningVi": "thuộc thể chất; vật chất"
+        },
+        {
+          "word": "physically",
+          "meaningVi": "về mặt thể chất"
+        }
+      ]
+    },
+    {
+      "id": "wf_power_matching",
+      "family": "power",
+      "pairs": [
+        {
+          "word": "power",
+          "meaningVi": "quyền lực; điện năng"
+        },
+        {
+          "word": "powerful",
+          "meaningVi": "mạnh mẽ"
+        },
+        {
+          "word": "powerless",
+          "meaningVi": "bất lực"
+        },
+        {
+          "word": "powerfully",
+          "meaningVi": "một cách mạnh mẽ"
+        }
+      ]
+    },
+    {
+      "id": "wf_profess_matching",
+      "family": "profess",
+      "pairs": [
+        {
+          "word": "profess",
+          "meaningVi": "tuyên bố; khẳng định"
+        },
+        {
+          "word": "profession",
+          "meaningVi": "nghề nghiệp"
+        },
+        {
+          "word": "professional",
+          "meaningVi": "chuyên nghiệp"
+        },
+        {
+          "word": "unprofessional",
+          "meaningVi": "thiếu chuyên nghiệp"
+        },
+        {
+          "word": "professionally",
+          "meaningVi": "một cách chuyên nghiệp"
         }
       ]
     }
