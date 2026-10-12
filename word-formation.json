@@ -3073,12 +3073,6 @@
             "meaningVi": "giới hạn"
           },
           {
-            "word": "limited",
-            "tag": "plain",
-            "starCount": null,
-            "meaningVi": "giới hạn, hạn độ"
-          },
-          {
             "word": "limitation",
             "tag": "diamond",
             "starCount": null,
@@ -3097,6 +3091,12 @@
             "tag": "star",
             "starCount": 1,
             "meaningVi": "gây hạn chế"
+          },
+          {
+            "word": "limited",
+            "tag": "plain",
+            "starCount": null,
+            "meaningVi": "giới hạn, hạn độ"
           }
         ],
         "adverb": []
@@ -3865,6 +3865,12 @@
             "meaningVi": "sự không sẵn lòng"
           },
           {
+            "word": "will",
+            "tag": "plain",
+            "starCount": null,
+            "meaningVi": "ý chí, quyết tâm"
+          },
+          {
             "word": "willingness",
             "tag": "diamond",
             "starCount": null,
@@ -3886,12 +3892,6 @@
           }
         ],
         "adverb": [
-          {
-            "word": "will",
-            "tag": "plain",
-            "starCount": null,
-            "meaningVi": "ý chí, quyết tâm"
-          },
           {
             "word": "willingly",
             "tag": "diamond",
@@ -4256,7 +4256,14 @@
             "meaningVi": "thu hút"
           }
         ],
-        "noun": [],
+        "noun": [
+          {
+            "word": "attraction",
+            "tag": "plain",
+            "starCount": null,
+            "meaningVi": "điểm thu hút, sức hút"
+          }
+        ],
         "adjective": [
           {
             "word": "attractive",
@@ -4271,14 +4278,7 @@
             "meaningVi": "không hấp dẫn"
           }
         ],
-        "adverb": [
-          {
-            "word": "attraction",
-            "tag": "plain",
-            "starCount": null,
-            "meaningVi": "điểm thu hút, sức hút"
-          }
-        ]
+        "adverb": []
       },
       "example": "the festival attracts visitors from all over the world",
       "examAsked": "dạng chia attracts",
@@ -5346,19 +5346,20 @@
       "tier": 3,
       "examCount": 2,
       "forms": {
-        "verb": [],
+        "verb": [
+          {
+            "word": "fly",
+            "tag": "plain",
+            "starCount": null,
+            "meaningVi": "bay"
+          }
+        ],
         "noun": [
           {
             "word": "flight",
             "tag": "star",
             "starCount": 2,
             "meaningVi": "chuyến bay"
-          },
-          {
-            "word": "fly",
-            "tag": "plain",
-            "starCount": null,
-            "meaningVi": "bay"
           }
         ],
         "adjective": [
