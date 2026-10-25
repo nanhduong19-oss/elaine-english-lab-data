@@ -43,10 +43,10 @@
     {
       "id": "wf_able_c06",
       "family": "able",
-      "sentenceWithGap": "The new settings allow users to ___ several unnecessary features.",
+      "sentenceWithGap": "The new settings allow users to ___ any notifications they find annoying.",
       "answer": "disable",
       "audio": "assets/audio/word-formation/wf_able_c06.mp3",
-      "meaningVi": "Cài đặt mới cho phép người dùng vô hiệu hóa một số tính năng không cần thiết."
+      "meaningVi": "Các cài đặt mới cho phép người dùng tắt bất kỳ thông báo nào mà họ thấy phiền."
     },
     {
       "id": "wf_appear_c01",
@@ -107,10 +107,10 @@
     {
       "id": "wf_fortune_c02",
       "family": "fortune",
-      "sentenceWithGap": "___, the flight was delayed by six hours.",
+      "sentenceWithGap": "___, the flight was delayed by six hours and we missed our connection.",
       "answer": "unfortunately",
       "audio": "assets/audio/word-formation/wf_fortune_c02.mp3",
-      "meaningVi": "Thật không may, chuyến bay đã bị trì hoãn sáu tiếng."
+      "meaningVi": "Thật không may, chuyến bay bị hoãn sáu tiếng và chúng tôi lỡ chuyến nối chuyến."
     },
     {
       "id": "wf_fortune_c03",
@@ -227,10 +227,10 @@
     {
       "id": "wf_popular_c05",
       "family": "popular",
-      "sentenceWithGap": "The new policy remained deeply ___ with many parents.",
+      "sentenceWithGap": "The new policy remained deeply ___ with many parents, who kept complaining about it.",
       "answer": "unpopular",
       "audio": "assets/audio/word-formation/wf_popular_c05.mp3",
-      "meaningVi": "Chính sách mới vẫn không được nhiều phụ huynh ưa chuộng."
+      "meaningVi": "Chính sách mới vẫn không được nhiều phụ huynh ủng hộ, họ liên tục phàn nàn về nó."
     },
     {
       "id": "wf_popular_c06",
@@ -251,18 +251,18 @@
     {
       "id": "wf_act_c02",
       "family": "act",
-      "sentenceWithGap": "People often ___ differently when they are under pressure.",
+      "sentenceWithGap": "People often ___ strongly to criticism.",
       "answer": "react",
       "audio": "assets/audio/word-formation/wf_act_c02.mp3",
-      "meaningVi": "Mọi người thường phản ứng khác nhau khi chịu áp lực."
+      "meaningVi": "Mọi người thường phản ứng mạnh khi bị chỉ trích."
     },
     {
       "id": "wf_act_c03",
       "family": "act",
-      "sentenceWithGap": "Regular social ___ can help new students feel part of the school community.",
+      "sentenceWithGap": "Regular social ___ between neighbours helps build a strong community.",
       "answer": "interaction",
       "audio": "assets/audio/word-formation/wf_act_c03.mp3",
-      "meaningVi": "Sự tương tác xã hội thường xuyên có thể giúp học sinh mới cảm thấy mình là một phần của cộng đồng trường học."
+      "meaningVi": "Sự tương tác xã hội thường xuyên giữa những người hàng xóm giúp xây dựng một cộng đồng vững mạnh."
     },
     {
       "id": "wf_act_c04",
@@ -347,10 +347,10 @@
     {
       "id": "wf_consider_c02",
       "family": "consider",
-      "sentenceWithGap": "The school agreed to ___ the rule after several students raised concerns.",
+      "sentenceWithGap": "After several students raised concerns, the school agreed to ___ the rule it had introduced last month.",
       "answer": "reconsider",
       "audio": "assets/audio/word-formation/wf_consider_c02.mp3",
-      "meaningVi": "Nhà trường đồng ý xem xét lại quy định sau khi một số học sinh nêu lên lo ngại."
+      "meaningVi": "Sau khi một số học sinh nêu lo ngại, nhà trường đồng ý xem xét lại quy định đã đưa ra vào tháng trước."
     },
     {
       "id": "wf_consider_c03",
@@ -403,10 +403,10 @@
     {
       "id": "wf_danger_c03",
       "family": "danger",
-      "sentenceWithGap": "The reserve provides a safe home for several ___ species.",
+      "sentenceWithGap": "The reserve protects several ___ species, whose numbers have fallen sharply in recent years.",
       "answer": "endangered",
       "audio": "assets/audio/word-formation/wf_danger_c03.mp3",
-      "meaningVi": "Khu bảo tồn cung cấp nơi ở an toàn cho một số loài đang bị đe doạ."
+      "meaningVi": "Khu bảo tồn bảo vệ một số loài đang bị đe dọa, số lượng của chúng đã giảm mạnh trong những năm gần đây."
     },
     {
       "id": "wf_danger_c04",
@@ -531,18 +531,18 @@
     {
       "id": "wf_like_c01",
       "family": "like",
-      "sentenceWithGap": "Many students ___ studying with music in the background.",
+      "sentenceWithGap": "Many students ___ studying with music in the background because it helps them concentrate.",
       "answer": "like",
       "audio": "assets/audio/word-formation/wf_like_c01.mp3",
-      "meaningVi": "Nhiều học sinh thích học khi có nhạc nền."
+      "meaningVi": "Nhiều học sinh thích học với nhạc nền vì nó giúp họ tập trung."
     },
     {
       "id": "wf_like_c02",
       "family": "like",
-      "sentenceWithGap": "One thing I strongly ___ about the website is the number of advertisements.",
+      "sentenceWithGap": "One thing I strongly ___ about the website is the number of annoying advertisements.",
       "answer": "dislike",
       "audio": "assets/audio/word-formation/wf_like_c02.mp3",
-      "meaningVi": "Một điều tôi rất không thích ở trang web là số lượng quảng cáo."
+      "meaningVi": "Một điều tôi rất không thích ở trang web là số lượng quảng cáo gây khó chịu."
     },
     {
       "id": "wf_like_c03",
@@ -571,10 +571,10 @@
     {
       "id": "wf_like_c06",
       "family": "like",
-      "sentenceWithGap": "This area, ___ most city centres, becomes very quiet after dark.",
+      "sentenceWithGap": "The village is very quiet at night, ___ the busy city nearby.",
       "answer": "unlike",
       "audio": "assets/audio/word-formation/wf_like_c06.mp3",
-      "meaningVi": "Không giống hầu hết các trung tâm thành phố, khu vực này trở nên rất yên tĩnh sau khi trời tối."
+      "meaningVi": "Ngôi làng rất yên tĩnh vào ban đêm, không giống thành phố nhộn nhịp gần đó."
     },
     {
       "id": "wf_memory_c01",
@@ -651,10 +651,10 @@
     {
       "id": "wf_nature_c04",
       "family": "nature",
-      "sentenceWithGap": "She is ___ confident when speaking in front of large groups.",
+      "sentenceWithGap": "She never needed any training because she is ___ confident when speaking in front of large groups.",
       "answer": "naturally",
       "audio": "assets/audio/word-formation/wf_nature_c04.mp3",
-      "meaningVi": "Cô ấy vốn tự nhiên tự tin khi nói trước những nhóm đông người."
+      "meaningVi": "Cô ấy chưa bao giờ cần được đào tạo vì bản chất cô ấy tự tin khi nói trước đám đông."
     },
     {
       "id": "wf_nature_c05",
@@ -691,10 +691,10 @@
     {
       "id": "wf_possible_c03",
       "family": "possible",
-      "sentenceWithGap": "It is ___ to predict exactly how technology will change in the next twenty years.",
+      "sentenceWithGap": "It is ___ to predict exactly how technology will change in the next twenty years, so experts can only make guesses.",
       "answer": "impossible",
       "audio": "assets/audio/word-formation/wf_possible_c03.mp3",
-      "meaningVi": "Không thể dự đoán chính xác công nghệ sẽ thay đổi như thế nào trong hai mươi năm tới."
+      "meaningVi": "Không thể dự đoán chính xác công nghệ sẽ thay đổi thế nào trong hai mươi năm tới, nên các chuyên gia chỉ có thể phỏng đoán."
     },
     {
       "id": "wf_possible_c04",
@@ -715,10 +715,10 @@
     {
       "id": "wf_possible_c06",
       "family": "possible",
-      "sentenceWithGap": "The puzzle looked ___ difficult at first, but the solution was actually quite simple.",
+      "sentenceWithGap": "The puzzle looked ___ difficult at first, as if nobody could ever solve it, but the solution was actually quite simple.",
       "answer": "impossibly",
       "audio": "assets/audio/word-formation/wf_possible_c06.mp3",
-      "meaningVi": "Ban đầu câu đố trông khó đến mức tưởng như không thể giải được, nhưng lời giải thực ra khá đơn giản."
+      "meaningVi": "Câu đố thoạt đầu trông khó đến mức không thể, như thể không ai giải được, nhưng lời giải thực ra khá đơn giản."
     },
     {
       "id": "wf_responsible_c01",
@@ -883,10 +883,10 @@
     {
       "id": "wf_true_c03",
       "family": "true",
-      "sentenceWithGap": "Children should be encouraged to give a ___ account of what happened.",
+      "sentenceWithGap": "Children should be encouraged to be ___ when adults ask them what happened.",
       "answer": "truthful",
       "audio": "assets/audio/word-formation/wf_true_c03.mp3",
-      "meaningVi": "Trẻ em nên được khuyến khích kể lại trung thực những gì đã xảy ra."
+      "meaningVi": "Trẻ em nên được khuyến khích trung thực khi người lớn hỏi chúng chuyện gì đã xảy ra."
     },
     {
       "id": "wf_true_c04",
@@ -947,10 +947,10 @@
     {
       "id": "wf_vary_c05",
       "family": "vary",
-      "sentenceWithGap": "The results proved too ___ to draw a clear conclusion.",
+      "sentenceWithGap": "The quality of the product is too ___ to rely on: one week it is excellent and the next it is poor.",
       "answer": "variable",
       "audio": "assets/audio/word-formation/wf_vary_c05.mp3",
-      "meaningVi": "Kết quả quá biến động để có thể đưa ra một kết luận rõ ràng."
+      "meaningVi": "Chất lượng sản phẩm thay đổi quá thất thường để có thể tin cậy: tuần này thì tuyệt vời, tuần sau lại kém."
     },
     {
       "id": "wf_vary_c06",
@@ -1027,10 +1027,10 @@
     {
       "id": "wf_develop_c03",
       "family": "develop",
-      "sentenceWithGap": "Many ___ countries receive financial aid to build new schools and hospitals.",
+      "sentenceWithGap": "Many ___ countries, whose economies are still growing, receive financial aid to build new schools and hospitals.",
       "answer": "developing",
       "audio": "assets/audio/word-formation/wf_develop_c03.mp3",
-      "meaningVi": "Nhiều quốc gia đang phát triển nhận viện trợ tài chính để xây dựng trường học và bệnh viện mới."
+      "meaningVi": "Nhiều quốc gia đang phát triển, có nền kinh tế vẫn đang tăng trưởng, nhận viện trợ tài chính để xây dựng trường học và bệnh viện mới."
     },
     {
       "id": "wf_develop_c04",
@@ -1107,10 +1107,10 @@
     {
       "id": "wf_special_c01",
       "family": "special",
-      "sentenceWithGap": "The new timetable is ___ useful for students with long journeys.",
+      "sentenceWithGap": "The soup was ___ delicious because the chef had used fresh herbs from the garden.",
       "answer": "especially",
       "audio": "assets/audio/word-formation/wf_special_c01.mp3",
-      "meaningVi": "Thời khóa biểu mới đặc biệt hữu ích cho học sinh phải đi xa."
+      "meaningVi": "Món súp đặc biệt ngon vì đầu bếp đã dùng các loại thảo mộc tươi từ khu vườn."
     },
     {
       "id": "wf_special_c02",
@@ -1283,10 +1283,10 @@
     {
       "id": "wf_behave_c05",
       "family": "behave",
-      "sentenceWithGap": "Repeated ___ may lead to a meeting with the headteacher.",
+      "sentenceWithGap": "The teacher was pleased that there was no ___ at all during the school trip.",
       "answer": "misbehaviour",
       "audio": "assets/audio/word-formation/wf_behave_c05.mp3",
-      "meaningVi": "Hành vi sai trái lặp đi lặp lại có thể dẫn đến buổi gặp với hiệu trưởng."
+      "meaningVi": "Giáo viên hài lòng vì không hề có hành vi sai trái nào trong chuyến đi của trường."
     },
     {
       "id": "wf_behave_c06",
@@ -1363,18 +1363,18 @@
     {
       "id": "wf_construct_c03",
       "family": "construct",
-      "sentenceWithGap": "Historians used old photographs to ___ the damaged building.",
+      "sentenceWithGap": "Historians used old photographs to ___ the original appearance of the damaged building.",
       "answer": "reconstruct",
       "audio": "assets/audio/word-formation/wf_construct_c03.mp3",
-      "meaningVi": "Các nhà sử học sử dụng ảnh cũ để tái dựng tòa nhà bị hư hại."
+      "meaningVi": "Các nhà sử học dùng ảnh cũ để phục dựng diện mạo ban đầu của tòa nhà bị hư hại."
     },
     {
       "id": "wf_construct_c04",
       "family": "construct",
-      "sentenceWithGap": "Many people see money as a human ___ that only works because everyone trusts it.",
+      "sentenceWithGap": "The company plans to ___ a new factory outside the city next year.",
       "answer": "construct",
       "audio": "assets/audio/word-formation/wf_construct_c04.mp3",
-      "meaningVi": "Nhiều người xem tiền là một khái niệm do con người tạo ra, chỉ có tác dụng vì mọi người đều tin tưởng nó."
+      "meaningVi": "Công ty dự định xây dựng một nhà máy mới bên ngoài thành phố vào năm sau."
     },
     {
       "id": "wf_construct_c05",
@@ -1395,10 +1395,10 @@
     {
       "id": "wf_create_c01",
       "family": "create",
-      "sentenceWithGap": "The competition encourages ___ and independent thinking.",
+      "sentenceWithGap": "The activity is designed to develop children's ___ and imagination.",
       "answer": "creativity",
       "audio": "assets/audio/word-formation/wf_create_c01.mp3",
-      "meaningVi": "Cuộc thi khuyến khích khả năng sáng tạo và tư duy độc lập."
+      "meaningVi": "Hoạt động này được thiết kế để phát triển óc sáng tạo và trí tưởng tượng của trẻ."
     },
     {
       "id": "wf_create_c02",
@@ -1419,10 +1419,10 @@
     {
       "id": "wf_create_c04",
       "family": "create",
-      "sentenceWithGap": "The ___ of the new nature reserve benefited local wildlife.",
+      "sentenceWithGap": "The ___ of the new nature reserve took five years and greatly benefited local wildlife.",
       "answer": "creation",
       "audio": "assets/audio/word-formation/wf_create_c04.mp3",
-      "meaningVi": "Việc thành lập khu bảo tồn thiên nhiên mới mang lại lợi ích cho động vật hoang dã địa phương."
+      "meaningVi": "Việc thành lập khu bảo tồn thiên nhiên mới mất năm năm và mang lại lợi ích lớn cho động vật hoang dã địa phương."
     },
     {
       "id": "wf_create_c05",
@@ -1451,10 +1451,10 @@
     {
       "id": "wf_decide_c02",
       "family": "decide",
-      "sentenceWithGap": "He is so ___ that he takes an hour to order dinner.",
+      "sentenceWithGap": "He is a very ___ person who finds it hard to make any decision, even a small one.",
       "answer": "indecisive",
       "audio": "assets/audio/word-formation/wf_decide_c02.mp3",
-      "meaningVi": "Anh ấy thiếu quyết đoán đến mức mất cả giờ để gọi món."
+      "meaningVi": "Anh ấy là người rất thiếu quyết đoán, khó đưa ra bất kỳ quyết định nào, dù là nhỏ."
     },
     {
       "id": "wf_decide_c03",
@@ -1467,10 +1467,10 @@
     {
       "id": "wf_decide_c04",
       "family": "decide",
-      "sentenceWithGap": "Many voters remain ___ about which candidate to support.",
+      "sentenceWithGap": "Many voters have not yet made up their minds and are still ___.",
       "answer": "undecided",
       "audio": "assets/audio/word-formation/wf_decide_c04.mp3",
-      "meaningVi": "Nhiều cử tri vẫn chưa quyết định sẽ ủng hộ ứng viên nào."
+      "meaningVi": "Nhiều cử tri vẫn chưa quyết định và vẫn còn phân vân."
     },
     {
       "id": "wf_decide_c05",
@@ -1747,10 +1747,10 @@
     {
       "id": "wf_intend_c03",
       "family": "intend",
-      "sentenceWithGap": "An ___ error in the booking system meant that some visitors arrived on the wrong day.",
+      "sentenceWithGap": "An ___ error in the booking system, caused by a tired employee, meant that some visitors arrived on the wrong day.",
       "answer": "unintentional",
       "audio": "assets/audio/word-formation/wf_intend_c03.mp3",
-      "meaningVi": "Một lỗi ngoài ý muốn trong hệ thống đặt chỗ khiến một số khách đến nhầm ngày."
+      "meaningVi": "Một lỗi không cố ý trong hệ thống đặt chỗ, do một nhân viên mệt mỏi gây ra, khiến một số du khách đến nhầm ngày."
     },
     {
       "id": "wf_intend_c04",
@@ -1846,7 +1846,10 @@
       "sentenceWithGap": "After a ___ discussion, the committee reached an agreement.",
       "answer": "lengthy",
       "audio": "assets/audio/word-formation/wf_long_c03.mp3",
-      "meaningVi": "Sau một cuộc thảo luận kéo dài, ủy ban đã đạt được thỏa thuận."
+      "meaningVi": "Sau một cuộc thảo luận kéo dài, ủy ban đã đạt được thỏa thuận.",
+      "alsoAccept": [
+        "long"
+      ]
     },
     {
       "id": "wf_long_c04",
@@ -1870,7 +1873,10 @@
       "sentenceWithGap": "The application involves a ___ interview process.",
       "answer": "lengthy",
       "audio": "assets/audio/word-formation/wf_long_c06.mp3",
-      "meaningVi": "Quá trình ứng tuyển bao gồm các buổi phỏng vấn kéo dài."
+      "meaningVi": "Quá trình ứng tuyển bao gồm các buổi phỏng vấn kéo dài.",
+      "alsoAccept": [
+        "long"
+      ]
     },
     {
       "id": "wf_observe_c01",
@@ -2059,10 +2065,10 @@
     {
       "id": "wf_produce_c06",
       "family": "produce",
-      "sentenceWithGap": "The museum obtained permission to ___ the original photographs.",
+      "sentenceWithGap": "The museum obtained permission to ___ the original photographs in its new book.",
       "answer": "reproduce",
       "audio": "assets/audio/word-formation/wf_produce_c06.mp3",
-      "meaningVi": "Bảo tàng được cho phép sao chép các bức ảnh gốc."
+      "meaningVi": "Bảo tàng đã được phép sao chép các bức ảnh gốc vào cuốn sách mới của mình."
     },
     {
       "id": "wf_respond_c01",
@@ -2475,18 +2481,18 @@
     {
       "id": "wf_courage_c04",
       "family": "courage",
-      "sentenceWithGap": "Her parents' ___ gave her confidence to enter the competition.",
+      "sentenceWithGap": "The ___ she received from her parents gave her the confidence to enter the competition.",
       "answer": "encouragement",
       "audio": "assets/audio/word-formation/wf_courage_c04.mp3",
-      "meaningVi": "Sự động viên của cha mẹ đã giúp cô tự tin tham gia cuộc thi."
+      "meaningVi": "Sự động viên mà cô nhận được từ bố mẹ đã cho cô sự tự tin để tham gia cuộc thi."
     },
     {
       "id": "wf_courage_c05",
       "family": "courage",
-      "sentenceWithGap": "The ___ volunteer entered the flooded building to help residents.",
+      "sentenceWithGap": "The ___ volunteer risked her life by entering the flooded building to help residents.",
       "answer": "courageous",
       "audio": "assets/audio/word-formation/wf_courage_c05.mp3",
-      "meaningVi": "Tình nguyện viên dũng cảm bước vào tòa nhà bị ngập để giúp người dân."
+      "meaningVi": "Tình nguyện viên dũng cảm đã liều mạng vào tòa nhà bị ngập để giúp cư dân."
     },
     {
       "id": "wf_courage_c06",
@@ -3027,10 +3033,10 @@
     {
       "id": "wf_limit_c01",
       "family": "limit",
-      "sentenceWithGap": "The campsite has ___ space for larger vehicles.",
+      "sentenceWithGap": "The campsite has ___ space, so large vehicles must book well in advance.",
       "answer": "limited",
       "audio": "assets/audio/word-formation/wf_limit_c01.mp3",
-      "meaningVi": "Khu cắm trại có không gian hạn chế dành cho các loại xe lớn."
+      "meaningVi": "Khu cắm trại có không gian hạn chế, nên các xe lớn phải đặt chỗ trước từ sớm."
     },
     {
       "id": "wf_limit_c02",
@@ -3051,18 +3057,18 @@
     {
       "id": "wf_limit_c04",
       "family": "limit",
-      "sentenceWithGap": "The researchers acknowledged a major ___ in their survey methods.",
+      "sentenceWithGap": "The researchers admitted that the small sample size was a major ___ of their study.",
       "answer": "limitation",
       "audio": "assets/audio/word-formation/wf_limit_c04.mp3",
-      "meaningVi": "Các nhà nghiên cứu thừa nhận một hạn chế lớn trong phương pháp khảo sát."
+      "meaningVi": "Các nhà nghiên cứu thừa nhận rằng cỡ mẫu nhỏ là một hạn chế lớn của nghiên cứu."
     },
     {
       "id": "wf_limit_c05",
       "family": "limit",
-      "sentenceWithGap": "The library introduced a ___ of five books per borrower.",
+      "sentenceWithGap": "Borrowers are not allowed to exceed the ___ of five books at a time.",
       "answer": "limit",
       "audio": "assets/audio/word-formation/wf_limit_c05.mp3",
-      "meaningVi": "Thư viện đưa ra giới hạn năm cuốn sách cho mỗi người mượn."
+      "meaningVi": "Người mượn không được vượt quá giới hạn năm cuốn sách một lần."
     },
     {
       "id": "wf_limit_c06",
@@ -3083,10 +3089,10 @@
     {
       "id": "wf_load_c02",
       "family": "load",
-      "sentenceWithGap": "Candidates must ___ their documents before the registration deadline.",
+      "sentenceWithGap": "Candidates must ___ their completed application form to the website before the registration deadline.",
       "answer": "upload",
       "audio": "assets/audio/word-formation/wf_load_c02.mp3",
-      "meaningVi": "Thí sinh phải tải tài liệu của mình lên trước hạn đăng ký."
+      "meaningVi": "Thí sinh phải tải đơn đăng ký đã hoàn thành lên trang web trước hạn chót đăng ký."
     },
     {
       "id": "wf_load_c03",
@@ -3115,10 +3121,10 @@
     {
       "id": "wf_load_c06",
       "family": "load",
-      "sentenceWithGap": "The students were reminded to ___ their recordings before midnight.",
+      "sentenceWithGap": "The students were reminded to ___ their recordings to the school website before midnight.",
       "answer": "upload",
       "audio": "assets/audio/word-formation/wf_load_c06.mp3",
-      "meaningVi": "Học sinh được nhắc tải các bản ghi âm lên trước nửa đêm."
+      "meaningVi": "Học sinh được nhắc tải bản ghi âm lên trang web của trường trước nửa đêm."
     },
     {
       "id": "wf_nation_c01",
@@ -3147,10 +3153,10 @@
     {
       "id": "wf_nation_c04",
       "family": "nation",
-      "sentenceWithGap": "The organisation is ___ recognised, even though it operates only within this country.",
+      "sentenceWithGap": "The charity is well known ___, but hardly anyone outside this country has heard of it.",
       "answer": "nationally",
       "audio": "assets/audio/word-formation/wf_nation_c04.mp3",
-      "meaningVi": "Tổ chức được công nhận trên toàn quốc, dù chỉ hoạt động trong phạm vi đất nước này."
+      "meaningVi": "Tổ chức từ thiện này nổi tiếng trên toàn quốc, nhưng hầu như không ai ngoài đất nước này biết đến nó."
     },
     {
       "id": "wf_nation_c05",
@@ -3483,10 +3489,10 @@
     {
       "id": "wf_satisfy_c04",
       "family": "satisfy",
-      "sentenceWithGap": "The inspector confirmed that all safety checks had produced ___ results.",
+      "sentenceWithGap": "The inspector confirmed that all safety checks had reached a ___ standard.",
       "answer": "satisfactory",
       "audio": "assets/audio/word-formation/wf_satisfy_c04.mp3",
-      "meaningVi": "Thanh tra xác nhận tất cả các cuộc kiểm tra an toàn đều cho kết quả đạt yêu cầu."
+      "meaningVi": "Thanh tra xác nhận rằng mọi cuộc kiểm tra an toàn đều đạt tiêu chuẩn đạt yêu cầu."
     },
     {
       "id": "wf_satisfy_c05",
@@ -3843,10 +3849,10 @@
     {
       "id": "wf_will_c01",
       "family": "will",
-      "sentenceWithGap": "Her ___ to help younger pupils impressed the head teacher.",
+      "sentenceWithGap": "Her ___ to help whenever she was asked made her popular with the younger pupils.",
       "answer": "willingness",
       "audio": "assets/audio/word-formation/wf_will_c01.mp3",
-      "meaningVi": "Sự sẵn lòng giúp học sinh nhỏ tuổi của cô gây ấn tượng với hiệu trưởng."
+      "meaningVi": "Sự sẵn lòng giúp đỡ mỗi khi được nhờ khiến cô được các học sinh nhỏ tuổi yêu mến."
     },
     {
       "id": "wf_will_c02",
@@ -3859,26 +3865,26 @@
     {
       "id": "wf_will_c03",
       "family": "will",
-      "sentenceWithGap": "The injured athlete showed an extraordinary ___ to recover.",
+      "sentenceWithGap": "The injured athlete showed extraordinary strength of ___ and refused to give up.",
       "answer": "will",
       "audio": "assets/audio/word-formation/wf_will_c03.mp3",
-      "meaningVi": "Vận động viên bị thương thể hiện ý chí phục hồi phi thường."
+      "meaningVi": "Vận động viên bị thương đã thể hiện sức mạnh ý chí phi thường và không chịu bỏ cuộc."
     },
     {
       "id": "wf_will_c04",
       "family": "will",
-      "sentenceWithGap": "Several volunteers were ___ to work throughout the weekend.",
+      "sentenceWithGap": "Several volunteers were ___ to work throughout the weekend, so the project finished early.",
       "answer": "willing",
       "audio": "assets/audio/word-formation/wf_will_c04.mp3",
-      "meaningVi": "Một số tình nguyện viên sẵn lòng làm việc suốt cuối tuần."
+      "meaningVi": "Một số tình nguyện viên sẵn sàng làm việc suốt cuối tuần, nên dự án hoàn thành sớm."
     },
     {
       "id": "wf_will_c05",
       "family": "will",
-      "sentenceWithGap": "The witness was ___ to reveal private details to reporters.",
+      "sentenceWithGap": "The witness was ___ to reveal private details to reporters and refused every interview.",
       "answer": "unwilling",
       "audio": "assets/audio/word-formation/wf_will_c05.mp3",
-      "meaningVi": "Nhân chứng không sẵn lòng tiết lộ thông tin riêng tư cho phóng viên."
+      "meaningVi": "Nhân chứng không sẵn lòng tiết lộ chi tiết riêng tư cho phóng viên và từ chối mọi cuộc phỏng vấn."
     },
     {
       "id": "wf_will_c06",
@@ -4043,10 +4049,10 @@
     {
       "id": "wf_apply_c02",
       "family": "apply",
-      "sentenceWithGap": "Each ___ must provide evidence of previous volunteer experience.",
+      "sentenceWithGap": "Each ___ must provide evidence of their previous volunteer experience.",
       "answer": "applicant",
       "audio": "assets/audio/word-formation/wf_apply_c02.mp3",
-      "meaningVi": "Mỗi người nộp đơn phải cung cấp bằng chứng về kinh nghiệm tình nguyện trước đây."
+      "meaningVi": "Mỗi ứng viên phải cung cấp bằng chứng về kinh nghiệm tình nguyện trước đây của mình."
     },
     {
       "id": "wf_apply_c03",
@@ -4139,10 +4145,10 @@
     {
       "id": "wf_approve_c02",
       "family": "approve",
-      "sentenceWithGap": "Many parents ___ of advertising unhealthy snacks to young children.",
+      "sentenceWithGap": "Many parents strongly ___ of advertising unhealthy snacks to young children and have signed a petition against it.",
       "answer": "disapprove",
       "audio": "assets/audio/word-formation/wf_approve_c02.mp3",
-      "meaningVi": "Nhiều phụ huynh phản đối việc quảng cáo đồ ăn vặt không lành mạnh cho trẻ nhỏ."
+      "meaningVi": "Nhiều phụ huynh phản đối mạnh việc quảng cáo đồ ăn vặt không lành mạnh cho trẻ nhỏ và đã ký kiến nghị phản đối."
     },
     {
       "id": "wf_approve_c03",
@@ -4171,10 +4177,10 @@
     {
       "id": "wf_approve_c06",
       "family": "approve",
-      "sentenceWithGap": "Her parents expressed strong ___ of the dangerous activity.",
+      "sentenceWithGap": "Her parents expressed strong ___ of the dangerous activity and forbade her to take part.",
       "answer": "disapproval",
       "audio": "assets/audio/word-formation/wf_approve_c06.mp3",
-      "meaningVi": "Cha mẹ cô bày tỏ sự phản đối mạnh mẽ đối với hoạt động nguy hiểm."
+      "meaningVi": "Bố mẹ cô bày tỏ sự phản đối mạnh mẽ với hoạt động nguy hiểm đó và cấm cô tham gia."
     },
     {
       "id": "wf_arrange_c01",
@@ -4190,7 +4196,10 @@
       "sentenceWithGap": "We had to ___ the furniture again to create more space.",
       "answer": "rearrange",
       "audio": "assets/audio/word-formation/wf_arrange_c02.mp3",
-      "meaningVi": "Chúng tôi phải sắp xếp lại đồ đạc một lần nữa để tạo thêm không gian."
+      "meaningVi": "Chúng tôi phải sắp xếp lại đồ đạc một lần nữa để tạo thêm không gian.",
+      "alsoAccept": [
+        "arrange"
+      ]
     },
     {
       "id": "wf_arrange_c03",
@@ -4214,7 +4223,10 @@
       "sentenceWithGap": "After the concert, the students had to ___ all the desks again before the next lesson.",
       "answer": "rearrange",
       "audio": "assets/audio/word-formation/wf_arrange_c05.mp3",
-      "meaningVi": "Sau buổi hòa nhạc, học sinh phải sắp xếp lại tất cả bàn học trước tiết học tiếp theo."
+      "meaningVi": "Sau buổi hòa nhạc, học sinh phải sắp xếp lại tất cả bàn học trước tiết học tiếp theo.",
+      "alsoAccept": [
+        "arrange"
+      ]
     },
     {
       "id": "wf_arrange_c06",
@@ -4291,10 +4303,10 @@
     {
       "id": "wf_attract_c03",
       "family": "attract",
-      "sentenceWithGap": "The company offered an ___ salary to recruit skilled engineers.",
+      "sentenceWithGap": "The company offered an ___ salary and received hundreds of applications from skilled engineers.",
       "answer": "attractive",
       "audio": "assets/audio/word-formation/wf_attract_c03.mp3",
-      "meaningVi": "Công ty đưa ra mức lương hấp dẫn để tuyển dụng kỹ sư lành nghề."
+      "meaningVi": "Công ty đưa ra mức lương hấp dẫn và nhận được hàng trăm hồ sơ từ các kỹ sư lành nghề."
     },
     {
       "id": "wf_attract_c04",
@@ -4331,18 +4343,18 @@
     {
       "id": "wf_aware_c02",
       "family": "aware",
-      "sentenceWithGap": "Most students are ___ of the importance of protecting their passwords.",
+      "sentenceWithGap": "Most students are well ___ of the importance of protecting their passwords.",
       "answer": "aware",
       "audio": "assets/audio/word-formation/wf_aware_c02.mp3",
-      "meaningVi": "Hầu hết học sinh nhận thức được tầm quan trọng của việc bảo vệ mật khẩu."
+      "meaningVi": "Hầu hết học sinh đều nhận thức rõ tầm quan trọng của việc bảo vệ mật khẩu."
     },
     {
       "id": "wf_aware_c03",
       "family": "aware",
-      "sentenceWithGap": "The tourists were completely ___ of the storm approaching the coast.",
+      "sentenceWithGap": "The tourists were completely ___ of the storm approaching the coast, so they were shocked when it hit.",
       "answer": "unaware",
       "audio": "assets/audio/word-formation/wf_aware_c03.mp3",
-      "meaningVi": "Du khách hoàn toàn không biết cơn bão đang tiến gần bờ biển."
+      "meaningVi": "Du khách hoàn toàn không biết về cơn bão đang tiến vào bờ biển, nên họ bị sốc khi nó đổ bộ."
     },
     {
       "id": "wf_aware_c04",
@@ -4363,10 +4375,10 @@
     {
       "id": "wf_aware_c06",
       "family": "aware",
-      "sentenceWithGap": "He remained ___ that the museum had changed its opening hours.",
+      "sentenceWithGap": "He remained ___ that the museum had changed its opening hours, so he arrived to find it closed.",
       "answer": "unaware",
       "audio": "assets/audio/word-formation/wf_aware_c06.mp3",
-      "meaningVi": "Anh vẫn không biết rằng bảo tàng đã thay đổi giờ mở cửa."
+      "meaningVi": "Anh ấy vẫn không biết bảo tàng đã đổi giờ mở cửa, nên đến nơi thì thấy đã đóng cửa."
     },
     {
       "id": "wf_base_c01",

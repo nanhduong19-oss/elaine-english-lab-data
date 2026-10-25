@@ -1363,7 +1363,7 @@
     {
       "id": "wf_possible_m03",
       "family": "possible",
-      "prompt": "It would be ___ to visit every museum in the city in one afternoon.",
+      "prompt": "It would be ___ to visit every museum in the city in one afternoon, because there are over sixty of them.",
       "options": [
         "possibility",
         "impossibility",
@@ -1747,7 +1747,7 @@
     {
       "id": "wf_true_m03",
       "family": "true",
-      "prompt": "Please give a ___ answer, even if you think it may be unpopular.",
+      "prompt": "Please be ___ in your answer, even if you think it may be unpopular.",
       "options": [
         "truth",
         "true",
@@ -1759,7 +1759,7 @@
     {
       "id": "wf_true_m04",
       "family": "true",
-      "prompt": "The report was later shown to be ___.",
+      "prompt": "The report was later shown to be ___, so the newspaper published a correction.",
       "options": [
         "truthful",
         "truth",
@@ -1807,7 +1807,7 @@
     {
       "id": "wf_true_m08",
       "family": "true",
-      "prompt": "Which form is an adjective meaning \"trung thực, đúng sự thật\"?",
+      "prompt": "Which form is an adjective meaning \"trung thực\"?",
       "options": [
         "truthful",
         "truth",
@@ -1855,7 +1855,7 @@
     {
       "id": "wf_vary_m04",
       "family": "vary",
-      "prompt": "The course covers ___ topics, from history to modern politics.",
+      "prompt": "The conference included talks by ___ experts from several countries.",
       "options": [
         "various",
         "variety",
@@ -2703,7 +2703,7 @@
     {
       "id": "wf_construct_m04",
       "family": "construct",
-      "prompt": "‘Beauty’ is not a physical object but a mental ___ that varies from person to person.",
+      "prompt": "The company plans to ___ a new bridge across the river next year.",
       "options": [
         "constructive",
         "construct",
@@ -2787,7 +2787,7 @@
     {
       "id": "wf_create_m03",
       "family": "create",
-      "prompt": "The ___ of the educational website received an award.",
+      "prompt": "The ___ of the educational website, a former teacher, received an award for her work.",
       "options": [
         "create",
         "creation",
@@ -2799,7 +2799,7 @@
     {
       "id": "wf_create_m04",
       "family": "create",
-      "prompt": "The ___ of the national park protected several rare species.",
+      "prompt": "The ___ of the national park took ten years, but it now protects several rare species.",
       "options": [
         "creation",
         "create",
@@ -7565,7 +7565,7 @@
     {
       "id": "wf_will_m04",
       "family": "will",
-      "prompt": "Several parents were ___ to help prepare food for the school fair.",
+      "prompt": "Several parents were ___ to help prepare food for the school fair, so the stall was ready in time.",
       "options": [
         "willing",
         "will",
@@ -8198,7 +8198,6 @@
       "family": "arrange",
       "prompt": "The librarian asked us to ___ the books in alphabetical order again.",
       "options": [
-        "arrange",
         "rearrange",
         "arrangement"
       ],
@@ -8231,7 +8230,6 @@
       "family": "arrange",
       "prompt": "After replacing the carpet, the family had to ___ every chair again.",
       "options": [
-        "arrange",
         "rearrange",
         "arrangement"
       ],
