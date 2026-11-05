@@ -11495,6 +11495,1935 @@
         }
       ],
       "image": "assets/images/passages/MT3_u13_action.jpg"
+    },
+    {
+      "passageId": "U14_CORE",
+      "unit": "U14",
+      "title": "The Bluehaven Biodiversity Survey",
+      "text": "Bluehaven Island may look small on a map, but its natural world is remarkably varied. The northern coast has rock pools and a marine habitat, while a freshwater wetland lies beside the central woodland. Together, these places form a connected ecosystem. The island is now a nature reserve, where scientists record the local flora, fauna and every native species they can identify.\n\nIn the woodland, the student team studies how plants grow. Thick roots hold each tree in the soil, while the trunk is protected by rough bark. A large bough divides into a smaller branch, then into a thin twig. New leaves open from each bud. Lower down, flowering plants have a soft stem, brightly coloured petals and sometimes a sharp thorn. When the plants blossom, bees and other insects collect pollen and carry it between flowers.\n\nThe island’s wildlife is equally diverse. An owl watches from a nest, its beak, feathers and broad wings easy to recognise. A fox has reddish fur, a long tail, sensitive whiskers, soft paws and sharp claws. Deer leave marks from their hooves, while nearby goats use their horns when competing. Along the shore, the team may spot a seal, a crab or even a whale farther out at sea.\n\nEach creature has a role. A deer is a herbivore, a fox is a carnivore, and many birds are omnivores. A predator depends on its prey, so a change in one population affects the whole system. Some birds lay eggs, while mammals give birth to live offspring. If animals cannot find food or a safe place to breed, a species may become endangered and could eventually become extinct. Protecting different habitats therefore protects the balance of life across Bluehaven Island.",
+      "audio": "assets/audio/passages/MT4_u14_survey.mp3",
+      "gapSentences": [
+        {
+          "id": "U14_CORE_gap1",
+          "audio": "assets/audio/passages/U14_CORE_gap1.mp3",
+          "sentenceWithGap": "The northern coast has rock pools and a ___ habitat, while a freshwater wetland lies beside the central woodland.",
+          "answer": "marine"
+        },
+        {
+          "id": "U14_CORE_gap2",
+          "audio": "assets/audio/passages/U14_CORE_gap2.mp3",
+          "sentenceWithGap": "The island is now a nature reserve, where scientists record the local ___, fauna and every native species they can identify.",
+          "answer": "flora"
+        },
+        {
+          "id": "U14_CORE_gap3",
+          "audio": "assets/audio/passages/U14_CORE_gap3.mp3",
+          "sentenceWithGap": "In the ___, the student team studies how plants grow.",
+          "answer": "woodland"
+        },
+        {
+          "id": "U14_CORE_gap4",
+          "audio": "assets/audio/passages/U14_CORE_gap4.mp3",
+          "sentenceWithGap": "Lower down, flowering plants have a soft stem, brightly coloured petals and sometimes a sharp ___.",
+          "answer": "thorn"
+        },
+        {
+          "id": "U14_CORE_gap5",
+          "audio": "assets/audio/passages/U14_CORE_gap5.mp3",
+          "sentenceWithGap": "When the plants blossom, bees and other ___ collect pollen and carry it between flowers.",
+          "answer": "insects"
+        },
+        {
+          "id": "U14_CORE_gap6",
+          "audio": "assets/audio/passages/U14_CORE_gap6.mp3",
+          "sentenceWithGap": "An owl watches from a nest, its beak, feathers and broad ___ easy to recognise.",
+          "answer": "wings"
+        },
+        {
+          "id": "U14_CORE_gap7",
+          "audio": "assets/audio/passages/U14_CORE_gap7.mp3",
+          "sentenceWithGap": "A fox has reddish fur, a long tail, sensitive whiskers, soft paws and sharp ___.",
+          "answer": "claws"
+        },
+        {
+          "id": "U14_CORE_gap8",
+          "audio": "assets/audio/passages/U14_CORE_gap8.mp3",
+          "sentenceWithGap": "A predator depends on its ___, so a change in one population affects the whole system.",
+          "answer": "prey"
+        },
+        {
+          "id": "U14_CORE_gap9",
+          "audio": "assets/audio/passages/U14_CORE_gap9.mp3",
+          "sentenceWithGap": "Some birds lay eggs, while mammals give birth to live ___.",
+          "answer": "offspring"
+        },
+        {
+          "id": "U14_CORE_gap10",
+          "audio": "assets/audio/passages/U14_CORE_gap10.mp3",
+          "sentenceWithGap": "If animals cannot find food or a safe place to ___, a species may become endangered and could eventually become extinct.",
+          "answer": "breed"
+        }
+      ],
+      "quizQuestions": [
+        {
+          "id": "U14_CORE_quiz1",
+          "sentenceWithGap": "Although bats can fly, they are actually ___ because they give birth to live young and feed them milk.",
+          "options": [
+            "birds",
+            "reptiles",
+            "mammals",
+            "insects"
+          ],
+          "answer": "mammals",
+          "sentenceVi": "Mặc dù dơi có thể bay, chúng thực ra là động vật có vú vì chúng sinh con và nuôi con bằng sữa.",
+          "explanation": "Động vật có vú sinh con và nuôi con bằng sữa; dơi thuộc nhóm này dù có khả năng bay. Nghĩa các lựa chọn khác: reptiles = bò sát."
+        },
+        {
+          "id": "U14_CORE_quiz2",
+          "sentenceWithGap": "A frog is an ___ because it can live both in water and on land.",
+          "options": [
+            "amphibian",
+            "insect",
+            "mammal",
+            "reptile"
+          ],
+          "answer": "amphibian",
+          "sentenceVi": "Ếch là một loài động vật lưỡng cư vì nó có thể sống cả dưới nước và trên cạn.",
+          "explanation": "'amphibian' là động vật có thể sống cả dưới nước và trên cạn."
+        },
+        {
+          "id": "U14_CORE_quiz3",
+          "sentenceWithGap": "The bird used its long ___ to pull a worm out of the ground.",
+          "options": [
+            "claw",
+            "wing",
+            "horn",
+            "beak"
+          ],
+          "answer": "beak",
+          "sentenceVi": "Con chim dùng chiếc mỏ dài để kéo một con giun ra khỏi mặt đất.",
+          "explanation": "Chim dùng 'beak' để mổ, nhặt hoặc kéo thức ăn."
+        },
+        {
+          "id": "U14_CORE_quiz4",
+          "sentenceWithGap": "The cat's sharp ___ left long scratches on the sofa.",
+          "options": [
+            "beak",
+            "claws",
+            "wings",
+            "hooves"
+          ],
+          "answer": "claws",
+          "sentenceVi": "Những chiếc móng vuốt sắc của con mèo để lại những vết xước dài trên ghế sofa.",
+          "explanation": "'claws' là móng vuốt sắc của mèo, chim săn mồi và nhiều loài thú, nên chỉ móng vuốt mới để lại vết xước dài; beak, wings, hooves không gây ra vết xước như vậy."
+        },
+        {
+          "id": "U14_CORE_quiz5",
+          "sentenceWithGap": "Bees carry ___ from one flower to another and help plants reproduce.",
+          "options": [
+            "buds",
+            "pollen",
+            "roots",
+            "bark"
+          ],
+          "answer": "pollen",
+          "sentenceVi": "Ong mang phấn hoa từ bông hoa này sang bông hoa khác và giúp cây sinh sản.",
+          "explanation": "Ong vận chuyển 'pollen' giữa các bông hoa trong quá trình thụ phấn. Nghĩa các lựa chọn khác: buds = nụ."
+        },
+        {
+          "id": "U14_CORE_quiz6",
+          "sentenceWithGap": "Trees absorb water and minerals from the soil through their ___.",
+          "options": [
+            "branches",
+            "trunks",
+            "stems",
+            "roots"
+          ],
+          "answer": "roots",
+          "sentenceVi": "Cây hấp thụ nước và khoáng chất từ đất thông qua rễ.",
+          "explanation": "'roots' nằm trong đất và hấp thụ nước, chất dinh dưỡng. Nghĩa các lựa chọn khác: branches = cành; trunks = thân cây; stems = thân cây nhỏ."
+        },
+        {
+          "id": "U14_CORE_quiz7",
+          "sentenceWithGap": "Many seabirds return to the same island every year to ___, laying their eggs on the cliffs.",
+          "options": [
+            "breed",
+            "hunt",
+            "migrate",
+            "graze"
+          ],
+          "answer": "breed",
+          "sentenceVi": "Nhiều loài chim biển quay lại cùng một hòn đảo mỗi năm để sinh sản, đẻ trứng trên các vách đá.",
+          "explanation": "'breed' = sinh sản, đẻ trứng và nuôi con; chim đẻ trứng trên vách đá nên ba từ còn lại không hợp nghĩa. Nghĩa các lựa chọn khác: hunt = săn; migrate = di cư; graze = gặm cỏ."
+        },
+        {
+          "id": "U14_CORE_quiz8",
+          "sentenceWithGap": "If one important predator disappears, the whole ___ may change, because every plant and animal in the network depends on the others.",
+          "options": [
+            "ecosystem",
+            "species",
+            "habitat",
+            "wildlife"
+          ],
+          "answer": "ecosystem",
+          "sentenceVi": "Nếu một loài săn mồi quan trọng biến mất, toàn bộ hệ sinh thái có thể thay đổi, vì mọi loài thực vật và động vật trong mạng lưới đều phụ thuộc vào nhau.",
+          "explanation": "'ecosystem' = hệ sinh thái, mạng lưới sinh vật và môi trường phụ thuộc lẫn nhau; species là một loài, habitat là nơi sống, wildlife là động thực vật hoang dã nói chung."
+        },
+        {
+          "id": "U14_CORE_quiz9",
+          "sentenceWithGap": "The salt marsh provides an important ___ for frogs, insects and nesting birds.",
+          "options": [
+            "species",
+            "wildlife",
+            "flora",
+            "habitat"
+          ],
+          "answer": "habitat",
+          "sentenceVi": "Đầm lầy nước mặn cung cấp một môi trường sống quan trọng cho ếch, côn trùng và các loài chim làm tổ.",
+          "explanation": "'habitat' là nơi một sinh vật sinh sống tự nhiên."
+        },
+        {
+          "id": "U14_CORE_quiz10",
+          "sentenceWithGap": "Coral reefs are ___ habitats where many fish and other sea creatures live.",
+          "options": [
+            "freshwater",
+            "marine",
+            "woodland",
+            "native"
+          ],
+          "answer": "marine",
+          "sentenceVi": "Rạn san hô là môi trường sống dưới biển nơi nhiều loài cá và sinh vật biển khác sinh sống.",
+          "explanation": "'marine' dùng cho những gì liên quan đến biển. Nghĩa các lựa chọn khác: native = bản địa."
+        },
+        {
+          "id": "U14_CORE_quiz11",
+          "sentenceWithGap": "More than fifty bird ___ have been recorded in the reserve, including several rare owls.",
+          "options": [
+            "habitats",
+            "flora",
+            "species",
+            "fauna"
+          ],
+          "answer": "species",
+          "sentenceVi": "Hơn năm mươi loài chim, trong đó có vài loài cú hiếm, đã được ghi nhận trong khu bảo tồn.",
+          "explanation": "'species' = loài; có thể dùng giống nhau ở số ít và số nhiều, và đi với 'bird' để chỉ các loài chim; habitats (môi trường sống) không thể 'bao gồm các loài cú'."
+        },
+        {
+          "id": "U14_CORE_quiz12",
+          "sentenceWithGap": "A ___ is an area of land that remains very wet and supports plants and animals adapted to water.",
+          "options": [
+            "wetland",
+            "woodland",
+            "coast",
+            "reserve"
+          ],
+          "answer": "wetland",
+          "sentenceVi": "Vùng đất ngập nước là khu vực đất rất ẩm ướt và là nơi sinh sống của các loài thích nghi với nước.",
+          "explanation": "'wetland' là vùng đất thường xuyên hoặc định kỳ ngập nước. Nghĩa các lựa chọn khác: reserve = khu bảo tồn."
+        },
+        {
+          "id": "U14_CORE_quiz13",
+          "sentenceWithGap": "A lion is a ___ because its diet consists mainly of other animals.",
+          "options": [
+            "carnivore",
+            "herbivore",
+            "omnivore",
+            "prey"
+          ],
+          "answer": "carnivore",
+          "sentenceVi": "Sư tử là động vật ăn thịt vì thức ăn của nó chủ yếu là các động vật khác.",
+          "explanation": "'carnivore' = động vật ăn thịt; sư tử ăn chủ yếu các động vật khác, còn herbivore ăn thực vật và omnivore ăn cả hai."
+        },
+        {
+          "id": "U14_CORE_quiz14",
+          "sentenceWithGap": "The sea turtle is ___ because its population has fallen dramatically, but a few still survive in protected areas.",
+          "options": [
+            "extinct",
+            "marine",
+            "endangered",
+            "native"
+          ],
+          "answer": "endangered",
+          "sentenceVi": "Rùa biển đang có nguy cơ tuyệt chủng vì số lượng giảm mạnh, nhưng một số ít vẫn còn sống ở các khu vực được bảo vệ.",
+          "explanation": "'endangered' nghĩa là vẫn còn tồn tại nhưng số lượng thấp và có nguy cơ tuyệt chủng; extinct là đã biến mất hoàn toàn. Nghĩa các lựa chọn khác: native = bản địa."
+        },
+        {
+          "id": "U14_CORE_quiz15",
+          "sentenceWithGap": "A species is ___ when there are no living members of it anywhere in the world.",
+          "options": [
+            "endangered",
+            "native",
+            "marine",
+            "extinct"
+          ],
+          "answer": "extinct",
+          "sentenceVi": "Một loài được xem là tuyệt chủng khi không còn cá thể sống nào trên thế giới.",
+          "explanation": "'extinct' = tuyệt chủng, không còn cá thể nào sống; endangered chỉ là còn rất ít nhưng vẫn tồn tại. Nghĩa các lựa chọn khác: native = bản địa."
+        },
+        {
+          "id": "U14_CORE_quiz16",
+          "sentenceWithGap": "Deer eat grass, leaves and other plants, so they are ___.",
+          "options": [
+            "carnivores",
+            "herbivores",
+            "predators",
+            "omnivores"
+          ],
+          "answer": "herbivores",
+          "sentenceVi": "Hươu ăn cỏ, lá cây và các loại thực vật khác nên chúng là động vật ăn cỏ.",
+          "explanation": "Hươu ăn cỏ, lá và các loài thực vật nên là 'herbivores'; carnivores ăn thịt, omnivores ăn cả hai, predators là loài đi săn. Nghĩa các lựa chọn khác: carnivores = động vật ăn thịt; predators = động vật săn mồi."
+        },
+        {
+          "id": "U14_CORE_quiz17",
+          "sentenceWithGap": "Bears can eat berries, roots, fish and meat, so most species are ___.",
+          "options": [
+            "herbivores",
+            "carnivores",
+            "omnivores",
+            "prey"
+          ],
+          "answer": "omnivores",
+          "sentenceVi": "Gấu có thể ăn quả mọng, rễ cây, cá và thịt nên phần lớn các loài là động vật ăn tạp.",
+          "explanation": "Gấu ăn cả quả mọng, rễ cây, cá và thịt nên là 'omnivores' (ăn tạp); herbivores chỉ ăn thực vật, carnivores chỉ ăn thịt. Nghĩa các lựa chọn khác: herbivores = động vật ăn cỏ; carnivores = động vật ăn thịt."
+        },
+        {
+          "id": "U14_CORE_quiz18",
+          "sentenceWithGap": "In this food chain, the owl hunts the mouse, so the owl is the ___.",
+          "options": [
+            "prey",
+            "offspring",
+            "herbivore",
+            "predator"
+          ],
+          "answer": "predator",
+          "sentenceVi": "Trong chuỗi thức ăn này, cú săn chuột nên cú là động vật săn mồi.",
+          "explanation": "Cú săn chuột nên cú là 'predator' (kẻ săn mồi); chuột mới là 'prey' (con mồi)."
+        },
+        {
+          "id": "U14_CORE_quiz19",
+          "sentenceWithGap": "When a fox hunts a rabbit, the rabbit is the fox's ___.",
+          "options": [
+            "predator",
+            "prey",
+            "offspring",
+            "species"
+          ],
+          "answer": "prey",
+          "sentenceVi": "Khi một con cáo săn thỏ, con thỏ là con mồi của cáo.",
+          "explanation": "Con vật bị săn là 'prey'; predator là con vật đi săn, tức là con cáo."
+        },
+        {
+          "id": "U14_CORE_quiz20",
+          "sentenceWithGap": "The island fox is a ___ because it occurs naturally on Bluehaven and was not introduced by humans.",
+          "options": [
+            "native species",
+            "marine species",
+            "extinct species",
+            "predator species"
+          ],
+          "answer": "native species",
+          "sentenceVi": "Cáo đảo là một loài bản địa vì nó xuất hiện tự nhiên ở Bluehaven chứ không phải do con người đưa tới.",
+          "explanation": "'native species' = loài sống tự nhiên ở một nơi, không do con người đưa vào; extinct là tuyệt chủng, marine là sống ở biển. Nghĩa các lựa chọn khác: marine species = loài biển; extinct species = loài tuyệt chủng; predator species = loài săn mồi."
+        }
+      ],
+      "matchWords": [
+        "reptile",
+        "insect",
+        "fur",
+        "hoof",
+        "nest",
+        "wing",
+        "bark",
+        "branch",
+        "bud",
+        "stem",
+        "thorn",
+        "trunk",
+        "lay eggs",
+        "freshwater",
+        "nature reserve",
+        "wildlife",
+        "woodland",
+        "offspring",
+        "fauna",
+        "flora"
+      ],
+      "image": "assets/images/passages/MT4_u14_survey.jpg"
+    },
+    {
+      "passageId": "U14_PV",
+      "unit": "U14",
+      "title": "After the Island Storm",
+      "text": "Dark clouds set in while the Bluehaven team was completing its afternoon wildlife count. The weather did not clear up as expected, and the wind only began to die down after midnight. The storm called for an immediate safety inspection, so the next morning’s survey was called off. A fallen bough had cut off the woodland path, and lightning had started a small fire which the rangers quickly put out.\n\nThe team had to face up to the amount of damage. However, their mentor reminded them not to let the setback get them down. Most of the broken equipment could be repaired, and the damage to the wetland platform was put down to unusually high water rather than poor construction.\n\nOver the next two days, the group helped to do up the field station. Rangers decided to tear down one unsafe storage shed, but they refused to throw away materials that could be reused. They saved the undamaged timber for a new bird-watching screen. Above the entrance, the initials BIRP stand for Bluehaven Island Research Project—a reminder that careful research and teamwork can help the island recover.",
+      "audio": "assets/audio/passages/MT4_u14_storm.mp3",
+      "gapSentences": [
+        {
+          "id": "U14_PV_gap1",
+          "audio": "assets/audio/passages/U14_PV_gap1.mp3",
+          "sentenceWithGap": "Dark clouds ___ while the Bluehaven team was completing its afternoon wildlife count.",
+          "answer": "set in"
+        },
+        {
+          "id": "U14_PV_gap2",
+          "audio": "assets/audio/passages/U14_PV_gap2.mp3",
+          "sentenceWithGap": "The weather did not ___ as expected, and the wind only began to die down after midnight.",
+          "answer": "clear up"
+        },
+        {
+          "id": "U14_PV_gap3",
+          "audio": "assets/audio/passages/U14_PV_gap3.mp3",
+          "sentenceWithGap": "The storm ___ an immediate safety inspection, so the next morning’s survey was called off.",
+          "answer": "called for"
+        },
+        {
+          "id": "U14_PV_gap4",
+          "audio": "assets/audio/passages/U14_PV_gap4.mp3",
+          "sentenceWithGap": "A fallen bough had cut off the woodland path, and lightning had started a small fire which the rangers quickly ___.",
+          "answer": "put out"
+        },
+        {
+          "id": "U14_PV_gap5",
+          "audio": "assets/audio/passages/U14_PV_gap5.mp3",
+          "sentenceWithGap": "The team had to ___ the amount of damage.",
+          "answer": "face up to"
+        },
+        {
+          "id": "U14_PV_gap6",
+          "audio": "assets/audio/passages/U14_PV_gap6.mp3",
+          "sentenceWithGap": "However, their mentor reminded them not to let the setback ___.",
+          "answer": "get them down"
+        },
+        {
+          "id": "U14_PV_gap7",
+          "audio": "assets/audio/passages/U14_PV_gap7.mp3",
+          "sentenceWithGap": "Over the next two days, the group helped to ___ the field station.",
+          "answer": "do up"
+        },
+        {
+          "id": "U14_PV_gap8",
+          "audio": "assets/audio/passages/U14_PV_gap8.mp3",
+          "sentenceWithGap": "Rangers decided to ___ one unsafe storage shed, but they refused to throw away materials that could be reused.",
+          "answer": "tear down"
+        },
+        {
+          "id": "U14_PV_gap9",
+          "audio": "assets/audio/passages/U14_PV_gap9.mp3",
+          "sentenceWithGap": "Above the entrance, the initials BIRP ___ Bluehaven Island Research Project—a reminder that careful research and teamwork can help the island recover.",
+          "answer": "stand for"
+        }
+      ],
+      "image": "assets/images/passages/MT4_u14_storm.jpg"
+    },
+    {
+      "passageId": "U14_WP",
+      "unit": "U14",
+      "title": "The Survey Reopens",
+      "text": "Before returning to the reserve, every student was aware of the new safety rules and aware that several paths remained unstable. Their boots were soon covered in mud. Although the group was disappointed by the delay, their mentor was not disappointed in anyone; all the students had followed the emergency procedure correctly.\n\nExcept for the damaged wetland platform, most research areas reopened. The rangers expected the students to record bird calls from a safe distance and expected that the survey would finish before sunset. The students were already familiar with the island’s common species, and the call of the Bluehaven marsh owl was familiar to everyone who lived nearby. The reserve was famous for protecting this rare bird.\n\nOne student glanced at the tracking screen. The nest was hard to reach, and it was hard working quietly on the muddy path, but the team continued. Temporary ropes helped prevent accidents, while a barrier prevented visitors from entering the nesting zone and prevented the eggs from being disturbed.\n\nThe team was short of time and short on battery power. A ranger warned them about touching unknown plants, warned them of a rapidly rising tide, and warned them not to leave the marked route. She also warned that another shower might arrive before dark. The students completed the count safely and left the habitat undisturbed.",
+      "audio": "assets/audio/passages/MT4_u14_reopens.mp3",
+      "gapSentences": [
+        {
+          "id": "U14_WP_gap1",
+          "audio": "assets/audio/passages/U14_WP_gap1.mp3",
+          "sentenceWithGap": "Before returning to the reserve, every student was ___ the new safety rules and aware that several paths remained unstable.",
+          "answer": "aware of"
+        },
+        {
+          "id": "U14_WP_gap2",
+          "audio": "assets/audio/passages/U14_WP_gap2.mp3",
+          "sentenceWithGap": "Although the group was ___ the delay, their mentor was not disappointed in anyone; all the students had followed the emergency procedure correctly.",
+          "answer": "disappointed by"
+        },
+        {
+          "id": "U14_WP_gap3",
+          "audio": "assets/audio/passages/U14_WP_gap3.mp3",
+          "sentenceWithGap": "The students were already ___ the island’s common species, and the call of the Bluehaven marsh owl was familiar to everyone who lived nearby.",
+          "answer": "familiar with"
+        },
+        {
+          "id": "U14_WP_gap4",
+          "audio": "assets/audio/passages/U14_WP_gap4.mp3",
+          "sentenceWithGap": "The reserve was ___ protecting this rare bird.",
+          "answer": "famous for"
+        },
+        {
+          "id": "U14_WP_gap5",
+          "audio": "assets/audio/passages/U14_WP_gap5.mp3",
+          "sentenceWithGap": "Temporary ropes helped ___ accidents, while a barrier prevented visitors from entering the nesting zone and prevented the eggs from being disturbed.",
+          "answer": "prevent"
+        },
+        {
+          "id": "U14_WP_gap6",
+          "audio": "assets/audio/passages/U14_WP_gap6.mp3",
+          "sentenceWithGap": "The team was short of time and ___ battery power.",
+          "answer": "short on"
+        },
+        {
+          "id": "U14_WP_gap7",
+          "audio": "assets/audio/passages/U14_WP_gap7.mp3",
+          "sentenceWithGap": "A ranger warned them about touching unknown plants, ___ a rapidly rising tide, and warned them not to leave the marked route.",
+          "answer": "warned them of"
+        }
+      ],
+      "image": "assets/images/passages/MT4_u14_reopens.jpg"
+    },
+    {
+      "passageId": "U15_COLLOC",
+      "unit": "U15",
+      "title": "Inside the Weather Control Room",
+      "text": "Elise had control of the main screen while Dr Mara checked the emergency plan. When a sensor sent false readings, the system went out of control, but the team did not lose control of the alarms. Elise took control of the system and soon had everything in control. Because the error could have an effect on island warnings, they repaired it before the new settings took effect. Nia took responsibility for the maps, while Tomás had responsibility for the outdoor equipment. Although he felt under the weather, he stayed to check the weather forecast.\n\nAt the end of repair week, the work came to an end. In the end, every room was usable, giving the project a happy ending. The public display was on the ground floor, with laboratories above. Some cables were on the floor, and the store was in a mess. Tomás nearly made a mess of the opening by connecting the wrong screen. Nia did not make a fuss, although the mistake caused a fuss among the volunteers.\n\nThe team had searched for a long time. They could continue as long as the wind stayed light, though it might take a long time. They stopped to have a look at the map and took a closer look at marks beside the path. At first sight, a bright object seemed to be the sensor. Nia caught sight of it, then lost sight of it behind a bush.\n\nAfter a heavy shower of rain, visitors explored displays about industrial waste and household waste. The organisers did not waste their time on speeches. Instead, they shared examples from around the world, showing how the whole world is connected by oceans and weather systems. The final display presented a rainfall world record.",
+      "audio": "assets/audio/passages/MT4_u15_control.mp3",
+      "parts": [
+        {
+          "title": "Inside the Weather Control Room",
+          "text": "Elise had control of the main screen while Dr Mara checked the emergency plan. When a sensor sent false readings, the system went out of control, but the team did not lose control of the alarms. Elise took control of the system and soon had everything in control. Because the error could have an effect on island warnings, they repaired it before the new settings took effect. Nia took responsibility for the maps, while Tomás had responsibility for the outdoor equipment. Although he felt under the weather, he stayed to check the weather forecast.",
+          "audio": "assets/audio/passages/MT4_u15_control.mp3",
+          "image": "assets/images/passages/MT4_u15_colloc.jpg"
+        },
+        {
+          "title": "The Research Station Reopens",
+          "text": "At the end of repair week, the work came to an end. In the end, every room was usable, giving the project a happy ending. The public display was on the ground floor, with laboratories above. Some cables were on the floor, and the store was in a mess. Tomás nearly made a mess of the opening by connecting the wrong screen. Nia did not make a fuss, although the mistake caused a fuss among the volunteers.",
+          "audio": "assets/audio/passages/MT4_u15_station.mp3",
+          "image": "assets/images/passages/MT4_u15_colloc.jpg"
+        },
+        {
+          "title": "Searching for the Missing Sensor",
+          "text": "The team had searched for a long time. They could continue as long as the wind stayed light, though it might take a long time. They stopped to have a look at the map and took a closer look at marks beside the path. At first sight, a bright object seemed to be the sensor. Nia caught sight of it, then lost sight of it behind a bush.",
+          "audio": "assets/audio/passages/MT4_u15_sensor.mp3",
+          "image": "assets/images/passages/MT4_u15_colloc.jpg"
+        },
+        {
+          "title": "Bluehaven’s Climate Exhibition",
+          "text": "After a heavy shower of rain, visitors explored displays about industrial waste and household waste. The organisers did not waste their time on speeches. Instead, they shared examples from around the world, showing how the whole world is connected by oceans and weather systems. The final display presented a rainfall world record.",
+          "audio": "assets/audio/passages/MT4_u15_exhibition.mp3",
+          "image": "assets/images/passages/MT4_u15_colloc.jpg"
+        }
+      ],
+      "gapSentences": [
+        {
+          "id": "U15_COLLOC_gap1",
+          "audio": "assets/audio/passages/U15_COLLOC_gap1.mp3",
+          "sentenceWithGap": "Elise ___ the main screen while Dr Mara checked the emergency plan.",
+          "answer": "had control of"
+        },
+        {
+          "id": "U15_COLLOC_gap2",
+          "audio": "assets/audio/passages/U15_COLLOC_gap2.mp3",
+          "sentenceWithGap": "Elise took control of the system and soon had everything ___.",
+          "answer": "in control"
+        },
+        {
+          "id": "U15_COLLOC_gap3",
+          "audio": "assets/audio/passages/U15_COLLOC_gap3.mp3",
+          "sentenceWithGap": "Although he felt ___, he stayed to check the weather forecast.",
+          "answer": "under the weather"
+        },
+        {
+          "id": "U15_COLLOC_gap4",
+          "audio": "assets/audio/passages/U15_COLLOC_gap4.mp3",
+          "sentenceWithGap": "___ repair week, the work came to an end.",
+          "answer": "at the end of"
+        },
+        {
+          "id": "U15_COLLOC_gap5",
+          "audio": "assets/audio/passages/U15_COLLOC_gap5.mp3",
+          "sentenceWithGap": "In the end, every room was usable, giving the project a ___.",
+          "answer": "happy ending"
+        },
+        {
+          "id": "U15_COLLOC_gap6",
+          "audio": "assets/audio/passages/U15_COLLOC_gap6.mp3",
+          "sentenceWithGap": "Some cables were ___, and the store was in a mess.",
+          "answer": "on the floor"
+        },
+        {
+          "id": "U15_COLLOC_gap7",
+          "audio": "assets/audio/passages/U15_COLLOC_gap7.mp3",
+          "sentenceWithGap": "Nia did not ___, although the mistake caused a fuss among the volunteers.",
+          "answer": "make a fuss"
+        },
+        {
+          "id": "U15_COLLOC_gap8",
+          "audio": "assets/audio/passages/U15_COLLOC_gap8.mp3",
+          "sentenceWithGap": "The team had searched for a ___ time.",
+          "answer": "long"
+        },
+        {
+          "id": "U15_COLLOC_gap9",
+          "audio": "assets/audio/passages/U15_COLLOC_gap9.mp3",
+          "sentenceWithGap": "They could continue ___ the wind stayed light, though it might take a long time.",
+          "answer": "as long as"
+        },
+        {
+          "id": "U15_COLLOC_gap10",
+          "audio": "assets/audio/passages/U15_COLLOC_gap10.mp3",
+          "sentenceWithGap": "Nia ___ it, then lost sight of it behind a bush.",
+          "answer": "caught sight of"
+        }
+      ],
+      "image": "assets/images/passages/MT4_u15_colloc.jpg"
+    },
+    {
+      "passageId": "U15_CORE",
+      "unit": "U15",
+      "title": "Mapping Bluehaven",
+      "text": "At dawn, Nia and Tomás began mapping Bluehaven from the northern lookout. The island looked strongly mountainous from there, with a steep ridge rising behind the research station. On the eastern side, however, the land fell away in a gentle slope towards a broad, flat plain. The contrast helped the team understand why rainwater moved so quickly through some areas but remained on the surface in others. They followed a narrow, winding track into the hills. Below them, a deep valley held a fast-moving stream, while a shallow pool had formed beside the path after the storm. Farther south, the valley became wide, and the road ran almost straight across open ground. Recent rain had made the lower fields muddy, but the water in the upper stream was surprisingly clear.\n\nNear the coast, the team recorded another sharp change. The northern shore was rocky, with dark stones and high cliffs, whereas the southern bay was sandy and sheltered. One inland area remained barren because salt water had covered it during the storm. In contrast, the land around the village was carefully cultivated. Farmers had built small channels to protect the rich, fertile soil and guide extra water back towards the river.\n\nBy midday, Nia had marked every change in height, surface and land use. Her map showed that Bluehaven was not a single type of landscape but a compact island of strong contrasts. These details would help Dr Mara decide where new weather sensors and emergency routes should be placed before the next severe storm. The map would also help farmers identify low fields where water collected, and show rescue teams which coastal tracks might become unsafe. For Nia, accurate landscape description was therefore not just geographical detail; it was an essential part of protecting the island community.\n\nLog 1 — A Cold Morning in the Highlands\n\n06:15 — The daytime temperature is expected to remain low, although conditions are still fairly mild for the highlands. The station is damp after overnight rain. A misty layer hangs over the fields, but the mountain road is much more foggy, so drivers cannot see far ahead. Thin frost covers the grass, and the wooden steps are frosty. Several shaded paths are icy and extremely slippery.\n\n09:40 — The forecast now warns of severe weather above the ridge. At the summit, conditions are freezing, and water pipes may freeze if they are not protected. Light snowfall has begun near the northern peak. Later, warmer air should arrive. The ice will start to thaw, and snow on exposed rocks will gradually melt. The team will wait until the fog lifts before checking the upper sensor. Even without a major storm, the changes between wet ground, frozen surfaces and poor visibility make travel risky this morning.\n\nLog 2 — Heat in the Southern Wetlands\n\n12:10 — Southern Bluehaven has a tropical climate, so sudden changes between the dry season and the wet season are normal. Today, however, an early heatwave is pushing temperatures far above the monthly average. The air is humid, and moisture is collecting on the station windows. Near the marsh, the weather feels especially muggy because there is almost no wind.\n\n14:30 — The laboratory has become stifling, so the team has moved its equipment into the shade. Outside, it is boiling hot, and metal instruments are difficult to touch safely. The strongest warmth is being recorded on the open southern plain, while the forest remains several degrees cooler. Elise has advised everyone to drink water regularly and avoid long walks until evening. Although this heat is unusual for the start of the wet season, the data may help the team understand how rising sea temperatures are affecting local weather patterns.\n\nAt first, only a short shower passed over Bluehaven, leaving small drops on the laboratory windows. By late morning, cloudy skies had become completely overcast, and heavy rain began to fall. It continued to rain heavily as the team returned from the valley. Soon, the rain started to pour down, turning the footpath into a stream. A sudden downpour then swept across the western coast. It developed into a thunderstorm, and the station recorded several hours of torrential rain. Water rose quickly beside the river, and two low fields were flooded before sunset. The river did not cause a major flood, but the village road was closed as a precaution. The event was particularly striking because Bluehaven had recently experienced a long drought. The dry soil could not absorb the water fast enough, so even a few hours of intense rain created dangerous surface flow. After the clouds cleared, Elise compared the five stages and explained why rainfall intensity alone does not determine whether flooding will occur.\n\nAt dawn, before sunrise, Dr Mara gave the team its daily weather briefing. The latest forecast showed a gentle breeze along the eastern shore and a cooler sea breeze by midday. On the exposed ridge, however, the breeze could develop into a strong wind, or high wind, followed by a gale during the evening. The situation would be stormy, with a high risk of lightning and thunder. A tropical storm remained far out at sea and was not expected to become a hurricane, but the team would continue to monitor it.\n\nElise then compared Bluehaven’s temperature and rainfall with data from other regions. Because the island lies close to the Equator, temperatures stay above zero throughout the year. Mountain communities farther north can fall below zero, and some may be cut off by snow in winter. Bluehaven’s warmest month is usually August, while February is its coolest month. Even then, the average temperature is comfortable.\n\nDr Mara reminded the group that averages do not show every danger. Extreme weather can still occur when warm ocean water, moist air and changing winds meet. If the approaching storm moved closer, it could bring high winds, heavy rain and dangerous coastal currents. Nia would check the emergency routes, Tomás would secure the river equipment, and Elise would update the public weather report. The briefing ended with a clear message: conditions were calm for now, but everyone needed to remain prepared. Before leaving, each member checked a radio and torch. The next update would come at noon, when new wind readings became available.",
+      "audio": "assets/audio/passages/MT4_u15_mapping.mp3",
+      "parts": [
+        {
+          "title": "Mapping Bluehaven",
+          "text": "At dawn, Nia and Tomás began mapping Bluehaven from the northern lookout. The island looked strongly mountainous from there, with a steep ridge rising behind the research station. On the eastern side, however, the land fell away in a gentle slope towards a broad, flat plain. The contrast helped the team understand why rainwater moved so quickly through some areas but remained on the surface in others. They followed a narrow, winding track into the hills. Below them, a deep valley held a fast-moving stream, while a shallow pool had formed beside the path after the storm. Farther south, the valley became wide, and the road ran almost straight across open ground. Recent rain had made the lower fields muddy, but the water in the upper stream was surprisingly clear.\n\nNear the coast, the team recorded another sharp change. The northern shore was rocky, with dark stones and high cliffs, whereas the southern bay was sandy and sheltered. One inland area remained barren because salt water had covered it during the storm. In contrast, the land around the village was carefully cultivated. Farmers had built small channels to protect the rich, fertile soil and guide extra water back towards the river.\n\nBy midday, Nia had marked every change in height, surface and land use. Her map showed that Bluehaven was not a single type of landscape but a compact island of strong contrasts. These details would help Dr Mara decide where new weather sensors and emergency routes should be placed before the next severe storm. The map would also help farmers identify low fields where water collected, and show rescue teams which coastal tracks might become unsafe. For Nia, accurate landscape description was therefore not just geographical detail; it was an essential part of protecting the island community.",
+          "audio": "assets/audio/passages/MT4_u15_mapping.mp3",
+          "image": "assets/images/passages/MT4_u15_mapping.jpg"
+        },
+        {
+          "title": "Two Climate Logs",
+          "text": "Log 1 — A Cold Morning in the Highlands\n\n06:15 — The daytime temperature is expected to remain low, although conditions are still fairly mild for the highlands. The station is damp after overnight rain. A misty layer hangs over the fields, but the mountain road is much more foggy, so drivers cannot see far ahead. Thin frost covers the grass, and the wooden steps are frosty. Several shaded paths are icy and extremely slippery.\n\n09:40 — The forecast now warns of severe weather above the ridge. At the summit, conditions are freezing, and water pipes may freeze if they are not protected. Light snowfall has begun near the northern peak. Later, warmer air should arrive. The ice will start to thaw, and snow on exposed rocks will gradually melt. The team will wait until the fog lifts before checking the upper sensor. Even without a major storm, the changes between wet ground, frozen surfaces and poor visibility make travel risky this morning.\n\nLog 2 — Heat in the Southern Wetlands\n\n12:10 — Southern Bluehaven has a tropical climate, so sudden changes between the dry season and the wet season are normal. Today, however, an early heatwave is pushing temperatures far above the monthly average. The air is humid, and moisture is collecting on the station windows. Near the marsh, the weather feels especially muggy because there is almost no wind.\n\n14:30 — The laboratory has become stifling, so the team has moved its equipment into the shade. Outside, it is boiling hot, and metal instruments are difficult to touch safely. The strongest warmth is being recorded on the open southern plain, while the forest remains several degrees cooler. Elise has advised everyone to drink water regularly and avoid long walks until evening. Although this heat is unusual for the start of the wet season, the data may help the team understand how rising sea temperatures are affecting local weather patterns.",
+          "audio": "assets/audio/passages/MT4_u15_logs.mp3",
+          "image": "assets/images/passages/MT4_u15_logs.jpg"
+        },
+        {
+          "title": "From Shower to Flood",
+          "text": "At first, only a short shower passed over Bluehaven, leaving small drops on the laboratory windows. By late morning, cloudy skies had become completely overcast, and heavy rain began to fall. It continued to rain heavily as the team returned from the valley. Soon, the rain started to pour down, turning the footpath into a stream. A sudden downpour then swept across the western coast. It developed into a thunderstorm, and the station recorded several hours of torrential rain. Water rose quickly beside the river, and two low fields were flooded before sunset. The river did not cause a major flood, but the village road was closed as a precaution. The event was particularly striking because Bluehaven had recently experienced a long drought. The dry soil could not absorb the water fast enough, so even a few hours of intense rain created dangerous surface flow. After the clouds cleared, Elise compared the five stages and explained why rainfall intensity alone does not determine whether flooding will occur.",
+          "audio": "assets/audio/passages/MT4_u15_rain.mp3",
+          "image": "assets/images/passages/MT4_u15_rain.jpg"
+        },
+        {
+          "title": "The Bluehaven Weather Briefing",
+          "text": "At dawn, before sunrise, Dr Mara gave the team its daily weather briefing. The latest forecast showed a gentle breeze along the eastern shore and a cooler sea breeze by midday. On the exposed ridge, however, the breeze could develop into a strong wind, or high wind, followed by a gale during the evening. The situation would be stormy, with a high risk of lightning and thunder. A tropical storm remained far out at sea and was not expected to become a hurricane, but the team would continue to monitor it.\n\nElise then compared Bluehaven’s temperature and rainfall with data from other regions. Because the island lies close to the Equator, temperatures stay above zero throughout the year. Mountain communities farther north can fall below zero, and some may be cut off by snow in winter. Bluehaven’s warmest month is usually August, while February is its coolest month. Even then, the average temperature is comfortable.\n\nDr Mara reminded the group that averages do not show every danger. Extreme weather can still occur when warm ocean water, moist air and changing winds meet. If the approaching storm moved closer, it could bring high winds, heavy rain and dangerous coastal currents. Nia would check the emergency routes, Tomás would secure the river equipment, and Elise would update the public weather report. The briefing ended with a clear message: conditions were calm for now, but everyone needed to remain prepared. Before leaving, each member checked a radio and torch. The next update would come at noon, when new wind readings became available.",
+          "audio": "assets/audio/passages/MT4_u15_briefing.mp3",
+          "image": "assets/images/passages/MT4_u15_briefing.jpg"
+        }
+      ],
+      "gapSentences": [
+        {
+          "id": "U15_CORE_gap1",
+          "audio": "assets/audio/passages/U15_CORE_gap1.mp3",
+          "sentenceWithGap": "They followed a narrow, ___ track into the hills.",
+          "answer": "winding"
+        },
+        {
+          "id": "U15_CORE_gap2",
+          "audio": "assets/audio/passages/U15_CORE_gap2.mp3",
+          "sentenceWithGap": "Near the ___, the team recorded another sharp change.",
+          "answer": "coast"
+        },
+        {
+          "id": "U15_CORE_gap3",
+          "audio": "assets/audio/passages/U15_CORE_gap3.mp3",
+          "sentenceWithGap": "Farmers had built small channels to protect the rich, ___ soil and guide extra water back towards the river.",
+          "answer": "fertile"
+        },
+        {
+          "id": "U15_CORE_gap4",
+          "audio": "assets/audio/passages/U15_CORE_gap4.mp3",
+          "sentenceWithGap": "A ___ layer hangs over the fields, but the mountain road is much more foggy, so drivers cannot see far ahead.",
+          "answer": "misty"
+        },
+        {
+          "id": "U15_CORE_gap5",
+          "audio": "assets/audio/passages/U15_CORE_gap5.mp3",
+          "sentenceWithGap": "The forecast now warns of severe weather above the ___.",
+          "answer": "ridge"
+        },
+        {
+          "id": "U15_CORE_gap6",
+          "audio": "assets/audio/passages/U15_CORE_gap6.mp3",
+          "sentenceWithGap": "The ice will start to ___, and snow on exposed rocks will gradually melt.",
+          "answer": "thaw"
+        },
+        {
+          "id": "U15_CORE_gap7",
+          "audio": "assets/audio/passages/U15_CORE_gap7.mp3",
+          "sentenceWithGap": "Today, however, an early ___ is pushing temperatures far above the monthly average.",
+          "answer": "heatwave"
+        },
+        {
+          "id": "U15_CORE_gap8",
+          "audio": "assets/audio/passages/U15_CORE_gap8.mp3",
+          "sentenceWithGap": "The air is ___, and moisture is collecting on the station windows.",
+          "answer": "humid"
+        },
+        {
+          "id": "U15_CORE_gap9",
+          "audio": "assets/audio/passages/U15_CORE_gap9.mp3",
+          "sentenceWithGap": "By late morning, cloudy skies had become completely ___, and heavy rain began to fall.",
+          "answer": "overcast"
+        },
+        {
+          "id": "U15_CORE_gap10",
+          "audio": "assets/audio/passages/U15_CORE_gap10.mp3",
+          "sentenceWithGap": "It developed into a thunderstorm, and the station recorded several hours of ___.",
+          "answer": "torrential rain"
+        }
+      ],
+      "s3SessionSize": 30,
+      "quizQuestions": [
+        {
+          "id": "U15_CORE_quiz1",
+          "sentenceWithGap": "The hikers walked carefully along the narrow ___ between the two peaks, with steep drops on both sides.",
+          "options": [
+            "valley",
+            "ridge",
+            "bank",
+            "bay"
+          ],
+          "answer": "ridge",
+          "sentenceVi": "Những người đi bộ đường dài đi cẩn thận dọc theo sống núi hẹp giữa hai đỉnh núi, hai bên là những vực dốc.",
+          "explanation": "'ridge' = sống núi, dải đất hẹp và cao nối các đỉnh núi nên hai bên là vực dốc; valley là thung lũng nằm thấp giữa các dãy núi."
+        },
+        {
+          "id": "U15_CORE_quiz2",
+          "sentenceWithGap": "The river has cut a deep, narrow ___ with almost vertical sides.",
+          "options": [
+            "slope",
+            "valley",
+            "bay",
+            "gorge"
+          ],
+          "answer": "gorge",
+          "sentenceVi": "Con sông đã tạo ra một hẻm núi sâu và hẹp với hai bên gần như thẳng đứng.",
+          "explanation": "'gorge' là một thung lũng rất sâu và hẹp, hai bên thường dốc đứng."
+        },
+        {
+          "id": "U15_CORE_quiz3",
+          "sentenceWithGap": "The team climbed into the hills to find the ___ of the river.",
+          "options": [
+            "source",
+            "mouth",
+            "current",
+            "bank"
+          ],
+          "answer": "source",
+          "sentenceVi": "Nhóm leo lên vùng đồi để tìm nơi bắt nguồn của con sông.",
+          "explanation": "'source' = nguồn sông, nơi con sông bắt đầu; mouth là cửa sông, nơi sông đổ ra biển."
+        },
+        {
+          "id": "U15_CORE_quiz4",
+          "sentenceWithGap": "The town lies close to the ___ where the river flows into the sea.",
+          "options": [
+            "source",
+            "bank",
+            "mouth",
+            "ridge"
+          ],
+          "answer": "mouth",
+          "sentenceVi": "Thị trấn nằm gần cửa sông, nơi con sông chảy ra biển.",
+          "explanation": "'mouth' = cửa sông, nơi sông chảy ra biển; source là nơi sông bắt đầu."
+        },
+        {
+          "id": "U15_CORE_quiz5",
+          "sentenceWithGap": "Swimmers were warned about a strong ___ pulling them away from the beach.",
+          "options": [
+            "flood",
+            "stream",
+            "current",
+            "shower"
+          ],
+          "answer": "current",
+          "sentenceVi": "Người bơi được cảnh báo về một dòng nước mạnh có thể kéo họ ra xa bãi biển.",
+          "explanation": "'current' = dòng nước chảy mạnh, có thể kéo người bơi ra xa bờ; stream là suối nhỏ, flood là lũ."
+        },
+        {
+          "id": "U15_CORE_quiz6",
+          "sentenceWithGap": "A ___ is a narrow stretch of water connecting two larger areas of sea.",
+          "options": [
+            "strait",
+            "bay",
+            "bank",
+            "glacier"
+          ],
+          "answer": "strait",
+          "sentenceVi": "Eo biển là một dải nước hẹp nối hai vùng biển lớn hơn.",
+          "explanation": "'strait' = eo biển, dải nước hẹp nối hai vùng biển; bay là vịnh, không nối hai vùng biển."
+        },
+        {
+          "id": "U15_CORE_quiz7",
+          "sentenceWithGap": "We sat on the river ___ and watched the boats pass.",
+          "options": [
+            "valley",
+            "coast",
+            "cape",
+            "bank"
+          ],
+          "answer": "bank",
+          "sentenceVi": "Chúng tôi ngồi trên bờ sông và nhìn những chiếc thuyền đi qua.",
+          "explanation": "'bank' = bờ sông; coast là bờ biển, cape là mũi đất nhô ra biển, valley là thung lũng."
+        },
+        {
+          "id": "U15_CORE_quiz8",
+          "sentenceWithGap": "The road is extremely ___, rising almost vertically up the mountain.",
+          "options": [
+            "shallow",
+            "steep",
+            "winding",
+            "fertile"
+          ],
+          "answer": "steep",
+          "sentenceVi": "Con đường cực kỳ dốc, gần như dựng đứng lên sườn núi.",
+          "explanation": "'steep' = dốc đứng, khớp với 'rising almost vertically'; winding là quanh co, shallow là nông."
+        },
+        {
+          "id": "U15_CORE_quiz9",
+          "sentenceWithGap": "The water near the beach is very ___, so young children can stand safely.",
+          "options": [
+            "shallow",
+            "deep",
+            "steep",
+            "narrow"
+          ],
+          "answer": "shallow",
+          "sentenceVi": "Nước gần bãi biển rất nông nên trẻ nhỏ có thể đứng an toàn.",
+          "explanation": "'shallow' = nông, trẻ nhỏ mới đứng được; deep là sâu, steep nói về độ dốc chứ không nói về mực nước."
+        },
+        {
+          "id": "U15_CORE_quiz10",
+          "sentenceWithGap": "The river is extremely ___, turning left and right many times across the plain.",
+          "options": [
+            "narrow",
+            "steep",
+            "shallow",
+            "winding"
+          ],
+          "answer": "winding",
+          "sentenceVi": "Con sông cực kỳ quanh co, uốn sang trái rồi sang phải nhiều lần qua đồng bằng.",
+          "explanation": "'winding' = quanh co, uốn nhiều lần như 'turning left and right many times'; narrow là hẹp, steep là dốc, shallow là nông."
+        },
+        {
+          "id": "U15_CORE_quiz11",
+          "sentenceWithGap": "The valley is ideal for farming because the soil is rich and ___.",
+          "options": [
+            "barren",
+            "fertile",
+            "icy",
+            "misty"
+          ],
+          "answer": "fertile",
+          "sentenceVi": "Thung lũng rất thích hợp cho nông nghiệp vì đất giàu dinh dưỡng và màu mỡ.",
+          "explanation": "'fertile' = màu mỡ, giàu dinh dưỡng nên hợp để trồng trọt; barren là cằn cỗi (ngược nghĩa)."
+        },
+        {
+          "id": "U15_CORE_quiz12",
+          "sentenceWithGap": "It was slightly ___ around the lake at dawn, but we could still see the opposite shore.",
+          "options": [
+            "foggy",
+            "overcast",
+            "misty",
+            "icy"
+          ],
+          "answer": "misty",
+          "sentenceVi": "Lúc bình minh quanh hồ có một lớp sương mỏng, nhưng chúng tôi vẫn nhìn thấy bờ bên kia.",
+          "explanation": "'misty' nhẹ hơn 'foggy'; vẫn có thể nhìn được tương đối xa."
+        },
+        {
+          "id": "U15_CORE_quiz13",
+          "sentenceWithGap": "The road was so ___ that drivers could see only a few metres ahead.",
+          "options": [
+            "foggy",
+            "frosty",
+            "humid",
+            "muggy"
+          ],
+          "answer": "foggy",
+          "sentenceVi": "Con đường có sương mù dày đến mức tài xế chỉ có thể nhìn thấy vài mét phía trước.",
+          "explanation": "'foggy' = sương mù dày, che khuất tầm nhìn nên chỉ thấy vài mét; frosty là có sương giá, humid là ẩm, muggy là oi bức, đều không làm giảm tầm nhìn."
+        },
+        {
+          "id": "U15_CORE_quiz14",
+          "sentenceWithGap": "A thin layer of ___ covered the grass after the temperature fell below zero overnight.",
+          "options": [
+            "frost",
+            "fog",
+            "rain",
+            "current"
+          ],
+          "answer": "frost",
+          "sentenceVi": "Một lớp sương giá mỏng phủ lên cỏ sau khi nhiệt độ xuống dưới 0°C trong đêm.",
+          "explanation": "'frost' = sương giá, lớp băng mỏng phủ lên cỏ khi nhiệt độ xuống dưới 0°C; fog là sương mù trong không khí. Nghĩa các lựa chọn khác: fog = sương mù; rain = mưa."
+        },
+        {
+          "id": "U15_CORE_quiz15",
+          "sentenceWithGap": "Be careful on the bridge because the surface is ___ and extremely slippery.",
+          "options": [
+            "humid",
+            "misty",
+            "icy",
+            "fertile"
+          ],
+          "answer": "icy",
+          "sentenceVi": "Hãy cẩn thận trên cây cầu vì bề mặt đang phủ băng và cực kỳ trơn.",
+          "explanation": "'icy' = phủ băng nên cực kỳ trơn; humid là ẩm, misty là có sương, fertile là màu mỡ."
+        },
+        {
+          "id": "U15_CORE_quiz16",
+          "sentenceWithGap": "As the temperature rose, the frozen ground began to ___.",
+          "options": [
+            "freeze",
+            "thaw",
+            "flood",
+            "pour"
+          ],
+          "answer": "thaw",
+          "sentenceVi": "Khi nhiệt độ tăng, mặt đất đóng băng bắt đầu tan ra.",
+          "explanation": "'thaw' = tan băng; mặt đất đóng băng gặp nhiệt độ tăng thì tan, còn freeze là đóng băng (ngược nghĩa). Nghĩa các lựa chọn khác: pour = đổ mưa."
+        },
+        {
+          "id": "U15_CORE_quiz17",
+          "sentenceWithGap": "The air felt hot, wet and unpleasantly ___ before the thunderstorm.",
+          "options": [
+            "freezing",
+            "overcast",
+            "misty",
+            "muggy"
+          ],
+          "answer": "muggy",
+          "sentenceVi": "Không khí trở nên nóng, ẩm và oi bức khó chịu trước cơn giông.",
+          "explanation": "'muggy' = oi bức, nóng ẩm khó chịu, thường có trước cơn giông; freezing là lạnh cóng, overcast là trời u ám nhiều mây."
+        },
+        {
+          "id": "U15_CORE_quiz18",
+          "sentenceWithGap": "A sudden, violent ___ turned the streets into rivers within a few minutes.",
+          "options": [
+            "shower",
+            "drought",
+            "downpour",
+            "gale"
+          ],
+          "answer": "downpour",
+          "sentenceVi": "Một trận mưa như trút dữ dội bất ngờ biến các con phố thành sông chỉ trong vài phút.",
+          "explanation": "'downpour' = trận mưa như trút, rất dữ dội và bất ngờ; shower chỉ là mưa rào nhẹ hơn, nên không làm phố thành sông."
+        },
+        {
+          "id": "U15_CORE_quiz19",
+          "sentenceWithGap": "After several hours of ___, the river rose dangerously quickly.",
+          "options": [
+            "torrential rain",
+            "mild weather",
+            "sea breeze",
+            "frost"
+          ],
+          "answer": "torrential rain",
+          "sentenceVi": "Sau nhiều giờ mưa xối xả, mực nước sông dâng lên nhanh đến mức nguy hiểm.",
+          "explanation": "'torrential rain' = mưa xối xả, đủ làm sông dâng nhanh; mild weather và sea breeze không gây lũ, frost không phải mưa. Nghĩa các lựa chọn khác: mild weather = thời tiết ôn hòa."
+        },
+        {
+          "id": "U15_CORE_quiz20",
+          "sentenceWithGap": "After eight months with almost no rainfall, the region was suffering from a serious ___.",
+          "options": [
+            "flood",
+            "drought",
+            "downpour",
+            "heatwave"
+          ],
+          "answer": "drought",
+          "sentenceVi": "Sau tám tháng gần như không có mưa, khu vực này đang phải chịu một đợt hạn hán nghiêm trọng.",
+          "explanation": "'drought' = hạn hán, nhiều tháng gần như không có mưa; flood và downpour là quá nhiều nước, heatwave là nắng nóng."
+        },
+        {
+          "id": "U15_CORE_quiz21",
+          "sentenceWithGap": "Snow stays on the ___ all year round, even when the valley below is warm and green.",
+          "options": [
+            "beach",
+            "river",
+            "mountain",
+            "gulf"
+          ],
+          "answer": "mountain",
+          "sentenceVi": "Tuyết nằm trên núi quanh năm, ngay cả khi thung lũng bên dưới ấm áp và xanh tươi.",
+          "explanation": "'mountain' là vùng đất rất cao; tuyết nằm quanh năm ở nơi cao trong khi thung lũng bên dưới ấm áp. Beach, river và gulf là nơi thấp, gắn với nước."
+        },
+        {
+          "id": "U15_CORE_quiz22",
+          "sentenceWithGap": "From the village, we could see three jagged ___ rising above the clouds.",
+          "options": [
+            "plains",
+            "gulfs",
+            "peaks",
+            "beaches"
+          ],
+          "answer": "peaks",
+          "sentenceVi": "Từ ngôi làng, chúng tôi nhìn thấy ba đỉnh núi lởm chởm nhô lên trên những đám mây.",
+          "explanation": "'peak' là phần đỉnh nhọn của ngọn núi; chỉ đỉnh núi mới nhô lên trên mây, còn đồng bằng, vịnh và bãi biển thì thấp. Nghĩa các lựa chọn: plains = đồng bằng; gulfs = vịnh lớn; peaks = đỉnh núi; beaches = bãi biển."
+        },
+        {
+          "id": "U15_CORE_quiz23",
+          "sentenceWithGap": "After a six-hour climb, the team reached the ___ and could see the whole valley below.",
+          "options": [
+            "summit",
+            "stream",
+            "gulf",
+            "geyser"
+          ],
+          "answer": "summit",
+          "sentenceVi": "Sau sáu giờ leo, cả đội lên đến đỉnh núi và có thể nhìn thấy toàn bộ thung lũng bên dưới.",
+          "explanation": "'summit' là điểm cao nhất của một ngọn núi; sau khi leo núi, cả đội lên đến đó và nhìn được toàn bộ thung lũng bên dưới. Stream, gulf và geyser đều liên quan đến nước."
+        },
+        {
+          "id": "U15_CORE_quiz24",
+          "sentenceWithGap": "Almost no plants survive on the flat, dry ___, where the soil is poor and rain rarely falls.",
+          "options": [
+            "mountain chain",
+            "gulf",
+            "thermal spring",
+            "barren plain"
+          ],
+          "answer": "barren plain",
+          "sentenceVi": "Gần như không loài cây nào sống nổi trên đồng bằng cằn cỗi, bằng phẳng và khô hạn, nơi đất nghèo dinh dưỡng và hiếm khi có mưa.",
+          "explanation": "'barren plain' là vùng đất bằng phẳng, khô, đất nghèo nên gần như không cây nào mọc được. Mountain chain là dãy núi (không bằng phẳng), còn gulf và thermal spring liên quan đến nước."
+        },
+        {
+          "id": "U15_CORE_quiz25",
+          "sentenceWithGap": "The Mediterranean ___ is a large area of salt water between Europe and Africa.",
+          "options": [
+            "sea",
+            "lake",
+            "river",
+            "stream"
+          ],
+          "answer": "sea",
+          "sentenceVi": "Biển Địa Trung Hải là một vùng nước mặn rộng lớn nằm giữa châu Âu và châu Phi.",
+          "explanation": "'sea' là vùng nước mặn lớn, nhỏ hơn đại dương; Địa Trung Hải có tên là 'Mediterranean Sea'. Hồ (lake), sông (river) và suối (stream) đều nằm trong đất liền."
+        },
+        {
+          "id": "U15_CORE_quiz26",
+          "sentenceWithGap": "The ship stayed inside the ___ during the storm because the land around it protected it from the worst waves.",
+          "options": [
+            "plain",
+            "summit",
+            "gulf",
+            "geyser"
+          ],
+          "answer": "gulf",
+          "sentenceVi": "Con tàu ở yên trong vịnh trong cơn bão vì đất liền xung quanh che chắn nó khỏi những con sóng dữ nhất.",
+          "explanation": "'gulf' là vùng biển lớn được đất liền bao quanh một phần nên che chắn cho tàu khỏi sóng lớn; plain, summit và geyser không phải là vùng biển."
+        },
+        {
+          "id": "U15_CORE_quiz27",
+          "sentenceWithGap": "Tourists enjoy relaxing in the warm water of the ___, which is heated naturally below the ground.",
+          "options": [
+            "ice field",
+            "gulf",
+            "beach",
+            "thermal spring"
+          ],
+          "answer": "thermal spring",
+          "sentenceVi": "Du khách thích thư giãn trong làn nước ấm của suối nước nóng, nơi nước được làm nóng tự nhiên dưới lòng đất.",
+          "explanation": "'thermal spring' là suối có nước được làm nóng tự nhiên dưới lòng đất. Ice field là cánh đồng băng (lạnh), còn gulf và beach không có nước nóng từ lòng đất."
+        },
+        {
+          "id": "U15_CORE_quiz28",
+          "sentenceWithGap": "The children built sandcastles on the ___ and then ran into the sea to swim.",
+          "options": [
+            "beach",
+            "ridge",
+            "valley",
+            "glacier"
+          ],
+          "answer": "beach",
+          "sentenceVi": "Bọn trẻ xây lâu đài cát trên bãi biển rồi chạy ra biển để bơi.",
+          "explanation": "'beach' là khu vực cát hoặc sỏi nhỏ cạnh biển; trẻ em xây lâu đài cát ở đó rồi chạy xuống biển bơi. Ridge, valley và glacier là địa hình trên núi hoặc trong đất liền."
+        },
+        {
+          "id": "U15_CORE_quiz29",
+          "sentenceWithGap": "The tents felt ___ after the night rain, and our sleeping bags were slightly wet.",
+          "options": [
+            "overcast",
+            "barren",
+            "shallow",
+            "damp"
+          ],
+          "answer": "damp",
+          "sentenceVi": "Những chiếc lều có cảm giác ẩm ướt sau cơn mưa đêm, và túi ngủ của chúng tôi hơi ướt.",
+          "explanation": "'damp' nghĩa là hơi ướt, thường gây khó chịu; lều và túi ngủ hơi ướt sau cơn mưa đêm. Overcast chỉ bầu trời nhiều mây, barren chỉ đất cằn cỗi, shallow chỉ nước nông."
+        },
+        {
+          "id": "U15_CORE_quiz30",
+          "sentenceWithGap": "Drivers should take care on ___ mornings, because ice can form on the road.",
+          "options": [
+            "muggy",
+            "frosty",
+            "overcast",
+            "tropical"
+          ],
+          "answer": "frosty",
+          "sentenceVi": "Tài xế nên cẩn thận vào những buổi sáng giá lạnh vì băng có thể hình thành trên mặt đường.",
+          "explanation": "'frosty' nghĩa là rất lạnh, có sương giá nên băng có thể hình thành trên đường. Muggy (oi bức) và tropical (nhiệt đới) là thời tiết nóng ẩm, còn overcast chỉ trời nhiều mây. Nghĩa các lựa chọn: tropical = thuộc vùng nhiệt đới."
+        }
+      ],
+      "matchWords": [
+        "valley",
+        "slope",
+        "glacier",
+        "bay",
+        "coast",
+        "shore",
+        "cape",
+        "narrow",
+        "deep",
+        "barren",
+        "freezing",
+        "tropical climate",
+        "humid",
+        "heatwave",
+        "shower",
+        "flood",
+        "overcast",
+        "gale",
+        "lightning",
+        "forecast",
+        "lake",
+        "stream",
+        "river",
+        "ocean",
+        "geyser",
+        "ice field",
+        "mountain chain",
+        "plain",
+        "snowfall",
+        "mild"
+      ],
+      "image": "assets/images/passages/MT4_u15_mapping.jpg"
+    },
+    {
+      "passageId": "U16_COLLOC",
+      "unit": "U16",
+      "title": "From Observation to Conclusion",
+      "text": "At the beginning of the second day, Dr Mara gave the students an introduction to the new wind sensor, beginning with its rotating blades and the battery compartment at the bottom of the case. The team planned to conduct research into how sea air affected the instrument. In an attempt to improve its reliability, Elise made an attempt to seal the electrical contacts before they carried out an experiment on the exposed ridge.\n\nOn average, the sensor produced one unusual reading every twenty minutes. Nia took a photograph of the display and another photo of the salt crystals around the cable. Tomás suggested that moisture might be the cause of the fault, so the group began to look for the cause of each sudden change. They also experimented with different covers and performed an experiment with a small fan inside the laboratory.\n\nHalfway through the test, Elise received a phone call from a technician on the mainland. Dr Mara then made a phone call to the weather station to compare their figures. With the introduction of a new protective layer, the readings became much more stable. In fact, the error rate fell by almost half. As a matter of fact, the team had expected only a minor improvement, so the result surprised them.\n\nBy late afternoon, they had to face the fact that one reading was still inaccurate. The fact of the matter was that the sensor had been placed too close to the warm lighthouse wall. After moving it, they came to the conclusion that temperature, not wind, had affected the final measurement.\n\nIn conclusion, careful observation was as important as advanced equipment. Their research showed that a successful invention depended on testing, comparison and a willingness to question every result.",
+      "audio": "assets/audio/passages/MT4_u16_conclusion.mp3",
+      "gapSentences": [
+        {
+          "id": "U16_COLLOC_gap1",
+          "audio": "assets/audio/passages/U16_COLLOC_gap1.mp3",
+          "sentenceWithGap": "In an attempt to improve its reliability, Elise ___ seal the electrical contacts before they carried out an experiment on the exposed ridge.",
+          "answer": "made an attempt to"
+        },
+        {
+          "id": "U16_COLLOC_gap2",
+          "audio": "assets/audio/passages/U16_COLLOC_gap2.mp3",
+          "sentenceWithGap": "___, the sensor produced one unusual reading every twenty minutes.",
+          "answer": "on average"
+        },
+        {
+          "id": "U16_COLLOC_gap3",
+          "audio": "assets/audio/passages/U16_COLLOC_gap3.mp3",
+          "sentenceWithGap": "Nia ___ the display and another photo of the salt crystals around the cable.",
+          "answer": "took a photograph of"
+        },
+        {
+          "id": "U16_COLLOC_gap4",
+          "audio": "assets/audio/passages/U16_COLLOC_gap4.mp3",
+          "sentenceWithGap": "They also experimented with different covers and ___ with a small fan inside the laboratory.",
+          "answer": "performed an experiment"
+        },
+        {
+          "id": "U16_COLLOC_gap5",
+          "audio": "assets/audio/passages/U16_COLLOC_gap5.mp3",
+          "sentenceWithGap": "___ a new protective layer, the readings became much more stable.",
+          "answer": "with the introduction of"
+        },
+        {
+          "id": "U16_COLLOC_gap6",
+          "audio": "assets/audio/passages/U16_COLLOC_gap6.mp3",
+          "sentenceWithGap": "___, the error rate fell by almost half.",
+          "answer": "in fact"
+        },
+        {
+          "id": "U16_COLLOC_gap7",
+          "audio": "assets/audio/passages/U16_COLLOC_gap7.mp3",
+          "sentenceWithGap": "By late afternoon, they had to ___ that one reading was still inaccurate.",
+          "answer": "face the fact"
+        },
+        {
+          "id": "U16_COLLOC_gap8",
+          "audio": "assets/audio/passages/U16_COLLOC_gap8.mp3",
+          "sentenceWithGap": "After moving it, they ___ that temperature, not wind, had affected the final measurement.",
+          "answer": "came to the conclusion"
+        },
+        {
+          "id": "U16_COLLOC_gap9",
+          "audio": "assets/audio/passages/U16_COLLOC_gap9.mp3",
+          "sentenceWithGap": "___, careful observation was as important as advanced equipment.",
+          "answer": "in conclusion"
+        }
+      ],
+      "image": "assets/images/passages/MT4_u16_conclusion.jpg"
+    },
+    {
+      "passageId": "U16_CORE",
+      "unit": "U16",
+      "title": "Testing the Bluehaven Sensor",
+      "text": "At Bluehaven’s lighthouse laboratory, Elise joined a project linking genetic engineering, molecular biology, ergonomics and stem cell research. The team’s task was to improve a sensor prototype used in difficult coastal conditions. Mathematics and calculus helped Elise calculate the angle and movement of each component, while data and statistics allowed the group to check whether the instrument was accurate.\n\nFirst, they examined the structure, function and main feature of the sensor. They also studied the genetic material used in one experimental coating. Dr Mara asked the students to form a hypothesis about why the device sometimes failed. Nia made an observation: the error appeared only when the air was damp. From this observation, the team made a prediction that moisture was the cause and unstable readings were the effect.\n\nTo test the theory, they decided to conduct an experiment and then carry out a second experiment under controlled conditions. They collected data, analysed the results and learned to interpret statistics carefully. One flaw in the design seemed important, but the evidence showed that it was not the only problem. The students had to distinguish a scientific law from a possible explanation. The law of gravity and the laws of motion explained how the moving parts behaved, but they did not fully explain the electrical fault.\n\nNext, the group experimented with two protective materials. They combined them, observed how they reacted to moisture and used the coating to alter the surface of the sensor. This change enabled the instrument to work more reliably. Elise utilised a computer model to analyse the new data, while Nia interpreted the final pattern.\n\nAfter comparing every observation and prediction, the students reached a conclusion. They concluded that the improved structure reduced the error and that the results provided enough evidence to continue developing the prototype.",
+      "audio": "assets/audio/passages/MT4_u16_testing.mp3",
+      "gapSentences": [
+        {
+          "id": "U16_CORE_gap1",
+          "audio": "assets/audio/passages/U16_CORE_gap1.mp3",
+          "sentenceWithGap": "At Bluehaven’s lighthouse laboratory, Elise joined a project linking genetic engineering, ___, ergonomics and stem cell research.",
+          "answer": "molecular biology"
+        },
+        {
+          "id": "U16_CORE_gap2",
+          "audio": "assets/audio/passages/U16_CORE_gap2.mp3",
+          "sentenceWithGap": "The team’s task was to improve a sensor ___ used in difficult coastal conditions.",
+          "answer": "prototype"
+        },
+        {
+          "id": "U16_CORE_gap3",
+          "audio": "assets/audio/passages/U16_CORE_gap3.mp3",
+          "sentenceWithGap": "Mathematics and calculus helped Elise calculate the angle and movement of each component, while ___ and statistics allowed the group to check whether the instrument was accurate.",
+          "answer": "data"
+        },
+        {
+          "id": "U16_CORE_gap4",
+          "audio": "assets/audio/passages/U16_CORE_gap4.mp3",
+          "sentenceWithGap": "They also studied the ___ used in one experimental coating.",
+          "answer": "genetic material"
+        },
+        {
+          "id": "U16_CORE_gap5",
+          "audio": "assets/audio/passages/U16_CORE_gap5.mp3",
+          "sentenceWithGap": "From this ___, the team made a prediction that moisture was the cause and unstable readings were the effect.",
+          "answer": "observation"
+        },
+        {
+          "id": "U16_CORE_gap6",
+          "audio": "assets/audio/passages/U16_CORE_gap6.mp3",
+          "sentenceWithGap": "They collected data, analysed the results and learned to interpret ___ carefully.",
+          "answer": "statistics"
+        },
+        {
+          "id": "U16_CORE_gap7",
+          "audio": "assets/audio/passages/U16_CORE_gap7.mp3",
+          "sentenceWithGap": "One flaw in the design seemed important, but the ___ showed that it was not the only problem.",
+          "answer": "evidence"
+        },
+        {
+          "id": "U16_CORE_gap8",
+          "audio": "assets/audio/passages/U16_CORE_gap8.mp3",
+          "sentenceWithGap": "The students had to ___ a scientific law from a possible explanation.",
+          "answer": "distinguish"
+        },
+        {
+          "id": "U16_CORE_gap9",
+          "audio": "assets/audio/passages/U16_CORE_gap9.mp3",
+          "sentenceWithGap": "The ___ and the laws of motion explained how the moving parts behaved, but they did not fully explain the electrical fault.",
+          "answer": "law of gravity"
+        },
+        {
+          "id": "U16_CORE_gap10",
+          "audio": "assets/audio/passages/U16_CORE_gap10.mp3",
+          "sentenceWithGap": "After comparing every observation and prediction, the students reached a ___.",
+          "answer": "conclusion"
+        }
+      ],
+      "quizQuestions": [
+        {
+          "id": "U16_CORE_quiz1",
+          "sentenceWithGap": "The branch of science that studies substances and how they react with each other is ___.",
+          "options": [
+            "zoology",
+            "physics",
+            "botany",
+            "chemistry"
+          ],
+          "answer": "chemistry",
+          "sentenceVi": "Ngành khoa học nghiên cứu các chất và cách chúng phản ứng với nhau là hóa học.",
+          "explanation": "'chemistry' = hóa học, ngành nghiên cứu các chất và phản ứng giữa chúng; physics nghiên cứu lực và năng lượng."
+        },
+        {
+          "id": "U16_CORE_quiz2",
+          "sentenceWithGap": "The scientific study of plants is called ___.",
+          "options": [
+            "zoology",
+            "botany",
+            "chemistry",
+            "physics"
+          ],
+          "answer": "botany",
+          "sentenceVi": "Ngành khoa học nghiên cứu thực vật được gọi là thực vật học.",
+          "explanation": "'botany' = thực vật học (nghiên cứu thực vật); zoology nghiên cứu động vật."
+        },
+        {
+          "id": "U16_CORE_quiz3",
+          "sentenceWithGap": "When the laboratory equipment stopped working, the researchers called a ___ to repair it.",
+          "options": [
+            "researcher",
+            "mathematician",
+            "technician",
+            "astronomer"
+          ],
+          "answer": "technician",
+          "sentenceVi": "Khi thiết bị phòng thí nghiệm ngừng hoạt động, các nhà nghiên cứu gọi một kỹ thuật viên tới sửa.",
+          "explanation": "'technician' = kỹ thuật viên, người sửa chữa và bảo trì thiết bị; astronomer nghiên cứu các vì sao, mathematician làm toán."
+        },
+        {
+          "id": "U16_CORE_quiz4",
+          "sentenceWithGap": "Scientists extracted ___, the substance that contains a living thing's complete genetic code, from a small sample of blood.",
+          "options": [
+            "DNA",
+            "genes",
+            "cells",
+            "molecules"
+          ],
+          "answer": "DNA",
+          "sentenceVi": "Các nhà khoa học đã tách chiết ADN, chất chứa toàn bộ mã di truyền của một sinh vật, từ một mẫu máu nhỏ.",
+          "explanation": "'DNA' = ADN, chất chứa toàn bộ mã di truyền; genes chỉ là từng đoạn của DNA, cells là tế bào, molecules là phân tử nói chung."
+        },
+        {
+          "id": "U16_CORE_quiz5",
+          "sentenceWithGap": "Children receive ___ from both their mother and father, which influence inherited characteristics.",
+          "options": [
+            "genes",
+            "cells",
+            "molecules",
+            "statistics"
+          ],
+          "answer": "genes",
+          "sentenceVi": "Trẻ em nhận các gen từ cả cha lẫn mẹ, và những gen này ảnh hưởng đến các đặc điểm di truyền.",
+          "explanation": "'genes' = gen, đơn vị di truyền nhận từ cả cha lẫn mẹ và quyết định đặc điểm di truyền; statistics không liên quan đến di truyền."
+        },
+        {
+          "id": "U16_CORE_quiz6",
+          "sentenceWithGap": "The human body contains trillions of ___, each performing particular jobs.",
+          "options": [
+            "genes",
+            "molecules",
+            "cells",
+            "theories"
+          ],
+          "answer": "cells",
+          "sentenceVi": "Cơ thể con người chứa hàng nghìn tỷ tế bào, mỗi tế bào thực hiện những chức năng riêng.",
+          "explanation": "'cells' = tế bào; cơ thể người có hàng nghìn tỷ tế bào, mỗi loại làm một việc riêng, còn genes là đơn vị di truyền nằm trong tế bào. Nghĩa các lựa chọn khác: theories = lý thuyết."
+        },
+        {
+          "id": "U16_CORE_quiz7",
+          "sentenceWithGap": "The force that pulls objects towards the Earth is called ___.",
+          "options": [
+            "motion",
+            "gravity",
+            "pressure",
+            "structure"
+          ],
+          "answer": "gravity",
+          "sentenceVi": "Lực kéo các vật về phía Trái Đất được gọi là trọng lực.",
+          "explanation": "'gravity' = trọng lực, lực kéo vật về phía Trái Đất; motion là chuyển động, pressure là áp suất. Nghĩa các lựa chọn khác: motion = chuyển động; pressure = áp suất."
+        },
+        {
+          "id": "U16_CORE_quiz8",
+          "sentenceWithGap": "Astronomers use a ___ to observe distant stars and planets.",
+          "options": [
+            "microscope",
+            "prototype",
+            "scanner",
+            "telescope"
+          ],
+          "answer": "telescope",
+          "sentenceVi": "Các nhà thiên văn sử dụng kính thiên văn để quan sát những ngôi sao và hành tinh ở xa.",
+          "explanation": "'telescope' = kính thiên văn dùng để quan sát sao và hành tinh ở xa; microscope dùng cho vật rất nhỏ. Nghĩa các lựa chọn khác: microscope = kính hiển vi; scanner = máy quét."
+        },
+        {
+          "id": "U16_CORE_quiz9",
+          "sentenceWithGap": "Engineers built a ___ of the device so they could test the design before producing the final version.",
+          "options": [
+            "theory",
+            "invention",
+            "prototype",
+            "structure"
+          ],
+          "answer": "prototype",
+          "sentenceVi": "Các kỹ sư xây dựng một nguyên mẫu của thiết bị để có thể thử nghiệm thiết kế trước khi sản xuất phiên bản cuối.",
+          "explanation": "'prototype' = nguyên mẫu, bản làm thử trước khi sản xuất bản cuối; invention là phát minh nói chung."
+        },
+        {
+          "id": "U16_CORE_quiz10",
+          "sentenceWithGap": "Elise used the measurements to ___ the exact angle of the blades.",
+          "options": [
+            "calculate",
+            "observe",
+            "interpret",
+            "distinguish"
+          ],
+          "answer": "calculate",
+          "sentenceVi": "Elise sử dụng các phép đo để tính toán chính xác góc của các cánh quạt.",
+          "explanation": "'calculate' = tính toán; chỉ khi tính từ các số đo mới tìm ra được góc chính xác, còn observe, interpret, distinguish không cho ra con số. Nghĩa các lựa chọn khác: observe = quan sát."
+        },
+        {
+          "id": "U16_CORE_quiz11",
+          "sentenceWithGap": "The researchers collected ___ from more than 500 weather sensors.",
+          "options": [
+            "theories",
+            "conclusions",
+            "predictions",
+            "data"
+          ],
+          "answer": "data",
+          "sentenceVi": "Các nhà nghiên cứu thu thập dữ liệu từ hơn 500 cảm biến thời tiết.",
+          "explanation": "'data' = dữ liệu thu thập từ cảm biến; theories, conclusions, predictions được rút ra sau, không phải thu từ cảm biến. Nghĩa các lựa chọn khác: theories = lý thuyết; conclusions = kết luận; predictions = dự đoán."
+        },
+        {
+          "id": "U16_CORE_quiz12",
+          "sentenceWithGap": "Before testing the device, scientists first ___ about what might be causing the problem.",
+          "options": [
+            "reach a conclusion",
+            "form a hypothesis",
+            "conduct an experiment",
+            "analyse results"
+          ],
+          "answer": "form a hypothesis",
+          "sentenceVi": "Trước khi thử nghiệm thiết bị, các nhà khoa học trước tiên đưa ra một giả thuyết về nguyên nhân có thể gây ra vấn đề.",
+          "explanation": "'form a hypothesis' = đưa ra giả thuyết về nguyên nhân trước khi thử nghiệm; kết luận và phân tích kết quả chỉ đến sau thí nghiệm. Nghĩa các lựa chọn khác: analyse results = phân tích kết quả."
+        },
+        {
+          "id": "U16_CORE_quiz13",
+          "sentenceWithGap": "Using last week's weather records, Nia made a ___ about what the temperature would be next week.",
+          "options": [
+            "conclusion",
+            "prediction",
+            "flaw",
+            "structure"
+          ],
+          "answer": "prediction",
+          "sentenceVi": "Dựa trên số liệu thời tiết tuần trước, Nia đưa ra một dự đoán về nhiệt độ của tuần tới.",
+          "explanation": "'prediction' = dự đoán điều sẽ xảy ra ('next week'); conclusion là kết luận rút ra sau khi phân tích, flaw là khiếm khuyết, structure là cấu trúc."
+        },
+        {
+          "id": "U16_CORE_quiz14",
+          "sentenceWithGap": "One unexpected ___ of the new material was that the sensor became much heavier.",
+          "options": [
+            "theory",
+            "evidence",
+            "hypothesis",
+            "effect"
+          ],
+          "answer": "effect",
+          "sentenceVi": "Một tác động không mong đợi của vật liệu mới là cảm biến trở nên nặng hơn nhiều.",
+          "explanation": "'effect' = tác động/kết quả của vật liệu mới; theory, evidence, hypothesis không dùng để chỉ hệ quả của một vật liệu. Nghĩa các lựa chọn khác: hypothesis = giả thuyết."
+        },
+        {
+          "id": "U16_CORE_quiz15",
+          "sentenceWithGap": "To test whether the new coating was waterproof, the team decided to ___.",
+          "options": [
+            "conduct an experiment",
+            "make a prediction",
+            "reach a conclusion",
+            "interpret the results"
+          ],
+          "answer": "conduct an experiment",
+          "sentenceVi": "Để kiểm tra xem lớp phủ mới có chống nước hay không, nhóm quyết định tiến hành một thí nghiệm.",
+          "explanation": "'conduct an experiment' = tiến hành thí nghiệm để kiểm tra ('to test whether'); make a prediction chỉ là đoán trước, còn reach a conclusion và interpret the results chỉ làm được sau khi đã có kết quả. Nghĩa các lựa chọn khác: make a prediction = đưa ra dự đoán; interpret the results = diễn giải kết quả."
+        },
+        {
+          "id": "U16_CORE_quiz16",
+          "sentenceWithGap": "After collecting the results, researchers need to ___ them carefully to identify patterns.",
+          "options": [
+            "rotate",
+            "predict",
+            "analyse",
+            "invent"
+          ],
+          "answer": "analyse",
+          "sentenceVi": "Sau khi thu thập kết quả, các nhà nghiên cứu cần phân tích chúng cẩn thận để xác định các quy luật.",
+          "explanation": "'analyse' = phân tích kỹ kết quả để tìm quy luật; predict là đoán trước, rotate và invent không hợp nghĩa. Nghĩa các lựa chọn khác: predict = dự đoán; invent = phát minh."
+        },
+        {
+          "id": "U16_CORE_quiz17",
+          "sentenceWithGap": "Students must learn how to ___ graphs and explain what the numbers mean, rather than simply copy them.",
+          "options": [
+            "calculate",
+            "interpret",
+            "rotate",
+            "invent"
+          ],
+          "answer": "interpret",
+          "sentenceVi": "Học sinh cần học cách diễn giải biểu đồ và giải thích ý nghĩa của các con số thay vì chỉ sao chép chúng.",
+          "explanation": "'interpret' = diễn giải, giải thích ý nghĩa của biểu đồ và số liệu; calculate là tính ra con số, không phải giải thích ý nghĩa. Nghĩa các lựa chọn khác: invent = phát minh."
+        },
+        {
+          "id": "U16_CORE_quiz18",
+          "sentenceWithGap": "Engineers discovered a serious ___ in the design that allowed rainwater to enter the device.",
+          "options": [
+            "function",
+            "feature",
+            "conclusion",
+            "flaw"
+          ],
+          "answer": "flaw",
+          "sentenceVi": "Các kỹ sư phát hiện một khiếm khuyết nghiêm trọng trong thiết kế khiến nước mưa có thể lọt vào thiết bị.",
+          "explanation": "'flaw' = khiếm khuyết trong thiết kế khiến nước lọt vào; feature và function là đặc điểm và chức năng, không phải lỗi. Nghĩa các lựa chọn khác: feature = đặc điểm."
+        },
+        {
+          "id": "U16_CORE_quiz19",
+          "sentenceWithGap": "Scientists need strong ___ before they can confidently support a claim.",
+          "options": [
+            "prediction",
+            "structure",
+            "evidence",
+            "function"
+          ],
+          "answer": "evidence",
+          "sentenceVi": "Các nhà khoa học cần bằng chứng vững chắc trước khi có thể tự tin ủng hộ một nhận định.",
+          "explanation": "'evidence' = bằng chứng, cần có để ủng hộ một nhận định; prediction, structure, function không dùng để chứng minh."
+        },
+        {
+          "id": "U16_CORE_quiz20",
+          "sentenceWithGap": "After comparing all the results, the researchers were finally able to ___.",
+          "options": [
+            "reach a conclusion",
+            "conduct an experiment",
+            "build a prototype",
+            "take a photograph"
+          ],
+          "answer": "reach a conclusion",
+          "sentenceVi": "Sau khi so sánh tất cả kết quả, các nhà nghiên cứu cuối cùng đã có thể đi đến kết luận.",
+          "explanation": "'reach a conclusion' = đi đến kết luận, bước cuối sau khi đã so sánh kết quả; conduct an experiment, build a prototype, take a photograph không phải việc chốt kết quả. Nghĩa các lựa chọn khác: build a prototype = chế tạo nguyên mẫu; take a photograph = chụp ảnh."
+        }
+      ],
+      "matchWords": [
+        "physics",
+        "zoology",
+        "researcher",
+        "molecules",
+        "law of gravity",
+        "invention",
+        "rotate",
+        "statistics",
+        "structure",
+        "function",
+        "main feature",
+        "observation",
+        "theory",
+        "distinguish",
+        "scientific law",
+        "conclusion",
+        "genetic engineering",
+        "molecular biology",
+        "ergonomics",
+        "genetic material"
+      ],
+      "image": "assets/images/passages/MT4_u16_testing.jpg"
+    },
+    {
+      "passageId": "U16_PV",
+      "unit": "U16",
+      "title": "Repairing the Bluehaven Sensor",
+      "text": "At the lighthouse laboratory, Elise plugged in the new sensor, but the system immediately broke down. Dr Mara asked the team to carry out a careful check before they turned it off. Nia looked at the wiring while Tomás looked for a loose connection. They knew about a similar fault in an older instrument and knew of a technician who might help, so Dr Mara put them through to him by phone.\n\nThe technician explained the circuit to Elise and suggested that salt in the air had caused one contact to corrode. Damage to one cable had cut off the power supply, while the battery was giving off too much heat. The team discussed the problem with Dr Mara and narrowed down the possible causes. Elise managed to replace the cable and work out the correct voltage. When the screen came on again, everyone realised that the plan had come off.\n\nThe group then carried out an experiment on wind speed. Elise came up with a way to protect the sensor, and Nia planned to compare its readings with data from the weather station. They intended to test the prototype overnight and considered Tomás for the role of field observer because he knew the ridge well. It was possible to collect accurate results only if the instrument remained stable.\n\nBy morning, the prototype had come on considerably. The rotating blades turned wind into electrical signals, and the software enabled the team to calculate the result of each observation. Nia looked forward to presenting the evidence, while Elise wondered about one unusual reading. They found out that a seabird had landed on the sensor. After removing that result, they reached a clearer conclusion and began to plan a stronger second model.",
+      "audio": "assets/audio/passages/MT4_u16_repairing.mp3",
+      "gapSentences": [
+        {
+          "id": "U16_PV_gap1",
+          "audio": "assets/audio/passages/U16_PV_gap1.mp3",
+          "sentenceWithGap": "At the lighthouse laboratory, Elise plugged in the new sensor, but the system immediately ___.",
+          "answer": "broke down"
+        },
+        {
+          "id": "U16_PV_gap2",
+          "audio": "assets/audio/passages/U16_PV_gap2.mp3",
+          "sentenceWithGap": "Dr Mara asked the team to carry out a careful check before they ___.",
+          "answer": "turned it off"
+        },
+        {
+          "id": "U16_PV_gap3",
+          "audio": "assets/audio/passages/U16_PV_gap3.mp3",
+          "sentenceWithGap": "Damage to one cable had ___ the power supply, while the battery was giving off too much heat.",
+          "answer": "cut off"
+        },
+        {
+          "id": "U16_PV_gap4",
+          "audio": "assets/audio/passages/U16_PV_gap4.mp3",
+          "sentenceWithGap": "The team discussed the problem with Dr Mara and ___ the possible causes.",
+          "answer": "narrowed down"
+        },
+        {
+          "id": "U16_PV_gap5",
+          "audio": "assets/audio/passages/U16_PV_gap5.mp3",
+          "sentenceWithGap": "When the screen came on again, everyone realised that the plan had ___.",
+          "answer": "come off"
+        },
+        {
+          "id": "U16_PV_gap6",
+          "audio": "assets/audio/passages/U16_PV_gap6.mp3",
+          "sentenceWithGap": "The group then ___ an experiment on wind speed.",
+          "answer": "carried out"
+        },
+        {
+          "id": "U16_PV_gap7",
+          "audio": "assets/audio/passages/U16_PV_gap7.mp3",
+          "sentenceWithGap": "Elise ___ a way to protect the sensor, and Nia planned to compare its readings with data from the weather station.",
+          "answer": "came up with"
+        },
+        {
+          "id": "U16_PV_gap8",
+          "audio": "assets/audio/passages/U16_PV_gap8.mp3",
+          "sentenceWithGap": "By morning, the prototype had ___ considerably.",
+          "answer": "come on"
+        },
+        {
+          "id": "U16_PV_gap9",
+          "audio": "assets/audio/passages/U16_PV_gap9.mp3",
+          "sentenceWithGap": "Nia ___ presenting the evidence, while Elise wondered about one unusual reading.",
+          "answer": "looked forward to"
+        },
+        {
+          "id": "U16_PV_gap10",
+          "audio": "assets/audio/passages/U16_PV_gap10.mp3",
+          "sentenceWithGap": "They ___ that a seabird had landed on the sensor.",
+          "answer": "found out"
+        }
+      ],
+      "image": "assets/images/passages/MT4_u16_repairing.jpg"
+    },
+    {
+      "passageId": "U17_CORE",
+      "unit": "U17",
+      "title": "Bluehaven Goes Online",
+      "text": "After the team completed the weather sensor, Elise connected it to the station’s network and tested the broadband connection. The laboratory used wi-fi, while a wireless network carried readings from Calder Ridge. A cable linked the outdoor unit to a server, and the internet service provider gave the station access to the Internet. New readings were stored online in the cloud, allowing Dr Mara to view them from another building.\n\nElise installed monitoring software and opened an application. The operating system recognised the sensor after Tomás plugged it in. Nia used a word-processing program to prepare an introduction, while Tomás keyed in data from his field notebook. Elise arranged the figures in a spreadsheet, added them to a database and created computer graphics. Before they ran the software, they backed up the files because a virus had recently caused another computer to crash. When one graph disappeared, Elise used undo, upgraded the application and downloaded the latest version.\n\nThe group opened a browser and used a search engine to browse the World Wide Web. They navigated several websites, returned to the home page, followed a useful link and bookmarked an FAQ page. Nia also surfed the net for ideas. One web page received hundreds of hits after she shared it with island residents.\n\nVisitors could subscribe, create an account, select a username and password, and log in or log on to view the dashboard. They were reminded to log out or log off after using a public computer. Nia sent an email, attached a file containing the weekly report and added volunteers to a contact list.\n\nThe project included an interactive map, a blog and a wiki where approved users could edit content. On its social networking site, the team posted updates, uploaded photographs, updated their status and asked residents to follow the project or subscribe to a channel. Users could comment on reports, rate features, tag friends, remove a tag, view a profile and send a direct message. Each like, comment or notification appeared on the timeline.\n\nBefore launch, Dr Mara checked the privacy settings. Personal information had to remain private unless users deliberately made it public. She changed the default settings and deleted an old account that was no longer secure.",
+      "audio": "assets/audio/passages/MT4_u17_online.mp3",
+      "gapSentences": [
+        {
+          "id": "U17_CORE_gap1",
+          "audio": "assets/audio/passages/U17_CORE_gap1.mp3",
+          "sentenceWithGap": "After the team completed the weather sensor, Elise connected it to the station’s network and tested the ___.",
+          "answer": "broadband connection"
+        },
+        {
+          "id": "U17_CORE_gap2",
+          "audio": "assets/audio/passages/U17_CORE_gap2.mp3",
+          "sentenceWithGap": "The laboratory used wi-fi, while a wireless ___ carried readings from Calder Ridge.",
+          "answer": "network"
+        },
+        {
+          "id": "U17_CORE_gap3",
+          "audio": "assets/audio/passages/U17_CORE_gap3.mp3",
+          "sentenceWithGap": "A cable linked the outdoor unit to a ___, and the internet service provider gave the station access to the Internet.",
+          "answer": "server"
+        },
+        {
+          "id": "U17_CORE_gap4",
+          "audio": "assets/audio/passages/U17_CORE_gap4.mp3",
+          "sentenceWithGap": "New readings were stored ___ in the cloud, allowing Dr Mara to view them from another building.",
+          "answer": "online"
+        },
+        {
+          "id": "U17_CORE_gap5",
+          "audio": "assets/audio/passages/U17_CORE_gap5.mp3",
+          "sentenceWithGap": "Before they ___, they backed up the files because a virus had recently caused another computer to crash.",
+          "answer": "ran the software"
+        },
+        {
+          "id": "U17_CORE_gap6",
+          "audio": "assets/audio/passages/U17_CORE_gap6.mp3",
+          "sentenceWithGap": "When one graph disappeared, Elise used undo, upgraded the application and ___ the latest version.",
+          "answer": "downloaded"
+        },
+        {
+          "id": "U17_CORE_gap7",
+          "audio": "assets/audio/passages/U17_CORE_gap7.mp3",
+          "sentenceWithGap": "The group opened a ___ and used a search engine to browse the World Wide Web.",
+          "answer": "browser"
+        },
+        {
+          "id": "U17_CORE_gap8",
+          "audio": "assets/audio/passages/U17_CORE_gap8.mp3",
+          "sentenceWithGap": "They navigated several websites, returned to the home page, followed a useful link and ___ an FAQ page.",
+          "answer": "bookmarked"
+        },
+        {
+          "id": "U17_CORE_gap9",
+          "audio": "assets/audio/passages/U17_CORE_gap9.mp3",
+          "sentenceWithGap": "They were reminded to ___ or log off after using a public computer.",
+          "answer": "log out"
+        },
+        {
+          "id": "U17_CORE_gap10",
+          "audio": "assets/audio/passages/U17_CORE_gap10.mp3",
+          "sentenceWithGap": "She changed the default settings and deleted an old ___ that was no longer secure.",
+          "answer": "account"
+        }
+      ],
+      "quizQuestions": [
+        {
+          "id": "U17_CORE_quiz1",
+          "sentenceWithGap": "The website stores most of its information on a secure ___ that can be accessed by many computers.",
+          "options": [
+            "server",
+            "cursor",
+            "attachment",
+            "screen"
+          ],
+          "answer": "server",
+          "sentenceVi": "Trang web lưu phần lớn thông tin trên một máy chủ an toàn mà nhiều máy tính có thể truy cập.",
+          "explanation": "'server' = máy chủ lưu thông tin để nhiều máy tính cùng truy cập; cursor và screen không lưu dữ liệu."
+        },
+        {
+          "id": "U17_CORE_quiz2",
+          "sentenceWithGap": "The school upgraded its ___ so students could download large files much faster.",
+          "options": [
+            "cursor",
+            "database",
+            "broadband connection",
+            "attachment"
+          ],
+          "answer": "broadband connection",
+          "sentenceVi": "Trường đã nâng cấp kết nối băng thông rộng để học sinh có thể tải các tệp lớn nhanh hơn nhiều.",
+          "explanation": "'broadband connection' = kết nối băng thông rộng giúp tải tệp lớn nhanh hơn; database và attachment không ảnh hưởng tốc độ tải."
+        },
+        {
+          "id": "U17_CORE_quiz3",
+          "sentenceWithGap": "All the classroom laptops are connected without cables through a ___.",
+          "options": [
+            "spreadsheet",
+            "server",
+            "database",
+            "wireless network"
+          ],
+          "answer": "wireless network",
+          "sentenceVi": "Tất cả laptop trong lớp đều được kết nối không cần dây thông qua một mạng không dây.",
+          "explanation": "'wireless network' = mạng không dây, kết nối máy tính mà không cần cáp; server, database và spreadsheet không dùng để kết nối thiết bị."
+        },
+        {
+          "id": "U17_CORE_quiz4",
+          "sentenceWithGap": "Move the ___ over the icon and click once.",
+          "options": [
+            "screen",
+            "cursor",
+            "server",
+            "attachment"
+          ],
+          "answer": "cursor",
+          "sentenceVi": "Di chuyển con trỏ lên biểu tượng và nhấp một lần.",
+          "explanation": "'cursor' = con trỏ, di chuyển lên biểu tượng rồi nhấp; screen là màn hình, không thể 'di chuyển lên icon'."
+        },
+        {
+          "id": "U17_CORE_quiz5",
+          "sentenceWithGap": "Nia sent the report by email as an ___.",
+          "options": [
+            "account",
+            "application",
+            "browser",
+            "attachment"
+          ],
+          "answer": "attachment",
+          "sentenceVi": "Nia gửi báo cáo qua email dưới dạng tệp đính kèm.",
+          "explanation": "'attachment' = tệp đính kèm theo email; account, application, browser không phải thứ gửi kèm email."
+        },
+        {
+          "id": "U17_CORE_quiz6",
+          "sentenceWithGap": "I save photographs in the ___ so I can access them from different devices.",
+          "options": [
+            "screen",
+            "cloud",
+            "cursor",
+            "link"
+          ],
+          "answer": "cloud",
+          "sentenceVi": "Tôi lưu ảnh trên đám mây để có thể truy cập chúng từ nhiều thiết bị khác nhau.",
+          "explanation": "'cloud' = lưu trữ đám mây, truy cập được từ nhiều thiết bị; screen, cursor, link không dùng để lưu ảnh."
+        },
+        {
+          "id": "U17_CORE_quiz7",
+          "sentenceWithGap": "A computer that is not connected to any network cannot ___.",
+          "options": [
+            "access the Internet",
+            "run software",
+            "key in data",
+            "back up files"
+          ],
+          "answer": "access the Internet",
+          "sentenceVi": "Một máy tính không được kết nối với bất kỳ mạng nào thì không thể truy cập Internet.",
+          "explanation": "'access the Internet' = truy cập Internet, việc duy nhất cần có kết nối mạng; run software, key in data, back up files vẫn làm được trên máy không có mạng."
+        },
+        {
+          "id": "U17_CORE_quiz8",
+          "sentenceWithGap": "You need special ___ to edit videos on this computer.",
+          "options": [
+            "software",
+            "hardware connection",
+            "cursor",
+            "server"
+          ],
+          "answer": "software",
+          "sentenceVi": "Bạn cần phần mềm chuyên dụng để chỉnh sửa video trên máy tính này.",
+          "explanation": "'software' = phần mềm, cần có để chỉnh sửa video; cursor và server không phải thứ bạn cần cài để chỉnh video. Nghĩa các lựa chọn khác: hardware connection = kết nối phần cứng."
+        },
+        {
+          "id": "U17_CORE_quiz9",
+          "sentenceWithGap": "Windows, macOS and Linux are examples of an ___.",
+          "options": [
+            "application",
+            "operating system",
+            "search engine",
+            "database"
+          ],
+          "answer": "operating system",
+          "sentenceVi": "Windows, macOS và Linux là những ví dụ về hệ điều hành.",
+          "explanation": "'operating system' = hệ điều hành; Windows, macOS và Linux là các ví dụ điển hình."
+        },
+        {
+          "id": "U17_CORE_quiz10",
+          "sentenceWithGap": "The teacher typed the students' scores into a ___ and used a formula to calculate each average.",
+          "options": [
+            "browser",
+            "database",
+            "server",
+            "spreadsheet"
+          ],
+          "answer": "spreadsheet",
+          "sentenceVi": "Giáo viên nhập điểm của học sinh vào một bảng tính và dùng công thức để tính điểm trung bình.",
+          "explanation": "'spreadsheet' = bảng tính, có hàng, cột và công thức để tính toán (ví dụ điểm trung bình); database dùng để lưu dữ liệu, còn browser và server không có công thức."
+        },
+        {
+          "id": "U17_CORE_quiz11",
+          "sentenceWithGap": "The hospital keeps thousands of patient records in a secure ___.",
+          "options": [
+            "database",
+            "cursor",
+            "browser",
+            "screen"
+          ],
+          "answer": "database",
+          "sentenceVi": "Bệnh viện lưu hàng nghìn hồ sơ bệnh nhân trong một cơ sở dữ liệu an toàn.",
+          "explanation": "'database' = cơ sở dữ liệu, nơi lưu trữ và quản lý số lượng lớn hồ sơ; cursor, browser, screen không lưu hồ sơ."
+        },
+        {
+          "id": "U17_CORE_quiz12",
+          "sentenceWithGap": "The computer stopped working properly after it became infected with a ___.",
+          "options": [
+            "link",
+            "password",
+            "virus",
+            "cursor"
+          ],
+          "answer": "virus",
+          "sentenceVi": "Máy tính ngừng hoạt động bình thường sau khi bị nhiễm virus.",
+          "explanation": "'virus' = virus máy tính, làm máy hoạt động sai khi bị nhiễm; link, password, cursor không 'lây nhiễm'."
+        },
+        {
+          "id": "U17_CORE_quiz13",
+          "sentenceWithGap": "Before using the new program, you first need to ___ it on your computer.",
+          "options": [
+            "browse",
+            "install",
+            "bookmark",
+            "log out"
+          ],
+          "answer": "install",
+          "sentenceVi": "Trước khi sử dụng chương trình mới, bạn cần cài đặt nó trên máy tính.",
+          "explanation": "'install' = cài đặt chương trình lên máy trước khi dùng; browse là duyệt web, bookmark là đánh dấu trang, log out là đăng xuất."
+        },
+        {
+          "id": "U17_CORE_quiz14",
+          "sentenceWithGap": "You should regularly ___ so that you still have copies of important documents if your computer fails.",
+          "options": [
+            "delete",
+            "install",
+            "browse",
+            "back up files"
+          ],
+          "answer": "back up files",
+          "sentenceVi": "Bạn nên thường xuyên sao lưu tệp để vẫn còn bản sao của các tài liệu quan trọng nếu máy tính bị hỏng.",
+          "explanation": "'back up files' = sao lưu tệp để có bản dự phòng nếu máy hỏng; delete làm mất tệp, còn install và browse không tạo bản sao."
+        },
+        {
+          "id": "U17_CORE_quiz15",
+          "sentenceWithGap": "My computer suddenly ___ while I was editing the document, and the program stopped responding.",
+          "options": [
+            "downloaded",
+            "upgraded",
+            "crashed",
+            "browsed"
+          ],
+          "answer": "crashed",
+          "sentenceVi": "Máy tính của tôi đột nhiên bị treo khi tôi đang chỉnh sửa tài liệu và chương trình ngừng phản hồi.",
+          "explanation": "'crashed' = bị treo hoặc lỗi hệ thống, khiến chương trình ngừng phản hồi; downloaded, upgraded, browsed không gây ra việc đột ngột ngừng hoạt động. Nghĩa các lựa chọn khác: browsed = duyệt."
+        },
+        {
+          "id": "U17_CORE_quiz16",
+          "sentenceWithGap": "The old version no longer supports several features, so we need to ___ the software to the latest version.",
+          "options": [
+            "upgrade",
+            "delete",
+            "browse",
+            "bookmark"
+          ],
+          "answer": "upgrade",
+          "sentenceVi": "Phiên bản cũ không còn hỗ trợ một số tính năng nên chúng tôi cần nâng cấp phần mềm lên phiên bản mới nhất.",
+          "explanation": "'upgrade' = nâng cấp lên phiên bản mới ('to the latest version'); delete là xóa, browse và bookmark không dùng với phần mềm theo cách này."
+        },
+        {
+          "id": "U17_CORE_quiz17",
+          "sentenceWithGap": "Click here to ___ the PDF and save it onto your computer.",
+          "options": [
+            "upload",
+            "install",
+            "bookmark",
+            "download"
+          ],
+          "answer": "download",
+          "sentenceVi": "Nhấp vào đây để tải tệp PDF xuống và lưu nó vào máy tính của bạn.",
+          "explanation": "'download' = tải xuống và lưu vào máy; upload là tải lên, install là cài đặt, bookmark là đánh dấu trang."
+        },
+        {
+          "id": "U17_CORE_quiz18",
+          "sentenceWithGap": "Chrome, Safari and Firefox are all web ___.",
+          "options": [
+            "search engines",
+            "browsers",
+            "databases",
+            "servers"
+          ],
+          "answer": "browsers",
+          "sentenceVi": "Chrome, Safari và Firefox đều là các trình duyệt web.",
+          "explanation": "'browsers' = trình duyệt web; Chrome, Safari, Firefox là các ví dụ điển hình, còn search engine như Google dùng để tìm kiếm. Nghĩa các lựa chọn khác: search engines = công cụ tìm kiếm; databases = cơ sở dữ liệu; servers = máy chủ."
+        },
+        {
+          "id": "U17_CORE_quiz19",
+          "sentenceWithGap": "Students typed the topic into a ___ and it listed thousands of websites about climate change.",
+          "options": [
+            "browser",
+            "server",
+            "search engine",
+            "spreadsheet"
+          ],
+          "answer": "search engine",
+          "sentenceVi": "Học sinh gõ chủ đề vào một công cụ tìm kiếm và nó liệt kê hàng nghìn trang web về biến đổi khí hậu.",
+          "explanation": "'search engine' = công cụ tìm kiếm, trả về danh sách hàng nghìn trang web theo từ khóa; browser chỉ dùng để mở trang web."
+        },
+        {
+          "id": "U17_CORE_quiz20",
+          "sentenceWithGap": "Before leaving a shared computer, always ___ of your account.",
+          "options": [
+            "log out",
+            "log in",
+            "plug in",
+            "browse"
+          ],
+          "answer": "log out",
+          "sentenceVi": "Trước khi rời một máy tính dùng chung, hãy luôn đăng xuất khỏi tài khoản của bạn.",
+          "explanation": "'log out' = đăng xuất khỏi tài khoản khi rời máy dùng chung; log in là đăng nhập (ngược nghĩa), plug in là cắm thiết bị."
+        }
+      ],
+      "matchWords": [
+        "wi-fi",
+        "display",
+        "screen",
+        "network",
+        "online",
+        "application",
+        "run software",
+        "key in data",
+        "store information",
+        "delete",
+        "undo",
+        "plug in",
+        "browse",
+        "navigate",
+        "bookmark",
+        "link",
+        "username",
+        "password",
+        "account",
+        "log in"
+      ],
+      "image": "assets/images/passages/MT4_u17_online.jpg"
     }
   ]
 }
