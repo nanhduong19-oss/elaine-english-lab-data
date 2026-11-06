@@ -169,7 +169,7 @@
           "id": 14,
           "name": "Unit 14: The Natural World, Animals & Plants",
           "skills": {
-            "vocab": false,
+            "vocab": true,
             "wordFormation": false,
             "ueo": false,
             "reading": false,
@@ -180,7 +180,7 @@
           "id": 15,
           "name": "Unit 15: Geography, Climate & Weather",
           "skills": {
-            "vocab": false,
+            "vocab": true,
             "wordFormation": false,
             "ueo": false,
             "reading": false,
@@ -191,7 +191,7 @@
           "id": 16,
           "name": "Unit 16: Science, Mathematics & Inventions",
           "skills": {
-            "vocab": false,
+            "vocab": true,
             "wordFormation": false,
             "ueo": false,
             "reading": false,
@@ -202,7 +202,7 @@
           "id": 17,
           "name": "Unit 17: Devices, the Internet & Digital Life",
           "skills": {
-            "vocab": false,
+            "vocab": true,
             "wordFormation": false,
             "ueo": false,
             "reading": false,
