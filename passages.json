@@ -71,246 +71,603 @@
       "quizQuestions": [
         {
           "id": "U4_CORE_quiz1",
-          "sentenceWithGap": "During the final, the ______ stopped play after a dangerous tackle.",
+          "sentenceWithGap": "During the final, the ___ stopped play after a dangerous tackle.",
           "options": [
-            "referee",
-            "spectator",
             "rival",
+            "spectator",
+            "referee",
             "fan"
           ],
           "answer": "referee",
-          "sentenceVi": "Trong trận chung kết, trọng tài đã dừng trận đấu sau một pha vào bóng nguy hiểm."
+          "sentenceVi": "Trong trận chung kết, trọng tài đã dừng trận đấu sau một pha vào bóng nguy hiểm.",
+          "explanation": "'referee' là trọng tài, người điều khiển trận đấu và dừng trận khi có pha vào bóng nguy hiểm. Khán giả, đối thủ và người hâm mộ không có quyền dừng trận đấu."
         },
         {
           "id": "U4_CORE_quiz2",
-          "sentenceWithGap": "The badminton lesson will take place on the indoor ______ beside the gym.",
+          "sentenceWithGap": "The badminton lesson will take place on the indoor ___ beside the gym.",
           "options": [
             "track",
-            "court",
+            "pitch",
             "course",
-            "pitch"
+            "court"
           ],
           "answer": "court",
-          "sentenceVi": "Buổi học cầu lông sẽ diễn ra trên sân trong nhà bên cạnh phòng gym."
+          "sentenceVi": "Buổi học cầu lông sẽ diễn ra trên sân trong nhà bên cạnh phòng gym.",
+          "explanation": "'court' là sân thi đấu có kẻ vạch cho các môn như cầu lông và quần vợt. 'Track' là đường chạy, 'course' là sân gôn và 'pitch' là sân bóng ngoài trời."
         },
         {
           "id": "U4_CORE_quiz3",
-          "sentenceWithGap": "Only the top two teams will ______ for the national finals.",
+          "sentenceWithGap": "Only the top two teams will ___ for the national finals.",
           "options": [
-            "defeat",
-            "record",
             "qualify",
+            "record",
+            "defeat",
             "beat"
           ],
           "answer": "qualify",
-          "sentenceVi": "Chỉ hai đội đứng đầu mới giành quyền vào chung kết quốc gia."
+          "sentenceVi": "Chỉ hai đội đứng đầu mới giành quyền vào chung kết quốc gia.",
+          "explanation": "'qualify' là đủ điều kiện để đi tiếp, ở đây là hai đội đứng đầu giành quyền vào chung kết quốc gia. Defeat và beat cần một đối thủ làm tân ngữ, còn record là ghi lại."
         },
         {
           "id": "U4_CORE_quiz4",
-          "sentenceWithGap": "Leah has competed against the same ______ for three seasons, so they know each other's strengths well.",
+          "sentenceWithGap": "Leah has competed against the same ___ for three seasons, so they know each other's strengths well.",
           "options": [
             "player",
-            "fan",
+            "rival",
             "spectator",
-            "rival"
+            "fan"
           ],
           "answer": "rival",
-          "sentenceVi": "Leah đã thi đấu với cùng một đối thủ suốt ba mùa giải, nên họ hiểu rõ điểm mạnh của nhau."
+          "sentenceVi": "Leah đã thi đấu với cùng một đối thủ suốt ba mùa giải, nên họ hiểu rõ điểm mạnh của nhau.",
+          "explanation": "'rival' là đối thủ cạnh tranh lâu năm, hay gặp nhau trong nhiều mùa giải. Hai người đã thi đấu với nhau ba mùa nên hiểu rõ điểm mạnh của nhau."
         },
         {
           "id": "U4_CORE_quiz5",
-          "sentenceWithGap": "The captain lifted the silver ______ after her team won the tournament.",
+          "sentenceWithGap": "The captain lifted the silver ___ above her head after her team won the tournament.",
           "options": [
-            "trophy",
-            "medal",
             "prize",
+            "medal",
+            "trophy",
             "record"
           ],
           "answer": "trophy",
-          "sentenceVi": "Đội trưởng đã nâng chiếc cúp bạc sau khi đội của cô giành chiến thắng ở giải đấu."
+          "sentenceVi": "Đội trưởng đã nâng chiếc cúp bạc lên cao sau khi đội của cô giành chiến thắng ở giải đấu.",
+          "explanation": "'trophy' là chiếc cúp hay vật trang trí trao cho đội thắng, đội trưởng có thể nâng lên cao. Huy chương đeo vào cổ, giải thưởng chung hơn, kỷ lục không phải là vật cầm được."
         },
         {
           "id": "U4_CORE_quiz6",
-          "sentenceWithGap": "More than 2,000 ______ filled the stadium to watch the inter-school final.",
+          "sentenceWithGap": "More than 2,000 ___ filled the stadium to watch the inter-school final.",
           "options": [
             "opponents",
-            "spectators",
-            "athletes",
-            "referees"
+            "players",
+            "referees",
+            "spectators"
           ],
           "answer": "spectators",
-          "sentenceVi": "Hơn 2.000 khán giả đã lấp đầy sân vận động để xem trận chung kết liên trường."
+          "sentenceVi": "Hơn 2.000 khán giả đã lấp đầy sân vận động để xem trận chung kết liên trường.",
+          "explanation": "'spectators' là khán giả, những người đến xem một sự kiện thể thao. Đối thủ, trọng tài và cầu thủ ở trên sân để thi đấu hoặc điều khiển trận, không phải đến để xem. Nghĩa các lựa chọn: opponents = đối thủ; players = cầu thủ; referees = trọng tài; spectators = khán giả."
         },
         {
           "id": "U4_CORE_quiz7",
-          "sentenceWithGap": "As a talented ______, Noah is strongest in the 100-metre event.",
+          "sentenceWithGap": "As a talented ___, Noah is at his best in the 100-metre race on the athletics track.",
           "options": [
-            "gymnast",
-            "cyclist",
             "sprinter",
+            "cyclist",
+            "gymnast",
             "swimmer"
           ],
           "answer": "sprinter",
-          "sentenceVi": "Là một vận động viên chạy nước rút tài năng, Noah mạnh nhất ở nội dung 100 mét."
+          "sentenceVi": "Là một vận động viên chạy nước rút tài năng, Noah giỏi nhất ở cuộc đua 100 mét trên đường chạy điền kinh.",
+          "explanation": "'sprinter' là vận động viên chạy nước rút, chuyên các cự ly ngắn và nhanh như 100 mét. Vận động viên thể dục, đua xe đạp và bơi không thi đấu trên đường chạy điền kinh."
         },
         {
           "id": "U4_CORE_quiz8",
-          "sentenceWithGap": "In snooker, players use a ______ to strike the white ball.",
+          "sentenceWithGap": "In snooker, players use a ___ to strike the white ball.",
           "options": [
             "paddle",
-            "club",
+            "cue",
             "bat",
-            "cue"
+            "club"
           ],
           "answer": "cue",
-          "sentenceVi": "Trong môn bi-a snooker, người chơi dùng gậy để đánh vào quả bóng trắng."
+          "sentenceVi": "Trong môn snooker, người chơi dùng cơ để đánh vào quả bóng trắng.",
+          "explanation": "'cue' là cây gậy dài, mảnh dùng để đánh bi trong snooker, bi-da. Mái chèo, gậy gôn và gậy đánh bóng dùng cho môn khác."
         },
         {
           "id": "U4_CORE_quiz9",
-          "sentenceWithGap": "______ is especially challenging because athletes must control both a sail and a board.",
+          "sentenceWithGap": "___ is especially challenging because athletes must control both a sail and a board.",
           "options": [
-            "windsurfing",
-            "skiing",
             "fencing",
+            "skiing",
+            "windsurfing",
             "bowling"
           ],
           "answer": "windsurfing",
-          "sentenceVi": "Lướt ván buồm đặc biệt khó vì vận động viên phải điều khiển cả cánh buồm lẫn tấm ván."
+          "sentenceVi": "Lướt ván buồm đặc biệt khó vì vận động viên phải điều khiển cả cánh buồm lẫn tấm ván.",
+          "explanation": "'windsurfing' là lướt ván buồm: vừa đứng trên ván vừa điều khiển cánh buồm. Trượt tuyết, đấu kiếm và bowling không cần cánh buồm."
         },
         {
           "id": "U4_CORE_quiz10",
-          "sentenceWithGap": "Riverside won the first ______ of the competition but lost in the next stage.",
+          "sentenceWithGap": "Riverside won the first ___ of the competition but lost in the next stage.",
           "options": [
             "medal",
-            "round",
+            "record",
             "final",
-            "record"
+            "round"
           ],
           "answer": "round",
-          "sentenceVi": "Riverside đã thắng vòng đầu tiên của cuộc thi nhưng thua ở vòng tiếp theo."
+          "sentenceVi": "Riverside đã thắng vòng đầu tiên của cuộc thi nhưng thua ở vòng tiếp theo.",
+          "explanation": "'round' là một vòng của cuộc thi. Riverside thắng vòng đầu rồi thua ở giai đoạn sau; huy chương và kỷ lục không phải là một giai đoạn, còn trận chung kết là trận cuối nên không thể là 'vòng đầu tiên'."
         },
         {
           "id": "U4_CORE_quiz11",
-          "sentenceWithGap": "The selection process is highly ______, with only twelve places available.",
+          "sentenceWithGap": "The selection process is highly ___, with only twelve places available.",
           "options": [
-            "qualified",
-            "defeated",
             "competitive",
-            "final"
+            "optional",
+            "relaxed",
+            "boring"
           ],
           "answer": "competitive",
-          "sentenceVi": "Quá trình tuyển chọn có tính cạnh tranh rất cao, chỉ có mười hai suất."
+          "sentenceVi": "Quá trình tuyển chọn có tính cạnh tranh rất cao, chỉ có mười hai suất.",
+          "explanation": "'competitive' là có tính cạnh tranh cao: nhiều người tranh nhau chỉ mười hai suất. Thoải mái, không bắt buộc hay nhàm chán không diễn tả việc phải giành suất. Nghĩa các lựa chọn: optional = không bắt buộc; relaxed = thoải mái; boring = nhàm chán."
         },
         {
           "id": "U4_CORE_quiz12",
-          "sentenceWithGap": "Maya broke the school ______ by finishing the race in 11.9 seconds.",
+          "sentenceWithGap": "Maya broke the school ___ by finishing the race in 11.9 seconds.",
           "options": [
             "prize",
-            "match",
+            "record",
             "cup",
-            "record"
+            "match"
           ],
           "answer": "record",
-          "sentenceVi": "Maya đã phá kỷ lục trường khi về đích với thời gian 11,9 giây."
+          "sentenceVi": "Maya đã phá kỷ lục trường khi về đích với thời gian 11,9 giây.",
+          "explanation": "'record' là kỷ lục, kết quả tốt nhất từng được ghi nhận. Phá kỷ lục trường nghĩa là về đích nhanh hơn mọi người trước đó; giải thưởng, trận đấu và cúp không thể 'phá'."
         },
         {
           "id": "U4_CORE_quiz13",
-          "sentenceWithGap": "Canoeists use a ______ with a blade at each end to move through the water.",
+          "sentenceWithGap": "Canoeists use a ___ with a blade at each end to move through the water.",
           "options": [
-            "paddle",
-            "oar",
             "bow",
+            "oar",
+            "paddle",
             "stick"
           ],
           "answer": "paddle",
-          "sentenceVi": "Người chèo thuyền ca-nô dùng mái chèo có bản ở hai đầu để di chuyển trên mặt nước."
+          "sentenceVi": "Người chèo ca-nô dùng mái chèo có bản ở hai đầu để di chuyển trên mặt nước.",
+          "explanation": "'paddle' là mái chèo ngắn cầm hai tay, dùng khi chèo ca-nô. 'Oar' là mái chèo dài gắn vào thuyền chèo, 'bow' là cung và 'stick' là gậy."
         },
         {
           "id": "U4_CORE_quiz14",
-          "sentenceWithGap": "______ requires strength, flexibility and control on apparatus such as the beam and bars.",
+          "sentenceWithGap": "___ requires strength, flexibility and control on apparatus such as the beam and bars.",
           "options": [
             "athletics",
-            "gymnastics",
+            "diving",
             "yoga",
-            "diving"
+            "gymnastics"
           ],
           "answer": "gymnastics",
-          "sentenceVi": "Thể dục dụng cụ đòi hỏi sức mạnh, sự dẻo dai và khả năng kiểm soát trên các dụng cụ như xà thăng bằng và xà kép."
+          "sentenceVi": "Thể dục dụng cụ đòi hỏi sức mạnh, sự dẻo dai và khả năng kiểm soát trên các dụng cụ như xà thăng bằng và xà kép.",
+          "explanation": "'gymnastics' là thể dục dụng cụ, tập trên xà thăng bằng, xà kép và các dụng cụ khác. Điền kinh, yoga và lặn không dùng các dụng cụ này."
         },
         {
           "id": "U4_CORE_quiz15",
-          "sentenceWithGap": "Before every match, players should shake hands with their ______.",
+          "sentenceWithGap": "Before every match, players should shake hands with their ___.",
           "options": [
-            "referee",
-            "spectator",
             "opponent",
+            "spectator",
+            "referee",
             "fan"
           ],
           "answer": "opponent",
-          "sentenceVi": "Trước mỗi trận đấu, các cầu thủ nên bắt tay với đối thủ của mình."
+          "sentenceVi": "Trước mỗi trận đấu, các cầu thủ nên bắt tay với đối thủ của mình.",
+          "explanation": "'opponent' là đối thủ, người hoặc đội mà mình thi đấu cùng. Trước trận ta bắt tay đối thủ; trọng tài, khán giả và người hâm mộ không phải là người mình thi đấu."
         },
         {
           "id": "U4_CORE_quiz16",
-          "sentenceWithGap": "Winning the ______ gave the team a place in Saturday's final.",
+          "sentenceWithGap": "Winning the ___ gave the team a place in Saturday's final.",
           "options": [
             "tournament",
-            "first round",
+            "semi-final",
             "competition",
-            "semi-final"
+            "first round"
           ],
           "answer": "semi-final",
-          "sentenceVi": "Chiến thắng ở trận bán kết đã giúp đội giành một suất vào chung kết thứ Bảy."
+          "sentenceVi": "Chiến thắng ở trận bán kết đã giúp đội giành một suất vào chung kết thứ Bảy.",
+          "explanation": "'semi-final' là trận bán kết, hai trận quyết định ai vào chung kết; thắng trận này thì đội có suất đá chung kết ngày thứ Bảy. Giải đấu hay cuộc thi là toàn bộ sự kiện, còn thắng vòng đầu chưa đủ để vào thẳng chung kết. Nghĩa các lựa chọn: first round = vòng đầu tiên."
         },
         {
           "id": "U4_CORE_quiz17",
-          "sentenceWithGap": "The golf ______ has eighteen holes and several difficult water hazards.",
+          "sentenceWithGap": "The golf ___ has eighteen holes and several difficult water hazards.",
           "options": [
-            "course",
-            "court",
             "pitch",
+            "court",
+            "course",
             "track"
           ],
           "answer": "course",
-          "sentenceVi": "Sân gôn có mười tám lỗ và vài chướng ngại nước khó."
+          "sentenceVi": "Sân gôn có mười tám lỗ và vài chướng ngại nước khó.",
+          "explanation": "'course' là sân gôn, khu đất được thiết kế cho môn gôn. 'Court' là sân quần vợt, cầu lông, 'pitch' là sân bóng và 'track' là đường chạy."
         },
         {
           "id": "U4_CORE_quiz18",
-          "sentenceWithGap": "Each runner who completed the race received a commemorative ______.",
+          "sentenceWithGap": "Every child who finished the fun run received a bronze ___ to wear around the neck.",
           "options": [
             "cup",
-            "medal",
+            "prize",
             "trophy",
-            "prize"
+            "medal"
           ],
           "answer": "medal",
-          "sentenceVi": "Mỗi vận động viên hoàn thành đường chạy đều nhận được một huy chương lưu niệm."
+          "sentenceVi": "Mỗi em nhỏ hoàn thành cuộc chạy vui đều nhận được một huy chương đồng để đeo vào cổ.",
+          "explanation": "'medal' là huy chương, một miếng kim loại có dây đeo vào cổ. Cúp và cúp danh hiệu to và cầm tay, còn 'prize' nói chung chung và không nhất thiết đeo được."
         },
         {
           "id": "U4_CORE_quiz19",
-          "sentenceWithGap": "The football ______ was too wet to use after three days of heavy rain.",
+          "sentenceWithGap": "The football ___ was too wet to use after three days of heavy rain.",
           "options": [
-            "course",
-            "court",
             "pitch",
+            "court",
+            "course",
             "track"
           ],
           "answer": "pitch",
-          "sentenceVi": "Sân bóng đá quá ướt để sử dụng sau ba ngày mưa lớn."
+          "sentenceVi": "Sân bóng đá quá ướt để sử dụng sau ba ngày mưa lớn.",
+          "explanation": "'pitch' là sân bóng ngoài trời, nơi chơi các môn đồng đội như bóng đá. Sân gôn là 'course', sân cầu lông là 'court' và đường chạy là 'track'."
         },
         {
           "id": "U4_CORE_quiz20",
-          "sentenceWithGap": "Riverside must ______ Hillcrest by at least two goals to finish top of the group.",
+          "sentenceWithGap": "Riverside must ___ Hillcrest by at least two goals to finish top of the group.",
           "options": [
             "win",
-            "qualify",
+            "beat",
             "record",
-            "beat"
+            "qualify"
           ],
           "answer": "beat",
-          "sentenceVi": "Riverside phải thắng Hillcrest với cách biệt ít nhất hai bàn để đứng đầu bảng."
+          "sentenceVi": "Riverside phải thắng Hillcrest với cách biệt ít nhất hai bàn để đứng đầu bảng.",
+          "explanation": "'beat' là thắng ai đó, cách nói thường ngày. Phải có đối thủ phía sau động từ (beat Hillcrest); win thường đi với cuộc thi hoặc trận đấu, còn qualify cần 'for'."
+        },
+        {
+          "id": "U4_CORE_quiz21",
+          "sentenceWithGap": "The training programme helps every young ___ improve speed, strength and fitness, whatever their sport.",
+          "options": [
+            "spectator",
+            "referee",
+            "athlete",
+            "fan"
+          ],
+          "answer": "athlete",
+          "sentenceVi": "Chương trình huấn luyện giúp mọi vận động viên trẻ cải thiện tốc độ, sức mạnh và thể lực, dù họ chơi môn nào.",
+          "explanation": "'athlete' là vận động viên nói chung, người được rèn luyện để thi đấu thể thao. Chương trình rèn tốc độ và sức mạnh dành cho người tập luyện, không phải trọng tài, khán giả hay người hâm mộ."
+        },
+        {
+          "id": "U4_CORE_quiz22",
+          "sentenceWithGap": "A basketball team has five ___ on the court at the same time.",
+          "options": [
+            "referees",
+            "fans",
+            "spectators",
+            "players"
+          ],
+          "answer": "players",
+          "sentenceVi": "Một đội bóng rổ có năm cầu thủ trên sân cùng một lúc.",
+          "explanation": "'players' là người chơi, cầu thủ tham gia trận đấu. Năm người trên sân cùng lúc là cầu thủ của một đội; trọng tài, khán giả và người hâm mộ không thuộc đội. Nghĩa các lựa chọn: referees = trọng tài; fans = người hâm mộ; spectators = khán giả; players = cầu thủ."
+        },
+        {
+          "id": "U4_CORE_quiz23",
+          "sentenceWithGap": "The ___ was exhausted after running twenty kilometres through the hills.",
+          "options": [
+            "runner",
+            "swimmer",
+            "cyclist",
+            "gymnast"
+          ],
+          "answer": "runner",
+          "sentenceVi": "Người chạy kiệt sức sau khi chạy hai mươi cây số qua những ngọn đồi.",
+          "explanation": "'runner' là người chạy. Chạy hai mươi cây số qua đồi là việc của người chạy; vận động viên bơi, đạp xe hay thể dục dụng cụ không chạy đường dài như vậy."
+        },
+        {
+          "id": "U4_CORE_quiz24",
+          "sentenceWithGap": "In the 50-metre freestyle, the young ___ touched the wall first and looked up at the clock.",
+          "options": [
+            "runner",
+            "swimmer",
+            "cyclist",
+            "gymnast"
+          ],
+          "answer": "swimmer",
+          "sentenceVi": "Ở nội dung 50 mét tự do, vận động viên bơi trẻ chạm thành bể đầu tiên rồi nhìn lên đồng hồ.",
+          "explanation": "'swimmer' là người bơi. Chạm vào thành bể đầu tiên trong nội dung bơi tự do là việc của người bơi; người chạy, người đạp xe và vận động viên thể dục dụng cụ không thi trong bể."
+        },
+        {
+          "id": "U4_CORE_quiz25",
+          "sentenceWithGap": "The ___ balanced on the beam, jumped, and landed perfectly on the mat.",
+          "options": [
+            "swimmer",
+            "runner",
+            "gymnast",
+            "cyclist"
+          ],
+          "answer": "gymnast",
+          "sentenceVi": "Vận động viên thể dục dụng cụ giữ thăng bằng trên xà, bật nhảy và tiếp đất hoàn hảo trên thảm.",
+          "explanation": "'gymnast' là người tập thể dục dụng cụ: thăng bằng trên xà, nhảy và tiếp đất trên thảm. Các vận động viên còn lại không thi trên xà thăng bằng."
+        },
+        {
+          "id": "U4_CORE_quiz26",
+          "sentenceWithGap": "The ___ checked her helmet and pushed hard on the pedals up the steep hill.",
+          "options": [
+            "runner",
+            "swimmer",
+            "sprinter",
+            "cyclist"
+          ],
+          "answer": "cyclist",
+          "sentenceVi": "Người đi xe đạp kiểm tra mũ bảo hiểm rồi đạp mạnh lên con dốc đứng.",
+          "explanation": "'cyclist' là người đi xe đạp, đội mũ bảo hiểm và đạp pê-đan lên dốc. Người chạy, người bơi và người chạy nước rút không dùng pê-đan."
+        },
+        {
+          "id": "U4_CORE_quiz27",
+          "sentenceWithGap": "A loyal ___ of the team, Omar has not missed a home match for ten years.",
+          "options": [
+            "fan",
+            "referee",
+            "rival",
+            "opponent"
+          ],
+          "answer": "fan",
+          "sentenceVi": "Là một người hâm mộ trung thành của đội, Omar đã mười năm không bỏ lỡ trận sân nhà nào.",
+          "explanation": "'fan' là người hâm mộ, ủng hộ đội bóng suốt nhiều năm. Trọng tài, đối thủ và đối thủ cạnh tranh không ủng hộ đội này."
+        },
+        {
+          "id": "U4_CORE_quiz28",
+          "sentenceWithGap": "The 400-metre runners lined up on the red ___ that circles the football field.",
+          "options": [
+            "court",
+            "track",
+            "pool",
+            "course"
+          ],
+          "answer": "track",
+          "sentenceVi": "Các vận động viên chạy 400 mét xếp hàng trên đường chạy màu đỏ bao quanh sân bóng.",
+          "explanation": "'track' là đường chạy, lối đi được chuẩn bị sẵn cho chạy, đạp xe hay đua xe; ở đây nó bao quanh sân bóng. Sân thi đấu, sân gôn và hồ bơi không có hình vòng quanh sân bóng."
+        },
+        {
+          "id": "U4_CORE_quiz29",
+          "sentenceWithGap": "In cricket, the batter swings the ___ to hit the ball bowled at him.",
+          "options": [
+            "club",
+            "racket",
+            "bat",
+            "stick"
+          ],
+          "answer": "bat",
+          "sentenceVi": "Trong môn cricket, người đánh bóng vung gậy để đánh quả bóng được ném tới.",
+          "explanation": "'bat' là gậy đánh bóng trong môn cricket. Gậy gôn là 'club', vợt là 'racket' và gậy khúc côn cầu là 'stick'."
+        },
+        {
+          "id": "U4_CORE_quiz30",
+          "sentenceWithGap": "Bring a ___ and a pair of trainers; the school will provide the shuttlecocks.",
+          "options": [
+            "bat",
+            "club",
+            "stick",
+            "racket"
+          ],
+          "answer": "racket",
+          "sentenceVi": "Hãy mang theo một cây vợt và một đôi giày thể thao; nhà trường sẽ cung cấp cầu.",
+          "explanation": "'racket' là cây vợt dùng để đánh cầu lông (shuttlecock = quả cầu) hoặc bóng quần vợt. Gậy đánh bóng, gậy gôn và gậy khúc côn cầu không đánh quả cầu."
+        },
+        {
+          "id": "U4_CORE_quiz31",
+          "sentenceWithGap": "A golfer takes a different ___ from the bag for a long shot than for a short putt near the hole.",
+          "options": [
+            "club",
+            "racket",
+            "bat",
+            "stick"
+          ],
+          "answer": "club",
+          "sentenceVi": "Người chơi gôn lấy một cây gậy khác trong túi cho cú đánh xa so với cú gạt ngắn gần lỗ.",
+          "explanation": "'club' là gậy gôn, loại gậy dài dùng để đánh bóng gôn. Người chơi gôn chọn loại gậy khác nhau cho cú đánh xa và cú đánh gần."
+        },
+        {
+          "id": "U4_CORE_quiz32",
+          "sentenceWithGap": "In ice hockey, you need a strong ___ to push the puck along the ice.",
+          "options": [
+            "bat",
+            "stick",
+            "club",
+            "racket"
+          ],
+          "answer": "stick",
+          "sentenceVi": "Trong khúc côn cầu trên băng, bạn cần một cây gậy chắc chắn để đẩy quả bóng cứng trượt trên băng.",
+          "explanation": "'stick' là gậy thể thao, ở đây là gậy khúc côn cầu để đẩy quả bóng cứng (puck) trên băng. Gậy đánh bóng, gậy gôn và vợt không dùng cho môn này."
+        },
+        {
+          "id": "U4_CORE_quiz33",
+          "sentenceWithGap": "The archer pulled back the string of her ___ and aimed carefully at the target.",
+          "options": [
+            "oar",
+            "paddle",
+            "bow",
+            "cue"
+          ],
+          "answer": "bow",
+          "sentenceVi": "Nữ cung thủ kéo căng dây cung rồi nhắm cẩn thận vào đích.",
+          "explanation": "'bow' là cây cung dùng để bắn tên. Cung thủ kéo dây cung và nhắm vào đích; mái chèo ngắn, mái chèo dài và gậy bi-da không có dây để bắn tên."
+        },
+        {
+          "id": "U4_CORE_quiz34",
+          "sentenceWithGap": "To move the rowing boat forward, each rower pulls on a long wooden ___.",
+          "options": [
+            "paddle",
+            "stick",
+            "bow",
+            "oar"
+          ],
+          "answer": "oar",
+          "sentenceVi": "Để đẩy thuyền chèo tiến về phía trước, mỗi người chèo kéo một mái chèo dài bằng gỗ.",
+          "explanation": "'oar' là mái chèo dài gắn vào thuyền chèo; người chèo kéo mái chèo để thuyền tiến lên. 'Paddle' là mái chèo ngắn cầm hai tay cho ca-nô."
+        },
+        {
+          "id": "U4_CORE_quiz35",
+          "sentenceWithGap": "Both teams are very strong, but only one can ___ the championship this weekend.",
+          "options": [
+            "win",
+            "beat",
+            "defeat",
+            "qualify"
+          ],
+          "answer": "win",
+          "sentenceVi": "Cả hai đội đều rất mạnh, nhưng chỉ một đội có thể giành chức vô địch vào cuối tuần này.",
+          "explanation": "'win' là giành chiến thắng, đi với cuộc thi hoặc giải: win the championship. Beat và defeat cần một đối thủ làm tân ngữ (beat the champions), còn qualify cần 'for'."
+        },
+        {
+          "id": "U4_CORE_quiz36",
+          "sentenceWithGap": "Nobody expected the young player to ___ the world champion in the opening match.",
+          "options": [
+            "qualify",
+            "defeat",
+            "compete",
+            "practise"
+          ],
+          "answer": "defeat",
+          "sentenceVi": "Không ai ngờ cầu thủ trẻ lại đánh bại nhà vô địch thế giới ngay trận mở màn.",
+          "explanation": "'defeat' là đánh bại hoàn toàn, thường trang trọng hơn 'beat'. Đánh bại nhà vô địch thế giới cần tân ngữ trực tiếp; qualify cần 'for', compete cần 'with/against', practise là luyện tập. Nghĩa các lựa chọn: practise = luyện tập."
+        },
+        {
+          "id": "U4_CORE_quiz37",
+          "sentenceWithGap": "Both finalists were already imagining how they would hold the ___ over their heads.",
+          "options": [
+            "record",
+            "medal",
+            "cup",
+            "round"
+          ],
+          "answer": "cup",
+          "sentenceVi": "Cả hai đội vào chung kết đã hình dung cảnh họ giơ chiếc cúp lên cao qua đầu.",
+          "explanation": "'cup' là chiếc cúp vô địch trao cho người thắng; người thắng thường giơ cúp lên cao. Huy chương đeo vào cổ, kỷ lục và vòng đấu thì không giơ lên được."
+        },
+        {
+          "id": "U4_CORE_quiz38",
+          "sentenceWithGap": "The winner of the writing competition will receive a cash ___ of £500.",
+          "options": [
+            "record",
+            "medal",
+            "cup",
+            "prize"
+          ],
+          "answer": "prize",
+          "sentenceVi": "Người thắng cuộc thi viết sẽ nhận giải thưởng tiền mặt trị giá 500 bảng.",
+          "explanation": "'prize' là giải thưởng, ở đây là phần tiền thưởng 500 bảng cho người thắng. Huy chương và cúp là vật kỷ niệm, không phải 'giải thưởng bằng tiền mặt'."
+        },
+        {
+          "id": "U4_CORE_quiz39",
+          "sentenceWithGap": "After beating Hillcrest in the semi-final, Riverside will play in the ___ on Saturday.",
+          "options": [
+            "final",
+            "round",
+            "record",
+            "medal"
+          ],
+          "answer": "final",
+          "sentenceVi": "Sau khi thắng Hillcrest ở bán kết, Riverside sẽ đá trận chung kết vào thứ Bảy.",
+          "explanation": "'final' là trận chung kết, trận cuối quyết định ai thắng. Thắng bán kết thì vào chung kết; 'round' là một vòng, còn kỷ lục và huy chương không phải là trận đấu."
+        },
+        {
+          "id": "U4_CORE_quiz40",
+          "sentenceWithGap": "More than a hundred schools entered the national singing ___, but only one could win it.",
+          "options": [
+            "trophy",
+            "competition",
+            "medal",
+            "rival"
+          ],
+          "answer": "competition",
+          "sentenceVi": "Hơn một trăm trường đã tham gia cuộc thi hát quốc gia, nhưng chỉ một trường có thể thắng.",
+          "explanation": "'competition' là cuộc thi, sự kiện có tổ chức trong đó nhiều người cùng tranh nhau giành chiến thắng. Cúp, huy chương và đối thủ không phải là một sự kiện để tham gia."
+        },
+        {
+          "id": "U4_CORE_quiz41",
+          "sentenceWithGap": "The two-day tennis ___ has sixteen players and ends with a final on Sunday afternoon.",
+          "options": [
+            "record",
+            "race",
+            "tournament",
+            "pitch"
+          ],
+          "answer": "tournament",
+          "sentenceVi": "Giải quần vợt kéo dài hai ngày có mười sáu người chơi và kết thúc bằng trận chung kết vào chiều Chủ nhật.",
+          "explanation": "'tournament' là giải đấu gồm nhiều trận để tìm ra người thắng chung cuộc, ở đây kéo dài hai ngày với mười sáu người chơi và kết thúc bằng trận chung kết. 'Race' là cuộc đua và 'pitch' là sân bóng."
+        },
+        {
+          "id": "U4_CORE_quiz42",
+          "sentenceWithGap": "The ___ ended 2-2 after both teams scored in the last ten minutes.",
+          "options": [
+            "medal",
+            "trophy",
+            "record",
+            "match"
+          ],
+          "answer": "match",
+          "sentenceVi": "Trận đấu kết thúc với tỷ số 2-2 sau khi cả hai đội đều ghi bàn trong mười phút cuối.",
+          "explanation": "'match' là trận đấu giữa hai đội hoặc hai người; tỷ số 2-2 là kết quả của một trận. Cúp, kỷ lục và huy chương không có tỷ số."
+        },
+        {
+          "id": "U4_CORE_quiz43",
+          "sentenceWithGap": "Maya prefers ___ to skiing because she stands sideways on a single board on the snow.",
+          "options": [
+            "snowboarding",
+            "skateboarding",
+            "surfing",
+            "windsurfing"
+          ],
+          "answer": "snowboarding",
+          "sentenceVi": "Maya thích trượt ván tuyết hơn trượt tuyết vì cô đứng nghiêng người trên một tấm ván duy nhất trên tuyết.",
+          "explanation": "'snowboarding' là trượt ván tuyết, đứng nghiêng người trên một tấm ván trượt trên tuyết. Trượt ván có bánh xe, lướt sóng và lướt ván buồm diễn ra ở nơi khác."
         }
       ],
-      "image": "assets/images/passages/U4_CORE.jpg"
+      "image": "assets/images/passages/U4_CORE.jpg",
+      "matchWords": [
+        "football",
+        "rugby",
+        "volleyball",
+        "hockey",
+        "tennis",
+        "badminton",
+        "table tennis",
+        "golf",
+        "running",
+        "cycling",
+        "swimming",
+        "yoga",
+        "climbing",
+        "hiking",
+        "sailing",
+        "surfing",
+        "diving",
+        "skiing",
+        "skateboarding",
+        "snorkelling",
+        "scuba diving",
+        "archery",
+        "fencing",
+        "motor racing",
+        "bowling",
+        "snooker",
+        "athletics",
+        "sprint",
+        "marathon",
+        "race",
+        "high jump",
+        "long jump",
+        "pole vault",
+        "javelin",
+        "discus",
+        "pool"
+      ]
     },
     {
       "passageId": "U4_PV",
@@ -5599,544 +5956,327 @@
       "quizQuestions": [
         {
           "id": "U7_CORE_quiz1",
-          "sentenceWithGap": "Ben believes ___ can help visitors see familiar ideas in a new way.",
+          "sentenceWithGap": "Painting, drawing and sculpture are all different forms of ___, the expression of ideas and feelings in a creative way.",
           "options": [
+            "gallery",
             "art",
-            "a painting",
-            "a sculpture",
-            "an artist"
+            "studio",
+            "exhibition"
           ],
           "answer": "art",
-          "sentenceVi": "Ben tin rằng nghệ thuật có thể giúp khách tham quan nhìn những ý tưởng quen thuộc theo cách mới."
+          "sentenceVi": "Hội họa, vẽ và điêu khắc đều là những hình thức khác nhau của nghệ thuật, sự thể hiện ý tưởng và cảm xúc theo cách sáng tạo.",
+          "explanation": "'art' là nghệ thuật, cách thể hiện ý tưởng và cảm xúc bằng hội họa, điêu khắc và các hình thức sáng tạo khác. Phòng trưng bày, xưởng vẽ và triển lãm là nơi chốn hoặc sự kiện, không phải 'các hình thức'."
         },
         {
           "id": "U7_CORE_quiz2",
-          "sentenceWithGap": "The festival celebrates ___ through exhibitions, books and performances.",
+          "sentenceWithGap": "The city festival celebrates ___, including painting, literature, music, theatre and dance.",
           "options": [
+            "pottery",
+            "architecture",
             "the arts",
-            "an exhibition",
-            "a gallery",
-            "a work of art"
+            "textiles"
           ],
           "answer": "the arts",
-          "sentenceVi": "Lễ hội tôn vinh các loại hình nghệ thuật qua triển lãm, sách và biểu diễn."
+          "sentenceVi": "Lễ hội của thành phố tôn vinh các loại hình nghệ thuật, gồm hội họa, văn học, âm nhạc, sân khấu và múa.",
+          "explanation": "'the arts' là các loại hình nghệ thuật nói chung, gồm cả hội họa, văn học, âm nhạc, sân khấu và múa. Kiến trúc, đồ gốm và vải dệt chỉ là một lĩnh vực hẹp, không bao gồm cả danh sách trong câu."
         },
         {
           "id": "U7_CORE_quiz3",
-          "sentenceWithGap": "The gallery introduces students to painting, sculpture and other forms of ___.",
+          "sentenceWithGap": "At university she studied ___, mainly painting and sculpture, rather than design or crafts.",
           "options": [
-            "fine art",
+            "textiles",
             "arts and crafts",
-            "architecture",
-            "a print"
+            "jewellery",
+            "fine art"
           ],
           "answer": "fine art",
-          "sentenceVi": "Phòng tranh giới thiệu cho học sinh về hội hoạ, điêu khắc và các loại hình mỹ thuật khác."
+          "sentenceVi": "Ở đại học, cô học nghệ thuật tạo hình, chủ yếu là hội họa và điêu khắc, chứ không học thiết kế hay thủ công.",
+          "explanation": "'fine art' là nghệ thuật tạo hình, chủ yếu là hội họa và điêu khắc, làm ra để ngắm vì cái đẹp. 'Arts and crafts' là thủ công nên trái với 'rather than ... crafts'; trang sức và vải dệt là nghề thủ công. Nghĩa các lựa chọn: fine art = nghệ thuật tạo hình (hội họa, điêu khắc)."
         },
         {
           "id": "U7_CORE_quiz4",
-          "sentenceWithGap": "A local ___ who had painted it herself lent the school an original landscape.",
+          "sentenceWithGap": "Marta spends every weekend in museums and galleries; she is a real ___.",
           "options": [
-            "artist",
             "art lover",
             "architect",
-            "potter"
+            "potter",
+            "sculptor"
           ],
-          "answer": "artist",
-          "sentenceVi": "Một nghệ sĩ địa phương, người đã tự tay vẽ bức tranh đó, đã cho trường mượn một bức tranh phong cảnh gốc."
+          "answer": "art lover",
+          "sentenceVi": "Marta dành mỗi cuối tuần ở các bảo tàng và phòng trưng bày; cô ấy đúng là một người yêu nghệ thuật.",
+          "explanation": "'art lover' là người yêu thích nghệ thuật, hay đi bảo tàng và phòng trưng bày xem tranh. Kiến trúc sư, thợ gốm và nhà điêu khắc là người tạo ra tác phẩm, không phải người đi xem."
         },
         {
           "id": "U7_CORE_quiz5",
-          "sentenceWithGap": "Ben used his ___ ability to design the exhibition entrance.",
+          "sentenceWithGap": "The guard reminded us that the painting is a priceless ___ and must never be touched.",
           "options": [
-            "artistic",
-            "impressive",
-            "conventional",
-            "realistic"
-          ],
-          "answer": "artistic",
-          "sentenceVi": "Ben đã dùng khả năng nghệ thuật của mình để thiết kế lối vào triển lãm."
-        },
-        {
-          "id": "U7_CORE_quiz6",
-          "sentenceWithGap": "The opening attracted ___ from across the community.",
-          "options": [
-            "art lovers",
-            "sculptors",
-            "architects",
-            "potters"
-          ],
-          "answer": "art lovers",
-          "sentenceVi": "Buổi khai mạc thu hút những người yêu nghệ thuật từ khắp cộng đồng."
-        },
-        {
-          "id": "U7_CORE_quiz7",
-          "sentenceWithGap": "The central display featured one finished, original ___ from each student — some chose painting, others sculpture or pottery.",
-          "options": [
-            "work of art",
-            "art collection",
-            "reproduction",
-            "sketch"
-          ],
-          "answer": "work of art",
-          "sentenceVi": "Khu trưng bày trung tâm có một tác phẩm nghệ thuật nguyên bản, hoàn chỉnh từ mỗi học sinh — có bạn chọn vẽ tranh, có bạn chọn điêu khắc hoặc làm gốm."
-        },
-        {
-          "id": "U7_CORE_quiz8",
-          "sentenceWithGap": "The ___ club made decorations from recycled materials.",
-          "options": [
-            "arts and crafts",
-            "fine art",
-            "the arts",
-            "architecture"
-          ],
-          "answer": "arts and crafts",
-          "sentenceVi": "Câu lạc bộ thủ công mỹ nghệ đã làm đồ trang trí từ vật liệu tái chế."
-        },
-        {
-          "id": "U7_CORE_quiz9",
-          "sentenceWithGap": "___, using paint and a brush on paper, was the most popular activity in the children's workshop.",
-          "options": [
-            "Painting",
-            "Sculpture",
-            "Architecture",
-            "Pottery"
-          ],
-          "answer": "Painting",
-          "sentenceVi": "Vẽ tranh, dùng màu và cọ trên giấy, là hoạt động phổ biến nhất trong buổi workshop dành cho trẻ em."
-        },
-        {
-          "id": "U7_CORE_quiz10",
-          "sentenceWithGap": "Leo produced a careful ___ of the old theatre.",
-          "options": [
-            "drawing",
-            "sculpture",
-            "statue",
-            "textile"
-          ],
-          "answer": "drawing",
-          "sentenceVi": "Leo đã vẽ một bức vẽ tỉ mỉ về nhà hát cũ."
-        },
-        {
-          "id": "U7_CORE_quiz11",
-          "sentenceWithGap": "A large metal ___ stood in the centre of the gallery.",
-          "options": [
-            "sculpture",
-            "painting",
-            "print",
-            "portrait"
-          ],
-          "answer": "sculpture",
-          "sentenceVi": "Một tác phẩm điêu khắc kim loại lớn đứng ở trung tâm phòng tranh."
-        },
-        {
-          "id": "U7_CORE_quiz12",
-          "sentenceWithGap": "The exhibition included a section on modern ___, showing photographs of award-winning building designs.",
-          "options": [
-            "architecture",
-            "ceramics",
-            "textiles",
-            "jewellery"
-          ],
-          "answer": "architecture",
-          "sentenceVi": "Triển lãm có một khu vực về kiến trúc hiện đại, trưng bày ảnh chụp các công trình đoạt giải thiết kế."
-        },
-        {
-          "id": "U7_CORE_quiz13",
-          "sentenceWithGap": "The ___ display contained decorated bowls and tiles.",
-          "options": [
-            "ceramics",
-            "textiles",
-            "jewellery",
-            "architecture"
-          ],
-          "answer": "ceramics",
-          "sentenceVi": "Khu trưng bày gốm sứ có các bát và gạch trang trí."
-        },
-        {
-          "id": "U7_CORE_quiz14",
-          "sentenceWithGap": "Visitors watched a demonstration of traditional ___, shaping wet clay into bowls by hand.",
-          "options": [
-            "pottery",
-            "architecture",
-            "textiles",
-            "jewellery"
-          ],
-          "answer": "pottery",
-          "sentenceVi": "Khách tham quan xem trình diễn nghề gốm truyền thống, nặn đất sét ướt thành bát bằng tay."
-        },
-        {
-          "id": "U7_CORE_quiz15",
-          "sentenceWithGap": "The ___ section featured handwoven wall hangings.",
-          "options": [
-            "textiles",
-            "ceramics",
-            "jewellery",
-            "sculptures"
-          ],
-          "answer": "textiles",
-          "sentenceVi": "Khu vực vải dệt trưng bày các tấm treo tường dệt tay."
-        },
-        {
-          "id": "U7_CORE_quiz16",
-          "sentenceWithGap": "Hana displayed ___ made from glass and recycled metal, designed to be worn as bracelets and necklaces.",
-          "options": [
-            "jewellery",
-            "pottery",
-            "textiles",
-            "sculpture"
-          ],
-          "answer": "jewellery",
-          "sentenceVi": "Hana trưng bày trang sức làm từ thuỷ tinh và kim loại tái chế, được thiết kế để đeo như vòng tay và dây chuyền."
-        },
-        {
-          "id": "U7_CORE_quiz17",
-          "sentenceWithGap": "A stone ___ welcomed visitors at the gallery entrance.",
-          "options": [
-            "statue",
-            "portrait",
-            "print",
-            "sketch"
-          ],
-          "answer": "statue",
-          "sentenceVi": "Một bức tượng đá chào đón khách tham quan ở lối vào phòng tranh."
-        },
-        {
-          "id": "U7_CORE_quiz18",
-          "sentenceWithGap": "The finished ___ — an oil painting of the musician's face — captured his thoughtful expression.",
-          "options": [
-            "portrait",
-            "landscape",
-            "still life",
-            "sketch"
-          ],
-          "answer": "portrait",
-          "sentenceVi": "Bức chân dung hoàn chỉnh — một bức tranh sơn dầu vẽ khuôn mặt người nhạc sĩ — đã ghi lại vẻ trầm tư của anh."
-        },
-        {
-          "id": "U7_CORE_quiz19",
-          "sentenceWithGap": "Ben chose a colourful ___ — showing rolling hills under a wide sky — for the main wall.",
-          "options": [
-            "landscape",
-            "portrait",
-            "still life",
-            "statue"
-          ],
-          "answer": "landscape",
-          "sentenceVi": "Ben chọn một bức tranh phong cảnh nhiều màu sắc — vẽ những ngọn đồi thoai thoải dưới bầu trời rộng — để treo ở bức tường chính."
-        },
-        {
-          "id": "U7_CORE_quiz20",
-          "sentenceWithGap": "The ___ showed a vase, several apples and an old book.",
-          "options": [
-            "still life",
-            "landscape",
-            "portrait",
-            "sketch"
-          ],
-          "answer": "still life",
-          "sentenceVi": "Bức tranh tĩnh vật vẽ một chiếc bình, vài quả táo và một cuốn sách cũ."
-        },
-        {
-          "id": "U7_CORE_quiz21",
-          "sentenceWithGap": "The artist showed visitors the first ___ for the mural.",
-          "options": [
-            "sketch",
-            "print",
-            "reproduction",
-            "statue"
-          ],
-          "answer": "sketch",
-          "sentenceVi": "Nghệ sĩ cho khách xem bản phác thảo đầu tiên cho bức tranh tường."
-        },
-        {
-          "id": "U7_CORE_quiz22",
-          "sentenceWithGap": "A delicate ___ of the river, with soft, translucent colours, was placed near the window.",
-          "options": [
-            "watercolour",
-            "oil painting",
-            "print",
-            "statue"
-          ],
-          "answer": "watercolour",
-          "sentenceVi": "Một bức tranh màu nước tinh tế vẽ dòng sông, với màu sắc mềm mại, trong trẻo, được đặt gần cửa sổ."
-        },
-        {
-          "id": "U7_CORE_quiz23",
-          "sentenceWithGap": "The ___ had rich colours and a thick surface texture.",
-          "options": [
-            "oil painting",
-            "watercolour",
-            "print",
-            "sketch"
-          ],
-          "answer": "oil painting",
-          "sentenceVi": "Bức tranh sơn dầu có màu sắc đậm và bề mặt dày."
-        },
-        {
-          "id": "U7_CORE_quiz24",
-          "sentenceWithGap": "Affordable ___ of the winning artwork were available at the shop.",
-          "options": [
-            "prints",
-            "sketches",
-            "sculptures",
-            "statues"
-          ],
-          "answer": "prints",
-          "sentenceVi": "Các bản in giá phải chăng của tác phẩm đoạt giải được bán tại cửa hàng."
-        },
-        {
-          "id": "U7_CORE_quiz25",
-          "sentenceWithGap": "The ___ explained how natural light influenced her choice of colours as she mixed oil paints on her palette.",
-          "options": [
-            "painter",
-            "sculptor",
-            "potter",
-            "architect"
-          ],
-          "answer": "painter",
-          "sentenceVi": "Người hoạ sĩ giải thích ánh sáng tự nhiên ảnh hưởng thế nào đến việc chọn màu khi cô pha màu sơn dầu trên bảng pha màu."
-        },
-        {
-          "id": "U7_CORE_quiz26",
-          "sentenceWithGap": "The ___ shaped the figure from a single block of wood.",
-          "options": [
-            "sculptor",
-            "painter",
-            "potter",
-            "architect"
-          ],
-          "answer": "sculptor",
-          "sentenceVi": "Nhà điêu khắc đã tạo hình bức tượng từ một khối gỗ duy nhất."
-        },
-        {
-          "id": "U7_CORE_quiz27",
-          "sentenceWithGap": "The ___ demonstrated how to form a bowl on a wheel.",
-          "options": [
-            "potter",
-            "sculptor",
-            "painter",
-            "architect"
-          ],
-          "answer": "potter",
-          "sentenceVi": "Người thợ gốm trình diễn cách tạo hình một chiếc bát trên bàn xoay."
-        },
-        {
-          "id": "U7_CORE_quiz28",
-          "sentenceWithGap": "An ___ contributed a detailed technical model of an eco-friendly building, complete with structural drawings.",
-          "options": [
-            "architect",
-            "artist",
-            "sculptor",
-            "potter"
-          ],
-          "answer": "architect",
-          "sentenceVi": "Một kiến trúc sư đã đóng góp một mô hình kỹ thuật chi tiết của một toà nhà thân thiện với môi trường, kèm theo bản vẽ kết cấu."
-        },
-        {
-          "id": "U7_CORE_quiz29",
-          "sentenceWithGap": "The school hall was transformed into a bright ___, with students' art hung on every wall for visitors to admire.",
-          "options": [
-            "gallery",
             "studio",
-            "exhibition",
-            "collection"
-          ],
-          "answer": "gallery",
-          "sentenceVi": "Hội trường trường học được biến thành một phòng trưng bày sáng sủa, với tranh của học sinh treo khắp các bức tường để khách tham quan chiêm ngưỡng."
-        },
-        {
-          "id": "U7_CORE_quiz30",
-          "sentenceWithGap": "The ___, displaying the students' artwork for one week only, opened on Saturday morning.",
-          "options": [
-            "exhibition",
-            "gallery",
-            "studio",
-            "collection"
-          ],
-          "answer": "exhibition",
-          "sentenceVi": "Triển lãm, trưng bày tác phẩm của học sinh chỉ trong một tuần, khai mạc vào sáng thứ Bảy."
-        },
-        {
-          "id": "U7_CORE_quiz31",
-          "sentenceWithGap": "The local museum lent part of its ___ to the festival.",
-          "options": [
-            "art collection",
             "work of art",
             "exhibition",
             "gallery"
           ],
-          "answer": "art collection",
-          "sentenceVi": "Bảo tàng địa phương đã cho lễ hội mượn một phần bộ sưu tập nghệ thuật của mình."
+          "answer": "work of art",
+          "sentenceVi": "Người bảo vệ nhắc chúng tôi rằng bức tranh là một tác phẩm nghệ thuật vô giá và không bao giờ được chạm vào.",
+          "explanation": "'work of art' là tác phẩm nghệ thuật, một vật do nghệ sĩ tạo ra như bức tranh hay tượng. Xưởng vẽ, triển lãm và phòng trưng bày không phải là 'một bức tranh vô giá'."
         },
         {
-          "id": "U7_CORE_quiz32",
-          "sentenceWithGap": "Ben visited the artist's ___, watching her mix paint at the easel, before selecting the paintings.",
+          "id": "U7_CORE_quiz6",
+          "sentenceWithGap": "The children made paper flowers and clay animals in the ___ class.",
           "options": [
-            "studio",
+            "fine art",
+            "architecture",
+            "arts and crafts",
+            "textiles"
+          ],
+          "answer": "arts and crafts",
+          "sentenceVi": "Bọn trẻ làm hoa giấy và những con vật bằng đất sét trong giờ thủ công mỹ nghệ.",
+          "explanation": "'arts and crafts' là nghệ thuật và đồ thủ công: các hoạt động tự tay làm và trang trí đồ vật, như hoa giấy và con vật bằng đất sét. Nghệ thuật tạo hình, kiến trúc và vải dệt không nói đến việc làm đồ thủ công như vậy. Nghĩa các lựa chọn: fine art = nghệ thuật tạo hình."
+        },
+        {
+          "id": "U7_CORE_quiz7",
+          "sentenceWithGap": "A well-known ___ painted the mural, but she also designs sculptures and prints.",
+          "options": [
+            "art lover",
+            "architect",
+            "potter",
+            "artist"
+          ],
+          "answer": "artist",
+          "sentenceVi": "Một nghệ sĩ nổi tiếng đã vẽ bức tranh tường, nhưng cô cũng thiết kế tượng và bản in.",
+          "explanation": "'artist' là nghệ sĩ, người tạo ra tranh, tượng hay các tác phẩm khác; cô vừa vẽ tranh tường vừa thiết kế tượng và bản in nên 'nghệ sĩ' là từ chung nhất. Kiến trúc sư thiết kế nhà, thợ gốm làm đồ gốm và người yêu nghệ thuật chỉ đi xem."
+        },
+        {
+          "id": "U7_CORE_quiz8",
+          "sentenceWithGap": "She has no training, but she is naturally ___ and loves to draw.",
+          "options": [
+            "artistic",
+            "abstract",
+            "conventional",
+            "impressive"
+          ],
+          "answer": "artistic",
+          "sentenceVi": "Cô ấy chưa được đào tạo, nhưng tự nhiên có năng khiếu nghệ thuật và thích vẽ.",
+          "explanation": "'artistic' là có năng khiếu nghệ thuật, hợp với người thích vẽ dù chưa học. 'Abstract' là trừu tượng (nói về tranh), 'conventional' là theo lối truyền thống và 'impressive' là gây ấn tượng, không nói về năng khiếu."
+        },
+        {
+          "id": "U7_CORE_quiz9",
+          "sentenceWithGap": "The ___ mixed blue and yellow on her palette before adding the paint to the canvas.",
+          "options": [
+            "sculptor",
+            "painter",
+            "potter",
+            "architect"
+          ],
+          "answer": "painter",
+          "sentenceVi": "Họa sĩ pha màu xanh dương và vàng trên bảng pha màu rồi quét sơn lên vải toan.",
+          "explanation": "'painter' là họa sĩ, người vẽ tranh bằng màu: pha màu trên bảng pha và vẽ lên vải toan. Nhà điêu khắc, thợ gốm và kiến trúc sư không vẽ bằng bảng pha màu."
+        },
+        {
+          "id": "U7_CORE_quiz10",
+          "sentenceWithGap": "The ___ chiselled the figure out of a single block of stone.",
+          "options": [
+            "painter",
+            "potter",
+            "sculptor",
+            "architect"
+          ],
+          "answer": "sculptor",
+          "sentenceVi": "Nhà điêu khắc đã đục bức tượng ra từ một khối đá duy nhất.",
+          "explanation": "'sculptor' là nhà điêu khắc, người đục, tạc tượng từ đá hay gỗ. Họa sĩ vẽ tranh, thợ gốm nặn đất sét và kiến trúc sư thiết kế công trình."
+        },
+        {
+          "id": "U7_CORE_quiz11",
+          "sentenceWithGap": "The ___ shaped the wet clay on the wheel, then put the bowl in a hot oven.",
+          "options": [
+            "painter",
+            "sculptor",
+            "architect",
+            "potter"
+          ],
+          "answer": "potter",
+          "sentenceVi": "Người thợ gốm nặn đất sét ướt trên bàn xoay rồi cho chiếc bát vào lò nung nóng.",
+          "explanation": "'potter' là thợ gốm, người nặn đất sét ướt trên bàn xoay rồi nung thành bát, bình. Họa sĩ, nhà điêu khắc và kiến trúc sư không nặn bát trên bàn xoay."
+        },
+        {
+          "id": "U7_CORE_quiz12",
+          "sentenceWithGap": "The ___ drew plans for the new library and checked that the building would be safe.",
+          "options": [
+            "architect",
+            "sculptor",
+            "potter",
+            "painter"
+          ],
+          "answer": "architect",
+          "sentenceVi": "Kiến trúc sư vẽ bản thiết kế cho thư viện mới và kiểm tra xem tòa nhà có an toàn không.",
+          "explanation": "'architect' là kiến trúc sư, người thiết kế công trình, vẽ bản vẽ và kiểm tra tòa nhà an toàn. Họa sĩ, nhà điêu khắc và thợ gốm không thiết kế thư viện."
+        },
+        {
+          "id": "U7_CORE_quiz13",
+          "sentenceWithGap": "The shop sells beautiful ___, such as cups, plates and vases made from fired clay.",
+          "options": [
+            "textiles",
+            "ceramics",
+            "jewellery",
+            "architecture"
+          ],
+          "answer": "ceramics",
+          "sentenceVi": "Cửa hàng bán những món gốm sứ đẹp như cốc, đĩa và bình làm từ đất sét nung.",
+          "explanation": "'ceramics' là đồ gốm sứ, vật làm từ đất sét nung cứng như cốc, đĩa, bình. Vải dệt, đồ trang sức và kiến trúc không làm từ đất sét nung."
+        },
+        {
+          "id": "U7_CORE_quiz14",
+          "sentenceWithGap": "She has taken evening classes in ___ and can already make simple bowls and mugs on the wheel.",
+          "options": [
+            "jewellery",
+            "textiles",
+            "pottery",
+            "architecture"
+          ],
+          "answer": "pottery",
+          "sentenceVi": "Cô đã học các lớp buổi tối về nghề gốm và đã có thể làm những chiếc bát, cốc đơn giản trên bàn xoay.",
+          "explanation": "'pottery' là nghề làm gốm (và đồ gốm như bát, cốc). Học làm bát và cốc trên bàn xoay là học nghề gốm; vải dệt, trang sức và kiến trúc không dùng bàn xoay."
+        },
+        {
+          "id": "U7_CORE_quiz15",
+          "sentenceWithGap": "The park's most famous ___ is a huge bronze horse standing on a stone base in the square.",
+          "options": [
+            "painting",
+            "sketch",
+            "portrait",
+            "statue"
+          ],
+          "answer": "statue",
+          "sentenceVi": "Tác phẩm điêu khắc nổi tiếng nhất của công viên là một con ngựa đồng khổng lồ đứng trên bệ đá.",
+          "explanation": "'statue' là bức tượng, vật ba chiều tạc hoặc đúc bằng đá hay kim loại, thường đứng trên bệ ở nơi công cộng như công viên. Tranh, chân dung và bản phác họa là hình vẽ phẳng, không đứng trên bệ."
+        },
+        {
+          "id": "U7_CORE_quiz16",
+          "sentenceWithGap": "The ___ is a large building in the city centre where visitors can look at paintings and sculptures all year.",
+          "options": [
             "gallery",
             "exhibition",
-            "collection"
+            "studio",
+            "portrait"
+          ],
+          "answer": "gallery",
+          "sentenceVi": "Phòng trưng bày là một tòa nhà lớn ở trung tâm thành phố, nơi khách có thể xem tranh và tượng quanh năm.",
+          "explanation": "'gallery' là phòng trưng bày, một tòa nhà hay căn phòng trưng bày tác phẩm cho công chúng, mở quanh năm. 'Exhibition' là một sự kiện tạm thời, 'studio' là nơi nghệ sĩ làm việc và 'portrait' là một bức tranh."
+        },
+        {
+          "id": "U7_CORE_quiz17",
+          "sentenceWithGap": "The ___ lasts for three weeks, and visitors can see the paintings only until the end of the month.",
+          "options": [
+            "gallery",
+            "exhibition",
+            "studio",
+            "portrait"
+          ],
+          "answer": "exhibition",
+          "sentenceVi": "Cuộc triển lãm kéo dài ba tuần, và khách chỉ có thể xem các bức tranh đến hết tháng.",
+          "explanation": "'exhibition' là triển lãm, sự kiện công cộng trưng bày tác phẩm trong thời gian nhất định (ba tuần). Phòng trưng bày và xưởng vẽ không 'kéo dài ba tuần', còn chân dung là một bức tranh."
+        },
+        {
+          "id": "U7_CORE_quiz18",
+          "sentenceWithGap": "Picasso spent most days alone in his ___, where he painted, sculpted and stored his unfinished work.",
+          "options": [
+            "exhibition",
+            "gallery",
+            "studio",
+            "portrait"
           ],
           "answer": "studio",
-          "sentenceVi": "Ben đến thăm xưởng vẽ của nghệ sĩ, xem cô pha màu bên giá vẽ, trước khi chọn các bức tranh."
+          "sentenceVi": "Picasso dành phần lớn thời gian một mình trong xưởng vẽ, nơi ông vẽ, tạc và cất những tác phẩm chưa hoàn thành.",
+          "explanation": "'studio' là xưởng vẽ, căn phòng nơi nghệ sĩ làm việc và cất tác phẩm chưa xong. Phòng trưng bày và triển lãm dành cho khách xem, không phải nơi ở một mình để vẽ."
         },
         {
-          "id": "U7_CORE_quiz33",
-          "sentenceWithGap": "The original sculpture was ___ for the first time.",
+          "id": "U7_CORE_quiz19",
+          "sentenceWithGap": "The painting used bold shapes and lines instead of showing people or objects, so it looked very ___.",
           "options": [
-            "on public display",
-            "an art collection",
-            "a reproduction",
-            "picturesque"
-          ],
-          "answer": "on public display",
-          "sentenceVi": "Tác phẩm điêu khắc gốc lần đầu tiên được trưng bày công khai."
-        },
-        {
-          "id": "U7_CORE_quiz34",
-          "sentenceWithGap": "The ___ painting used bold shapes and unexpected colours.",
-          "options": [
-            "abstract",
+            "picturesque",
             "realistic",
             "conventional",
-            "picturesque"
+            "abstract"
           ],
           "answer": "abstract",
-          "sentenceVi": "Bức tranh trừu tượng sử dụng các hình khối táo bạo và màu sắc bất ngờ."
+          "sentenceVi": "Bức tranh dùng những hình khối và đường nét táo bạo thay vì vẽ người hay đồ vật, nên trông rất trừu tượng.",
+          "explanation": "'abstract' là trừu tượng: dùng hình khối, đường nét và màu sắc thay vì vẽ người, vật thật. 'Realistic' là chân thực, trái nghĩa; 'conventional' và 'picturesque' không nói về việc không vẽ vật thật."
         },
         {
-          "id": "U7_CORE_quiz35",
-          "sentenceWithGap": "The portrait was so ___ that it looked like a photograph.",
+          "id": "U7_CORE_quiz20",
+          "sentenceWithGap": "The artist painted every hair and wrinkle, and the face looks so ___ that you expect it to speak.",
           "options": [
             "realistic",
             "abstract",
-            "conventional",
-            "creative"
+            "creative",
+            "picturesque"
           ],
           "answer": "realistic",
-          "sentenceVi": "Bức chân dung chân thực đến mức trông như một tấm ảnh."
+          "sentenceVi": "Họa sĩ vẽ từng sợi tóc và nếp nhăn, khuôn mặt trông chân thực đến mức bạn mong nó sẽ nói.",
+          "explanation": "'realistic' là chân thực, giống đời thật: vẽ từng sợi tóc, nếp nhăn nên khuôn mặt như sống. 'Abstract' là trái nghĩa; sáng tạo và đẹp như tranh không nói về độ giống thật."
         },
         {
-          "id": "U7_CORE_quiz36",
-          "sentenceWithGap": "The judges praised the student's ___ approach to the theme.",
+          "id": "U7_CORE_quiz21",
+          "sentenceWithGap": "Her work was truly ___, unlike anything else in the competition; nobody had copied another painter's idea.",
           "options": [
-            "original",
             "conventional",
+            "original",
             "realistic",
             "picturesque"
           ],
           "answer": "original",
-          "sentenceVi": "Ban giám khảo khen ngợi cách tiếp cận độc đáo của học sinh với chủ đề."
+          "sentenceVi": "Tác phẩm của cô thật sự độc đáo, không giống bất cứ bài nào trong cuộc thi; không ai chép ý tưởng của họa sĩ khác.",
+          "explanation": "'original' là độc đáo, mới và khác, không sao chép ai. Tác phẩm không giống bài khác và không chép ý của họa sĩ khác; 'conventional' là theo lối quen thuộc, trái nghĩa."
         },
         {
-          "id": "U7_CORE_quiz37",
-          "sentenceWithGap": "A ___ was displayed because the original was too valuable to move.",
+          "id": "U7_CORE_quiz22",
+          "sentenceWithGap": "He painted a ___ landscape: green hills, a blue sky and a small white house, just like many others.",
           "options": [
-            "reproduction",
-            "sketch",
-            "work of art",
-            "art collection"
-          ],
-          "answer": "reproduction",
-          "sentenceVi": "Một bản sao được trưng bày vì bản gốc quá quý giá để di chuyển."
-        },
-        {
-          "id": "U7_CORE_quiz38",
-          "sentenceWithGap": "The recycled-material installation was both ___ and practical, turning old rubbish into imaginative new shapes.",
-          "options": [
-            "creative",
-            "conventional",
-            "realistic",
-            "picturesque"
-          ],
-          "answer": "creative",
-          "sentenceVi": "Tác phẩm sắp đặt từ vật liệu tái chế vừa sáng tạo vừa thực tế, biến rác cũ thành những hình khối mới đầy sáng tạo."
-        },
-        {
-          "id": "U7_CORE_quiz39",
-          "sentenceWithGap": "Maya preferred a ___ landscape to the experimental pieces.",
-          "options": [
-            "conventional",
-            "abstract",
             "original",
+            "abstract",
+            "conventional",
             "creative"
           ],
           "answer": "conventional",
-          "sentenceVi": "Maya thích một bức tranh phong cảnh theo lối truyền thống hơn là các tác phẩm thử nghiệm."
+          "sentenceVi": "Anh vẽ một bức phong cảnh theo lối truyền thống: đồi xanh, bầu trời xanh và một ngôi nhà trắng nhỏ, giống nhiều bức khác.",
+          "explanation": "'conventional' là theo lối truyền thống, quen thuộc, giống nhiều bức khác (đồi xanh, trời xanh, nhà trắng). 'Abstract', 'original' và 'creative' chỉ sự khác lạ, mới mẻ."
         },
         {
-          "id": "U7_CORE_quiz40",
-          "sentenceWithGap": "Each painter developed a recognisable ___.",
+          "id": "U7_CORE_quiz23",
+          "sentenceWithGap": "She used three different ___ of green, from pale to very dark, to paint the leaves.",
           "options": [
-            "style",
-            "shade",
-            "colour",
-            "collection"
-          ],
-          "answer": "style",
-          "sentenceVi": "Mỗi hoạ sĩ đều phát triển một phong cách dễ nhận biết riêng."
-        },
-        {
-          "id": "U7_CORE_quiz41",
-          "sentenceWithGap": "The artist used several ___ of green in the landscape.",
-          "options": [
-            "shades",
+            "sketches",
             "styles",
-            "collections",
-            "textiles"
+            "prints",
+            "shades"
           ],
           "answer": "shades",
-          "sentenceVi": "Nghệ sĩ đã dùng nhiều sắc độ xanh lá khác nhau trong bức tranh phong cảnh."
-        },
-        {
-          "id": "U7_CORE_quiz42",
-          "sentenceWithGap": "Bright ___ — vivid red and yellow — helped the poster stand out from across the room.",
-          "options": [
-            "colour",
-            "shade",
-            "style",
-            "texture"
-          ],
-          "answer": "colour",
-          "sentenceVi": "Màu sắc tươi sáng — đỏ và vàng rực rỡ — giúp tấm áp phích nổi bật từ khắp phòng."
-        },
-        {
-          "id": "U7_CORE_quiz43",
-          "sentenceWithGap": "The painting showed a ___ village beside the river.",
-          "options": [
-            "picturesque",
-            "abstract",
-            "conventional",
-            "original"
-          ],
-          "answer": "picturesque",
-          "sentenceVi": "Bức tranh vẽ một ngôi làng đẹp như tranh bên bờ sông."
-        },
-        {
-          "id": "U7_CORE_quiz44",
-          "sentenceWithGap": "Visitors admired the large installation's size and skilful craftsmanship, which made it an ___ centrepiece.",
-          "options": [
-            "impressive",
-            "conventional",
-            "realistic",
-            "abstract"
-          ],
-          "answer": "impressive",
-          "sentenceVi": "Khách tham quan ngưỡng mộ kích thước và tay nghề khéo léo của tác phẩm sắp đặt lớn, khiến nó trở thành một điểm nhấn trung tâm ấn tượng."
-        },
-        {
-          "id": "U7_CORE_quiz45",
-          "sentenceWithGap": "The large ___ installation used real depth and solidity, rather than looking flat, so visitors felt they could almost walk around the sculpture.",
-          "options": [
-            "three-dimensional",
-            "abstract",
-            "realistic",
-            "original"
-          ],
-          "answer": "three-dimensional",
-          "sentenceVi": "Tác phẩm sắp đặt ba chiều lớn có chiều sâu và khối thật sự, không phẳng dẹt, khiến khách tham quan cảm thấy như có thể đi vòng quanh bức tượng."
+          "sentenceVi": "Cô dùng ba sắc độ xanh lá khác nhau, từ nhạt đến rất đậm, để vẽ những chiếc lá.",
+          "explanation": "'shade' là sắc độ, một dạng nhạt hay đậm hơn của cùng một màu; từ xanh nhạt đến xanh rất đậm là ba sắc độ xanh. Phong cách, bản in và bản phác họa không nói về độ đậm nhạt của màu. Nghĩa các lựa chọn: sketches = bản phác họa; styles = phong cách; prints = bản in; shades = sắc độ."
         }
+      ],
+      "matchWords": [
+        "painting",
+        "drawing",
+        "architecture",
+        "textiles",
+        "jewellery",
+        "sculpture",
+        "portrait",
+        "landscape",
+        "still life",
+        "sketch",
+        "watercolour",
+        "oil painting",
+        "print",
+        "art collection",
+        "on public display",
+        "reproduction",
+        "creative",
+        "style",
+        "colour",
+        "picturesque",
+        "impressive",
+        "three-dimensional / 3D effect"
       ]
     },
     {
@@ -14838,7 +14978,8 @@
         "blush",
         "shiver",
         "tremble",
-        "shake"
+        "shake",
+        "noticeable feature"
       ],
       "image": "assets/images/passages/MT3_u8_impression.png"
     },
