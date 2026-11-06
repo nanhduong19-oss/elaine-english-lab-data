@@ -11912,7 +11912,109 @@
           "answer": "stand for"
         }
       ],
-      "image": "assets/images/passages/MT4_u14_storm.jpg"
+      "image": "assets/images/passages/MT4_u14_storm.jpg",
+      "quizQuestions": [
+        {
+          "id": "U14_PV_quiz1",
+          "sentenceWithGap": "Because the old observation hut was no longer safe, the council decided to ___ the whole building and put up a new one.",
+          "options": [
+            "tear down",
+            "put out",
+            "die down",
+            "face up to"
+          ],
+          "answer": "tear down",
+          "sentenceVi": "Vì chòi quan sát cũ không còn an toàn, hội đồng quyết định phá dỡ toàn bộ tòa nhà và dựng một cái mới.",
+          "explanation": "'tear down' nghĩa là phá dỡ một công trình. Chòi quan sát cũ không còn an toàn nên hội đồng quyết định phá dỡ rồi xây cái mới. Các phương án còn lại không đi được với 'the whole building'."
+        },
+        {
+          "id": "U14_PV_quiz2",
+          "sentenceWithGap": "If the sky begins to ___ by noon, the students will restart the coastal bird count.",
+          "options": [
+            "set in",
+            "clear up",
+            "cut off",
+            "face up to"
+          ],
+          "answer": "clear up",
+          "sentenceVi": "Nếu trời bắt đầu quang hơn vào buổi trưa, học sinh sẽ tiếp tục việc đếm chim ven biển.",
+          "explanation": "Trong ngữ cảnh thời tiết, 'clear up' nghĩa là trời trở nên quang đãng hơn. Khi trời quang, học sinh có thể tiếp tục khảo sát."
+        },
+        {
+          "id": "U14_PV_quiz3",
+          "sentenceWithGap": "A fallen tree could completely ___ the only path to the wetland, leaving the survey team unable to reach it.",
+          "options": [
+            "put out",
+            "call for",
+            "cut off",
+            "clear up"
+          ],
+          "answer": "cut off",
+          "sentenceVi": "Một cây đổ có thể chặn hoàn toàn con đường duy nhất tới vùng đất ngập nước, khiến nhóm khảo sát không thể tiếp cận nơi đó.",
+          "explanation": "'cut off' ở Unit 14 mang nghĩa chặn một tuyến đường hoặc khiến một nơi không thể tiếp cận. Cây đổ chặn con đường duy nhất nên nhóm không thể tới vùng đất ngập nước."
+        },
+        {
+          "id": "U14_PV_quiz4",
+          "sentenceWithGap": "The rangers will wait for the strong wind to ___ before checking the damaged observation tower.",
+          "options": [
+            "set in",
+            "put out",
+            "face up to",
+            "die down"
+          ],
+          "answer": "die down",
+          "sentenceVi": "Các kiểm lâm sẽ chờ gió mạnh dịu xuống trước khi kiểm tra tháp quan sát bị hư hỏng.",
+          "explanation": "'die down' nghĩa là dần trở nên yếu hơn hoặc nhẹ hơn. Việc kiểm tra tháp sẽ an toàn hơn sau khi gió mạnh dịu xuống."
+        },
+        {
+          "id": "U14_PV_quiz5",
+          "sentenceWithGap": "After seeing the flooded nesting area, the team had to ___ the fact that part of the survey would be delayed.",
+          "options": [
+            "face up to",
+            "stand for",
+            "throw away",
+            "do up"
+          ],
+          "answer": "face up to",
+          "sentenceVi": "Sau khi nhìn thấy khu vực làm tổ bị ngập, nhóm phải đối mặt với sự thật rằng một phần cuộc khảo sát sẽ bị trì hoãn.",
+          "explanation": "'face up to' nghĩa là chấp nhận và đối mặt với một sự thật hoặc tình huống khó chịu. Nhóm phải chấp nhận rằng một phần khảo sát sẽ bị hoãn."
+        },
+        {
+          "id": "U14_PV_quiz6",
+          "sentenceWithGap": "The dry grass caught fire after lightning struck, so the rangers rushed to ___ the flames.",
+          "options": [
+            "call off",
+            "put out",
+            "tear down",
+            "cut off"
+          ],
+          "answer": "put out",
+          "sentenceVi": "Cỏ khô bốc cháy sau khi bị sét đánh, vì vậy các kiểm lâm vội chạy tới dập tắt ngọn lửa.",
+          "explanation": "'put out' dùng với lửa và có nghĩa là dập tắt. Các lựa chọn còn lại không diễn tả hành động làm ngọn lửa ngừng cháy."
+        },
+        {
+          "id": "U14_PV_quiz7",
+          "sentenceWithGap": "Whenever thick fog starts to ___ in the evening, the ferry company usually cancels the last crossings.",
+          "options": [
+            "clear up",
+            "die down",
+            "set in",
+            "stand for"
+          ],
+          "answer": "set in",
+          "sentenceVi": "Mỗi khi sương mù dày bắt đầu phủ xuống và kéo dài vào buổi tối, công ty phà thường hủy những chuyến cuối.",
+          "explanation": "'set in' diễn tả một tình trạng, đặc biệt là thời tiết xấu, bắt đầu và có vẻ sẽ kéo dài. Chính vì sương mù kéo dài nên công ty phà hủy các chuyến cuối. 'clear up' và 'die down' nghĩa là thời tiết dịu đi hoặc quang ra, không dẫn đến việc hủy chuyến."
+        }
+      ],
+      "matchWords": [
+        "call for",
+        "call off",
+        "do up",
+        "get somebody down",
+        "put something down to",
+        "stand for",
+        "throw away"
+      ]
     },
     {
       "passageId": "U14_WP",
@@ -11964,7 +12066,214 @@
           "answer": "warned them of"
         }
       ],
-      "image": "assets/images/passages/MT4_u14_reopens.jpg"
+      "image": "assets/images/passages/MT4_u14_reopens.jpg",
+      "quizQuestions": [
+        {
+          "id": "U14_WP_quiz1",
+          "sentenceWithGap": "Every student must be ___ the tide times before walking onto the mudflats.",
+          "options": [
+            "aware of",
+            "aware that",
+            "aware to",
+            "aware with"
+          ],
+          "answer": "aware of",
+          "sentenceVi": "Mọi học sinh phải biết rõ giờ thủy triều trước khi bước ra bãi bùn.",
+          "explanation": "'be aware of + noun' nghĩa là nhận thức được một điều gì. Sau chỗ trống là cụm danh từ 'the tide times', nên chọn 'aware of'; 'aware that' chỉ dùng trước một mệnh đề đầy đủ. Nghĩa các lựa chọn: aware that = nhận thức rằng…."
+        },
+        {
+          "id": "U14_WP_quiz2",
+          "sentenceWithGap": "The team was ___ another storm could reach the island before midnight.",
+          "options": [
+            "aware of",
+            "aware that",
+            "aware at",
+            "aware for"
+          ],
+          "answer": "aware that",
+          "sentenceVi": "Nhóm nhận thức rằng một cơn bão khác có thể đến đảo trước nửa đêm.",
+          "explanation": "Sau chỗ trống là một mệnh đề đầy đủ ('another storm could reach...'), nên dùng 'aware that + clause'. 'aware of' chỉ đi với cụm danh từ. Nghĩa các lựa chọn: aware that = nhận thức rằng…."
+        },
+        {
+          "id": "U14_WP_quiz3",
+          "sentenceWithGap": "The students were ___ the poor visibility because it stopped them from completing the bird count.",
+          "options": [
+            "disappointed to",
+            "disappointed of",
+            "disappointed with",
+            "disappointed on"
+          ],
+          "answer": "disappointed with",
+          "sentenceVi": "Học sinh thất vọng về tầm nhìn kém vì nó khiến họ không thể hoàn thành việc đếm chim.",
+          "explanation": "'be disappointed with/by something' dùng khi thất vọng về một sự việc hoặc tình huống; ở đây là tầm nhìn kém. 'disappointed to' chỉ đi trước một động từ (ví dụ 'disappointed to see…'), không đi trước cụm danh từ. Nghĩa các lựa chọn: disappointed to = thất vọng khi (thấy, biết…); disappointed with = thất vọng về điều gì."
+        },
+        {
+          "id": "U14_WP_quiz4",
+          "sentenceWithGap": "Dr Mara was ___ one volunteer who ignored the marked route despite two safety warnings.",
+          "options": [
+            "disappointed on",
+            "disappointed at",
+            "disappointed for",
+            "disappointed in"
+          ],
+          "answer": "disappointed in",
+          "sentenceVi": "Dr Mara thất vọng về một tình nguyện viên đã bỏ qua tuyến đường được đánh dấu dù đã nhận hai cảnh báo an toàn.",
+          "explanation": "'be disappointed in somebody' dùng khi thất vọng về hành vi của một người. 'disappointed at' đi với một sự việc hoặc tin tức, không đi với người. Nghĩa các lựa chọn: disappointed at = thất vọng trước (một sự việc, tin tức)."
+        },
+        {
+          "id": "U14_WP_quiz5",
+          "sentenceWithGap": "The rangers expect every visitor ___ inside the marked paths during nesting season.",
+          "options": [
+            "stay",
+            "to stay",
+            "staying",
+            "to staying"
+          ],
+          "answer": "to stay",
+          "sentenceVi": "Các kiểm lâm mong mọi khách tham quan ở trong những lối đi được đánh dấu trong mùa làm tổ.",
+          "explanation": "Cấu trúc đúng là 'expect somebody to do something': sau tân ngữ 'every visitor' phải có 'to + động từ nguyên mẫu'. Dạng nguyên mẫu thiếu 'to' hoặc dạng V-ing không dùng được ở đây. Nghĩa các lựa chọn: stay = ở lại (nguyên mẫu không có to); to stay = mong đợi ai làm gì; staying = ở lại (dạng V-ing)."
+        },
+        {
+          "id": "U14_WP_quiz6",
+          "sentenceWithGap": "Scientists expect ___ the young owls will leave the nest within two weeks.",
+          "options": [
+            "for",
+            "to",
+            "of",
+            "that"
+          ],
+          "answer": "that",
+          "sentenceVi": "Các nhà khoa học dự đoán rằng những con cú non sẽ rời tổ trong vòng hai tuần.",
+          "explanation": "Khi 'expect' theo sau bởi một mệnh đề hoàn chỉnh ('the young owls will leave...'), dùng 'expect that + clause'. 'expect somebody to do' cần có tân ngữ rồi mới đến động từ nguyên mẫu. Nghĩa các lựa chọn: to = dùng trong expect sb to do, không đi trước mệnh đề; that = mong rằng…."
+        },
+        {
+          "id": "U14_WP_quiz7",
+          "sentenceWithGap": "The marsh owl's call is ___ people who live near the reserve.",
+          "options": [
+            "familiar with",
+            "familiar for",
+            "familiar to",
+            "familiar at"
+          ],
+          "answer": "familiar to",
+          "sentenceVi": "Tiếng kêu của loài cú đầm lầy rất quen thuộc với những người sống gần khu bảo tồn.",
+          "explanation": "'something is familiar to somebody' nghĩa là một thứ quen thuộc đối với ai. Chủ ngữ ở đây là tiếng kêu ('the call'), còn người đứng sau chỗ trống nên dùng 'familiar to'. 'familiar with' dùng khi chính người là chủ ngữ ('people are familiar with the call')."
+        },
+        {
+          "id": "U14_WP_quiz8",
+          "sentenceWithGap": "From the muddy path below, the nest was hard ___ clearly without binoculars.",
+          "options": [
+            "to see",
+            "seeing",
+            "see",
+            "to seeing"
+          ],
+          "answer": "to see",
+          "sentenceVi": "Từ con đường lầy lội phía dưới, cái tổ rất khó nhìn rõ nếu không có ống nhòm.",
+          "explanation": "Cấu trúc 'something is hard to do' diễn tả một việc khó thực hiện; chủ ngữ ('the nest') chính là thứ khó được nhìn thấy. Nghĩa các lựa chọn: to see = khó làm gì; seeing = nhìn thấy (dạng V-ing); see = nhìn thấy (nguyên mẫu không có to)."
+        },
+        {
+          "id": "U14_WP_quiz9",
+          "sentenceWithGap": "The main purpose of the low barriers is to ___ accidents during crowded weekend surveys.",
+          "options": [
+            "protect",
+            "forbid",
+            "prevent",
+            "prevent from"
+          ],
+          "answer": "prevent",
+          "sentenceVi": "Mục đích chính của các hàng rào thấp là ngăn ngừa tai nạn trong những đợt khảo sát đông người vào cuối tuần.",
+          "explanation": "'prevent + noun' nghĩa là ngăn chặn một điều xảy ra; sau chỗ trống là danh từ 'accidents' nên không cần giới từ. 'protect' phải có thêm 'from/against', còn 'forbid' nghĩa là cấm nên không hợp ngữ cảnh. Nghĩa các lựa chọn: protect = bảo vệ (cần thêm from/against: protect sb from sth); forbid = cấm (cấm ai làm gì)."
+        },
+        {
+          "id": "U14_WP_quiz10",
+          "sentenceWithGap": "The rope barrier prevented visitors ___ the nesting zone.",
+          "options": [
+            "to enter",
+            "from entering",
+            "against entering",
+            "enter"
+          ],
+          "answer": "from entering",
+          "sentenceVi": "Hàng rào dây đã ngăn khách tham quan đi vào khu vực làm tổ.",
+          "explanation": "Cấu trúc chuẩn là 'prevent somebody from doing something'. 'against entering' là cấu trúc của 'warn somebody against doing', không dùng sau 'prevent'. Nghĩa các lựa chọn: from entering = ngăn ai làm gì; against entering = đi với warn sb against doing, không đi với prevent."
+        },
+        {
+          "id": "U14_WP_quiz11",
+          "sentenceWithGap": "Regular equipment checks can prevent technical failures ___ during long field surveys.",
+          "options": [
+            "to happen",
+            "from happening",
+            "of happening",
+            "happen"
+          ],
+          "answer": "from happening",
+          "sentenceVi": "Việc kiểm tra thiết bị thường xuyên có thể ngăn các sự cố kỹ thuật xảy ra trong những chuyến khảo sát thực địa dài.",
+          "explanation": "Mẫu đúng là 'prevent something from happening'. 'of happening' chỉ đi sau các danh từ như 'the risk', 'the chance', không đi sau 'prevent'. Nghĩa các lựa chọn: from happening = ngăn điều gì xảy ra; of happening = về việc xảy ra (như trong the risk of happening)."
+        },
+        {
+          "id": "U14_WP_quiz12",
+          "sentenceWithGap": "Because the tide was rising, the team was ___ time and had to finish the count quickly.",
+          "options": [
+            "short of",
+            "short for",
+            "short with",
+            "short at"
+          ],
+          "answer": "short of",
+          "sentenceVi": "Vì thủy triều đang dâng, nhóm thiếu thời gian và phải hoàn thành việc đếm thật nhanh.",
+          "explanation": "'be short of something' nghĩa là không có đủ một thứ gì. 'short for' và 'short with' là những cấu trúc có thật nhưng mang nghĩa khác (viết tắt của; cộc cằn với ai), không hợp với 'time'. Nghĩa các lựa chọn: short for = viết tắt của (như trong Bob is short for Robert); short with = cộc cằn, thiếu kiên nhẫn với ai."
+        },
+        {
+          "id": "U14_WP_quiz13",
+          "sentenceWithGap": "Because visitors kept feeding the foxes, the ranger had to warn them ___ the wild foxes.",
+          "options": [
+            "to feed",
+            "for feeding",
+            "against feeding",
+            "at feeding"
+          ],
+          "answer": "against feeding",
+          "sentenceVi": "Vì khách tham quan cứ cho cáo ăn, kiểm lâm phải cảnh báo họ không nên cho những con cáo hoang ăn.",
+          "explanation": "Mẫu đúng là 'warn somebody against doing something'. 'warn somebody to do' là cấu trúc có thật nhưng nghĩa là cảnh báo ai nên làm điều đó, trái với ngữ cảnh (du khách đã cho cáo ăn quá nhiều). Nghĩa các lựa chọn: to feed = cảnh báo ai nên làm gì (không hợp ngữ cảnh); against feeding = cảnh báo ai không nên làm gì."
+        },
+        {
+          "id": "U14_WP_quiz14",
+          "sentenceWithGap": "Before the night survey, the ranger had to warn the students ___ the marked trail because the ground beyond it was unsafe.",
+          "options": [
+            "to leave",
+            "not leaving",
+            "not to leave",
+            "don't leave"
+          ],
+          "answer": "not to leave",
+          "sentenceVi": "Trước chuyến khảo sát ban đêm, kiểm lâm phải cảnh báo học sinh không được rời khỏi lối đi được đánh dấu vì khu đất phía ngoài không an toàn.",
+          "explanation": "Mẫu đúng là 'warn somebody not to do something'. 'to leave' có đúng cấu trúc 'warn somebody to do' nhưng nghĩa ngược: câu cần cảnh báo học sinh không được rời lối đi. Nghĩa các lựa chọn: to leave = cảnh báo ai nên làm gì (không hợp ngữ cảnh); not to leave = cảnh báo ai không làm gì."
+        },
+        {
+          "id": "U14_WP_quiz15",
+          "sentenceWithGap": "The latest forecast ___ the river could rise above the bridge by dawn.",
+          "options": [
+            "warned of",
+            "warned about",
+            "warned that",
+            "warned to"
+          ],
+          "answer": "warned that",
+          "sentenceVi": "Bản dự báo mới nhất cảnh báo rằng sông có thể dâng lên cao hơn cây cầu vào lúc rạng sáng.",
+          "explanation": "Sau chỗ trống là một mệnh đề hoàn chỉnh ('the river could rise...'), nên dùng 'warn that + clause'. 'warned of' và 'warned about' chỉ đi với cụm danh từ hoặc V-ing. Nghĩa các lựa chọn: warned of = cảnh báo về điều gì (đi với cụm danh từ); warned about = cảnh báo về việc gì (đi với cụm danh từ hoặc V-ing); warned that = cảnh báo rằng…."
+        }
+      ],
+      "matchWords": [
+        "covered in/with sth",
+        "except (for) sth/doing",
+        "familiar with sth",
+        "famous for sth/doing",
+        "glance at sth/sb",
+        "hard doing sth",
+        "short on sth",
+        "warn sb of sth"
+      ]
     },
     {
       "passageId": "U15_COLLOC",
@@ -12060,7 +12369,305 @@
           "answer": "caught sight of"
         }
       ],
-      "image": "assets/images/passages/MT4_u15_colloc.jpg"
+      "image": "assets/images/passages/MT4_u15_colloc.jpg",
+      "quizQuestions": [
+        {
+          "id": "U15_COLLOC_quiz1",
+          "sentenceWithGap": "When the main computer froze, Elise had to ___ the backup system and switch the alarms manually.",
+          "options": [
+            "take control of",
+            "have an effect on",
+            "make a mess of",
+            "waste her time"
+          ],
+          "answer": "take control of",
+          "sentenceVi": "Khi máy tính chính bị treo, Elise phải giành quyền kiểm soát hệ thống dự phòng và chuyển các cảnh báo sang chế độ thủ công.",
+          "explanation": "'take control of' nghĩa là giành quyền kiểm soát một hệ thống hoặc tình huống. Elise phải trực tiếp điều khiển hệ thống dự phòng khi máy chính bị treo. Nghĩa các lựa chọn: take control of = mất/giành/có quyền kiểm soát điều gì; waste her time = lãng phí thời gian."
+        },
+        {
+          "id": "U15_COLLOC_quiz2",
+          "sentenceWithGap": "After the faulty sensor began triggering alarms every minute, the warning system was completely ___.",
+          "options": [
+            "under the weather",
+            "out of control",
+            "in sight of",
+            "at first sight"
+          ],
+          "answer": "out of control",
+          "sentenceVi": "Sau khi cảm biến lỗi bắt đầu kích hoạt cảnh báo mỗi phút, hệ thống cảnh báo hoàn toàn mất kiểm soát.",
+          "explanation": "Một hệ thống tự kích hoạt cảnh báo liên tục và không hoạt động đúng là 'out of control'."
+        },
+        {
+          "id": "U15_COLLOC_quiz3",
+          "sentenceWithGap": "Rising sea temperatures can ___ the strength of tropical storms over time.",
+          "options": [
+            "take effect",
+            "take responsibility for",
+            "have an effect on",
+            "long for"
+          ],
+          "answer": "have an effect on",
+          "sentenceVi": "Nhiệt độ nước biển tăng có thể ảnh hưởng đến sức mạnh của các cơn bão nhiệt đới theo thời gian.",
+          "explanation": "'have an effect on' nghĩa là ảnh hưởng đến một điều gì. Nhiệt độ biển tăng có thể làm thay đổi sức mạnh của bão. Nghĩa các lựa chọn: take responsibility for = chịu trách nhiệm về việc gì; long for = khao khát điều gì."
+        },
+        {
+          "id": "U15_COLLOC_quiz4",
+          "sentenceWithGap": "The revised flood-warning rules will ___ at the start of next month.",
+          "options": [
+            "come to an end",
+            "make a fuss about",
+            "waste your time",
+            "take effect"
+          ],
+          "answer": "take effect",
+          "sentenceVi": "Các quy định cảnh báo lũ được sửa đổi sẽ bắt đầu có hiệu lực vào đầu tháng tới.",
+          "explanation": "'take effect' dùng khi một quy định, luật hoặc thay đổi bắt đầu có hiệu lực. Nghĩa các lựa chọn: make a fuss about = làm ầm ĩ, phàn nàn về việc gì."
+        },
+        {
+          "id": "U15_COLLOC_quiz5",
+          "sentenceWithGap": "___, the storm moved offshore and the village escaped serious flooding.",
+          "options": [
+            "In the end",
+            "At first sight",
+            "For a long time",
+            "Under the weather"
+          ],
+          "answer": "In the end",
+          "sentenceVi": "Cuối cùng, cơn bão di chuyển ra ngoài khơi và ngôi làng tránh được một trận lũ nghiêm trọng.",
+          "explanation": "'in the end' dùng để nói kết quả cuối cùng sau một chuỗi sự việc."
+        },
+        {
+          "id": "U15_COLLOC_quiz6",
+          "sentenceWithGap": "The emergency warning will ___ once the river level falls below the danger mark.",
+          "options": [
+            "long for",
+            "come to an end",
+            "make a mess of",
+            "catch sight of"
+          ],
+          "answer": "come to an end",
+          "sentenceVi": "Cảnh báo khẩn cấp sẽ kết thúc khi mực nước sông xuống dưới mức nguy hiểm.",
+          "explanation": "'come to an end' nghĩa là kết thúc. Cảnh báo sẽ kết thúc khi mực nước xuống dưới mức nguy hiểm. Nghĩa các lựa chọn: long for = khao khát điều gì; catch sight of = thoáng thấy."
+        },
+        {
+          "id": "U15_COLLOC_quiz7",
+          "sentenceWithGap": "After walking from the first marker to the final one, the rescue team had finally ___ the flooded mountain track.",
+          "options": [
+            "taken responsibility for",
+            "caught sight of",
+            "reached the end of",
+            "made a mess of"
+          ],
+          "answer": "reached the end of",
+          "sentenceVi": "Sau khi đi từ cột mốc đầu tiên đến cột mốc cuối cùng, đội cứu hộ cuối cùng đã đi đến hết con đường núi bị ngập.",
+          "explanation": "Nhóm đã đi từ điểm đánh dấu đầu tiên tới điểm cuối cùng nên họ đã 'reached the end of' con đường. Nghĩa các lựa chọn: taken responsibility for = chịu trách nhiệm về việc gì; reached the end of = đi đến hồi kết của việc gì."
+        },
+        {
+          "id": "U15_COLLOC_quiz8",
+          "sentenceWithGap": "Because the paths are so muddy, it will ___ finish the survey.",
+          "options": [
+            "long to",
+            "take a long time to",
+            "have an effect on",
+            "take responsibility for"
+          ],
+          "answer": "take a long time to",
+          "sentenceVi": "Vì đường rất lầy lội, việc hoàn thành cuộc khảo sát sẽ mất nhiều thời gian.",
+          "explanation": "'take a long time to + động từ' nghĩa là mất nhiều thời gian để làm việc gì. Đường lầy lội nên việc hoàn thành khảo sát sẽ mất nhiều thời gian. 'long to' có cùng hình thức nhưng nghĩa là mong mỏi, không hợp với chủ ngữ 'it'; hai phương án còn lại không đi trước 'finish'. Nghĩa các lựa chọn: long to = mong mỏi được làm gì; take a long time to = mất nhiều thời gian để làm gì; take responsibility for = chịu trách nhiệm về việc gì."
+        },
+        {
+          "id": "U15_COLLOC_quiz9",
+          "sentenceWithGap": "The survey can continue ___ the wind stays below the safety limit.",
+          "options": [
+            "in the end",
+            "as long as",
+            "at first sight",
+            "for a long time"
+          ],
+          "answer": "as long as",
+          "sentenceVi": "Cuộc khảo sát có thể tiếp tục miễn là tốc độ gió vẫn dưới giới hạn an toàn.",
+          "explanation": "'as long as' đưa ra một điều kiện, nghĩa là “miễn là”."
+        },
+        {
+          "id": "U15_COLLOC_quiz10",
+          "sentenceWithGap": "After a week of constant rain, the students ___ see blue sky again.",
+          "options": [
+            "looked like",
+            "wasted time",
+            "longed to",
+            "took effect"
+          ],
+          "answer": "longed to",
+          "sentenceVi": "Sau một tuần mưa liên tục, học sinh rất mong được nhìn thấy bầu trời xanh trở lại.",
+          "explanation": "'long to do something' nghĩa là rất mong mỏi được làm hoặc trải nghiệm điều gì. Nghĩa các lựa chọn: looked like = trông giống như; wasted time = lãng phí thời gian; longed to = mong mỏi được làm gì."
+        },
+        {
+          "id": "U15_COLLOC_quiz11",
+          "sentenceWithGap": "During the drought, local farmers ___ several days of steady rain.",
+          "options": [
+            "looked at",
+            "took control of",
+            "caught sight of",
+            "longed for"
+          ],
+          "answer": "longed for",
+          "sentenceVi": "Trong đợt hạn hán, những người nông dân địa phương khao khát có vài ngày mưa đều.",
+          "explanation": "'long for something' nghĩa là rất mong muốn có một điều gì. Người nông dân đang chịu hạn nên rất mong có mưa. Nghĩa các lựa chọn: looked at = nhìn vào; longed for = khao khát điều gì."
+        },
+        {
+          "id": "U15_COLLOC_quiz12",
+          "sentenceWithGap": "The sensor is buried under a metre of mud, so don't ___ trying to dig it out before the tide goes down.",
+          "options": [
+            "take effect",
+            "long for",
+            "waste your time",
+            "come to an end"
+          ],
+          "answer": "waste your time",
+          "sentenceVi": "Cảm biến bị chôn dưới hơn một mét bùn, vì vậy đừng lãng phí thời gian cố đào nó lên trước khi thủy triều rút.",
+          "explanation": "'waste your time + V-ing' nghĩa là lãng phí thời gian làm một việc vô ích. Cảm biến nằm dưới hơn một mét bùn nên cố đào lúc này là vô ích. Các phương án còn lại không có nghĩa phù hợp trong câu mệnh lệnh này. Nghĩa các lựa chọn: long for = khao khát điều gì."
+        },
+        {
+          "id": "U15_COLLOC_quiz13",
+          "sentenceWithGap": "The updated map was already open on the desk, so Nia did not need to hunt for it; she only had to ___ it carefully before choosing a safer route.",
+          "options": [
+            "look like",
+            "look for",
+            "look at",
+            "long for"
+          ],
+          "answer": "look at",
+          "sentenceVi": "Bản đồ cập nhật đã mở sẵn trên bàn, Nia không cần đi tìm nó; cô chỉ phải xem kỹ nó trước khi chọn một tuyến đường an toàn hơn.",
+          "explanation": "Bản đồ đã ở ngay trên bàn và Nia không cần đi tìm nó, nên cô chỉ cần 'look at' để xem kỹ; 'look for' nghĩa là tìm kiếm thứ chưa thấy. Nghĩa các lựa chọn: look for = tìm kiếm; long for = khao khát."
+        },
+        {
+          "id": "U15_COLLOC_quiz14",
+          "sentenceWithGap": "Tomás nearly ___ the public demonstration by connecting the wrong sensor to the main screen.",
+          "options": [
+            "made a fuss about",
+            "took control of",
+            "caught sight of",
+            "made a mess of"
+          ],
+          "answer": "made a mess of",
+          "sentenceVi": "Tomás suýt làm hỏng buổi trình diễn trước công chúng vì kết nối nhầm cảm biến với màn hình chính.",
+          "explanation": "'make a mess of something' nghĩa là làm hỏng hoặc xử lý một việc rất kém. Kết nối nhầm cảm biến suýt làm hỏng buổi trình diễn. Nghĩa các lựa chọn: made a fuss about = làm ầm ĩ về."
+        },
+        {
+          "id": "U15_COLLOC_quiz15",
+          "sentenceWithGap": "Dr Mara asked Elise to ___ checking every weather alarm before the station reopened.",
+          "options": [
+            "take responsibility for",
+            "make a fuss about",
+            "have an effect on",
+            "waste her time"
+          ],
+          "answer": "take responsibility for",
+          "sentenceVi": "Dr Mara yêu cầu Elise chịu trách nhiệm kiểm tra mọi cảnh báo thời tiết trước khi trạm mở cửa trở lại.",
+          "explanation": "'take responsibility for doing something' nghĩa là nhận trách nhiệm thực hiện một công việc. Nghĩa các lựa chọn: take responsibility for = chịu trách nhiệm về việc gì; make a fuss about = làm ầm ĩ, phàn nàn về; waste her time = lãng phí thời gian."
+        },
+        {
+          "id": "U15_COLLOC_quiz16",
+          "sentenceWithGap": "The lower path was flooded within ten minutes by ___.",
+          "options": [
+            "a happy ending",
+            "a heavy shower of rain",
+            "a world record",
+            "a weather forecast"
+          ],
+          "answer": "a heavy shower of rain",
+          "sentenceVi": "Con đường thấp bị ngập chỉ trong vòng mười phút bởi một trận mưa rào lớn.",
+          "explanation": "Một trận mưa rào lớn có thể làm ngập đường nhanh chóng. Các lựa chọn còn lại không thể gây ra ngập lụt. Nghĩa các lựa chọn: a heavy shower of rain = một trận mưa nhỏ/to; a world record = kỷ lục thế giới; a weather forecast = dự báo thời tiết."
+        },
+        {
+          "id": "U15_COLLOC_quiz17",
+          "sentenceWithGap": "When the fog briefly lifted, a gap in the cloud allowed Nia to ___ the missing sensor beside a rock.",
+          "options": [
+            "make a fuss about",
+            "long for",
+            "catch sight of",
+            "take control of"
+          ],
+          "answer": "catch sight of",
+          "sentenceVi": "Khi sương mù tạm tan, một khoảng trống trong mây cho phép Nia thoáng nhìn thấy cảm biến bị mất cạnh một tảng đá.",
+          "explanation": "'catch sight of' nghĩa là bất chợt hoặc thoáng nhìn thấy một vật. Nghĩa các lựa chọn: make a fuss about = làm ầm ĩ về; long for = khao khát; catch sight of = thoáng thấy; take control of = giành quyền kiểm soát."
+        },
+        {
+          "id": "U15_COLLOC_quiz18",
+          "sentenceWithGap": "Research stations ___ are comparing how coastal weather is changing.",
+          "options": [
+            "for a long time",
+            "at first sight",
+            "under the weather",
+            "all over the world"
+          ],
+          "answer": "all over the world",
+          "sentenceVi": "Các trạm nghiên cứu khắp thế giới đang so sánh cách thời tiết ven biển thay đổi.",
+          "explanation": "Câu nói về các trạm nghiên cứu ở nhiều quốc gia khác nhau, nên 'all over the world' phù hợp."
+        },
+        {
+          "id": "U15_COLLOC_quiz19",
+          "sentenceWithGap": "The climate exhibition will travel ___, visiting schools on five continents.",
+          "options": [
+            "around the world",
+            "under the weather",
+            "at first sight",
+            "in control"
+          ],
+          "answer": "around the world",
+          "sentenceVi": "Triển lãm khí hậu sẽ đi khắp thế giới, ghé thăm các trường học trên năm châu lục.",
+          "explanation": "'travel around the world' diễn tả việc đi tới nhiều nơi trên thế giới."
+        },
+        {
+          "id": "U15_COLLOC_quiz20",
+          "sentenceWithGap": "The satellite image was shared so widely that almost ___ could see the storm from space.",
+          "options": [
+            "a world record",
+            "the whole world",
+            "industrial waste",
+            "a happy ending"
+          ],
+          "answer": "the whole world",
+          "sentenceVi": "Hình ảnh vệ tinh được chia sẻ rộng rãi đến mức gần như cả thế giới đều có thể nhìn thấy cơn bão từ không gian.",
+          "explanation": "'the whole world' đóng vai trò cụm danh từ và nghĩa là toàn bộ thế giới. Nghĩa các lựa chọn: a world record = kỷ lục thế giới."
+        },
+        {
+          "id": "U15_COLLOC_quiz21",
+          "sentenceWithGap": "Bluehaven recorded one of the highest overnight temperatures ___ that year.",
+          "options": [
+            "at first sight",
+            "under the weather",
+            "in the world",
+            "for a long time"
+          ],
+          "answer": "in the world",
+          "sentenceVi": "Bluehaven ghi nhận một trong những mức nhiệt độ ban đêm cao nhất trên thế giới trong năm đó.",
+          "explanation": "Cấu trúc 'one of the highest ... in the world' dùng để nhấn mạnh vị trí so sánh trên phạm vi toàn thế giới."
+        }
+      ],
+      "matchWords": [
+        "in control",
+        "at the end of",
+        "a happy ending",
+        "on the floor",
+        "on the ground/first/second floor",
+        "for a long time",
+        "make/cause a fuss about something/doing something",
+        "have/take a look at",
+        "in a mess",
+        "take/have a shower",
+        "a rain shower",
+        "in sight of",
+        "at first sight",
+        "a waste of time",
+        "look like",
+        "industrial/household waste",
+        "weather forecast",
+        "under the weather",
+        "throughout the world",
+        "world record"
+      ],
+      "s3SessionSize": 21
     },
     {
       "passageId": "U15_CORE",
@@ -12645,7 +13252,164 @@
           "answer": "in conclusion"
         }
       ],
-      "image": "assets/images/passages/MT4_u16_conclusion.jpg"
+      "image": "assets/images/passages/MT4_u16_conclusion.jpg",
+      "quizQuestions": [
+        {
+          "id": "U16_COLLOC_quiz1",
+          "sentenceWithGap": "___ reduce condensation inside the case, Elise added a thin waterproof seal.",
+          "options": [
+            "In an attempt to",
+            "On average",
+            "In conclusion",
+            "At the bottom of"
+          ],
+          "answer": "In an attempt to",
+          "sentenceVi": "Trong nỗ lực giảm hơi nước ngưng tụ bên trong vỏ thiết bị, Elise đã thêm một lớp niêm phong chống nước mỏng.",
+          "explanation": "'in an attempt to + verb' diễn tả mục đích của một nỗ lực. Elise thêm lớp chống nước nhằm giảm hơi ẩm ngưng tụ."
+        },
+        {
+          "id": "U16_COLLOC_quiz2",
+          "sentenceWithGap": "Before replacing the whole unit, Tomás decided to ___ repair the damaged contact.",
+          "options": [
+            "begin with",
+            "make an attempt to",
+            "experiment with",
+            "face the fact that"
+          ],
+          "answer": "make an attempt to",
+          "sentenceVi": "Trước khi thay toàn bộ thiết bị, Tomás quyết định cố gắng sửa phần tiếp xúc bị hỏng.",
+          "explanation": "'make an attempt to do something' nghĩa là cố gắng làm một việc."
+        },
+        {
+          "id": "U16_COLLOC_quiz3",
+          "sentenceWithGap": "Everyone hoped the first casing would be waterproof. ___ it leaked after every single test.",
+          "options": [
+            "With the introduction of",
+            "At the bottom of",
+            "The fact of the matter is that",
+            "The cause of"
+          ],
+          "answer": "The fact of the matter is that",
+          "sentenceVi": "Mọi người hy vọng lớp vỏ đầu tiên sẽ chống nước. Sự thật là nó bị rò rỉ sau mỗi lần thử.",
+          "explanation": "'the fact of the matter is that' dùng để nói sự thật thực tế, thường trái với điều mong đợi trước đó, và theo sau là một mệnh đề đầy đủ ('it leaked...'). Ba phương án còn lại phải đi với một cụm danh từ, không đứng trước mệnh đề."
+        },
+        {
+          "id": "U16_COLLOC_quiz4",
+          "sentenceWithGap": "___ the second trial, Dr Mara checked every cable before the power was switched on.",
+          "options": [
+            "In conclusion",
+            "On average",
+            "With the introduction of",
+            "At the beginning of"
+          ],
+          "answer": "At the beginning of",
+          "sentenceVi": "Vào đầu lần thử thứ hai, Dr Mara kiểm tra mọi dây cáp trước khi bật nguồn.",
+          "explanation": "'at the beginning of + noun' nghĩa là vào lúc bắt đầu một khoảng thời gian hoặc hoạt động."
+        },
+        {
+          "id": "U16_COLLOC_quiz5",
+          "sentenceWithGap": "The laboratory tour will ___ a short explanation of the new sensor before students enter the test area.",
+          "options": [
+            "begin with",
+            "experiment with",
+            "face the fact that",
+            "take a photograph of"
+          ],
+          "answer": "begin with",
+          "sentenceVi": "Chuyến tham quan phòng thí nghiệm sẽ bắt đầu bằng một phần giải thích ngắn về cảm biến mới trước khi học sinh vào khu vực thử nghiệm.",
+          "explanation": "'begin with' dùng để nói phần hoặc hoạt động đầu tiên trong một chuỗi."
+        },
+        {
+          "id": "U16_COLLOC_quiz6",
+          "sentenceWithGap": "A cracked seal was eventually identified as ___ the moisture inside the case.",
+          "options": [
+            "an introduction to",
+            "the cause of",
+            "at the bottom of",
+            "in conclusion"
+          ],
+          "answer": "the cause of",
+          "sentenceVi": "Một lớp niêm phong bị nứt cuối cùng được xác định là nguyên nhân gây ra hơi ẩm bên trong vỏ thiết bị.",
+          "explanation": "'the cause of' là nguyên nhân gây ra một sự việc. Vết nứt ở lớp niêm phong làm hơi ẩm lọt vào bên trong."
+        },
+        {
+          "id": "U16_COLLOC_quiz7",
+          "sentenceWithGap": "After comparing all three trials, the team ___ the new seal reduced the number of errors.",
+          "options": [
+            "began with",
+            "experimented with",
+            "came to the conclusion that",
+            "made a phone call to"
+          ],
+          "answer": "came to the conclusion that",
+          "sentenceVi": "Sau khi so sánh cả ba lần thử, nhóm đi đến kết luận rằng lớp niêm phong mới đã giảm số lượng lỗi.",
+          "explanation": "Sau khi phân tích và so sánh dữ liệu, nhóm đi đến một kết luận dựa trên bằng chứng. Nghĩa các lựa chọn: began with = bắt đầu với; came to the conclusion that = đi đến kết luận rằng."
+        },
+        {
+          "id": "U16_COLLOC_quiz8",
+          "sentenceWithGap": "To compare corrosion rates, the students decided to ___ three different metal coatings under identical salt-spray conditions.",
+          "options": [
+            "take a photograph of",
+            "face the fact that",
+            "make a phone call to",
+            "carry out an experiment on"
+          ],
+          "answer": "carry out an experiment on",
+          "sentenceVi": "Để so sánh tốc độ ăn mòn, học sinh quyết định tiến hành một thí nghiệm trên ba lớp phủ kim loại khác nhau trong cùng điều kiện phun muối.",
+          "explanation": "Việc so sánh tốc độ ăn mòn dưới cùng điều kiện cần một thí nghiệm có kiểm soát."
+        },
+        {
+          "id": "U16_COLLOC_quiz9",
+          "sentenceWithGap": "During development, the engineers continued to ___ different waterproof materials for the outer case.",
+          "options": [
+            "experiment with",
+            "begin with",
+            "face the fact that",
+            "make a phone call to"
+          ],
+          "answer": "experiment with",
+          "sentenceVi": "Trong quá trình phát triển, các kỹ sư tiếp tục thử nghiệm với nhiều vật liệu chống nước khác nhau cho lớp vỏ ngoài.",
+          "explanation": "'experiment with something' nghĩa là thử nhiều cách hoặc vật liệu khác nhau để xem cái nào hoạt động tốt."
+        },
+        {
+          "id": "U16_COLLOC_quiz10",
+          "sentenceWithGap": "The first prototype looked fragile. ___, it survived every drop test without damage.",
+          "options": [
+            "In conclusion",
+            "In fact",
+            "On average",
+            "At the beginning of"
+          ],
+          "answer": "In fact",
+          "sentenceVi": "Nguyên mẫu đầu tiên trông có vẻ mỏng manh. Thực ra, nó vượt qua mọi bài thử rơi mà không bị hư hỏng.",
+          "explanation": "'in fact' dùng để đưa ra một sự thật có thể trái với ấn tượng ban đầu. Nguyên mẫu trông yếu nhưng thực tế lại chịu được mọi bài thử rơi."
+        },
+        {
+          "id": "U16_COLLOC_quiz11",
+          "sentenceWithGap": "After the third failed test, the team had to ___ the current casing was not waterproof.",
+          "options": [
+            "begin with",
+            "experiment with",
+            "face the fact that",
+            "carry out an experiment on"
+          ],
+          "answer": "face the fact that",
+          "sentenceVi": "Sau lần thử thất bại thứ ba, nhóm phải chấp nhận sự thật rằng lớp vỏ hiện tại không chống nước.",
+          "explanation": "'face the fact that' nghĩa là chấp nhận một sự thật khó chịu hoặc không mong muốn. Ba lần thử thất bại cho thấy vỏ hiện tại không chống nước."
+        }
+      ],
+      "matchWords": [
+        "at the bottom of",
+        "in conclusion",
+        "perform an experiment",
+        "as a matter of fact",
+        "on average",
+        "an introduction to",
+        "with the introduction of",
+        "receive a phone call from",
+        "make a phone call to",
+        "take a photograph of"
+      ]
     },
     {
       "passageId": "U16_CORE",
@@ -13069,7 +13833,109 @@
           "answer": "found out"
         }
       ],
-      "image": "assets/images/passages/MT4_u16_repairing.jpg"
+      "image": "assets/images/passages/MT4_u16_repairing.jpg",
+      "quizQuestions": [
+        {
+          "id": "U16_PV_quiz1",
+          "sentenceWithGap": "Because the bill had not been paid, the power company threatened to ___ the research station's electricity at the end of the week.",
+          "options": [
+            "cut off",
+            "work out",
+            "narrow down",
+            "give off"
+          ],
+          "answer": "cut off",
+          "sentenceVi": "Vì hóa đơn chưa được thanh toán, công ty điện đe dọa sẽ cắt điện của trạm nghiên cứu vào cuối tuần.",
+          "explanation": "'cut off' dùng khi ngừng cung cấp điện, nước hoặc dịch vụ cho một nơi nào đó. Các phương án còn lại không đi được với 'the research station's electricity'."
+        },
+        {
+          "id": "U16_PV_quiz2",
+          "sentenceWithGap": "The repair plan will only ___ if the new seal remains waterproof during the overnight test.",
+          "options": [
+            "come on",
+            "come off",
+            "break down",
+            "give off"
+          ],
+          "answer": "come off",
+          "sentenceVi": "Kế hoạch sửa chữa chỉ thành công nếu lớp niêm phong mới vẫn chống nước trong bài kiểm tra qua đêm.",
+          "explanation": "Khi nói một kế hoạch 'comes off', nghĩa là kế hoạch đó thành công."
+        },
+        {
+          "id": "U16_PV_quiz3",
+          "sentenceWithGap": "After Elise replaced the battery, the control screen should ___ automatically when the power returns.",
+          "options": [
+            "break down",
+            "cut off",
+            "come on",
+            "come off"
+          ],
+          "answer": "come on",
+          "sentenceVi": "Sau khi Elise thay pin, màn hình điều khiển sẽ tự bật lên khi nguồn điện trở lại.",
+          "explanation": "'come on' dùng khi màn hình, đèn hoặc thiết bị bắt đầu hoạt động."
+        },
+        {
+          "id": "U16_PV_quiz4",
+          "sentenceWithGap": "Before opening the casing, Elise had to ___ the sensor so that no current was flowing through the circuit.",
+          "options": [
+            "plug in",
+            "give off",
+            "carry out",
+            "turn off"
+          ],
+          "answer": "turn off",
+          "sentenceVi": "Trước khi mở vỏ thiết bị, Elise phải tắt cảm biến để không còn dòng điện chạy qua mạch.",
+          "explanation": "'turn off' nghĩa là tắt một thiết bị hoặc nguồn điện, đúng với mục đích để không còn dòng điện chạy qua mạch. 'plug in' có nghĩa ngược lại (cắm điện, kết nối nguồn)."
+        },
+        {
+          "id": "U16_PV_quiz5",
+          "sentenceWithGap": "The researchers interviewed the technician to ___ why the sensor failed only during wet weather.",
+          "options": [
+            "find out",
+            "come on",
+            "give off",
+            "break down"
+          ],
+          "answer": "find out",
+          "sentenceVi": "Các nhà nghiên cứu phỏng vấn kỹ thuật viên để tìm ra lý do cảm biến chỉ bị lỗi khi thời tiết ẩm ướt.",
+          "explanation": "'find out' nghĩa là khám phá hoặc tìm ra thông tin chưa biết."
+        },
+        {
+          "id": "U16_PV_quiz6",
+          "sentenceWithGap": "By comparing the three faulty readings, the team managed to ___ the possible causes from six to two.",
+          "options": [
+            "give off",
+            "narrow down",
+            "come off",
+            "come on"
+          ],
+          "answer": "narrow down",
+          "sentenceVi": "Bằng cách so sánh ba kết quả lỗi, nhóm đã thu hẹp các nguyên nhân có thể từ sáu xuống còn hai.",
+          "explanation": "'narrow down' nghĩa là giảm số lựa chọn hoặc khả năng xuống một nhóm nhỏ hơn."
+        },
+        {
+          "id": "U16_PV_quiz7",
+          "sentenceWithGap": "Using the formula and voltage readings, Elise was able to ___ the exact resistance of the circuit.",
+          "options": [
+            "break down",
+            "come on",
+            "work out",
+            "give off"
+          ],
+          "answer": "work out",
+          "sentenceVi": "Sử dụng công thức và các số đo điện áp, Elise có thể tính ra chính xác điện trở của mạch.",
+          "explanation": "Trong ngữ cảnh có công thức và số đo, 'work out' mang nghĩa tính toán ra kết quả."
+        }
+      ],
+      "matchWords": [
+        "carry out",
+        "break down",
+        "give off",
+        "plug in",
+        "come up with",
+        "put somebody through to somebody",
+        "look forward to"
+      ]
     },
     {
       "passageId": "U17_CORE",
