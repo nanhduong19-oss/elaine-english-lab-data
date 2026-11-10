@@ -4523,6 +4523,3417 @@
       "answer": "beneficial",
       "audio": "assets/audio/word-formation/wf_benefit_c06.mp3",
       "meaningVi": "Học chơi một nhạc cụ có thể có lợi cho trí nhớ của trẻ."
+    },
+    {
+      "id": "wf_breath_c01",
+      "family": "breath",
+      "sentenceWithGap": "The doctor asked me to ___ in slowly through my nose.",
+      "answer": "breathe",
+      "audio": "assets/audio/word-formation/wf_breath_c01.mp3",
+      "meaningVi": "Bác sĩ yêu cầu tôi hít vào chậm qua mũi."
+    },
+    {
+      "id": "wf_breath_c02",
+      "family": "breath",
+      "sentenceWithGap": "The runner stopped for a moment to get her ___ back.",
+      "answer": "breath",
+      "audio": "assets/audio/word-formation/wf_breath_c02.mp3",
+      "meaningVi": "Vận động viên chạy dừng lại một lát để lấy lại hơi."
+    },
+    {
+      "id": "wf_breath_c03",
+      "family": "breath",
+      "sentenceWithGap": "The rapid climb made even the experienced hikers ___.",
+      "answer": "breathless",
+      "audio": "assets/audio/word-formation/wf_breath_c03.mp3",
+      "meaningVi": "Cuộc leo dốc nhanh khiến ngay cả những người đi bộ đường dài giàu kinh nghiệm cũng khó thở."
+    },
+    {
+      "id": "wf_breath_c04",
+      "family": "breath",
+      "sentenceWithGap": "From the balcony, we enjoyed a ___ view of the bay.",
+      "answer": "breathtaking",
+      "audio": "assets/audio/word-formation/wf_breath_c04.mp3",
+      "meaningVi": "Từ ban công, chúng tôi ngắm quang cảnh ngoạn mục của vịnh."
+    },
+    {
+      "id": "wf_breath_c05",
+      "family": "breath",
+      "sentenceWithGap": "In cold weather, it can hurt to ___ deeply.",
+      "answer": "breathe",
+      "audio": "assets/audio/word-formation/wf_breath_c05.mp3",
+      "meaningVi": "Trong thời tiết lạnh, hít thở sâu có thể gây đau."
+    },
+    {
+      "id": "wf_breath_c06",
+      "family": "breath",
+      "sentenceWithGap": "His ___ formed a cloud in the freezing air.",
+      "answer": "breath",
+      "audio": "assets/audio/word-formation/wf_breath_c06.mp3",
+      "meaningVi": "Hơi thở của cậu ấy tạo thành một làn mây trong không khí giá lạnh."
+    },
+    {
+      "id": "wf_combine_c01",
+      "family": "combine",
+      "sentenceWithGap": "The programme will ___ sport with lessons about healthy eating.",
+      "answer": "combine",
+      "audio": "assets/audio/word-formation/wf_combine_c01.mp3",
+      "meaningVi": "Chương trình sẽ kết hợp thể thao với các bài học về ăn uống lành mạnh."
+    },
+    {
+      "id": "wf_combine_c02",
+      "family": "combine",
+      "sentenceWithGap": "Her success came from a ___ of talent and steady practice.",
+      "answer": "combination",
+      "audio": "assets/audio/word-formation/wf_combine_c02.mp3",
+      "meaningVi": "Thành công của cô ấy đến từ sự kết hợp giữa tài năng và luyện tập đều đặn."
+    },
+    {
+      "id": "wf_combine_c03",
+      "family": "combine",
+      "sentenceWithGap": "The two charities raised a ___ total of ten thousand dollars.",
+      "answer": "combined",
+      "audio": "assets/audio/word-formation/wf_combine_c03.mp3",
+      "meaningVi": "Hai tổ chức từ thiện đã quyên góp tổng cộng mười nghìn đô-la."
+    },
+    {
+      "id": "wf_combine_c04",
+      "family": "combine",
+      "sentenceWithGap": "If we ___ our resources, we can buy better equipment.",
+      "answer": "combine",
+      "audio": "assets/audio/word-formation/wf_combine_c04.mp3",
+      "meaningVi": "Nếu chúng ta kết hợp các nguồn lực, chúng ta có thể mua thiết bị tốt hơn."
+    },
+    {
+      "id": "wf_combine_c05",
+      "family": "combine",
+      "sentenceWithGap": "The dish uses an unexpected ___ of sweet and spicy flavours.",
+      "answer": "combination",
+      "audio": "assets/audio/word-formation/wf_combine_c05.mp3",
+      "meaningVi": "Món ăn sử dụng sự kết hợp bất ngờ giữa vị ngọt và cay."
+    },
+    {
+      "id": "wf_combine_c06",
+      "family": "combine",
+      "sentenceWithGap": "Their ___ efforts helped restore the park in one weekend.",
+      "answer": "combined",
+      "audio": "assets/audio/word-formation/wf_combine_c06.mp3",
+      "meaningVi": "Nỗ lực chung của họ đã giúp khôi phục công viên chỉ trong một cuối tuần."
+    },
+    {
+      "id": "wf_commit_c01",
+      "family": "commit",
+      "sentenceWithGap": "Participants must ___ to completing the full six-week course.",
+      "answer": "commit",
+      "audio": "assets/audio/word-formation/wf_commit_c01.mp3",
+      "meaningVi": "Người tham gia phải cam kết hoàn thành toàn bộ khóa học sáu tuần."
+    },
+    {
+      "id": "wf_commit_c02",
+      "family": "commit",
+      "sentenceWithGap": "The rescue team showed remarkable ___ throughout the difficult search.",
+      "answer": "commitment",
+      "audio": "assets/audio/word-formation/wf_commit_c02.mp3",
+      "meaningVi": "Đội cứu hộ thể hiện sự tận tâm đáng kể trong suốt cuộc tìm kiếm khó khăn."
+    },
+    {
+      "id": "wf_commit_c03",
+      "family": "commit",
+      "sentenceWithGap": "Our school has several ___ teachers who run clubs after class.",
+      "answer": "committed",
+      "audio": "assets/audio/word-formation/wf_commit_c03.mp3",
+      "meaningVi": "Trường chúng tôi có một số giáo viên tận tâm điều hành câu lạc bộ sau giờ học."
+    },
+    {
+      "id": "wf_commit_c04",
+      "family": "commit",
+      "sentenceWithGap": "The company will not ___ to the project without a clear budget.",
+      "answer": "commit",
+      "audio": "assets/audio/word-formation/wf_commit_c04.mp3",
+      "meaningVi": "Công ty sẽ không cam kết tham gia dự án nếu không có ngân sách rõ ràng."
+    },
+    {
+      "id": "wf_commit_c05",
+      "family": "commit",
+      "sentenceWithGap": "Volunteering every Saturday requires a serious ___.",
+      "answer": "commitment",
+      "audio": "assets/audio/word-formation/wf_commit_c05.mp3",
+      "meaningVi": "Làm tình nguyện mỗi thứ Bảy đòi hỏi một sự cam kết nghiêm túc."
+    },
+    {
+      "id": "wf_commit_c06",
+      "family": "commit",
+      "sentenceWithGap": "She is a ___ campaigner for equal access to education.",
+      "answer": "committed",
+      "audio": "assets/audio/word-formation/wf_commit_c06.mp3",
+      "meaningVi": "Cô ấy là một nhà vận động hết mình cho quyền tiếp cận giáo dục bình đẳng."
+    },
+    {
+      "id": "wf_confident_c01",
+      "family": "confident",
+      "sentenceWithGap": "Careful preparation increased my ___ before the interview.",
+      "answer": "confidence",
+      "audio": "assets/audio/word-formation/wf_confident_c01.mp3",
+      "meaningVi": "Sự chuẩn bị kỹ lưỡng làm tăng sự tự tin của tôi trước buổi phỏng vấn."
+    },
+    {
+      "id": "wf_confident_c02",
+      "family": "confident",
+      "sentenceWithGap": "The guide seemed ___ that the path was safe.",
+      "answer": "confident",
+      "audio": "assets/audio/word-formation/wf_confident_c02.mp3",
+      "meaningVi": "Người hướng dẫn có vẻ tự tin rằng con đường đó an toàn."
+    },
+    {
+      "id": "wf_confident_c03",
+      "family": "confident",
+      "sentenceWithGap": "Nina stepped forward and ___ introduced herself.",
+      "answer": "confidently",
+      "audio": "assets/audio/word-formation/wf_confident_c03.mp3",
+      "meaningVi": "Nina bước lên và tự tin giới thiệu bản thân."
+    },
+    {
+      "id": "wf_confident_c04",
+      "family": "confident",
+      "sentenceWithGap": "His early mistakes reduced his ___ during the match.",
+      "answer": "confidence",
+      "audio": "assets/audio/word-formation/wf_confident_c04.mp3",
+      "meaningVi": "Những sai lầm ban đầu làm giảm sự tự tin của cậu ấy trong trận đấu."
+    },
+    {
+      "id": "wf_confident_c05",
+      "family": "confident",
+      "sentenceWithGap": "I feel ___ about using the new software after some practice.",
+      "answer": "confident",
+      "audio": "assets/audio/word-formation/wf_confident_c05.mp3",
+      "meaningVi": "Tôi cảm thấy tự tin khi sử dụng phần mềm mới sau một thời gian luyện tập."
+    },
+    {
+      "id": "wf_confident_c06",
+      "family": "confident",
+      "sentenceWithGap": "The student explained her solution ___ and clearly.",
+      "answer": "confidently",
+      "audio": "assets/audio/word-formation/wf_confident_c06.mp3",
+      "meaningVi": "Học sinh giải thích lời giải của mình một cách tự tin và rõ ràng."
+    },
+    {
+      "id": "wf_consequence_c01",
+      "family": "consequence",
+      "sentenceWithGap": "A possible ___ of staying up late is poor concentration the next day.",
+      "answer": "consequence",
+      "audio": "assets/audio/word-formation/wf_consequence_c01.mp3",
+      "meaningVi": "Một hậu quả có thể có của việc thức khuya là khả năng tập trung kém vào ngày hôm sau."
+    },
+    {
+      "id": "wf_consequence_c02",
+      "family": "consequence",
+      "sentenceWithGap": "The path was blocked and we ___ had to choose another route.",
+      "answer": "consequently",
+      "audio": "assets/audio/word-formation/wf_consequence_c02.mp3",
+      "meaningVi": "Con đường bị chặn, do đó chúng tôi phải chọn tuyến khác."
+    },
+    {
+      "id": "wf_consequence_c03",
+      "family": "consequence",
+      "sentenceWithGap": "The most serious ___ of the leak was damage to the library books.",
+      "answer": "consequence",
+      "audio": "assets/audio/word-formation/wf_consequence_c03.mp3",
+      "meaningVi": "Hậu quả nghiêm trọng nhất của vụ rò rỉ là sách thư viện bị hư hại."
+    },
+    {
+      "id": "wf_consequence_c04",
+      "family": "consequence",
+      "sentenceWithGap": "He ignored the warning and was ___ unable to enter the competition.",
+      "answer": "consequently",
+      "audio": "assets/audio/word-formation/wf_consequence_c04.mp3",
+      "meaningVi": "Cậu ấy phớt lờ cảnh báo và do đó không thể tham gia cuộc thi."
+    },
+    {
+      "id": "wf_consequence_c05",
+      "family": "consequence",
+      "sentenceWithGap": "Noise pollution can have a harmful ___ for people living near airports.",
+      "answer": "consequence",
+      "audio": "assets/audio/word-formation/wf_consequence_c05.mp3",
+      "meaningVi": "Ô nhiễm tiếng ồn có thể gây hậu quả có hại cho những người sống gần sân bay."
+    },
+    {
+      "id": "wf_consequence_c06",
+      "family": "consequence",
+      "sentenceWithGap": "The shop had no customers and ___ closed after six months.",
+      "answer": "consequently",
+      "audio": "assets/audio/word-formation/wf_consequence_c06.mp3",
+      "meaningVi": "Cửa hàng không có khách, do đó đã đóng cửa sau sáu tháng."
+    },
+    {
+      "id": "wf_critic_c01",
+      "family": "critic",
+      "sentenceWithGap": "A well-known art ___ reviewed the exhibition for the newspaper.",
+      "answer": "critic",
+      "audio": "assets/audio/word-formation/wf_critic_c01.mp3",
+      "meaningVi": "Một nhà phê bình nghệ thuật nổi tiếng đã đánh giá triển lãm cho tờ báo."
+    },
+    {
+      "id": "wf_critic_c02",
+      "family": "critic",
+      "sentenceWithGap": "It is unfair to ___ someone for a mistake they have already corrected.",
+      "answer": "criticise",
+      "audio": "assets/audio/word-formation/wf_critic_c02.mp3",
+      "meaningVi": "Thật không công bằng khi chỉ trích ai đó vì một lỗi mà họ đã sửa."
+    },
+    {
+      "id": "wf_critic_c03",
+      "family": "critic",
+      "sentenceWithGap": "Fast action was ___ to preventing the fire from spreading.",
+      "answer": "critical",
+      "audio": "assets/audio/word-formation/wf_critic_c03.mp3",
+      "meaningVi": "Hành động nhanh là điều quan trọng để ngăn đám cháy lan rộng."
+    },
+    {
+      "id": "wf_critic_c04",
+      "family": "critic",
+      "sentenceWithGap": "We should examine online claims ___ instead of accepting them immediately.",
+      "answer": "critically",
+      "audio": "assets/audio/word-formation/wf_critic_c04.mp3",
+      "meaningVi": "Chúng ta nên xem xét các tuyên bố trên mạng một cách có phê phán thay vì chấp nhận ngay."
+    },
+    {
+      "id": "wf_critic_c05",
+      "family": "critic",
+      "sentenceWithGap": "The plan received strong ___ because it ignored local needs.",
+      "answer": "criticism",
+      "audio": "assets/audio/word-formation/wf_critic_c05.mp3",
+      "meaningVi": "Kế hoạch bị chỉ trích gay gắt vì phớt lờ nhu cầu địa phương."
+    },
+    {
+      "id": "wf_critic_c06",
+      "family": "critic",
+      "sentenceWithGap": "Two passengers were ___ ill after eating the contaminated food.",
+      "answer": "critically",
+      "audio": "assets/audio/word-formation/wf_critic_c06.mp3",
+      "meaningVi": "Hai hành khách bị ốm nghiêm trọng sau khi ăn thực phẩm nhiễm bẩn."
+    },
+    {
+      "id": "wf_cycle_c01",
+      "family": "cycle",
+      "sentenceWithGap": "Our council encourages residents to ___ metal and glass.",
+      "answer": "recycle",
+      "audio": "assets/audio/word-formation/wf_cycle_c01.mp3",
+      "meaningVi": "Hội đồng địa phương khuyến khích cư dân tái chế kim loại và thủy tinh."
+    },
+    {
+      "id": "wf_cycle_c02",
+      "family": "cycle",
+      "sentenceWithGap": "The injured ___ was taken to hospital after the road accident.",
+      "answer": "cyclist",
+      "audio": "assets/audio/word-formation/wf_cycle_c02.mp3",
+      "meaningVi": "Người đi xe đạp bị thương được đưa đến bệnh viện sau vụ tai nạn đường bộ."
+    },
+    {
+      "id": "wf_cycle_c03",
+      "family": "cycle",
+      "sentenceWithGap": "The moon follows a regular ___ of phases.",
+      "answer": "cycle",
+      "audio": "assets/audio/word-formation/wf_cycle_c03.mp3",
+      "meaningVi": "Mặt trăng trải qua một chu kỳ các pha đều đặn."
+    },
+    {
+      "id": "wf_cycle_c04",
+      "family": "cycle",
+      "sentenceWithGap": "Community ___ has reduced the amount of rubbish sent to landfill.",
+      "answer": "recycling",
+      "audio": "assets/audio/word-formation/wf_cycle_c04.mp3",
+      "meaningVi": "Hoạt động tái chế trong cộng đồng đã giảm lượng rác được đưa đến bãi chôn lấp."
+    },
+    {
+      "id": "wf_cycle_c05",
+      "family": "cycle",
+      "sentenceWithGap": "These cups are made from ___ plastic.",
+      "answer": "recyclable",
+      "audio": "assets/audio/word-formation/wf_cycle_c05.mp3",
+      "meaningVi": "Những chiếc cốc này được làm từ nhựa có thể tái chế."
+    },
+    {
+      "id": "wf_cycle_c06",
+      "family": "cycle",
+      "sentenceWithGap": "Please ___ the empty can in the correct bin.",
+      "answer": "recycle",
+      "audio": "assets/audio/word-formation/wf_cycle_c06.mp3",
+      "meaningVi": "Vui lòng tái chế lon rỗng trong đúng thùng."
+    },
+    {
+      "id": "wf_deep_c01",
+      "family": "deep",
+      "sentenceWithGap": "Heavy rain may ___ the river channel over time.",
+      "answer": "deepen",
+      "audio": "assets/audio/word-formation/wf_deep_c01.mp3",
+      "meaningVi": "Mưa lớn có thể làm lòng sông sâu thêm theo thời gian."
+    },
+    {
+      "id": "wf_deep_c02",
+      "family": "deep",
+      "sentenceWithGap": "The researchers measured the water's ___ at several points.",
+      "answer": "depth",
+      "audio": "assets/audio/word-formation/wf_deep_c02.mp3",
+      "meaningVi": "Các nhà nghiên cứu đo độ sâu của nước tại một số điểm."
+    },
+    {
+      "id": "wf_deep_c03",
+      "family": "deep",
+      "sentenceWithGap": "A ___ crack had appeared in the wall after the earthquake.",
+      "answer": "deep",
+      "audio": "assets/audio/word-formation/wf_deep_c03.mp3",
+      "meaningVi": "Một vết nứt sâu đã xuất hiện trên tường sau trận động đất."
+    },
+    {
+      "id": "wf_deep_c04",
+      "family": "deep",
+      "sentenceWithGap": "We were ___ grateful to everyone who helped us.",
+      "answer": "deeply",
+      "audio": "assets/audio/word-formation/wf_deep_c04.mp3",
+      "meaningVi": "Chúng tôi vô cùng biết ơn tất cả những người đã giúp đỡ."
+    },
+    {
+      "id": "wf_deep_c05",
+      "family": "deep",
+      "sentenceWithGap": "Reading widely can ___ your knowledge of other cultures.",
+      "answer": "deepen",
+      "audio": "assets/audio/word-formation/wf_deep_c05.mp3",
+      "meaningVi": "Đọc rộng có thể làm sâu sắc kiến thức của bạn về các nền văn hóa khác."
+    },
+    {
+      "id": "wf_deep_c06",
+      "family": "deep",
+      "sentenceWithGap": "The novel explores the subject in surprising ___.",
+      "answer": "depth",
+      "audio": "assets/audio/word-formation/wf_deep_c06.mp3",
+      "meaningVi": "Cuốn tiểu thuyết khám phá chủ đề với chiều sâu đáng ngạc nhiên."
+    },
+    {
+      "id": "wf_depress_c01",
+      "family": "depress",
+      "sentenceWithGap": "Long periods of isolation can ___ some elderly people.",
+      "answer": "depress",
+      "audio": "assets/audio/word-formation/wf_depress_c01.mp3",
+      "meaningVi": "Thời gian dài bị cô lập có thể làm một số người cao tuổi chán nản."
+    },
+    {
+      "id": "wf_depress_c02",
+      "family": "depress",
+      "sentenceWithGap": "The report presents a ___ picture of the town's future.",
+      "answer": "depressing",
+      "audio": "assets/audio/word-formation/wf_depress_c02.mp3",
+      "meaningVi": "Báo cáo đưa ra một bức tranh đáng buồn về tương lai của thị trấn."
+    },
+    {
+      "id": "wf_depress_c03",
+      "family": "depress",
+      "sentenceWithGap": "I felt ___ when our outdoor event was cancelled by the rain.",
+      "answer": "depressed",
+      "audio": "assets/audio/word-formation/wf_depress_c03.mp3",
+      "meaningVi": "Tôi cảm thấy chán nản khi sự kiện ngoài trời bị hủy vì mưa."
+    },
+    {
+      "id": "wf_depress_c04",
+      "family": "depress",
+      "sentenceWithGap": "The charity provides support for young people with ___.",
+      "answer": "depression",
+      "audio": "assets/audio/word-formation/wf_depress_c04.mp3",
+      "meaningVi": "Tổ chức từ thiện hỗ trợ những người trẻ mắc chứng trầm cảm."
+    },
+    {
+      "id": "wf_depress_c05",
+      "family": "depress",
+      "sentenceWithGap": "Empty shops make the town centre look rather ___.",
+      "answer": "depressing",
+      "audio": "assets/audio/word-formation/wf_depress_c05.mp3",
+      "meaningVi": "Những cửa hàng trống khiến trung tâm thị trấn trông khá buồn tẻ."
+    },
+    {
+      "id": "wf_depress_c06",
+      "family": "depress",
+      "sentenceWithGap": "Several failed applications left him feeling ___.",
+      "answer": "depressed",
+      "audio": "assets/audio/word-formation/wf_depress_c06.mp3",
+      "meaningVi": "Nhiều đơn xin việc thất bại khiến cậu ấy cảm thấy chán nản."
+    },
+    {
+      "id": "wf_design_c01",
+      "family": "design",
+      "sentenceWithGap": "Students were asked to ___ a shelter using only cardboard.",
+      "answer": "design",
+      "audio": "assets/audio/word-formation/wf_design_c01.mp3",
+      "meaningVi": "Học sinh được yêu cầu thiết kế một nơi trú ẩn chỉ bằng bìa cứng."
+    },
+    {
+      "id": "wf_design_c02",
+      "family": "design",
+      "sentenceWithGap": "The product ___ tested several shapes before choosing the final one.",
+      "answer": "designer",
+      "audio": "assets/audio/word-formation/wf_design_c02.mp3",
+      "meaningVi": "Nhà thiết kế sản phẩm đã thử nhiều hình dạng trước khi chọn mẫu cuối cùng."
+    },
+    {
+      "id": "wf_design_c03",
+      "family": "design",
+      "sentenceWithGap": "The engineers will ___ a quieter engine for the new vehicle.",
+      "answer": "design",
+      "audio": "assets/audio/word-formation/wf_design_c03.mp3",
+      "meaningVi": "Các kỹ sư sẽ thiết kế một động cơ êm hơn cho phương tiện mới."
+    },
+    {
+      "id": "wf_design_c04",
+      "family": "design",
+      "sentenceWithGap": "A landscape ___ planned the paths and gardens around the hotel.",
+      "answer": "designer",
+      "audio": "assets/audio/word-formation/wf_design_c04.mp3",
+      "meaningVi": "Một nhà thiết kế cảnh quan đã quy hoạch các lối đi và khu vườn quanh khách sạn."
+    },
+    {
+      "id": "wf_design_c05",
+      "family": "design",
+      "sentenceWithGap": "Our challenge is to ___ a device that uses no electricity.",
+      "answer": "design",
+      "audio": "assets/audio/word-formation/wf_design_c05.mp3",
+      "meaningVi": "Thử thách của chúng tôi là thiết kế một thiết bị không dùng điện."
+    },
+    {
+      "id": "wf_design_c06",
+      "family": "design",
+      "sentenceWithGap": "The furniture ___ created a desk for very small rooms.",
+      "answer": "designer",
+      "audio": "assets/audio/word-formation/wf_design_c06.mp3",
+      "meaningVi": "Nhà thiết kế đồ nội thất đã tạo ra một chiếc bàn cho những căn phòng rất nhỏ."
+    },
+    {
+      "id": "wf_discover_c01",
+      "family": "discover",
+      "sentenceWithGap": "Astronomers may ___ more planets around distant stars.",
+      "answer": "discover",
+      "audio": "assets/audio/word-formation/wf_discover_c01.mp3",
+      "meaningVi": "Các nhà thiên văn học có thể khám phá thêm nhiều hành tinh quanh các ngôi sao xa."
+    },
+    {
+      "id": "wf_discover_c02",
+      "family": "discover",
+      "sentenceWithGap": "The ___ of an underground room excited the archaeologists.",
+      "answer": "discovery",
+      "audio": "assets/audio/word-formation/wf_discover_c02.mp3",
+      "meaningVi": "Việc phát hiện một căn phòng dưới lòng đất khiến các nhà khảo cổ phấn khích."
+    },
+    {
+      "id": "wf_discover_c03",
+      "family": "discover",
+      "sentenceWithGap": "The team hopes the cave contains previously ___ paintings.",
+      "answer": "undiscovered",
+      "audio": "assets/audio/word-formation/wf_discover_c03.mp3",
+      "meaningVi": "Nhóm nghiên cứu hy vọng hang động chứa những bức tranh trước đây chưa được khám phá."
+    },
+    {
+      "id": "wf_discover_c04",
+      "family": "discover",
+      "sentenceWithGap": "Visitors can ___ the history of the city through interactive displays.",
+      "answer": "discover",
+      "audio": "assets/audio/word-formation/wf_discover_c04.mp3",
+      "meaningVi": "Du khách có thể khám phá lịch sử thành phố qua các màn hình tương tác."
+    },
+    {
+      "id": "wf_discover_c05",
+      "family": "discover",
+      "sentenceWithGap": "This chance ___ led to a new method of producing clean energy.",
+      "answer": "discovery",
+      "audio": "assets/audio/word-formation/wf_discover_c05.mp3",
+      "meaningVi": "Phát hiện tình cờ này dẫn đến một phương pháp mới để sản xuất năng lượng sạch."
+    },
+    {
+      "id": "wf_discover_c06",
+      "family": "discover",
+      "sentenceWithGap": "Experts believe many ocean species remain ___.",
+      "answer": "undiscovered",
+      "audio": "assets/audio/word-formation/wf_discover_c06.mp3",
+      "meaningVi": "Các chuyên gia tin rằng nhiều loài sinh vật biển vẫn chưa được khám phá."
+    },
+    {
+      "id": "wf_discuss_c01",
+      "family": "discuss",
+      "sentenceWithGap": "The class will ___ whether school uniforms are useful.",
+      "answer": "discuss",
+      "audio": "assets/audio/word-formation/wf_discuss_c01.mp3",
+      "meaningVi": "Cả lớp sẽ thảo luận xem đồng phục học sinh có hữu ích hay không."
+    },
+    {
+      "id": "wf_discuss_c02",
+      "family": "discuss",
+      "sentenceWithGap": "Our ___ produced several practical suggestions.",
+      "answer": "discussion",
+      "audio": "assets/audio/word-formation/wf_discuss_c02.mp3",
+      "meaningVi": "Cuộc thảo luận của chúng tôi đưa ra một số đề xuất thiết thực."
+    },
+    {
+      "id": "wf_discuss_c03",
+      "family": "discuss",
+      "sentenceWithGap": "I would like to ___ my progress with you after class.",
+      "answer": "discuss",
+      "audio": "assets/audio/word-formation/wf_discuss_c03.mp3",
+      "meaningVi": "Em muốn thảo luận về tiến bộ của mình với thầy cô sau giờ học."
+    },
+    {
+      "id": "wf_discuss_c04",
+      "family": "discuss",
+      "sentenceWithGap": "The article started a public ___ about protecting local wildlife.",
+      "answer": "discussion",
+      "audio": "assets/audio/word-formation/wf_discuss_c04.mp3",
+      "meaningVi": "Bài báo đã khởi đầu một cuộc thảo luận công khai về việc bảo vệ động vật hoang dã địa phương."
+    },
+    {
+      "id": "wf_discuss_c05",
+      "family": "discuss",
+      "sentenceWithGap": "We should ___ the advantages and disadvantages before voting.",
+      "answer": "discuss",
+      "audio": "assets/audio/word-formation/wf_discuss_c05.mp3",
+      "meaningVi": "Chúng ta nên thảo luận ưu và nhược điểm trước khi bỏ phiếu."
+    },
+    {
+      "id": "wf_discuss_c06",
+      "family": "discuss",
+      "sentenceWithGap": "A detailed ___ of the results appears in the final chapter.",
+      "answer": "discussion",
+      "audio": "assets/audio/word-formation/wf_discuss_c06.mp3",
+      "meaningVi": "Phần thảo luận chi tiết về kết quả xuất hiện trong chương cuối."
+    },
+    {
+      "id": "wf_divide_c01",
+      "family": "divide",
+      "sentenceWithGap": "The organisers will ___ the participants into age groups.",
+      "answer": "divide",
+      "audio": "assets/audio/word-formation/wf_divide_c01.mp3",
+      "meaningVi": "Ban tổ chức sẽ chia người tham gia thành các nhóm tuổi."
+    },
+    {
+      "id": "wf_divide_c02",
+      "family": "divide",
+      "sentenceWithGap": "The publishing ___ produces children's books and school materials.",
+      "answer": "division",
+      "audio": "assets/audio/word-formation/wf_divide_c02.mp3",
+      "meaningVi": "Bộ phận xuất bản sản xuất sách trẻ em và tài liệu học đường."
+    },
+    {
+      "id": "wf_divide_c03",
+      "family": "divide",
+      "sentenceWithGap": "The community was deeply ___ by the proposed road project.",
+      "answer": "divided",
+      "audio": "assets/audio/word-formation/wf_divide_c03.mp3",
+      "meaningVi": "Cộng đồng bị chia rẽ sâu sắc bởi dự án đường bộ được đề xuất."
+    },
+    {
+      "id": "wf_divide_c04",
+      "family": "divide",
+      "sentenceWithGap": "We can ___ the research tasks according to each person's skills.",
+      "answer": "divide",
+      "audio": "assets/audio/word-formation/wf_divide_c04.mp3",
+      "meaningVi": "Chúng ta có thể chia nhiệm vụ nghiên cứu theo kỹ năng của từng người."
+    },
+    {
+      "id": "wf_divide_c05",
+      "family": "divide",
+      "sentenceWithGap": "The company's sports ___ organises events for young athletes.",
+      "answer": "division",
+      "audio": "assets/audio/word-formation/wf_divide_c05.mp3",
+      "meaningVi": "Bộ phận thể thao của công ty tổ chức sự kiện cho các vận động viên trẻ."
+    },
+    {
+      "id": "wf_divide_c06",
+      "family": "divide",
+      "sentenceWithGap": "The final vote was evenly ___ between the two choices.",
+      "answer": "divided",
+      "audio": "assets/audio/word-formation/wf_divide_c06.mp3",
+      "meaningVi": "Phiếu bầu cuối cùng được chia đều giữa hai lựa chọn."
+    },
+    {
+      "id": "wf_easy_c01",
+      "family": "easy",
+      "sentenceWithGap": "The new booking system is simple and ___ to use.",
+      "answer": "easy",
+      "audio": "assets/audio/word-formation/wf_easy_c01.mp3",
+      "meaningVi": "Hệ thống đặt chỗ mới đơn giản và dễ sử dụng."
+    },
+    {
+      "id": "wf_easy_c02",
+      "family": "easy",
+      "sentenceWithGap": "You can ___ recognise the building by its bright blue door.",
+      "answer": "easily",
+      "audio": "assets/audio/word-formation/wf_easy_c02.mp3",
+      "meaningVi": "Bạn có thể dễ dàng nhận ra tòa nhà nhờ cánh cửa màu xanh sáng."
+    },
+    {
+      "id": "wf_easy_c03",
+      "family": "easy",
+      "sentenceWithGap": "The strange message made me feel slightly ___.",
+      "answer": "uneasy",
+      "audio": "assets/audio/word-formation/wf_easy_c03.mp3",
+      "meaningVi": "Tin nhắn kỳ lạ khiến tôi cảm thấy hơi bất an."
+    },
+    {
+      "id": "wf_easy_c04",
+      "family": "easy",
+      "sentenceWithGap": "The skilled dancer moved across the stage with ___.",
+      "answer": "ease",
+      "audio": "assets/audio/word-formation/wf_easy_c04.mp3",
+      "meaningVi": "Vũ công điêu luyện di chuyển trên sân khấu một cách nhẹ nhàng."
+    },
+    {
+      "id": "wf_easy_c05",
+      "family": "easy",
+      "sentenceWithGap": "This is an ___ mistake to make when you are learning the rules.",
+      "answer": "easy",
+      "audio": "assets/audio/word-formation/wf_easy_c05.mp3",
+      "meaningVi": "Đây là một lỗi dễ mắc phải khi bạn đang học các quy tắc."
+    },
+    {
+      "id": "wf_easy_c06",
+      "family": "easy",
+      "sentenceWithGap": "The app allows users to share photos ___.",
+      "answer": "easily",
+      "audio": "assets/audio/word-formation/wf_easy_c06.mp3",
+      "meaningVi": "Ứng dụng cho phép người dùng dễ dàng chia sẻ ảnh."
+    },
+    {
+      "id": "wf_economy_c01",
+      "family": "economy",
+      "sentenceWithGap": "The island's ___ depends heavily on fishing and tourism.",
+      "answer": "economy",
+      "audio": "assets/audio/word-formation/wf_economy_c01.mp3",
+      "meaningVi": "Nền kinh tế của hòn đảo phụ thuộc nhiều vào đánh bắt cá và du lịch."
+    },
+    {
+      "id": "wf_economy_c02",
+      "family": "economy",
+      "sentenceWithGap": "The ___ warned that food prices might continue to rise.",
+      "answer": "economist",
+      "audio": "assets/audio/word-formation/wf_economy_c02.mp3",
+      "meaningVi": "Nhà kinh tế học cảnh báo rằng giá thực phẩm có thể tiếp tục tăng."
+    },
+    {
+      "id": "wf_economy_c03",
+      "family": "economy",
+      "sentenceWithGap": "The closure of the factory caused serious ___ problems for the town.",
+      "answer": "economic",
+      "audio": "assets/audio/word-formation/wf_economy_c03.mp3",
+      "meaningVi": "Việc đóng cửa nhà máy gây ra những vấn đề kinh tế nghiêm trọng cho thị trấn."
+    },
+    {
+      "id": "wf_economy_c04",
+      "family": "economy",
+      "sentenceWithGap": "A small electric car may be more ___ to run.",
+      "answer": "economical",
+      "audio": "assets/audio/word-formation/wf_economy_c04.mp3",
+      "meaningVi": "Một chiếc ô tô điện nhỏ có thể tiết kiệm chi phí vận hành hơn."
+    },
+    {
+      "id": "wf_economy_c05",
+      "family": "economy",
+      "sentenceWithGap": "The area is developing ___ because of new technology companies.",
+      "answer": "economically",
+      "audio": "assets/audio/word-formation/wf_economy_c05.mp3",
+      "meaningVi": "Khu vực đang phát triển về mặt kinh tế nhờ các công ty công nghệ mới."
+    },
+    {
+      "id": "wf_economy_c06",
+      "family": "economy",
+      "sentenceWithGap": "Experts expect the national ___ to grow slowly this year.",
+      "answer": "economy",
+      "audio": "assets/audio/word-formation/wf_economy_c06.mp3",
+      "meaningVi": "Các chuyên gia dự đoán nền kinh tế quốc gia sẽ tăng trưởng chậm trong năm nay."
+    },
+    {
+      "id": "wf_effect_c01",
+      "family": "effect",
+      "sentenceWithGap": "The construction work had a damaging ___ on nearby trees.",
+      "answer": "effect",
+      "audio": "assets/audio/word-formation/wf_effect_c01.mp3",
+      "meaningVi": "Công trình xây dựng gây ảnh hưởng có hại đến những cây gần đó."
+    },
+    {
+      "id": "wf_effect_c02",
+      "family": "effect",
+      "sentenceWithGap": "A daily study plan can be an ___ tool for exam preparation.",
+      "answer": "effective",
+      "audio": "assets/audio/word-formation/wf_effect_c02.mp3",
+      "meaningVi": "Kế hoạch học tập hằng ngày có thể là một công cụ hiệu quả để chuẩn bị thi."
+    },
+    {
+      "id": "wf_effect_c03",
+      "family": "effect",
+      "sentenceWithGap": "The advertisement was ___ because it reached the wrong audience.",
+      "answer": "ineffective",
+      "audio": "assets/audio/word-formation/wf_effect_c03.mp3",
+      "meaningVi": "Quảng cáo không hiệu quả vì tiếp cận sai đối tượng."
+    },
+    {
+      "id": "wf_effect_c04",
+      "family": "effect",
+      "sentenceWithGap": "The volunteers organised the food supplies ___.",
+      "answer": "effectively",
+      "audio": "assets/audio/word-formation/wf_effect_c04.mp3",
+      "meaningVi": "Các tình nguyện viên tổ chức nguồn cung thực phẩm một cách hiệu quả."
+    },
+    {
+      "id": "wf_effect_c05",
+      "family": "effect",
+      "sentenceWithGap": "The change will take ___ at the beginning of next month.",
+      "answer": "effect",
+      "audio": "assets/audio/word-formation/wf_effect_c05.mp3",
+      "meaningVi": "Thay đổi sẽ có hiệu lực vào đầu tháng tới."
+    },
+    {
+      "id": "wf_effect_c06",
+      "family": "effect",
+      "sentenceWithGap": "The cream is most ___ when it is applied twice a day.",
+      "answer": "effective",
+      "audio": "assets/audio/word-formation/wf_effect_c06.mp3",
+      "meaningVi": "Kem có hiệu quả nhất khi được bôi hai lần mỗi ngày."
+    },
+    {
+      "id": "wf_emotion_c01",
+      "family": "emotion",
+      "sentenceWithGap": "The actor showed real ___ during the final scene.",
+      "answer": "emotion",
+      "audio": "assets/audio/word-formation/wf_emotion_c01.mp3",
+      "meaningVi": "Diễn viên thể hiện cảm xúc chân thật trong cảnh cuối."
+    },
+    {
+      "id": "wf_emotion_c02",
+      "family": "emotion",
+      "sentenceWithGap": "The film tells an ___ story about friendship and loss.",
+      "answer": "emotional",
+      "audio": "assets/audio/word-formation/wf_emotion_c02.mp3",
+      "meaningVi": "Bộ phim kể một câu chuyện cảm động về tình bạn và mất mát."
+    },
+    {
+      "id": "wf_emotion_c03",
+      "family": "emotion",
+      "sentenceWithGap": "Moving to a new country can be ___ challenging.",
+      "answer": "emotionally",
+      "audio": "assets/audio/word-formation/wf_emotion_c03.mp3",
+      "meaningVi": "Chuyển đến một đất nước mới có thể là thử thách về mặt cảm xúc."
+    },
+    {
+      "id": "wf_emotion_c04",
+      "family": "emotion",
+      "sentenceWithGap": "Surprise was the first ___ she experienced when she opened the gift.",
+      "answer": "emotion",
+      "audio": "assets/audio/word-formation/wf_emotion_c04.mp3",
+      "meaningVi": "Ngạc nhiên là cảm xúc đầu tiên cô ấy trải qua khi mở món quà."
+    },
+    {
+      "id": "wf_emotion_c05",
+      "family": "emotion",
+      "sentenceWithGap": "He made an ___ appeal for help after the earthquake.",
+      "answer": "emotional",
+      "audio": "assets/audio/word-formation/wf_emotion_c05.mp3",
+      "meaningVi": "Anh ấy đưa ra lời kêu gọi giúp đỡ đầy cảm xúc sau trận động đất."
+    },
+    {
+      "id": "wf_emotion_c06",
+      "family": "emotion",
+      "sentenceWithGap": "The stressful experience affected her ___.",
+      "answer": "emotionally",
+      "audio": "assets/audio/word-formation/wf_emotion_c06.mp3",
+      "meaningVi": "Trải nghiệm căng thẳng ảnh hưởng đến cô ấy về mặt cảm xúc."
+    },
+    {
+      "id": "wf_employ_c01",
+      "family": "employ",
+      "sentenceWithGap": "The new restaurant expects to ___ twenty local people.",
+      "answer": "employ",
+      "audio": "assets/audio/word-formation/wf_employ_c01.mp3",
+      "meaningVi": "Nhà hàng mới dự kiến tuyển dụng hai mươi người địa phương."
+    },
+    {
+      "id": "wf_employ_c02",
+      "family": "employ",
+      "sentenceWithGap": "A former ___ described what it was like to work at the company.",
+      "answer": "employee",
+      "audio": "assets/audio/word-formation/wf_employ_c02.mp3",
+      "meaningVi": "Một cựu nhân viên mô tả trải nghiệm làm việc tại công ty."
+    },
+    {
+      "id": "wf_employ_c03",
+      "family": "employ",
+      "sentenceWithGap": "Seasonal ___ is common in towns that depend on tourism.",
+      "answer": "employment",
+      "audio": "assets/audio/word-formation/wf_employ_c03.mp3",
+      "meaningVi": "Việc làm theo mùa phổ biến ở những thị trấn phụ thuộc vào du lịch."
+    },
+    {
+      "id": "wf_employ_c04",
+      "family": "employ",
+      "sentenceWithGap": "The company is the largest private ___ in the region.",
+      "answer": "employer",
+      "audio": "assets/audio/word-formation/wf_employ_c04.mp3",
+      "meaningVi": "Công ty là chủ lao động tư nhân lớn nhất trong khu vực."
+    },
+    {
+      "id": "wf_employ_c05",
+      "family": "employ",
+      "sentenceWithGap": "Government figures show that ___ has fallen this month.",
+      "answer": "unemployment",
+      "audio": "assets/audio/word-formation/wf_employ_c05.mp3",
+      "meaningVi": "Số liệu của chính phủ cho thấy tình trạng thất nghiệp đã giảm trong tháng này."
+    },
+    {
+      "id": "wf_employ_c06",
+      "family": "employ",
+      "sentenceWithGap": "The training scheme is designed for ___ adults.",
+      "answer": "unemployed",
+      "audio": "assets/audio/word-formation/wf_employ_c06.mp3",
+      "meaningVi": "Chương trình đào tạo được thiết kế cho người lớn đang thất nghiệp."
+    },
+    {
+      "id": "wf_exact_c01",
+      "family": "exact",
+      "sentenceWithGap": "We need the ___ measurements before we order the shelves.",
+      "answer": "exact",
+      "audio": "assets/audio/word-formation/wf_exact_c01.mp3",
+      "meaningVi": "Chúng ta cần số đo chính xác trước khi đặt mua kệ."
+    },
+    {
+      "id": "wf_exact_c02",
+      "family": "exact",
+      "sentenceWithGap": "The bus arrived at ___ eight o'clock.",
+      "answer": "exactly",
+      "audio": "assets/audio/word-formation/wf_exact_c02.mp3",
+      "meaningVi": "Xe buýt đến đúng tám giờ."
+    },
+    {
+      "id": "wf_exact_c03",
+      "family": "exact",
+      "sentenceWithGap": "Could you point to the ___ place where you found the bag?",
+      "answer": "exact",
+      "audio": "assets/audio/word-formation/wf_exact_c03.mp3",
+      "meaningVi": "Bạn có thể chỉ đúng nơi bạn tìm thấy chiếc túi không?"
+    },
+    {
+      "id": "wf_exact_c04",
+      "family": "exact",
+      "sentenceWithGap": "This is ___ the information we needed.",
+      "answer": "exactly",
+      "audio": "assets/audio/word-formation/wf_exact_c04.mp3",
+      "meaningVi": "Đây chính xác là thông tin chúng tôi cần."
+    },
+    {
+      "id": "wf_exact_c05",
+      "family": "exact",
+      "sentenceWithGap": "The police have not revealed the ___ cause of the accident.",
+      "answer": "exact",
+      "audio": "assets/audio/word-formation/wf_exact_c05.mp3",
+      "meaningVi": "Cảnh sát chưa tiết lộ nguyên nhân chính xác của vụ tai nạn."
+    },
+    {
+      "id": "wf_exact_c06",
+      "family": "exact",
+      "sentenceWithGap": "I know ___ how you feel because the same thing happened to me.",
+      "answer": "exactly",
+      "audio": "assets/audio/word-formation/wf_exact_c06.mp3",
+      "meaningVi": "Tôi biết chính xác bạn cảm thấy thế nào vì điều tương tự đã xảy ra với tôi."
+    },
+    {
+      "id": "wf_except_c01",
+      "family": "except",
+      "sentenceWithGap": "All the seats were occupied ___ the one beside the window.",
+      "answer": "except",
+      "audio": "assets/audio/word-formation/wf_except_c01.mp3",
+      "meaningVi": "Tất cả ghế đều có người ngồi ngoại trừ chiếc bên cửa sổ."
+    },
+    {
+      "id": "wf_except_c02",
+      "family": "except",
+      "sentenceWithGap": "The rule applies to every vehicle, with no ___.",
+      "answer": "exception",
+      "audio": "assets/audio/word-formation/wf_except_c02.mp3",
+      "meaningVi": "Quy tắc áp dụng cho mọi phương tiện, không có ngoại lệ."
+    },
+    {
+      "id": "wf_except_c03",
+      "family": "except",
+      "sentenceWithGap": "The school is proud of her ___ achievement in science.",
+      "answer": "exceptional",
+      "audio": "assets/audio/word-formation/wf_except_c03.mp3",
+      "meaningVi": "Nhà trường tự hào về thành tích đặc biệt của cô ấy trong môn khoa học."
+    },
+    {
+      "id": "wf_except_c04",
+      "family": "except",
+      "sentenceWithGap": "Traffic was ___ heavy because of the holiday weekend.",
+      "answer": "exceptionally",
+      "audio": "assets/audio/word-formation/wf_except_c04.mp3",
+      "meaningVi": "Giao thông đặc biệt đông đúc vì kỳ nghỉ cuối tuần."
+    },
+    {
+      "id": "wf_except_c05",
+      "family": "except",
+      "sentenceWithGap": "The whole group arrived on time ___ one student.",
+      "answer": "except",
+      "audio": "assets/audio/word-formation/wf_except_c05.mp3",
+      "meaningVi": "Cả nhóm đến đúng giờ ngoại trừ một học sinh."
+    },
+    {
+      "id": "wf_except_c06",
+      "family": "except",
+      "sentenceWithGap": "Winning three national prizes in one year is an ___ result.",
+      "answer": "exceptional",
+      "audio": "assets/audio/word-formation/wf_except_c06.mp3",
+      "meaningVi": "Giành ba giải quốc gia trong một năm là một kết quả đặc biệt."
+    },
+    {
+      "id": "wf_expense_c01",
+      "family": "expense",
+      "sentenceWithGap": "The repair was more ___ than buying a replacement.",
+      "answer": "expensive",
+      "audio": "assets/audio/word-formation/wf_expense_c01.mp3",
+      "meaningVi": "Việc sửa chữa tốn kém hơn mua một món thay thế."
+    },
+    {
+      "id": "wf_expense_c02",
+      "family": "expense",
+      "sentenceWithGap": "A day ticket costs very little, so local buses provide an ___ way to explore the city.",
+      "answer": "inexpensive",
+      "audio": "assets/audio/word-formation/wf_expense_c02.mp3",
+      "meaningVi": "Vé ngày có giá rất rẻ nên xe buýt địa phương là một cách không tốn kém để khám phá thành phố."
+    },
+    {
+      "id": "wf_expense_c03",
+      "family": "expense",
+      "sentenceWithGap": "Food was our main ___ during the camping trip.",
+      "answer": "expense",
+      "audio": "assets/audio/word-formation/wf_expense_c03.mp3",
+      "meaningVi": "Thực phẩm là khoản chi phí chính trong chuyến cắm trại."
+    },
+    {
+      "id": "wf_expense_c04",
+      "family": "expense",
+      "sentenceWithGap": "The shop sells attractive but ___ gifts for tourists on a limited budget.",
+      "answer": "inexpensive",
+      "audio": "assets/audio/word-formation/wf_expense_c04.mp3",
+      "meaningVi": "Cửa hàng bán những món quà hấp dẫn nhưng không tốn kém cho du khách có ngân sách hạn chế."
+    },
+    {
+      "id": "wf_expense_c05",
+      "family": "expense",
+      "sentenceWithGap": "Flying during the school holidays can be extremely ___.",
+      "answer": "expensive",
+      "audio": "assets/audio/word-formation/wf_expense_c05.mp3",
+      "meaningVi": "Đi máy bay trong kỳ nghỉ học có thể cực kỳ đắt đỏ."
+    },
+    {
+      "id": "wf_expense_c06",
+      "family": "expense",
+      "sentenceWithGap": "The family could not afford the additional ___ of private lessons.",
+      "answer": "expense",
+      "audio": "assets/audio/word-formation/wf_expense_c06.mp3",
+      "meaningVi": "Gia đình không đủ khả năng chi trả thêm chi phí học riêng."
+    },
+    {
+      "id": "wf_fit_c01",
+      "family": "fit",
+      "sentenceWithGap": "Daily walking can improve heart health and general ___.",
+      "answer": "fitness",
+      "audio": "assets/audio/word-formation/wf_fit_c01.mp3",
+      "meaningVi": "Đi bộ hằng ngày có thể cải thiện sức khỏe tim mạch và thể lực chung."
+    },
+    {
+      "id": "wf_fit_c02",
+      "family": "fit",
+      "sentenceWithGap": "The wet field was declared ___ for the football match.",
+      "answer": "unfit",
+      "audio": "assets/audio/word-formation/wf_fit_c02.mp3",
+      "meaningVi": "Sân ướt được tuyên bố không phù hợp cho trận bóng đá."
+    },
+    {
+      "id": "wf_fit_c03",
+      "family": "fit",
+      "sentenceWithGap": "After every safety check passed, the inspector confirmed that the building was ___ for occupation.",
+      "answer": "fit",
+      "audio": "assets/audio/word-formation/wf_fit_c03.mp3",
+      "meaningVi": "Sau khi mọi kiểm tra an toàn đều đạt, thanh tra xác nhận rằng tòa nhà đủ điều kiện để sử dụng."
+    },
+    {
+      "id": "wf_fit_c04",
+      "family": "fit",
+      "sentenceWithGap": "The course includes advice on diet, exercise and ___.",
+      "answer": "fitness",
+      "audio": "assets/audio/word-formation/wf_fit_c04.mp3",
+      "meaningVi": "Khóa học bao gồm lời khuyên về chế độ ăn, tập luyện và thể lực."
+    },
+    {
+      "id": "wf_fit_c05",
+      "family": "fit",
+      "sentenceWithGap": "The old electrical system fails current safety standards and is ___ for a modern office.",
+      "answer": "unfit",
+      "audio": "assets/audio/word-formation/wf_fit_c05.mp3",
+      "meaningVi": "Hệ thống điện cũ không đạt tiêu chuẩn an toàn hiện hành và không phù hợp với một văn phòng hiện đại."
+    },
+    {
+      "id": "wf_fit_c06",
+      "family": "fit",
+      "sentenceWithGap": "She passed every medical test and was found ___ to compete.",
+      "answer": "fit",
+      "audio": "assets/audio/word-formation/wf_fit_c06.mp3",
+      "meaningVi": "Cô ấy vượt qua mọi kiểm tra y tế và được xác nhận đủ sức khỏe để thi đấu."
+    },
+    {
+      "id": "wf_fly_c01",
+      "family": "fly",
+      "sentenceWithGap": "The morning ___ was cancelled because of thick fog.",
+      "answer": "flight",
+      "audio": "assets/audio/word-formation/wf_fly_c01.mp3",
+      "meaningVi": "Chuyến bay buổi sáng bị hủy vì sương mù dày đặc."
+    },
+    {
+      "id": "wf_fly_c02",
+      "family": "fly",
+      "sentenceWithGap": "These geese ___ south every autumn.",
+      "answer": "fly",
+      "audio": "assets/audio/word-formation/wf_fly_c02.mp3",
+      "meaningVi": "Những con ngỗng này bay về phía nam vào mỗi mùa thu."
+    },
+    {
+      "id": "wf_fly_c03",
+      "family": "fly",
+      "sentenceWithGap": "We saw several ___ fish leap above the waves.",
+      "answer": "flying",
+      "audio": "assets/audio/word-formation/wf_fly_c03.mp3",
+      "meaningVi": "Chúng tôi thấy vài con cá chuồn nhảy lên trên những con sóng."
+    },
+    {
+      "id": "wf_fly_c04",
+      "family": "fly",
+      "sentenceWithGap": "Please check the departure board for your ___ number.",
+      "answer": "flight",
+      "audio": "assets/audio/word-formation/wf_fly_c04.mp3",
+      "meaningVi": "Hãy kiểm tra bảng khởi hành để biết số chuyến bay của bạn."
+    },
+    {
+      "id": "wf_fly_c05",
+      "family": "fly",
+      "sentenceWithGap": "They plan to ___ home after the final match.",
+      "answer": "fly",
+      "audio": "assets/audio/word-formation/wf_fly_c05.mp3",
+      "meaningVi": "Họ dự định bay về nhà sau trận đấu cuối cùng."
+    },
+    {
+      "id": "wf_fly_c06",
+      "family": "fly",
+      "sentenceWithGap": "Her first solo ___ made her nervous but excited.",
+      "answer": "flight",
+      "audio": "assets/audio/word-formation/wf_fly_c06.mp3",
+      "meaningVi": "Chuyến bay một mình đầu tiên khiến cô ấy lo lắng nhưng hào hứng."
+    },
+    {
+      "id": "wf_friend_c01",
+      "family": "friend",
+      "sentenceWithGap": "I met an old ___ at the school reunion.",
+      "answer": "friend",
+      "audio": "assets/audio/word-formation/wf_friend_c01.mp3",
+      "meaningVi": "Tôi gặp một người bạn cũ tại buổi họp mặt của trường."
+    },
+    {
+      "id": "wf_friend_c02",
+      "family": "friend",
+      "sentenceWithGap": "The neighbours are very ___ and often invite us for tea.",
+      "answer": "friendly",
+      "audio": "assets/audio/word-formation/wf_friend_c02.mp3",
+      "meaningVi": "Những người hàng xóm rất thân thiện và thường mời chúng tôi uống trà."
+    },
+    {
+      "id": "wf_friend_c03",
+      "family": "friend",
+      "sentenceWithGap": "Their ___ grew stronger during the long journey.",
+      "answer": "friendship",
+      "audio": "assets/audio/word-formation/wf_friend_c03.mp3",
+      "meaningVi": "Tình bạn của họ trở nên bền chặt hơn trong chuyến đi dài."
+    },
+    {
+      "id": "wf_friend_c04",
+      "family": "friend",
+      "sentenceWithGap": "His ___ expression made the younger children feel nervous.",
+      "answer": "unfriendly",
+      "audio": "assets/audio/word-formation/wf_friend_c04.mp3",
+      "meaningVi": "Vẻ mặt không thân thiện của anh ấy khiến những đứa trẻ nhỏ lo lắng."
+    },
+    {
+      "id": "wf_friend_c05",
+      "family": "friend",
+      "sentenceWithGap": "Her natural ___ helps her work well with customers.",
+      "answer": "friendliness",
+      "audio": "assets/audio/word-formation/wf_friend_c05.mp3",
+      "meaningVi": "Sự thân thiện tự nhiên giúp cô ấy làm việc tốt với khách hàng."
+    },
+    {
+      "id": "wf_friend_c06",
+      "family": "friend",
+      "sentenceWithGap": "A true ___ will listen when you need support.",
+      "answer": "friend",
+      "audio": "assets/audio/word-formation/wf_friend_c06.mp3",
+      "meaningVi": "Một người bạn thật sự sẽ lắng nghe khi bạn cần được hỗ trợ."
+    },
+    {
+      "id": "wf_greet_c01",
+      "family": "greet",
+      "sentenceWithGap": "The manager will ___ the guests at the main entrance.",
+      "answer": "greet",
+      "audio": "assets/audio/word-formation/wf_greet_c01.mp3",
+      "meaningVi": "Người quản lý sẽ chào các vị khách tại lối vào chính."
+    },
+    {
+      "id": "wf_greet_c02",
+      "family": "greet",
+      "sentenceWithGap": "He sent a short ___ to everyone in the online meeting.",
+      "answer": "greeting",
+      "audio": "assets/audio/word-formation/wf_greet_c02.mp3",
+      "meaningVi": "Anh ấy gửi một lời chào ngắn đến mọi người trong cuộc họp trực tuyến."
+    },
+    {
+      "id": "wf_greet_c03",
+      "family": "greet",
+      "sentenceWithGap": "We went to the airport to ___ our cousins.",
+      "answer": "greet",
+      "audio": "assets/audio/word-formation/wf_greet_c03.mp3",
+      "meaningVi": "Chúng tôi ra sân bay để chào đón các anh chị em họ."
+    },
+    {
+      "id": "wf_greet_c04",
+      "family": "greet",
+      "sentenceWithGap": "Her friendly ___ immediately made me feel comfortable.",
+      "answer": "greeting",
+      "audio": "assets/audio/word-formation/wf_greet_c04.mp3",
+      "meaningVi": "Lời chào thân thiện của cô ấy khiến tôi lập tức cảm thấy thoải mái."
+    },
+    {
+      "id": "wf_greet_c05",
+      "family": "greet",
+      "sentenceWithGap": "Local children often ___ tourists with a smile.",
+      "answer": "greet",
+      "audio": "assets/audio/word-formation/wf_greet_c05.mp3",
+      "meaningVi": "Trẻ em địa phương thường chào du khách bằng một nụ cười."
+    },
+    {
+      "id": "wf_greet_c06",
+      "family": "greet",
+      "sentenceWithGap": "The message began with a traditional New Year ___.",
+      "answer": "greeting",
+      "audio": "assets/audio/word-formation/wf_greet_c06.mp3",
+      "meaningVi": "Tin nhắn bắt đầu bằng lời chúc mừng năm mới truyền thống."
+    },
+    {
+      "id": "wf_grow_c01",
+      "family": "grow",
+      "sentenceWithGap": "Tomatoes ___ quickly when they receive enough sunlight.",
+      "answer": "grow",
+      "audio": "assets/audio/word-formation/wf_grow_c01.mp3",
+      "meaningVi": "Cà chua phát triển nhanh khi nhận đủ ánh sáng mặt trời."
+    },
+    {
+      "id": "wf_grow_c02",
+      "family": "grow",
+      "sentenceWithGap": "The business achieved impressive ___ during its first year.",
+      "answer": "growth",
+      "audio": "assets/audio/word-formation/wf_grow_c02.mp3",
+      "meaningVi": "Doanh nghiệp đạt mức tăng trưởng ấn tượng trong năm đầu tiên."
+    },
+    {
+      "id": "wf_grow_c03",
+      "family": "grow",
+      "sentenceWithGap": "A ___ crowd waited outside the concert hall.",
+      "answer": "growing",
+      "audio": "assets/audio/word-formation/wf_grow_c03.mp3",
+      "meaningVi": "Một đám đông ngày càng lớn chờ bên ngoài nhà hát."
+    },
+    {
+      "id": "wf_grow_c04",
+      "family": "grow",
+      "sentenceWithGap": "She hopes to ___ herbs on her balcony.",
+      "answer": "grow",
+      "audio": "assets/audio/word-formation/wf_grow_c04.mp3",
+      "meaningVi": "Cô ấy hy vọng trồng rau thơm trên ban công."
+    },
+    {
+      "id": "wf_grow_c05",
+      "family": "grow",
+      "sentenceWithGap": "Scientists measured the ___ of the young trees.",
+      "answer": "growth",
+      "audio": "assets/audio/word-formation/wf_grow_c05.mp3",
+      "meaningVi": "Các nhà khoa học đo sự phát triển của những cây non."
+    },
+    {
+      "id": "wf_grow_c06",
+      "family": "grow",
+      "sentenceWithGap": "The town faces a ___ problem with traffic.",
+      "answer": "growing",
+      "audio": "assets/audio/word-formation/wf_grow_c06.mp3",
+      "meaningVi": "Thị trấn đang đối mặt với một vấn đề giao thông ngày càng nghiêm trọng."
+    },
+    {
+      "id": "wf_health_c01",
+      "family": "health",
+      "sentenceWithGap": "The app allows users to record changes in their ___.",
+      "answer": "health",
+      "audio": "assets/audio/word-formation/wf_health_c01.mp3",
+      "meaningVi": "Ứng dụng cho phép người dùng ghi lại những thay đổi về sức khỏe."
+    },
+    {
+      "id": "wf_health_c02",
+      "family": "health",
+      "sentenceWithGap": "Fresh vegetables are part of a ___ diet.",
+      "answer": "healthy",
+      "audio": "assets/audio/word-formation/wf_health_c02.mp3",
+      "meaningVi": "Rau tươi là một phần của chế độ ăn lành mạnh."
+    },
+    {
+      "id": "wf_health_c03",
+      "family": "health",
+      "sentenceWithGap": "It is ___ to skip meals every day.",
+      "answer": "unhealthy",
+      "audio": "assets/audio/word-formation/wf_health_c03.mp3",
+      "meaningVi": "Bỏ bữa mỗi ngày là không lành mạnh."
+    },
+    {
+      "id": "wf_health_c04",
+      "family": "health",
+      "sentenceWithGap": "Our family tries to cook as ___ as possible.",
+      "answer": "healthily",
+      "audio": "assets/audio/word-formation/wf_health_c04.mp3",
+      "meaningVi": "Gia đình chúng tôi cố gắng nấu ăn lành mạnh nhất có thể."
+    },
+    {
+      "id": "wf_health_c05",
+      "family": "health",
+      "sentenceWithGap": "The rescued dog is now strong and ___.",
+      "answer": "healthy",
+      "audio": "assets/audio/word-formation/wf_health_c05.mp3",
+      "meaningVi": "Chú chó được cứu giờ đã khỏe mạnh."
+    },
+    {
+      "id": "wf_health_c06",
+      "family": "health",
+      "sentenceWithGap": "Too much stress may damage your ___.",
+      "answer": "health",
+      "audio": "assets/audio/word-formation/wf_health_c06.mp3",
+      "meaningVi": "Quá nhiều căng thẳng có thể gây hại cho sức khỏe của bạn."
+    },
+    {
+      "id": "wf_history_c01",
+      "family": "history",
+      "sentenceWithGap": "The guide told us about the island's long ___.",
+      "answer": "history",
+      "audio": "assets/audio/word-formation/wf_history_c01.mp3",
+      "meaningVi": "Hướng dẫn viên kể cho chúng tôi về lịch sử lâu đời của hòn đảo."
+    },
+    {
+      "id": "wf_history_c02",
+      "family": "history",
+      "sentenceWithGap": "A respected ___ wrote the new book about the war.",
+      "answer": "historian",
+      "audio": "assets/audio/word-formation/wf_history_c02.mp3",
+      "meaningVi": "Một nhà sử học được kính trọng đã viết cuốn sách mới về cuộc chiến."
+    },
+    {
+      "id": "wf_history_c03",
+      "family": "history",
+      "sentenceWithGap": "The maps were useful for ___ research into how the city had expanded.",
+      "answer": "historical",
+      "audio": "assets/audio/word-formation/wf_history_c03.mp3",
+      "meaningVi": "Những tấm bản đồ rất hữu ích cho nghiên cứu lịch sử về cách thành phố đã mở rộng."
+    },
+    {
+      "id": "wf_history_c04",
+      "family": "history",
+      "sentenceWithGap": "The election produced a ___ result for the country.",
+      "answer": "historic",
+      "audio": "assets/audio/word-formation/wf_history_c04.mp3",
+      "meaningVi": "Cuộc bầu cử tạo ra một kết quả mang tính lịch sử cho đất nước."
+    },
+    {
+      "id": "wf_history_c05",
+      "family": "history",
+      "sentenceWithGap": "The port was ___ important for international trade.",
+      "answer": "historically",
+      "audio": "assets/audio/word-formation/wf_history_c05.mp3",
+      "meaningVi": "Về mặt lịch sử, cảng này từng quan trọng đối với thương mại quốc tế."
+    },
+    {
+      "id": "wf_history_c06",
+      "family": "history",
+      "sentenceWithGap": "The costume is accurate according to ___ evidence.",
+      "answer": "historical",
+      "audio": "assets/audio/word-formation/wf_history_c06.mp3",
+      "meaningVi": "Bộ trang phục chính xác theo bằng chứng lịch sử."
+    },
+    {
+      "id": "wf_identify_c01",
+      "family": "identify",
+      "sentenceWithGap": "Experts used fingerprints to ___ the suspect.",
+      "answer": "identify",
+      "audio": "assets/audio/word-formation/wf_identify_c01.mp3",
+      "meaningVi": "Các chuyên gia dùng dấu vân tay để xác định nghi phạm."
+    },
+    {
+      "id": "wf_identify_c02",
+      "family": "identify",
+      "sentenceWithGap": "Visitors need official ___ to collect a pass.",
+      "answer": "identification",
+      "audio": "assets/audio/word-formation/wf_identify_c02.mp3",
+      "meaningVi": "Khách tham quan cần giấy tờ nhận dạng chính thức để nhận thẻ."
+    },
+    {
+      "id": "wf_identify_c03",
+      "family": "identify",
+      "sentenceWithGap": "The writer published the article without revealing her ___.",
+      "answer": "identity",
+      "audio": "assets/audio/word-formation/wf_identify_c03.mp3",
+      "meaningVi": "Nhà văn xuất bản bài báo mà không tiết lộ danh tính."
+    },
+    {
+      "id": "wf_identify_c04",
+      "family": "identify",
+      "sentenceWithGap": "Our answers were ___, even though we worked separately.",
+      "answer": "identical",
+      "audio": "assets/audio/word-formation/wf_identify_c04.mp3",
+      "meaningVi": "Các câu trả lời của chúng tôi giống hệt nhau dù làm bài riêng."
+    },
+    {
+      "id": "wf_identify_c05",
+      "family": "identify",
+      "sentenceWithGap": "The photograph shows an ___ animal in the forest.",
+      "answer": "unidentified",
+      "audio": "assets/audio/word-formation/wf_identify_c05.mp3",
+      "meaningVi": "Bức ảnh cho thấy một con vật chưa xác định trong rừng."
+    },
+    {
+      "id": "wf_identify_c06",
+      "family": "identify",
+      "sentenceWithGap": "The label makes it easy to ___ each cable.",
+      "answer": "identify",
+      "audio": "assets/audio/word-formation/wf_identify_c06.mp3",
+      "meaningVi": "Nhãn giúp dễ dàng xác định từng sợi cáp."
+    },
+    {
+      "id": "wf_increase_c01",
+      "family": "increase",
+      "sentenceWithGap": "There was a sharp ___ in food prices last month.",
+      "answer": "increase",
+      "audio": "assets/audio/word-formation/wf_increase_c01.mp3",
+      "meaningVi": "Tháng trước giá thực phẩm tăng mạnh."
+    },
+    {
+      "id": "wf_increase_c02",
+      "family": "increase",
+      "sentenceWithGap": "The station is busy because of the ___ number of passengers.",
+      "answer": "increased",
+      "audio": "assets/audio/word-formation/wf_increase_c02.mp3",
+      "meaningVi": "Nhà ga đông đúc vì số lượng hành khách tăng lên."
+    },
+    {
+      "id": "wf_increase_c03",
+      "family": "increase",
+      "sentenceWithGap": "The weather is becoming ___ unpredictable.",
+      "answer": "increasingly",
+      "audio": "assets/audio/word-formation/wf_increase_c03.mp3",
+      "meaningVi": "Thời tiết ngày càng trở nên khó đoán."
+    },
+    {
+      "id": "wf_increase_c04",
+      "family": "increase",
+      "sentenceWithGap": "Doctors noted an ___ in cases during winter.",
+      "answer": "increase",
+      "audio": "assets/audio/word-formation/wf_increase_c04.mp3",
+      "meaningVi": "Các bác sĩ ghi nhận sự gia tăng số ca bệnh trong mùa đông."
+    },
+    {
+      "id": "wf_increase_c05",
+      "family": "increase",
+      "sentenceWithGap": "The area needs ___ protection from forest fires.",
+      "answer": "increased",
+      "audio": "assets/audio/word-formation/wf_increase_c05.mp3",
+      "meaningVi": "Khu vực này cần được bảo vệ nhiều hơn khỏi cháy rừng."
+    },
+    {
+      "id": "wf_increase_c06",
+      "family": "increase",
+      "sentenceWithGap": "Students are ___ choosing digital textbooks.",
+      "answer": "increasingly",
+      "audio": "assets/audio/word-formation/wf_increase_c06.mp3",
+      "meaningVi": "Học sinh ngày càng chọn sách giáo khoa điện tử."
+    },
+    {
+      "id": "wf_industry_c01",
+      "family": "industry",
+      "sentenceWithGap": "The car ___ is investing heavily in electric vehicles.",
+      "answer": "industry",
+      "audio": "assets/audio/word-formation/wf_industry_c01.mp3",
+      "meaningVi": "Ngành công nghiệp ô tô đang đầu tư mạnh vào xe điện."
+    },
+    {
+      "id": "wf_industry_c02",
+      "family": "industry",
+      "sentenceWithGap": "The town developed around a large ___ centre.",
+      "answer": "industrial",
+      "audio": "assets/audio/word-formation/wf_industry_c02.mp3",
+      "meaningVi": "Thị trấn phát triển quanh một trung tâm công nghiệp lớn."
+    },
+    {
+      "id": "wf_industry_c03",
+      "family": "industry",
+      "sentenceWithGap": "Tourism is the fastest-growing ___ in the province.",
+      "answer": "industry",
+      "audio": "assets/audio/word-formation/wf_industry_c03.mp3",
+      "meaningVi": "Du lịch là ngành phát triển nhanh nhất trong tỉnh."
+    },
+    {
+      "id": "wf_industry_c04",
+      "family": "industry",
+      "sentenceWithGap": "The government plans to reduce ___ pollution.",
+      "answer": "industrial",
+      "audio": "assets/audio/word-formation/wf_industry_c04.mp3",
+      "meaningVi": "Chính phủ dự định giảm ô nhiễm công nghiệp."
+    },
+    {
+      "id": "wf_industry_c05",
+      "family": "industry",
+      "sentenceWithGap": "He has worked in the food ___ for ten years.",
+      "answer": "industry",
+      "audio": "assets/audio/word-formation/wf_industry_c05.mp3",
+      "meaningVi": "Anh ấy đã làm việc trong ngành thực phẩm mười năm."
+    },
+    {
+      "id": "wf_industry_c06",
+      "family": "industry",
+      "sentenceWithGap": "They converted an old ___ building into flats.",
+      "answer": "industrial",
+      "audio": "assets/audio/word-formation/wf_industry_c06.mp3",
+      "meaningVi": "Họ chuyển một tòa nhà công nghiệp cũ thành căn hộ."
+    },
+    {
+      "id": "wf_inhabit_c01",
+      "family": "inhabit",
+      "sentenceWithGap": "Many colourful fish ___ the coral reef.",
+      "answer": "inhabit",
+      "audio": "assets/audio/word-formation/wf_inhabit_c01.mp3",
+      "meaningVi": "Nhiều loài cá đầy màu sắc sinh sống ở rạn san hô."
+    },
+    {
+      "id": "wf_inhabit_c02",
+      "family": "inhabit",
+      "sentenceWithGap": "Each ___ must separate household waste for recycling.",
+      "answer": "inhabitant",
+      "audio": "assets/audio/word-formation/wf_inhabit_c02.mp3",
+      "meaningVi": "Mỗi cư dân phải phân loại rác gia đình để tái chế."
+    },
+    {
+      "id": "wf_inhabit_c03",
+      "family": "inhabit",
+      "sentenceWithGap": "The researchers camped on an ___ island.",
+      "answer": "uninhabited",
+      "audio": "assets/audio/word-formation/wf_inhabit_c03.mp3",
+      "meaningVi": "Các nhà nghiên cứu cắm trại trên một hòn đảo không có người ở."
+    },
+    {
+      "id": "wf_inhabit_c04",
+      "family": "inhabit",
+      "sentenceWithGap": "Wild horses still ___ the open grasslands.",
+      "answer": "inhabit",
+      "audio": "assets/audio/word-formation/wf_inhabit_c04.mp3",
+      "meaningVi": "Ngựa hoang vẫn sinh sống trên những đồng cỏ rộng."
+    },
+    {
+      "id": "wf_inhabit_c05",
+      "family": "inhabit",
+      "sentenceWithGap": "One elderly ___ told us about the village's past.",
+      "answer": "inhabitant",
+      "audio": "assets/audio/word-formation/wf_inhabit_c05.mp3",
+      "meaningVi": "Một cư dân cao tuổi kể cho chúng tôi về quá khứ của ngôi làng."
+    },
+    {
+      "id": "wf_inhabit_c06",
+      "family": "inhabit",
+      "sentenceWithGap": "The map marks several ___ areas in the mountains.",
+      "answer": "uninhabited",
+      "audio": "assets/audio/word-formation/wf_inhabit_c06.mp3",
+      "meaningVi": "Bản đồ đánh dấu một số khu vực không có người ở trên núi."
+    },
+    {
+      "id": "wf_initial_c01",
+      "family": "initial",
+      "sentenceWithGap": "Sign the form and place your ___ beside the date.",
+      "answer": "initial",
+      "audio": "assets/audio/word-formation/wf_initial_c01.mp3",
+      "meaningVi": "Hãy ký vào biểu mẫu và viết chữ cái đầu tên bạn cạnh ngày tháng."
+    },
+    {
+      "id": "wf_initial_c02",
+      "family": "initial",
+      "sentenceWithGap": "The team ___ believed the task would take one day.",
+      "answer": "initially",
+      "audio": "assets/audio/word-formation/wf_initial_c02.mp3",
+      "meaningVi": "Ban đầu, nhóm tin rằng nhiệm vụ sẽ mất một ngày."
+    },
+    {
+      "id": "wf_initial_c03",
+      "family": "initial",
+      "sentenceWithGap": "Her first ___ is printed on the library card.",
+      "answer": "initial",
+      "audio": "assets/audio/word-formation/wf_initial_c03.mp3",
+      "meaningVi": "Chữ cái đầu trong tên của cô ấy được in trên thẻ thư viện."
+    },
+    {
+      "id": "wf_initial_c04",
+      "family": "initial",
+      "sentenceWithGap": "I ___ disliked the new timetable, but now I prefer it.",
+      "answer": "initially",
+      "audio": "assets/audio/word-formation/wf_initial_c04.mp3",
+      "meaningVi": "Ban đầu tôi không thích thời khóa biểu mới, nhưng giờ tôi thích hơn."
+    },
+    {
+      "id": "wf_initial_c05",
+      "family": "initial",
+      "sentenceWithGap": "The artist marks each painting with his ___.",
+      "answer": "initial",
+      "audio": "assets/audio/word-formation/wf_initial_c05.mp3",
+      "meaningVi": "Người họa sĩ đánh dấu mỗi bức tranh bằng chữ cái đầu tên mình."
+    },
+    {
+      "id": "wf_initial_c06",
+      "family": "initial",
+      "sentenceWithGap": "The service was ___ free for all users.",
+      "answer": "initially",
+      "audio": "assets/audio/word-formation/wf_initial_c06.mp3",
+      "meaningVi": "Ban đầu dịch vụ miễn phí cho tất cả người dùng."
+    },
+    {
+      "id": "wf_innovate_c01",
+      "family": "innovate",
+      "sentenceWithGap": "Local businesses need to ___ in order to survive.",
+      "answer": "innovate",
+      "audio": "assets/audio/word-formation/wf_innovate_c01.mp3",
+      "meaningVi": "Các doanh nghiệp địa phương cần đổi mới để tồn tại."
+    },
+    {
+      "id": "wf_innovate_c02",
+      "family": "innovate",
+      "sentenceWithGap": "The device won a prize for technical ___.",
+      "answer": "innovation",
+      "audio": "assets/audio/word-formation/wf_innovate_c02.mp3",
+      "meaningVi": "Thiết bị giành giải thưởng cho sự đổi mới kỹ thuật."
+    },
+    {
+      "id": "wf_innovate_c03",
+      "family": "innovate",
+      "sentenceWithGap": "The school introduced an ___ recycling programme.",
+      "answer": "innovative",
+      "audio": "assets/audio/word-formation/wf_innovate_c03.mp3",
+      "meaningVi": "Trường đã giới thiệu một chương trình tái chế mang tính đổi mới."
+    },
+    {
+      "id": "wf_innovate_c04",
+      "family": "innovate",
+      "sentenceWithGap": "Young designers are free to experiment and ___.",
+      "answer": "innovate",
+      "audio": "assets/audio/word-formation/wf_innovate_c04.mp3",
+      "meaningVi": "Các nhà thiết kế trẻ được tự do thử nghiệm và đổi mới."
+    },
+    {
+      "id": "wf_innovate_c05",
+      "family": "innovate",
+      "sentenceWithGap": "Digital ___ has transformed the way we communicate.",
+      "answer": "innovation",
+      "audio": "assets/audio/word-formation/wf_innovate_c05.mp3",
+      "meaningVi": "Sự đổi mới kỹ thuật số đã thay đổi cách chúng ta giao tiếp."
+    },
+    {
+      "id": "wf_innovate_c06",
+      "family": "innovate",
+      "sentenceWithGap": "Researchers found an ___ use for the waste material.",
+      "answer": "innovative",
+      "audio": "assets/audio/word-formation/wf_innovate_c06.mp3",
+      "meaningVi": "Các nhà nghiên cứu tìm ra một cách sử dụng sáng tạo cho vật liệu thải."
+    },
+    {
+      "id": "wf_introduce_c01",
+      "family": "introduce",
+      "sentenceWithGap": "The chairperson will ___ each speaker in turn.",
+      "answer": "introduce",
+      "audio": "assets/audio/word-formation/wf_introduce_c01.mp3",
+      "meaningVi": "Chủ tọa sẽ lần lượt giới thiệu từng diễn giả."
+    },
+    {
+      "id": "wf_introduce_c02",
+      "family": "introduce",
+      "sentenceWithGap": "The article needs a stronger ___.",
+      "answer": "introduction",
+      "audio": "assets/audio/word-formation/wf_introduce_c02.mp3",
+      "meaningVi": "Bài báo cần một phần mở đầu hay hơn."
+    },
+    {
+      "id": "wf_introduce_c03",
+      "family": "introduce",
+      "sentenceWithGap": "We joined an ___ workshop before starting the course.",
+      "answer": "introductory",
+      "audio": "assets/audio/word-formation/wf_introduce_c03.mp3",
+      "meaningVi": "Chúng tôi tham gia một buổi hội thảo mở đầu trước khi bắt đầu khóa học."
+    },
+    {
+      "id": "wf_introduce_c04",
+      "family": "introduce",
+      "sentenceWithGap": "The library hopes to ___ longer opening hours.",
+      "answer": "introduce",
+      "audio": "assets/audio/word-formation/wf_introduce_c04.mp3",
+      "meaningVi": "Thư viện hy vọng đưa vào áp dụng giờ mở cửa dài hơn."
+    },
+    {
+      "id": "wf_introduce_c05",
+      "family": "introduce",
+      "sentenceWithGap": "The ___ of the new law caused some confusion.",
+      "answer": "introduction",
+      "audio": "assets/audio/word-formation/wf_introduce_c05.mp3",
+      "meaningVi": "Việc đưa luật mới vào áp dụng gây ra một số nhầm lẫn."
+    },
+    {
+      "id": "wf_introduce_c06",
+      "family": "introduce",
+      "sentenceWithGap": "The first chapter provides ___ information about the project.",
+      "answer": "introductory",
+      "audio": "assets/audio/word-formation/wf_introduce_c06.mp3",
+      "meaningVi": "Chương đầu cung cấp thông tin mở đầu về dự án."
+    },
+    {
+      "id": "wf_invent_c01",
+      "family": "invent",
+      "sentenceWithGap": "Scientists are trying to ___ a safer battery.",
+      "answer": "invent",
+      "audio": "assets/audio/word-formation/wf_invent_c01.mp3",
+      "meaningVi": "Các nhà khoa học đang cố phát minh một loại pin an toàn hơn."
+    },
+    {
+      "id": "wf_invent_c02",
+      "family": "invent",
+      "sentenceWithGap": "Her latest ___ helps people save water.",
+      "answer": "invention",
+      "audio": "assets/audio/word-formation/wf_invent_c02.mp3",
+      "meaningVi": "Phát minh mới nhất của cô ấy giúp mọi người tiết kiệm nước."
+    },
+    {
+      "id": "wf_invent_c03",
+      "family": "invent",
+      "sentenceWithGap": "The ___ explained how his device worked.",
+      "answer": "inventor",
+      "audio": "assets/audio/word-formation/wf_invent_c03.mp3",
+      "meaningVi": "Nhà phát minh giải thích thiết bị của mình hoạt động như thế nào."
+    },
+    {
+      "id": "wf_invent_c04",
+      "family": "invent",
+      "sentenceWithGap": "The class produced several ___ designs.",
+      "answer": "inventive",
+      "audio": "assets/audio/word-formation/wf_invent_c04.mp3",
+      "meaningVi": "Lớp học tạo ra một số thiết kế giàu sáng kiến."
+    },
+    {
+      "id": "wf_invent_c05",
+      "family": "invent",
+      "sentenceWithGap": "Children often ___ games using simple objects.",
+      "answer": "invent",
+      "audio": "assets/audio/word-formation/wf_invent_c05.mp3",
+      "meaningVi": "Trẻ em thường sáng tạo ra trò chơi bằng những đồ vật đơn giản."
+    },
+    {
+      "id": "wf_invent_c06",
+      "family": "invent",
+      "sentenceWithGap": "A successful ___ must be patient when tests fail.",
+      "answer": "inventor",
+      "audio": "assets/audio/word-formation/wf_invent_c06.mp3",
+      "meaningVi": "Một nhà phát minh thành công phải kiên nhẫn khi các thử nghiệm thất bại."
+    },
+    {
+      "id": "wf_legend_c01",
+      "family": "legend",
+      "sentenceWithGap": "A local ___ says that the lake has no bottom.",
+      "answer": "legend",
+      "audio": "assets/audio/word-formation/wf_legend_c01.mp3",
+      "meaningVi": "Một truyền thuyết địa phương kể rằng hồ này không có đáy."
+    },
+    {
+      "id": "wf_legend_c02",
+      "family": "legend",
+      "sentenceWithGap": "The actor gave a ___ performance in his final film.",
+      "answer": "legendary",
+      "audio": "assets/audio/word-formation/wf_legend_c02.mp3",
+      "meaningVi": "Nam diễn viên có một màn trình diễn huyền thoại trong bộ phim cuối."
+    },
+    {
+      "id": "wf_legend_c03",
+      "family": "legend",
+      "sentenceWithGap": "The dragon appears in an old Chinese ___.",
+      "answer": "legend",
+      "audio": "assets/audio/word-formation/wf_legend_c03.mp3",
+      "meaningVi": "Con rồng xuất hiện trong một truyền thuyết cổ của Trung Quốc."
+    },
+    {
+      "id": "wf_legend_c04",
+      "family": "legend",
+      "sentenceWithGap": "The club's ___ captain visited the young players.",
+      "answer": "legendary",
+      "audio": "assets/audio/word-formation/wf_legend_c04.mp3",
+      "meaningVi": "Đội trưởng huyền thoại của câu lạc bộ đến thăm các cầu thủ trẻ."
+    },
+    {
+      "id": "wf_legend_c05",
+      "family": "legend",
+      "sentenceWithGap": "No evidence supports the ___ about the lost city.",
+      "answer": "legend",
+      "audio": "assets/audio/word-formation/wf_legend_c05.mp3",
+      "meaningVi": "Không có bằng chứng nào ủng hộ truyền thuyết về thành phố bị mất."
+    },
+    {
+      "id": "wf_legend_c06",
+      "family": "legend",
+      "sentenceWithGap": "The scientist's patience was ___.",
+      "answer": "legendary",
+      "audio": "assets/audio/word-formation/wf_legend_c06.mp3",
+      "meaningVi": "Sự kiên nhẫn của nhà khoa học ấy đã trở thành huyền thoại."
+    },
+    {
+      "id": "wf_live_c01",
+      "family": "live",
+      "sentenceWithGap": "More than a million people ___ in this city.",
+      "answer": "live",
+      "audio": "assets/audio/word-formation/wf_live_c01.mp3",
+      "meaningVi": "Hơn một triệu người sống ở thành phố này."
+    },
+    {
+      "id": "wf_live_c02",
+      "family": "live",
+      "sentenceWithGap": "The discovery suggests that ___ may exist elsewhere in space.",
+      "answer": "life",
+      "audio": "assets/audio/word-formation/wf_live_c02.mp3",
+      "meaningVi": "Khám phá cho thấy sự sống có thể tồn tại ở nơi khác trong vũ trụ."
+    },
+    {
+      "id": "wf_live_c03",
+      "family": "live",
+      "sentenceWithGap": "The forest provides food for many ___ creatures.",
+      "answer": "living",
+      "alsoAccept": [
+        "live"
+      ],
+      "audio": "assets/audio/word-formation/wf_live_c03.mp3",
+      "meaningVi": "Khu rừng cung cấp thức ăn cho nhiều sinh vật sống."
+    },
+    {
+      "id": "wf_live_c04",
+      "family": "live",
+      "sentenceWithGap": "The tradition is still ___ among younger generations.",
+      "answer": "alive",
+      "audio": "assets/audio/word-formation/wf_live_c04.mp3",
+      "meaningVi": "Truyền thống vẫn còn tồn tại trong các thế hệ trẻ."
+    },
+    {
+      "id": "wf_live_c05",
+      "family": "live",
+      "sentenceWithGap": "The actor's voice made the wooden puppet seem less ___.",
+      "answer": "lifeless",
+      "audio": "assets/audio/word-formation/wf_live_c05.mp3",
+      "meaningVi": "Giọng của diễn viên khiến con rối gỗ bớt vô hồn."
+    },
+    {
+      "id": "wf_live_c06",
+      "family": "live",
+      "sentenceWithGap": "The teacher created a ___ atmosphere in the classroom.",
+      "answer": "lively",
+      "audio": "assets/audio/word-formation/wf_live_c06.mp3",
+      "meaningVi": "Giáo viên tạo ra bầu không khí sôi nổi trong lớp học."
+    },
+    {
+      "id": "wf_low_c01",
+      "family": "low",
+      "sentenceWithGap": "The doctor advised him to ___ his salt intake.",
+      "answer": "lower",
+      "audio": "assets/audio/word-formation/wf_low_c01.mp3",
+      "meaningVi": "Bác sĩ khuyên anh ấy giảm lượng muối ăn vào."
+    },
+    {
+      "id": "wf_low_c02",
+      "family": "low",
+      "sentenceWithGap": "Temperatures will remain very ___ tonight.",
+      "answer": "low",
+      "audio": "assets/audio/word-formation/wf_low_c02.mp3",
+      "meaningVi": "Nhiệt độ sẽ duy trì ở mức rất thấp tối nay."
+    },
+    {
+      "id": "wf_low_c03",
+      "family": "low",
+      "sentenceWithGap": "They plan to ___ the speed limit near the school.",
+      "answer": "lower",
+      "audio": "assets/audio/word-formation/wf_low_c03.mp3",
+      "meaningVi": "Họ dự định hạ giới hạn tốc độ gần trường học."
+    },
+    {
+      "id": "wf_low_c04",
+      "family": "low",
+      "sentenceWithGap": "We spoke in very ___ voices inside the library.",
+      "answer": "low",
+      "audio": "assets/audio/word-formation/wf_low_c04.mp3",
+      "meaningVi": "Chúng tôi nói bằng giọng rất nhỏ trong thư viện."
+    },
+    {
+      "id": "wf_low_c05",
+      "family": "low",
+      "sentenceWithGap": "Pull this handle to ___ the seat.",
+      "answer": "lower",
+      "audio": "assets/audio/word-formation/wf_low_c05.mp3",
+      "meaningVi": "Kéo tay cầm này để hạ ghế xuống."
+    },
+    {
+      "id": "wf_low_c06",
+      "family": "low",
+      "sentenceWithGap": "The river is very ___ after weeks without rain.",
+      "answer": "low",
+      "audio": "assets/audio/word-formation/wf_low_c06.mp3",
+      "meaningVi": "Mực nước sông rất thấp sau nhiều tuần không mưa."
+    },
+    {
+      "id": "wf_move_c01",
+      "family": "move",
+      "sentenceWithGap": "You must ___ the label before recycling the bottle.",
+      "answer": "remove",
+      "audio": "assets/audio/word-formation/wf_move_c01.mp3",
+      "meaningVi": "Bạn phải gỡ nhãn trước khi tái chế chai."
+    },
+    {
+      "id": "wf_move_c02",
+      "family": "move",
+      "sentenceWithGap": "The civil rights ___ changed laws and attitudes.",
+      "answer": "movement",
+      "audio": "assets/audio/word-formation/wf_move_c02.mp3",
+      "meaningVi": "Phong trào dân quyền đã thay đổi luật pháp và thái độ."
+    },
+    {
+      "id": "wf_move_c03",
+      "family": "move",
+      "sentenceWithGap": "The research team stayed on the ___ throughout the long field trip.",
+      "answer": "move",
+      "audio": "assets/audio/word-formation/wf_move_c03.mp3",
+      "meaningVi": "Nhóm nghiên cứu liên tục di chuyển trong suốt chuyến đi thực địa dài."
+    },
+    {
+      "id": "wf_move_c04",
+      "family": "move",
+      "sentenceWithGap": "The reunion scene was extremely ___.",
+      "answer": "moving",
+      "audio": "assets/audio/word-formation/wf_move_c04.mp3",
+      "meaningVi": "Cảnh đoàn tụ vô cùng cảm động."
+    },
+    {
+      "id": "wf_move_c05",
+      "family": "move",
+      "sentenceWithGap": "The cleaner used a special product to ___ the ink stain.",
+      "answer": "remove",
+      "audio": "assets/audio/word-formation/wf_move_c05.mp3",
+      "meaningVi": "Người dọn dẹp dùng một sản phẩm đặc biệt để tẩy vết mực."
+    },
+    {
+      "id": "wf_move_c06",
+      "family": "move",
+      "sentenceWithGap": "The youth ___ organised clean-up events across the city.",
+      "answer": "movement",
+      "audio": "assets/audio/word-formation/wf_move_c06.mp3",
+      "meaningVi": "Phong trào thanh niên đã tổ chức các hoạt động dọn dẹp trên khắp thành phố."
+    },
+    {
+      "id": "wf_near_c01",
+      "family": "near",
+      "sentenceWithGap": "The children stayed ___ their teacher during the trip.",
+      "answer": "near",
+      "audio": "assets/audio/word-formation/wf_near_c01.mp3",
+      "meaningVi": "Bọn trẻ ở gần giáo viên trong chuyến đi."
+    },
+    {
+      "id": "wf_near_c02",
+      "family": "near",
+      "sentenceWithGap": "We borrowed tools from a ___ neighbour.",
+      "answer": "nearby",
+      "audio": "assets/audio/word-formation/wf_near_c02.mp3",
+      "meaningVi": "Chúng tôi mượn dụng cụ từ một người hàng xóm gần đó."
+    },
+    {
+      "id": "wf_near_c03",
+      "family": "near",
+      "sentenceWithGap": "The theatre was ___ full when we arrived.",
+      "answer": "nearly",
+      "audio": "assets/audio/word-formation/wf_near_c03.mp3",
+      "meaningVi": "Nhà hát gần như kín chỗ khi chúng tôi đến."
+    },
+    {
+      "id": "wf_near_c04",
+      "family": "near",
+      "sentenceWithGap": "A storm is getting ___, so we should go inside.",
+      "answer": "near",
+      "audio": "assets/audio/word-formation/wf_near_c04.mp3",
+      "meaningVi": "Một cơn bão đang đến gần nên chúng ta nên vào trong."
+    },
+    {
+      "id": "wf_near_c05",
+      "family": "near",
+      "sentenceWithGap": "There is a small park ___.",
+      "answer": "nearby",
+      "audio": "assets/audio/word-formation/wf_near_c05.mp3",
+      "meaningVi": "Có một công viên nhỏ ở gần đây."
+    },
+    {
+      "id": "wf_near_c06",
+      "family": "near",
+      "sentenceWithGap": "She has ___ finished writing her report.",
+      "answer": "nearly",
+      "audio": "assets/audio/word-formation/wf_near_c06.mp3",
+      "meaningVi": "Cô ấy gần như đã viết xong báo cáo."
+    },
+    {
+      "id": "wf_necessary_c01",
+      "family": "necessary",
+      "sentenceWithGap": "It is ___ to bring a printed copy because digital tickets are not accepted.",
+      "answer": "necessary",
+      "audio": "assets/audio/word-formation/wf_necessary_c01.mp3",
+      "meaningVi": "Cần phải mang theo bản in vì vé điện tử không được chấp nhận."
+    },
+    {
+      "id": "wf_necessary_c02",
+      "family": "necessary",
+      "sentenceWithGap": "The second explanation was completely ___ because the first one was already clear.",
+      "answer": "unnecessary",
+      "audio": "assets/audio/word-formation/wf_necessary_c02.mp3",
+      "meaningVi": "Lời giải thích thứ hai hoàn toàn không cần thiết."
+    },
+    {
+      "id": "wf_necessary_c03",
+      "family": "necessary",
+      "sentenceWithGap": "Being busy does not ___ mean being productive.",
+      "answer": "necessarily",
+      "audio": "assets/audio/word-formation/wf_necessary_c03.mp3",
+      "meaningVi": "Bận rộn không nhất thiết có nghĩa là làm việc hiệu quả."
+    },
+    {
+      "id": "wf_necessary_c04",
+      "family": "necessary",
+      "sentenceWithGap": "Warm clothing is a ___ in this climate.",
+      "answer": "necessity",
+      "audio": "assets/audio/word-formation/wf_necessary_c04.mp3",
+      "meaningVi": "Quần áo ấm là một nhu cầu thiết yếu trong khí hậu này."
+    },
+    {
+      "id": "wf_necessary_c05",
+      "family": "necessary",
+      "sentenceWithGap": "The machine was left running ___ even though no one was using it.",
+      "answer": "unnecessarily",
+      "audio": "assets/audio/word-formation/wf_necessary_c05.mp3",
+      "meaningVi": "Máy vẫn bị để chạy một cách không cần thiết dù không có ai sử dụng."
+    },
+    {
+      "id": "wf_necessary_c06",
+      "family": "necessary",
+      "sentenceWithGap": "We made the ___ repairs before reopening the room.",
+      "answer": "necessary",
+      "audio": "assets/audio/word-formation/wf_necessary_c06.mp3",
+      "meaningVi": "Chúng tôi thực hiện những sửa chữa cần thiết trước khi mở lại căn phòng."
+    },
+    {
+      "id": "wf_obsess_c01",
+      "family": "obsess",
+      "sentenceWithGap": "Do not allow exam results to ___ you.",
+      "answer": "obsess",
+      "audio": "assets/audio/word-formation/wf_obsess_c01.mp3",
+      "meaningVi": "Đừng để kết quả thi ám ảnh bạn."
+    },
+    {
+      "id": "wf_obsess_c02",
+      "family": "obsess",
+      "sentenceWithGap": "Her ___ with perfection causes unnecessary stress.",
+      "answer": "obsession",
+      "audio": "assets/audio/word-formation/wf_obsess_c02.mp3",
+      "meaningVi": "Nỗi ám ảnh về sự hoàn hảo khiến cô ấy căng thẳng không cần thiết."
+    },
+    {
+      "id": "wf_obsess_c03",
+      "family": "obsess",
+      "sentenceWithGap": "He was so ___ with the game that he forgot dinner.",
+      "answer": "obsessed",
+      "audio": "assets/audio/word-formation/wf_obsess_c03.mp3",
+      "meaningVi": "Cậu ấy bị ám ảnh với trò chơi đến mức quên ăn tối."
+    },
+    {
+      "id": "wf_obsess_c04",
+      "family": "obsess",
+      "sentenceWithGap": "The coach was concerned about the athlete's ___ training habits.",
+      "answer": "obsessive",
+      "audio": "assets/audio/word-formation/wf_obsess_c04.mp3",
+      "meaningVi": "Huấn luyện viên lo lắng về thói quen tập luyện quá mức của vận động viên."
+    },
+    {
+      "id": "wf_obsess_c05",
+      "family": "obsess",
+      "sentenceWithGap": "They became ___ with finding the cheapest possible price.",
+      "answer": "obsessed",
+      "audio": "assets/audio/word-formation/wf_obsess_c05.mp3",
+      "meaningVi": "Họ bị ám ảnh với việc tìm mức giá rẻ nhất có thể."
+    },
+    {
+      "id": "wf_obsess_c06",
+      "family": "obsess",
+      "sentenceWithGap": "Checking her phone had become an ___.",
+      "answer": "obsession",
+      "audio": "assets/audio/word-formation/wf_obsess_c06.mp3",
+      "meaningVi": "Việc kiểm tra điện thoại đã trở thành một nỗi ám ảnh của cô ấy."
+    },
+    {
+      "id": "wf_out_c01",
+      "family": "out",
+      "sentenceWithGap": "The ___ surface of the helmet was badly scratched.",
+      "answer": "outer",
+      "audio": "assets/audio/word-formation/wf_out_c01.mp3",
+      "meaningVi": "Bề mặt bên ngoài của mũ bảo hiểm bị trầy xước nặng."
+    },
+    {
+      "id": "wf_out_c02",
+      "family": "out",
+      "sentenceWithGap": "Let's go ___ and get some fresh air.",
+      "answer": "out",
+      "audio": "assets/audio/word-formation/wf_out_c02.mp3",
+      "meaningVi": "Hãy ra ngoài và hít thở không khí trong lành."
+    },
+    {
+      "id": "wf_out_c03",
+      "family": "out",
+      "sentenceWithGap": "A thick ___ wall protects the garden.",
+      "answer": "outer",
+      "audio": "assets/audio/word-formation/wf_out_c03.mp3",
+      "meaningVi": "Một bức tường ngoài dày bảo vệ khu vườn."
+    },
+    {
+      "id": "wf_out_c04",
+      "family": "out",
+      "sentenceWithGap": "The sun came ___ just before noon.",
+      "answer": "out",
+      "audio": "assets/audio/word-formation/wf_out_c04.mp3",
+      "meaningVi": "Mặt trời ló ra ngay trước buổi trưa."
+    },
+    {
+      "id": "wf_out_c05",
+      "family": "out",
+      "sentenceWithGap": "The satellite reached the ___ limits of the system.",
+      "answer": "outer",
+      "audio": "assets/audio/word-formation/wf_out_c05.mp3",
+      "meaningVi": "Vệ tinh đã đến giới hạn bên ngoài của hệ thống."
+    },
+    {
+      "id": "wf_out_c06",
+      "family": "out",
+      "sentenceWithGap": "He stepped ___ to answer the phone privately.",
+      "answer": "out",
+      "audio": "assets/audio/word-formation/wf_out_c06.mp3",
+      "meaningVi": "Anh ấy bước ra ngoài để trả lời điện thoại riêng."
+    },
+    {
+      "id": "wf_particular_c01",
+      "family": "particular",
+      "sentenceWithGap": "The village is known for its ___ style of pottery.",
+      "answer": "particular",
+      "audio": "assets/audio/word-formation/wf_particular_c01.mp3",
+      "meaningVi": "Ngôi làng nổi tiếng với phong cách gốm đặc thù."
+    },
+    {
+      "id": "wf_particular_c02",
+      "family": "particular",
+      "sentenceWithGap": "The beach is ___ beautiful at sunset.",
+      "answer": "particularly",
+      "audio": "assets/audio/word-formation/wf_particular_c02.mp3",
+      "meaningVi": "Bãi biển đặc biệt đẹp lúc hoàng hôn."
+    },
+    {
+      "id": "wf_particular_c03",
+      "family": "particular",
+      "sentenceWithGap": "This fabric has a ___ pattern that is unique to the village.",
+      "answer": "particular",
+      "audio": "assets/audio/word-formation/wf_particular_c03.mp3",
+      "meaningVi": "Loại vải này có một hoa văn đặc thù chỉ có ở ngôi làng."
+    },
+    {
+      "id": "wf_particular_c04",
+      "family": "particular",
+      "sentenceWithGap": "Young children were ___ excited about the show.",
+      "answer": "particularly",
+      "audio": "assets/audio/word-formation/wf_particular_c04.mp3",
+      "meaningVi": "Trẻ nhỏ đặc biệt hào hứng với buổi biểu diễn."
+    },
+    {
+      "id": "wf_particular_c05",
+      "family": "particular",
+      "sentenceWithGap": "The dish has a ___ flavour that comes from a rare local herb.",
+      "answer": "particular",
+      "audio": "assets/audio/word-formation/wf_particular_c05.mp3",
+      "meaningVi": "Món ăn có hương vị đặc thù nhờ một loại thảo mộc địa phương hiếm."
+    },
+    {
+      "id": "wf_particular_c06",
+      "family": "particular",
+      "sentenceWithGap": "Traffic is ___ heavy on Friday evenings.",
+      "answer": "particularly",
+      "audio": "assets/audio/word-formation/wf_particular_c06.mp3",
+      "meaningVi": "Giao thông đặc biệt đông vào tối thứ Sáu."
+    },
+    {
+      "id": "wf_patient_c01",
+      "family": "patient",
+      "sentenceWithGap": "Please have ___ while the page loads.",
+      "answer": "patience",
+      "audio": "assets/audio/word-formation/wf_patient_c01.mp3",
+      "meaningVi": "Xin hãy kiên nhẫn trong khi trang tải."
+    },
+    {
+      "id": "wf_patient_c02",
+      "family": "patient",
+      "sentenceWithGap": "The ___ is recovering well after the operation.",
+      "answer": "patient",
+      "audio": "assets/audio/word-formation/wf_patient_c02.mp3",
+      "meaningVi": "Người bệnh đang hồi phục tốt sau ca phẫu thuật."
+    },
+    {
+      "id": "wf_patient_c03",
+      "family": "patient",
+      "sentenceWithGap": "His ___ made him interrupt the speaker.",
+      "answer": "impatience",
+      "audio": "assets/audio/word-formation/wf_patient_c03.mp3",
+      "meaningVi": "Sự thiếu kiên nhẫn khiến anh ấy ngắt lời diễn giả."
+    },
+    {
+      "id": "wf_patient_c04",
+      "family": "patient",
+      "sentenceWithGap": "We grew ___ after waiting for an hour.",
+      "answer": "impatient",
+      "audio": "assets/audio/word-formation/wf_patient_c04.mp3",
+      "meaningVi": "Chúng tôi trở nên thiếu kiên nhẫn sau khi chờ một giờ."
+    },
+    {
+      "id": "wf_patient_c05",
+      "family": "patient",
+      "sentenceWithGap": "She ___ pushed the button again and again.",
+      "answer": "impatiently",
+      "audio": "assets/audio/word-formation/wf_patient_c05.mp3",
+      "meaningVi": "Cô ấy thiếu kiên nhẫn nhấn nút liên tục."
+    },
+    {
+      "id": "wf_patient_c06",
+      "family": "patient",
+      "sentenceWithGap": "The teacher listened ___ to every question without interrupting.",
+      "answer": "patiently",
+      "audio": "assets/audio/word-formation/wf_patient_c06.mp3",
+      "meaningVi": "Giáo viên kiên nhẫn lắng nghe từng câu hỏi mà không ngắt lời."
+    },
+    {
+      "id": "wf_please_c01",
+      "family": "please",
+      "sentenceWithGap": "The new menu should ___ both children and adults.",
+      "answer": "please",
+      "audio": "assets/audio/word-formation/wf_please_c01.mp3",
+      "meaningVi": "Thực đơn mới sẽ làm hài lòng cả trẻ em lẫn người lớn."
+    },
+    {
+      "id": "wf_please_c02",
+      "family": "please",
+      "sentenceWithGap": "It gives me great ___ to welcome you here.",
+      "answer": "pleasure",
+      "audio": "assets/audio/word-formation/wf_please_c02.mp3",
+      "meaningVi": "Tôi rất vui được chào đón bạn đến đây."
+    },
+    {
+      "id": "wf_please_c03",
+      "family": "please",
+      "sentenceWithGap": "The weather was cool but ___, so we stayed outside.",
+      "answer": "pleasant",
+      "audio": "assets/audio/word-formation/wf_please_c03.mp3",
+      "meaningVi": "Thời tiết mát mẻ nhưng dễ chịu nên chúng tôi ở ngoài trời."
+    },
+    {
+      "id": "wf_please_c04",
+      "family": "please",
+      "sentenceWithGap": "She was ___ with her exam result.",
+      "answer": "pleased",
+      "audio": "assets/audio/word-formation/wf_please_c04.mp3",
+      "meaningVi": "Cô ấy hài lòng với kết quả thi."
+    },
+    {
+      "id": "wf_please_c05",
+      "family": "please",
+      "sentenceWithGap": "We had an ___ journey because the bus was crowded.",
+      "answer": "unpleasant",
+      "audio": "assets/audio/word-formation/wf_please_c05.mp3",
+      "meaningVi": "Chúng tôi có một chuyến đi khó chịu vì xe buýt đông."
+    },
+    {
+      "id": "wf_please_c06",
+      "family": "please",
+      "sentenceWithGap": "The receptionist greeted us ___.",
+      "answer": "pleasantly",
+      "audio": "assets/audio/word-formation/wf_please_c06.mp3",
+      "meaningVi": "Nhân viên lễ tân chào chúng tôi một cách dễ chịu."
+    },
+    {
+      "id": "wf_pollute_c01",
+      "family": "pollute",
+      "sentenceWithGap": "Careless dumping can ___ lakes and kill fish.",
+      "answer": "pollute",
+      "audio": "assets/audio/word-formation/wf_pollute_c01.mp3",
+      "meaningVi": "Việc đổ rác bừa bãi có thể làm ô nhiễm hồ và giết chết cá."
+    },
+    {
+      "id": "wf_pollute_c02",
+      "family": "pollute",
+      "sentenceWithGap": "The government is introducing stricter laws to reduce air ___.",
+      "answer": "pollution",
+      "audio": "assets/audio/word-formation/wf_pollute_c02.mp3",
+      "meaningVi": "Chính phủ đang đưa ra các luật nghiêm ngặt hơn để giảm ô nhiễm không khí."
+    },
+    {
+      "id": "wf_pollute_c03",
+      "family": "pollute",
+      "sentenceWithGap": "Oil is a serious ___ when it leaks into the sea.",
+      "answer": "pollutant",
+      "audio": "assets/audio/word-formation/wf_pollute_c03.mp3",
+      "meaningVi": "Dầu là một chất gây ô nhiễm nghiêm trọng khi rò rỉ ra biển."
+    },
+    {
+      "id": "wf_pollute_c04",
+      "family": "pollute",
+      "sentenceWithGap": "Residents were warned not to drink the ___ water.",
+      "answer": "polluted",
+      "audio": "assets/audio/word-formation/wf_pollute_c04.mp3",
+      "meaningVi": "Người dân được cảnh báo không uống nguồn nước bị ô nhiễm."
+    },
+    {
+      "id": "wf_pollute_c05",
+      "family": "pollute",
+      "sentenceWithGap": "The national park contains one of the country's last ___ rivers.",
+      "answer": "unpolluted",
+      "audio": "assets/audio/word-formation/wf_pollute_c05.mp3",
+      "meaningVi": "Vườn quốc gia có một trong những con sông không bị ô nhiễm cuối cùng của đất nước."
+    },
+    {
+      "id": "wf_pollute_c06",
+      "family": "pollute",
+      "sentenceWithGap": "Even small amounts of waste can ___ a village water supply.",
+      "answer": "pollute",
+      "audio": "assets/audio/word-formation/wf_pollute_c06.mp3",
+      "meaningVi": "Ngay cả một lượng nhỏ chất thải cũng có thể làm ô nhiễm nguồn nước của một ngôi làng."
+    },
+    {
+      "id": "wf_populate_c01",
+      "family": "populate",
+      "sentenceWithGap": "People began to ___ the area after a road connected it to the capital.",
+      "answer": "populate",
+      "audio": "assets/audio/word-formation/wf_populate_c01.mp3",
+      "meaningVi": "Người dân bắt đầu đến cư trú ở khu vực này sau khi một con đường nối nó với thủ đô."
+    },
+    {
+      "id": "wf_populate_c02",
+      "family": "populate",
+      "sentenceWithGap": "The island has a permanent ___ of fewer than two thousand people.",
+      "answer": "population",
+      "audio": "assets/audio/word-formation/wf_populate_c02.mp3",
+      "meaningVi": "Hòn đảo có dân số thường trú dưới hai nghìn người."
+    },
+    {
+      "id": "wf_populate_c03",
+      "family": "populate",
+      "sentenceWithGap": "The coastal plain is more heavily ___ than the mountains.",
+      "answer": "populated",
+      "audio": "assets/audio/word-formation/wf_populate_c03.mp3",
+      "meaningVi": "Đồng bằng ven biển có dân cư đông đúc hơn vùng núi."
+    },
+    {
+      "id": "wf_populate_c04",
+      "family": "populate",
+      "sentenceWithGap": "Several communities moved north to ___ the newly developed region.",
+      "answer": "populate",
+      "audio": "assets/audio/word-formation/wf_populate_c04.mp3",
+      "meaningVi": "Một số cộng đồng đã chuyển lên phía bắc để cư trú tại khu vực mới phát triển."
+    },
+    {
+      "id": "wf_populate_c05",
+      "family": "populate",
+      "sentenceWithGap": "The ageing ___ has increased the demand for healthcare.",
+      "answer": "population",
+      "audio": "assets/audio/word-formation/wf_populate_c05.mp3",
+      "meaningVi": "Dân số già hóa đã làm tăng nhu cầu chăm sóc sức khỏe."
+    },
+    {
+      "id": "wf_populate_c06",
+      "family": "populate",
+      "sentenceWithGap": "Although the island is small, it is densely ___.",
+      "answer": "populated",
+      "audio": "assets/audio/word-formation/wf_populate_c06.mp3",
+      "meaningVi": "Mặc dù hòn đảo nhỏ nhưng có dân cư đông đúc."
+    },
+    {
+      "id": "wf_predict_c01",
+      "family": "predict",
+      "sentenceWithGap": "Scientists use computer models to ___ future climate changes.",
+      "answer": "predict",
+      "audio": "assets/audio/word-formation/wf_predict_c01.mp3",
+      "meaningVi": "Các nhà khoa học sử dụng mô hình máy tính để dự đoán những thay đổi khí hậu trong tương lai."
+    },
+    {
+      "id": "wf_predict_c02",
+      "family": "predict",
+      "sentenceWithGap": "My brother's ___ about the match score was exactly right.",
+      "answer": "prediction",
+      "audio": "assets/audio/word-formation/wf_predict_c02.mp3",
+      "meaningVi": "Lời dự đoán của anh trai tôi về tỷ số trận đấu hoàn toàn chính xác."
+    },
+    {
+      "id": "wf_predict_c03",
+      "family": "predict",
+      "sentenceWithGap": "The sea can be ___, even when the morning begins calmly.",
+      "answer": "unpredictable",
+      "audio": "assets/audio/word-formation/wf_predict_c03.mp3",
+      "meaningVi": "Biển có thể khó lường, ngay cả khi buổi sáng bắt đầu yên ả."
+    },
+    {
+      "id": "wf_predict_c04",
+      "family": "predict",
+      "sentenceWithGap": "The mystery became ___ once the main clue was revealed.",
+      "answer": "predictable",
+      "audio": "assets/audio/word-formation/wf_predict_c04.mp3",
+      "meaningVi": "Bí ẩn trở nên dễ đoán sau khi manh mối chính được tiết lộ."
+    },
+    {
+      "id": "wf_predict_c05",
+      "family": "predict",
+      "sentenceWithGap": "It is impossible to ___ exactly how technology will change our jobs.",
+      "answer": "predict",
+      "audio": "assets/audio/word-formation/wf_predict_c05.mp3",
+      "meaningVi": "Không thể dự đoán chính xác công nghệ sẽ thay đổi công việc của chúng ta như thế nào."
+    },
+    {
+      "id": "wf_predict_c06",
+      "family": "predict",
+      "sentenceWithGap": "The timetable is regular, so the next bus is fairly ___.",
+      "answer": "predictable",
+      "audio": "assets/audio/word-formation/wf_predict_c06.mp3",
+      "meaningVi": "Lịch trình đều đặn nên chuyến xe buýt tiếp theo khá dễ đoán."
+    },
+    {
+      "id": "wf_press_c01",
+      "family": "press",
+      "sentenceWithGap": "Young athletes may feel ___ to win every competition.",
+      "answer": "pressure",
+      "audio": "assets/audio/word-formation/wf_press_c01.mp3",
+      "meaningVi": "Các vận động viên trẻ có thể cảm thấy áp lực phải thắng mọi cuộc thi."
+    },
+    {
+      "id": "wf_press_c02",
+      "family": "press",
+      "sentenceWithGap": "The door opens with a quick ___ of the green button.",
+      "answer": "press",
+      "audio": "assets/audio/word-formation/wf_press_c02.mp3",
+      "meaningVi": "Cánh cửa mở ra bằng một lần ấn nhanh nút màu xanh lá."
+    },
+    {
+      "id": "wf_press_c03",
+      "family": "press",
+      "sentenceWithGap": "The nurse checked the patient's blood ___.",
+      "answer": "pressure",
+      "audio": "assets/audio/word-formation/wf_press_c03.mp3",
+      "meaningVi": "Y tá đã kiểm tra huyết áp của bệnh nhân."
+    },
+    {
+      "id": "wf_press_c04",
+      "family": "press",
+      "sentenceWithGap": "One firm ___ seals the lid tightly.",
+      "answer": "press",
+      "audio": "assets/audio/word-formation/wf_press_c04.mp3",
+      "meaningVi": "Một lần ấn chắc tay sẽ đóng kín nắp."
+    },
+    {
+      "id": "wf_press_c05",
+      "family": "press",
+      "sentenceWithGap": "The rescue team worked well under extreme ___.",
+      "answer": "pressure",
+      "audio": "assets/audio/word-formation/wf_press_c05.mp3",
+      "meaningVi": "Đội cứu hộ đã làm việc tốt dưới áp lực rất lớn."
+    },
+    {
+      "id": "wf_press_c06",
+      "family": "press",
+      "sentenceWithGap": "A short ___ on the icon will open the photo.",
+      "answer": "press",
+      "audio": "assets/audio/word-formation/wf_press_c06.mp3",
+      "meaningVi": "Một lần nhấn ngắn vào biểu tượng sẽ mở bức ảnh."
+    },
+    {
+      "id": "wf_protect_c01",
+      "family": "protect",
+      "sentenceWithGap": "Thick curtains can ___ furniture from strong sunlight.",
+      "answer": "protect",
+      "audio": "assets/audio/word-formation/wf_protect_c01.mp3",
+      "meaningVi": "Rèm cửa dày có thể bảo vệ đồ nội thất khỏi ánh nắng mạnh."
+    },
+    {
+      "id": "wf_protect_c02",
+      "family": "protect",
+      "sentenceWithGap": "The wetland now has legal ___ from development.",
+      "answer": "protection",
+      "audio": "assets/audio/word-formation/wf_protect_c02.mp3",
+      "meaningVi": "Vùng đất ngập nước hiện được pháp luật bảo vệ khỏi hoạt động xây dựng."
+    },
+    {
+      "id": "wf_protect_c03",
+      "family": "protect",
+      "sentenceWithGap": "Cyclists should wear ___ clothing when riding in cold rain.",
+      "answer": "protective",
+      "audio": "assets/audio/word-formation/wf_protect_c03.mp3",
+      "meaningVi": "Người đi xe đạp nên mặc quần áo bảo hộ khi đi dưới mưa lạnh."
+    },
+    {
+      "id": "wf_protect_c04",
+      "family": "protect",
+      "sentenceWithGap": "The young plants died because they were left ___ during the frost.",
+      "answer": "unprotected",
+      "audio": "assets/audio/word-formation/wf_protect_c04.mp3",
+      "meaningVi": "Những cây non đã chết vì không được bảo vệ trong đợt sương giá."
+    },
+    {
+      "id": "wf_protect_c05",
+      "family": "protect",
+      "sentenceWithGap": "A strong password helps ___ your online account.",
+      "answer": "protect",
+      "audio": "assets/audio/word-formation/wf_protect_c05.mp3",
+      "meaningVi": "Mật khẩu mạnh giúp bảo vệ tài khoản trực tuyến của bạn."
+    },
+    {
+      "id": "wf_protect_c06",
+      "family": "protect",
+      "sentenceWithGap": "This case gives the camera extra ___ against water.",
+      "answer": "protection",
+      "audio": "assets/audio/word-formation/wf_protect_c06.mp3",
+      "meaningVi": "Chiếc hộp này giúp máy ảnh được bảo vệ thêm khỏi nước."
+    },
+    {
+      "id": "wf_psychology_c01",
+      "family": "psychology",
+      "sentenceWithGap": "A child ___ advised the parents on how to reduce their son's anxiety.",
+      "answer": "psychologist",
+      "audio": "assets/audio/word-formation/wf_psychology_c01.mp3",
+      "meaningVi": "Một nhà tâm lý học trẻ em đã tư vấn cho cha mẹ cách giảm lo âu của con trai họ."
+    },
+    {
+      "id": "wf_psychology_c02",
+      "family": "psychology",
+      "sentenceWithGap": "Studying ___ can help us understand why people make certain choices.",
+      "answer": "psychology",
+      "audio": "assets/audio/word-formation/wf_psychology_c02.mp3",
+      "meaningVi": "Học tâm lý học có thể giúp chúng ta hiểu vì sao mọi người đưa ra những lựa chọn nhất định."
+    },
+    {
+      "id": "wf_psychology_c03",
+      "family": "psychology",
+      "sentenceWithGap": "The experience caused no physical injury but had a serious ___ impact.",
+      "answer": "psychological",
+      "audio": "assets/audio/word-formation/wf_psychology_c03.mp3",
+      "meaningVi": "Trải nghiệm đó không gây thương tích thể chất nhưng có tác động tâm lý nghiêm trọng."
+    },
+    {
+      "id": "wf_psychology_c04",
+      "family": "psychology",
+      "sentenceWithGap": "Living away from family can be ___ challenging at first.",
+      "answer": "psychologically",
+      "audio": "assets/audio/word-formation/wf_psychology_c04.mp3",
+      "meaningVi": "Sống xa gia đình lúc đầu có thể là một thử thách về mặt tâm lý."
+    },
+    {
+      "id": "wf_psychology_c05",
+      "family": "psychology",
+      "sentenceWithGap": "The ___ listened carefully before suggesting ways to manage stress.",
+      "answer": "psychologist",
+      "audio": "assets/audio/word-formation/wf_psychology_c05.mp3",
+      "meaningVi": "Nhà tâm lý học đã lắng nghe cẩn thận trước khi đề xuất cách kiểm soát căng thẳng."
+    },
+    {
+      "id": "wf_psychology_c06",
+      "family": "psychology",
+      "sentenceWithGap": "Her interest in human behaviour led her to study ___.",
+      "answer": "psychology",
+      "audio": "assets/audio/word-formation/wf_psychology_c06.mp3",
+      "meaningVi": "Sự quan tâm đến hành vi con người đã khiến cô ấy theo học tâm lý học."
+    },
+    {
+      "id": "wf_reason_c01",
+      "family": "reason",
+      "sentenceWithGap": "The coach gave a clear ___ for changing the training schedule.",
+      "answer": "reason",
+      "audio": "assets/audio/word-formation/wf_reason_c01.mp3",
+      "meaningVi": "Huấn luyện viên đã đưa ra lý do rõ ràng cho việc thay đổi lịch tập."
+    },
+    {
+      "id": "wf_reason_c02",
+      "family": "reason",
+      "sentenceWithGap": "The second-hand bicycle was in good condition, and its price matched similar bikes, so it seemed ___.",
+      "answer": "reasonable",
+      "audio": "assets/audio/word-formation/wf_reason_c02.mp3",
+      "meaningVi": "Chiếc xe đạp cũ còn tốt và có giá tương đương những chiếc tương tự, nên mức giá có vẻ hợp lý."
+    },
+    {
+      "id": "wf_reason_c03",
+      "family": "reason",
+      "sentenceWithGap": "It would be ___ to expect beginners to play the piece perfectly.",
+      "answer": "unreasonable",
+      "audio": "assets/audio/word-formation/wf_reason_c03.mp3",
+      "meaningVi": "Sẽ là vô lý nếu mong người mới học chơi bản nhạc hoàn hảo."
+    },
+    {
+      "id": "wf_reason_c04",
+      "family": "reason",
+      "sentenceWithGap": "The campsite is ___ close to the village, about a twenty-minute walk away.",
+      "answer": "reasonably",
+      "audio": "assets/audio/word-formation/wf_reason_c04.mp3",
+      "meaningVi": "Khu cắm trại khá gần ngôi làng, cách khoảng hai mươi phút đi bộ."
+    },
+    {
+      "id": "wf_reason_c05",
+      "family": "reason",
+      "sentenceWithGap": "The café charged ___ high prices for ordinary sandwiches.",
+      "answer": "unreasonably",
+      "audio": "assets/audio/word-formation/wf_reason_c05.mp3",
+      "meaningVi": "Quán cà phê tính giá cao một cách vô lý cho những chiếc bánh mì kẹp thông thường."
+    },
+    {
+      "id": "wf_reason_c06",
+      "family": "reason",
+      "sentenceWithGap": "Heavy rain was the main ___ for delaying the match.",
+      "answer": "reason",
+      "audio": "assets/audio/word-formation/wf_reason_c06.mp3",
+      "meaningVi": "Mưa lớn là lý do chính khiến trận đấu bị hoãn."
+    },
+    {
+      "id": "wf_refer_c01",
+      "family": "refer",
+      "sentenceWithGap": "Please ___ to the safety guide before using the equipment.",
+      "answer": "refer",
+      "audio": "assets/audio/word-formation/wf_refer_c01.mp3",
+      "meaningVi": "Vui lòng tham khảo hướng dẫn an toàn trước khi sử dụng thiết bị."
+    },
+    {
+      "id": "wf_refer_c02",
+      "family": "refer",
+      "sentenceWithGap": "The study mentioned earlier is a useful ___ for the final paragraph.",
+      "answer": "reference",
+      "audio": "assets/audio/word-formation/wf_refer_c02.mp3",
+      "meaningVi": "Nghiên cứu được nhắc trước đó là một tài liệu tham khảo hữu ích cho đoạn cuối."
+    },
+    {
+      "id": "wf_refer_c03",
+      "family": "refer",
+      "sentenceWithGap": "When writing your answer, ___ to evidence from the text.",
+      "answer": "refer",
+      "audio": "assets/audio/word-formation/wf_refer_c03.mp3",
+      "meaningVi": "Khi viết câu trả lời, hãy tham khảo bằng chứng trong bài đọc."
+    },
+    {
+      "id": "wf_refer_c04",
+      "family": "refer",
+      "sentenceWithGap": "I kept the booking code for future ___.",
+      "answer": "reference",
+      "audio": "assets/audio/word-formation/wf_refer_c04.mp3",
+      "meaningVi": "Tôi giữ mã đặt chỗ để tham khảo sau này."
+    },
+    {
+      "id": "wf_refer_c05",
+      "family": "refer",
+      "sentenceWithGap": "The instructions tell users to ___ to a video for further help.",
+      "answer": "refer",
+      "audio": "assets/audio/word-formation/wf_refer_c05.mp3",
+      "meaningVi": "Phần hướng dẫn yêu cầu người dùng tham khảo một video để được trợ giúp thêm."
+    },
+    {
+      "id": "wf_refer_c06",
+      "family": "refer",
+      "sentenceWithGap": "This chart is a useful quick ___ for common measurements.",
+      "answer": "reference",
+      "audio": "assets/audio/word-formation/wf_refer_c06.mp3",
+      "meaningVi": "Biểu đồ này là tài liệu tham khảo nhanh hữu ích cho các đơn vị đo phổ biến."
+    },
+    {
+      "id": "wf_relieve_c01",
+      "family": "relieve",
+      "sentenceWithGap": "Stretching may help ___ pain in your lower back.",
+      "answer": "relieve",
+      "audio": "assets/audio/word-formation/wf_relieve_c01.mp3",
+      "meaningVi": "Việc giãn cơ có thể giúp làm dịu cơn đau ở lưng dưới."
+    },
+    {
+      "id": "wf_relieve_c02",
+      "family": "relieve",
+      "sentenceWithGap": "It was a great ___ to learn that no one had been injured.",
+      "answer": "relief",
+      "audio": "assets/audio/word-formation/wf_relieve_c02.mp3",
+      "meaningVi": "Thật nhẹ nhõm khi biết rằng không ai bị thương."
+    },
+    {
+      "id": "wf_relieve_c03",
+      "family": "relieve",
+      "sentenceWithGap": "The students were ___ when the difficult test was postponed.",
+      "answer": "relieved",
+      "audio": "assets/audio/word-formation/wf_relieve_c03.mp3",
+      "meaningVi": "Các học sinh cảm thấy nhẹ nhõm khi bài kiểm tra khó được hoãn lại."
+    },
+    {
+      "id": "wf_relieve_c04",
+      "family": "relieve",
+      "sentenceWithGap": "A warm shower can ___ tired muscles after exercise.",
+      "answer": "relieve",
+      "audio": "assets/audio/word-formation/wf_relieve_c04.mp3",
+      "meaningVi": "Tắm nước ấm có thể làm dịu cơ bắp mệt mỏi sau khi tập thể dục."
+    },
+    {
+      "id": "wf_relieve_c05",
+      "family": "relieve",
+      "sentenceWithGap": "To our ___, the road reopened before the holiday began.",
+      "answer": "relief",
+      "audio": "assets/audio/word-formation/wf_relieve_c05.mp3",
+      "meaningVi": "Chúng tôi nhẹ nhõm khi con đường mở lại trước kỳ nghỉ."
+    },
+    {
+      "id": "wf_relieve_c06",
+      "family": "relieve",
+      "sentenceWithGap": "Noah looked ___ after finding his lost passport.",
+      "answer": "relieved",
+      "audio": "assets/audio/word-formation/wf_relieve_c06.mp3",
+      "meaningVi": "Noah trông nhẹ nhõm sau khi tìm thấy hộ chiếu bị mất."
+    },
+    {
+      "id": "wf_require_c01",
+      "family": "require",
+      "sentenceWithGap": "This experiment will ___ careful measurement and plenty of patience.",
+      "answer": "require",
+      "audio": "assets/audio/word-formation/wf_require_c01.mp3",
+      "meaningVi": "Thí nghiệm này sẽ đòi hỏi việc đo đạc cẩn thận và rất nhiều kiên nhẫn."
+    },
+    {
+      "id": "wf_require_c02",
+      "family": "require",
+      "sentenceWithGap": "A swimming certificate is a ___ for joining the sailing course.",
+      "answer": "requirement",
+      "audio": "assets/audio/word-formation/wf_require_c02.mp3",
+      "meaningVi": "Chứng chỉ bơi là điều kiện cần để tham gia khóa học chèo thuyền."
+    },
+    {
+      "id": "wf_require_c03",
+      "family": "require",
+      "sentenceWithGap": "Most plants ___ sunlight and water in order to grow.",
+      "answer": "require",
+      "audio": "assets/audio/word-formation/wf_require_c03.mp3",
+      "meaningVi": "Hầu hết cây cối cần ánh sáng mặt trời và nước để phát triển."
+    },
+    {
+      "id": "wf_require_c04",
+      "family": "require",
+      "sentenceWithGap": "The main entry ___ is a score of at least seventy percent.",
+      "answer": "requirement",
+      "audio": "assets/audio/word-formation/wf_require_c04.mp3",
+      "meaningVi": "Yêu cầu đầu vào chính là điểm số ít nhất bảy mươi phần trăm."
+    },
+    {
+      "id": "wf_require_c05",
+      "family": "require",
+      "sentenceWithGap": "Repairing the roof may ___ professional help.",
+      "answer": "require",
+      "audio": "assets/audio/word-formation/wf_require_c05.mp3",
+      "meaningVi": "Việc sửa mái nhà có thể đòi hỏi sự trợ giúp chuyên nghiệp."
+    },
+    {
+      "id": "wf_require_c06",
+      "family": "require",
+      "sentenceWithGap": "Regular attendance is a basic course ___.",
+      "answer": "requirement",
+      "audio": "assets/audio/word-formation/wf_require_c06.mp3",
+      "meaningVi": "Đi học đều là một yêu cầu cơ bản của khóa học."
+    },
+    {
+      "id": "wf_serve_c01",
+      "family": "serve",
+      "sentenceWithGap": "The volunteers ___ lunch to older residents every Tuesday.",
+      "answer": "serve",
+      "audio": "assets/audio/word-formation/wf_serve_c01.mp3",
+      "meaningVi": "Các tình nguyện viên phục vụ bữa trưa cho người cao tuổi vào mỗi thứ Ba."
+    },
+    {
+      "id": "wf_serve_c02",
+      "family": "serve",
+      "sentenceWithGap": "The town needs a more frequent bus ___.",
+      "answer": "service",
+      "audio": "assets/audio/word-formation/wf_serve_c02.mp3",
+      "meaningVi": "Thị trấn cần một dịch vụ xe buýt thường xuyên hơn."
+    },
+    {
+      "id": "wf_serve_c03",
+      "family": "serve",
+      "sentenceWithGap": "Chefs usually ___ this sauce with fresh vegetables.",
+      "answer": "serve",
+      "audio": "assets/audio/word-formation/wf_serve_c03.mp3",
+      "meaningVi": "Các đầu bếp thường phục vụ loại sốt này cùng rau tươi."
+    },
+    {
+      "id": "wf_serve_c04",
+      "family": "serve",
+      "sentenceWithGap": "We received excellent ___ from the staff at the information desk.",
+      "answer": "service",
+      "audio": "assets/audio/word-formation/wf_serve_c04.mp3",
+      "meaningVi": "Chúng tôi nhận được dịch vụ xuất sắc từ nhân viên tại quầy thông tin."
+    },
+    {
+      "id": "wf_serve_c05",
+      "family": "serve",
+      "sentenceWithGap": "The new clinic will ___ several remote villages.",
+      "answer": "serve",
+      "audio": "assets/audio/word-formation/wf_serve_c05.mp3",
+      "meaningVi": "Phòng khám mới sẽ phục vụ một số ngôi làng xa xôi."
+    },
+    {
+      "id": "wf_serve_c06",
+      "family": "serve",
+      "sentenceWithGap": "The delivery ___ is free for orders over twenty pounds.",
+      "answer": "service",
+      "audio": "assets/audio/word-formation/wf_serve_c06.mp3",
+      "meaningVi": "Dịch vụ giao hàng miễn phí cho các đơn trên hai mươi bảng."
+    },
+    {
+      "id": "wf_signify_c01",
+      "family": "signify",
+      "sentenceWithGap": "A blue flag may ___ that the beach is safe for swimming.",
+      "answer": "signify",
+      "audio": "assets/audio/word-formation/wf_signify_c01.mp3",
+      "meaningVi": "Lá cờ xanh có thể biểu thị rằng bãi biển an toàn để bơi."
+    },
+    {
+      "id": "wf_signify_c02",
+      "family": "signify",
+      "sentenceWithGap": "The ceremony has deep cultural ___ for the local community.",
+      "answer": "significance",
+      "audio": "assets/audio/word-formation/wf_signify_c02.mp3",
+      "meaningVi": "Buổi lễ có ý nghĩa văn hóa sâu sắc đối với cộng đồng địa phương."
+    },
+    {
+      "id": "wf_signify_c03",
+      "family": "signify",
+      "sentenceWithGap": "The new study found a ___ improvement in reading skills, with average scores rising by twenty percent.",
+      "answer": "significant",
+      "audio": "assets/audio/word-formation/wf_signify_c03.mp3",
+      "meaningVi": "Nghiên cứu mới phát hiện sự cải thiện đáng kể về kỹ năng đọc, với điểm trung bình tăng hai mươi phần trăm."
+    },
+    {
+      "id": "wf_signify_c04",
+      "family": "signify",
+      "sentenceWithGap": "The mark was so ___ that it was invisible from a distance.",
+      "answer": "insignificant",
+      "audio": "assets/audio/word-formation/wf_signify_c04.mp3",
+      "meaningVi": "Vết đó không đáng kể đến mức không thể nhìn thấy từ xa."
+    },
+    {
+      "id": "wf_signify_c05",
+      "family": "signify",
+      "sentenceWithGap": "The number of road accidents fell ___ after the speed limit changed.",
+      "answer": "significantly",
+      "audio": "assets/audio/word-formation/wf_signify_c05.mp3",
+      "meaningVi": "Số vụ tai nạn giao thông giảm đáng kể sau khi giới hạn tốc độ thay đổi."
+    },
+    {
+      "id": "wf_signify_c06",
+      "family": "signify",
+      "sentenceWithGap": "These results ___ an important change in public opinion.",
+      "answer": "signify",
+      "audio": "assets/audio/word-formation/wf_signify_c06.mp3",
+      "meaningVi": "Những kết quả này biểu thị một thay đổi quan trọng trong dư luận."
+    },
+    {
+      "id": "wf_similar_c01",
+      "family": "similar",
+      "sentenceWithGap": "The researchers noticed a strong ___ between the two patterns.",
+      "answer": "similarity",
+      "audio": "assets/audio/word-formation/wf_similar_c01.mp3",
+      "meaningVi": "Các nhà nghiên cứu nhận thấy một điểm tương đồng lớn giữa hai mô hình."
+    },
+    {
+      "id": "wf_similar_c02",
+      "family": "similar",
+      "sentenceWithGap": "This exercise is ___ to the one we completed yesterday.",
+      "answer": "similar",
+      "audio": "assets/audio/word-formation/wf_similar_c02.mp3",
+      "meaningVi": "Bài tập này tương tự bài chúng ta đã hoàn thành hôm qua."
+    },
+    {
+      "id": "wf_similar_c03",
+      "family": "similar",
+      "sentenceWithGap": "Both groups were given exactly the ___ instructions.",
+      "answer": "same",
+      "audio": "assets/audio/word-formation/wf_similar_c03.mp3",
+      "meaningVi": "Cả hai nhóm đều được giao những hướng dẫn giống hệt nhau."
+    },
+    {
+      "id": "wf_similar_c04",
+      "family": "similar",
+      "sentenceWithGap": "The older students enjoyed the workshop; ___, the younger group responded positively.",
+      "answer": "similarly",
+      "audio": "assets/audio/word-formation/wf_similar_c04.mp3",
+      "meaningVi": "Các học sinh lớn thích buổi hội thảo; tương tự, nhóm nhỏ tuổi hơn cũng phản hồi tích cực."
+    },
+    {
+      "id": "wf_similar_c05",
+      "family": "similar",
+      "sentenceWithGap": "The brothers share one physical ___: both have bright green eyes.",
+      "answer": "similarity",
+      "audio": "assets/audio/word-formation/wf_similar_c05.mp3",
+      "meaningVi": "Hai anh em có một điểm tương đồng về ngoại hình: cả hai đều có đôi mắt xanh lục sáng."
+    },
+    {
+      "id": "wf_similar_c06",
+      "family": "similar",
+      "sentenceWithGap": "The two phones look ___, although one has a much better camera.",
+      "answer": "similar",
+      "audio": "assets/audio/word-formation/wf_similar_c06.mp3",
+      "meaningVi": "Hai chiếc điện thoại trông tương tự nhau, mặc dù một chiếc có camera tốt hơn nhiều."
+    },
+    {
+      "id": "wf_solve_c01",
+      "family": "solve",
+      "sentenceWithGap": "The class worked in pairs to ___ the logic puzzle.",
+      "answer": "solve",
+      "audio": "assets/audio/word-formation/wf_solve_c01.mp3",
+      "meaningVi": "Cả lớp làm việc theo cặp để giải câu đố logic."
+    },
+    {
+      "id": "wf_solve_c02",
+      "family": "solve",
+      "sentenceWithGap": "Improving public transport could be one ___ to city traffic.",
+      "answer": "solution",
+      "audio": "assets/audio/word-formation/wf_solve_c02.mp3",
+      "meaningVi": "Cải thiện giao thông công cộng có thể là một giải pháp cho tình trạng giao thông thành phố."
+    },
+    {
+      "id": "wf_solve_c03",
+      "family": "solve",
+      "sentenceWithGap": "The cause of the strange signal is still ___.",
+      "answer": "unsolved",
+      "audio": "assets/audio/word-formation/wf_solve_c03.mp3",
+      "meaningVi": "Nguyên nhân của tín hiệu lạ vẫn chưa được giải đáp."
+    },
+    {
+      "id": "wf_solve_c04",
+      "family": "solve",
+      "sentenceWithGap": "A software update may ___ the battery problem.",
+      "answer": "solve",
+      "audio": "assets/audio/word-formation/wf_solve_c04.mp3",
+      "meaningVi": "Bản cập nhật phần mềm có thể giải quyết vấn đề về pin."
+    },
+    {
+      "id": "wf_solve_c05",
+      "family": "solve",
+      "sentenceWithGap": "The team eventually found a practical ___ to the water shortage.",
+      "answer": "solution",
+      "audio": "assets/audio/word-formation/wf_solve_c05.mp3",
+      "meaningVi": "Cuối cùng nhóm đã tìm ra một giải pháp thiết thực cho tình trạng thiếu nước."
+    },
+    {
+      "id": "wf_solve_c06",
+      "family": "solve",
+      "sentenceWithGap": "Several questions about the ancient site remain ___.",
+      "answer": "unsolved",
+      "audio": "assets/audio/word-formation/wf_solve_c06.mp3",
+      "meaningVi": "Một số câu hỏi về di tích cổ vẫn chưa được giải đáp."
+    },
+    {
+      "id": "wf_stand_c01",
+      "family": "stand",
+      "sentenceWithGap": "The machinery came to a ___ when the electricity failed.",
+      "answer": "stand",
+      "audio": "assets/audio/word-formation/wf_stand_c01.mp3",
+      "meaningVi": "Máy móc dừng hẳn khi điện bị mất."
+    },
+    {
+      "id": "wf_stand_c02",
+      "family": "stand",
+      "sentenceWithGap": "Her ___ leadership kept the team calm during the emergency.",
+      "answer": "outstanding",
+      "audio": "assets/audio/word-formation/wf_stand_c02.mp3",
+      "meaningVi": "Khả năng lãnh đạo nổi bật của cô ấy giúp cả đội bình tĩnh trong tình huống khẩn cấp."
+    },
+    {
+      "id": "wf_stand_c03",
+      "family": "stand",
+      "sentenceWithGap": "The long queue came to a complete ___ while staff repaired the ticket machine.",
+      "answer": "stand",
+      "audio": "assets/audio/word-formation/wf_stand_c03.mp3",
+      "meaningVi": "Hàng người dài dừng hẳn trong khi nhân viên sửa máy bán vé."
+    },
+    {
+      "id": "wf_stand_c04",
+      "family": "stand",
+      "sentenceWithGap": "The judges described the final performance as ___.",
+      "answer": "outstanding",
+      "audio": "assets/audio/word-formation/wf_stand_c04.mp3",
+      "meaningVi": "Ban giám khảo mô tả màn trình diễn cuối cùng là nổi bật."
+    },
+    {
+      "id": "wf_stand_c05",
+      "family": "stand",
+      "sentenceWithGap": "Heavy snow brought road traffic to a ___.",
+      "answer": "stand",
+      "audio": "assets/audio/word-formation/wf_stand_c05.mp3",
+      "meaningVi": "Tuyết dày khiến giao thông đường bộ phải dừng lại."
+    },
+    {
+      "id": "wf_stand_c06",
+      "family": "stand",
+      "sentenceWithGap": "The museum won an award for its ___ education programme.",
+      "answer": "outstanding",
+      "audio": "assets/audio/word-formation/wf_stand_c06.mp3",
+      "meaningVi": "Bảo tàng đã giành giải thưởng cho chương trình giáo dục nổi bật của mình."
+    },
+    {
+      "id": "wf_steady_c01",
+      "family": "steady",
+      "sentenceWithGap": "The photographer kept the camera ___ during the long exposure.",
+      "answer": "steady",
+      "audio": "assets/audio/word-formation/wf_steady_c01.mp3",
+      "meaningVi": "Nhiếp ảnh gia giữ máy ảnh thật vững trong lúc phơi sáng lâu."
+    },
+    {
+      "id": "wf_steady_c02",
+      "family": "steady",
+      "sentenceWithGap": "The child was ___ on the ice and held an adult's hand.",
+      "answer": "unsteady",
+      "audio": "assets/audio/word-formation/wf_steady_c02.mp3",
+      "meaningVi": "Đứa trẻ không vững trên mặt băng và nắm tay một người lớn."
+    },
+    {
+      "id": "wf_steady_c03",
+      "family": "steady",
+      "sentenceWithGap": "The river level fell ___ after the rain stopped.",
+      "answer": "steadily",
+      "audio": "assets/audio/word-formation/wf_steady_c03.mp3",
+      "meaningVi": "Mực nước sông giảm đều đặn sau khi mưa ngừng."
+    },
+    {
+      "id": "wf_steady_c04",
+      "family": "steady",
+      "sentenceWithGap": "The shop has seen a ___ increase in online orders, with sales rising by about the same amount each month.",
+      "answer": "steady",
+      "audio": "assets/audio/word-formation/wf_steady_c04.mp3",
+      "meaningVi": "Cửa hàng ghi nhận lượng đơn trực tuyến tăng đều đặn, với doanh số tăng gần như cùng một mức mỗi tháng."
+    },
+    {
+      "id": "wf_steady_c05",
+      "family": "steady",
+      "sentenceWithGap": "The bridge felt ___ in the strong wind and moved noticeably from side to side.",
+      "answer": "unsteady",
+      "audio": "assets/audio/word-formation/wf_steady_c05.mp3",
+      "meaningVi": "Cây cầu có vẻ không vững trong gió mạnh và lắc rõ rệt từ bên này sang bên kia."
+    },
+    {
+      "id": "wf_steady_c06",
+      "family": "steady",
+      "sentenceWithGap": "Her confidence grew ___ as she gained more experience.",
+      "answer": "steadily",
+      "audio": "assets/audio/word-formation/wf_steady_c06.mp3",
+      "meaningVi": "Sự tự tin của cô ấy tăng đều đặn khi cô ấy có thêm kinh nghiệm."
+    },
+    {
+      "id": "wf_stress_c01",
+      "family": "stress",
+      "sentenceWithGap": "Taking short breaks can reduce ___ during revision.",
+      "answer": "stress",
+      "audio": "assets/audio/word-formation/wf_stress_c01.mp3",
+      "meaningVi": "Nghỉ giải lao ngắn có thể giảm căng thẳng khi ôn tập."
+    },
+    {
+      "id": "wf_stress_c02",
+      "family": "stress",
+      "sentenceWithGap": "Organising a large event can be extremely ___.",
+      "answer": "stressful",
+      "audio": "assets/audio/word-formation/wf_stress_c02.mp3",
+      "meaningVi": "Tổ chức một sự kiện lớn có thể cực kỳ căng thẳng."
+    },
+    {
+      "id": "wf_stress_c03",
+      "family": "stress",
+      "sentenceWithGap": "Aisha felt ___ when she could not find her train ticket.",
+      "answer": "stressed",
+      "audio": "assets/audio/word-formation/wf_stress_c03.mp3",
+      "meaningVi": "Aisha cảm thấy căng thẳng khi không tìm thấy vé tàu."
+    },
+    {
+      "id": "wf_stress_c04",
+      "family": "stress",
+      "sentenceWithGap": "Constant ___ can make it harder to concentrate in class.",
+      "answer": "stress",
+      "audio": "assets/audio/word-formation/wf_stress_c04.mp3",
+      "meaningVi": "Căng thẳng liên tục có thể khiến việc tập trung trong lớp khó hơn."
+    },
+    {
+      "id": "wf_stress_c05",
+      "family": "stress",
+      "sentenceWithGap": "The first day in a new job is often ___.",
+      "answer": "stressful",
+      "audio": "assets/audio/word-formation/wf_stress_c05.mp3",
+      "meaningVi": "Ngày đầu tiên ở công việc mới thường gây căng thẳng."
+    },
+    {
+      "id": "wf_stress_c06",
+      "family": "stress",
+      "sentenceWithGap": "The passengers looked ___ when the flight was delayed again.",
+      "answer": "stressed",
+      "audio": "assets/audio/word-formation/wf_stress_c06.mp3",
+      "meaningVi": "Các hành khách trông căng thẳng khi chuyến bay lại bị hoãn."
+    },
+    {
+      "id": "wf_strong_c01",
+      "family": "strong",
+      "sentenceWithGap": "Daily reading can ___ your vocabulary over time.",
+      "answer": "strengthen",
+      "audio": "assets/audio/word-formation/wf_strong_c01.mp3",
+      "meaningVi": "Đọc hằng ngày có thể củng cố vốn từ vựng của bạn theo thời gian."
+    },
+    {
+      "id": "wf_strong_c02",
+      "family": "strong",
+      "sentenceWithGap": "The main ___ of this material is its ability to resist heat.",
+      "answer": "strength",
+      "audio": "assets/audio/word-formation/wf_strong_c02.mp3",
+      "meaningVi": "Điểm mạnh chính của vật liệu này là khả năng chịu nhiệt."
+    },
+    {
+      "id": "wf_strong_c03",
+      "family": "strong",
+      "sentenceWithGap": "The tent survived a night of ___ winds.",
+      "answer": "strong",
+      "audio": "assets/audio/word-formation/wf_strong_c03.mp3",
+      "meaningVi": "Chiếc lều đã trụ được qua một đêm gió mạnh."
+    },
+    {
+      "id": "wf_strong_c04",
+      "family": "strong",
+      "sentenceWithGap": "Doctors ___ advise wearing sunscreen at midday.",
+      "answer": "strongly",
+      "audio": "assets/audio/word-formation/wf_strong_c04.mp3",
+      "meaningVi": "Các bác sĩ khuyến cáo mạnh mẽ việc dùng kem chống nắng vào giữa trưa."
+    },
+    {
+      "id": "wf_strong_c05",
+      "family": "strong",
+      "sentenceWithGap": "The exchange programme aims to ___ links between the two schools.",
+      "answer": "strengthen",
+      "audio": "assets/audio/word-formation/wf_strong_c05.mp3",
+      "meaningVi": "Chương trình trao đổi nhằm củng cố mối liên hệ giữa hai trường."
+    },
+    {
+      "id": "wf_strong_c06",
+      "family": "strong",
+      "sentenceWithGap": "The bridge was tested to measure its ___.",
+      "answer": "strength",
+      "audio": "assets/audio/word-formation/wf_strong_c06.mp3",
+      "meaningVi": "Cây cầu được kiểm tra để đo độ bền của nó."
+    },
+    {
+      "id": "wf_substance_c01",
+      "family": "substance",
+      "sentenceWithGap": "The scientist placed a small amount of the ___ in a glass tube.",
+      "answer": "substance",
+      "audio": "assets/audio/word-formation/wf_substance_c01.mp3",
+      "meaningVi": "Nhà khoa học đặt một lượng nhỏ chất đó vào ống thủy tinh."
+    },
+    {
+      "id": "wf_substance_c02",
+      "family": "substance",
+      "sentenceWithGap": "The town has made a ___ investment in renewable energy.",
+      "answer": "substantial",
+      "audio": "assets/audio/word-formation/wf_substance_c02.mp3",
+      "meaningVi": "Thị trấn đã đầu tư đáng kể vào năng lượng tái tạo."
+    },
+    {
+      "id": "wf_substance_c03",
+      "family": "substance",
+      "sentenceWithGap": "The new battery lasts ___ longer than the old model.",
+      "answer": "substantially",
+      "audio": "assets/audio/word-formation/wf_substance_c03.mp3",
+      "meaningVi": "Pin mới dùng được lâu hơn đáng kể so với mẫu cũ."
+    },
+    {
+      "id": "wf_substance_c04",
+      "family": "substance",
+      "sentenceWithGap": "The container held a sticky green ___ that nobody recognised.",
+      "answer": "substance",
+      "audio": "assets/audio/word-formation/wf_substance_c04.mp3",
+      "meaningVi": "Chiếc hộp chứa một chất màu xanh dính mà không ai nhận ra."
+    },
+    {
+      "id": "wf_substance_c05",
+      "family": "substance",
+      "sentenceWithGap": "Repairs to the damaged roof will require a ___ amount of money.",
+      "answer": "substantial",
+      "audio": "assets/audio/word-formation/wf_substance_c05.mp3",
+      "meaningVi": "Việc sửa mái nhà hư hỏng sẽ cần một khoản tiền lớn."
+    },
+    {
+      "id": "wf_substance_c06",
+      "family": "substance",
+      "sentenceWithGap": "Air quality improved ___ after older buses were replaced.",
+      "answer": "substantially",
+      "audio": "assets/audio/word-formation/wf_substance_c06.mp3",
+      "meaningVi": "Chất lượng không khí được cải thiện đáng kể sau khi các xe buýt cũ được thay thế."
+    },
+    {
+      "id": "wf_think_c01",
+      "family": "think",
+      "sentenceWithGap": "You should ___ carefully before accepting the offer.",
+      "answer": "think",
+      "audio": "assets/audio/word-formation/wf_think_c01.mp3",
+      "meaningVi": "Bạn nên suy nghĩ cẩn thận trước khi chấp nhận lời đề nghị."
+    },
+    {
+      "id": "wf_think_c02",
+      "family": "think",
+      "sentenceWithGap": "The ___ of returning to the place made her smile.",
+      "answer": "thought",
+      "audio": "assets/audio/word-formation/wf_think_c02.mp3",
+      "meaningVi": "Ý nghĩ quay lại nơi đó khiến cô ấy mỉm cười."
+    },
+    {
+      "id": "wf_think_c03",
+      "family": "think",
+      "sentenceWithGap": "It was ___ of Ben to check whether everyone had a seat.",
+      "answer": "thoughtful",
+      "audio": "assets/audio/word-formation/wf_think_c03.mp3",
+      "meaningVi": "Ben thật chu đáo khi kiểm tra xem mọi người đã có chỗ ngồi chưa."
+    },
+    {
+      "id": "wf_think_c04",
+      "family": "think",
+      "sentenceWithGap": "Parking across the entrance was a ___ thing to do.",
+      "answer": "thoughtless",
+      "audio": "assets/audio/word-formation/wf_think_c04.mp3",
+      "meaningVi": "Đỗ xe chắn lối vào là một việc làm vô tâm."
+    },
+    {
+      "id": "wf_think_c05",
+      "family": "think",
+      "sentenceWithGap": "I need to ___ about the advantages before choosing a course.",
+      "answer": "think",
+      "audio": "assets/audio/word-formation/wf_think_c05.mp3",
+      "meaningVi": "Tôi cần suy nghĩ về các lợi ích trước khi chọn khóa học."
+    },
+    {
+      "id": "wf_think_c06",
+      "family": "think",
+      "sentenceWithGap": "A sudden ___ reminded me to check the oven.",
+      "answer": "thought",
+      "audio": "assets/audio/word-formation/wf_think_c06.mp3",
+      "meaningVi": "Một ý nghĩ bất chợt nhắc tôi kiểm tra lò nướng."
+    },
+    {
+      "id": "wf_threat_c01",
+      "family": "threat",
+      "sentenceWithGap": "Warmer seas ___ the survival of some coral species.",
+      "answer": "threaten",
+      "audio": "assets/audio/word-formation/wf_threat_c01.mp3",
+      "meaningVi": "Biển ấm lên đe dọa sự sống còn của một số loài san hô."
+    },
+    {
+      "id": "wf_threat_c02",
+      "family": "threat",
+      "sentenceWithGap": "Plastic waste is a growing ___ to marine life.",
+      "answer": "threat",
+      "audio": "assets/audio/word-formation/wf_threat_c02.mp3",
+      "meaningVi": "Rác thải nhựa là mối đe dọa ngày càng lớn đối với sinh vật biển."
+    },
+    {
+      "id": "wf_threat_c03",
+      "family": "threat",
+      "sentenceWithGap": "The stranger's ___ tone made everyone uncomfortable.",
+      "answer": "threatening",
+      "audio": "assets/audio/word-formation/wf_threat_c03.mp3",
+      "meaningVi": "Giọng điệu đe dọa của người lạ khiến mọi người khó chịu."
+    },
+    {
+      "id": "wf_threat_c04",
+      "family": "threat",
+      "sentenceWithGap": "A lack of rain could ___ this year's harvest.",
+      "answer": "threaten",
+      "audio": "assets/audio/word-formation/wf_threat_c04.mp3",
+      "meaningVi": "Thiếu mưa có thể đe dọa vụ thu hoạch năm nay."
+    },
+    {
+      "id": "wf_threat_c05",
+      "family": "threat",
+      "sentenceWithGap": "Cybercrime is a serious ___ to small businesses.",
+      "answer": "threat",
+      "audio": "assets/audio/word-formation/wf_threat_c05.mp3",
+      "meaningVi": "Tội phạm mạng là mối đe dọa nghiêm trọng đối với các doanh nghiệp nhỏ."
+    },
+    {
+      "id": "wf_threat_c06",
+      "family": "threat",
+      "sentenceWithGap": "The clouds looked dark and ___ above the mountain.",
+      "answer": "threatening",
+      "audio": "assets/audio/word-formation/wf_threat_c06.mp3",
+      "meaningVi": "Những đám mây trông tối và đáng sợ phía trên ngọn núi."
+    },
+    {
+      "id": "wf_use_c01",
+      "family": "use",
+      "sentenceWithGap": "The workshop teaches people how to ___ old furniture.",
+      "answer": "reuse",
+      "audio": "assets/audio/word-formation/wf_use_c01.mp3",
+      "meaningVi": "Buổi thực hành dạy mọi người cách tái sử dụng đồ nội thất cũ."
+    },
+    {
+      "id": "wf_use_c02",
+      "family": "use",
+      "sentenceWithGap": "The playground is for school ___ during lesson hours.",
+      "answer": "use",
+      "audio": "assets/audio/word-formation/wf_use_c02.mp3",
+      "meaningVi": "Sân chơi dành cho nhà trường sử dụng trong giờ học."
+    },
+    {
+      "id": "wf_use_c03",
+      "family": "use",
+      "sentenceWithGap": "Each new ___ receives an email explaining how to activate the account.",
+      "answer": "user",
+      "audio": "assets/audio/word-formation/wf_use_c03.mp3",
+      "meaningVi": "Mỗi người dùng mới nhận được email giải thích cách kích hoạt tài khoản."
+    },
+    {
+      "id": "wf_use_c04",
+      "family": "use",
+      "sentenceWithGap": "The teacher gave us some ___ advice about organising our notes, and it made revision much easier.",
+      "answer": "useful",
+      "audio": "assets/audio/word-formation/wf_use_c04.mp3",
+      "meaningVi": "Giáo viên cho chúng tôi lời khuyên hữu ích về cách sắp xếp ghi chú, nhờ đó việc ôn tập dễ dàng hơn nhiều."
+    },
+    {
+      "id": "wf_use_c05",
+      "family": "use",
+      "sentenceWithGap": "The map was ___ because several new roads were missing.",
+      "answer": "useless",
+      "audio": "assets/audio/word-formation/wf_use_c05.mp3",
+      "meaningVi": "Tấm bản đồ vô dụng vì thiếu một số con đường mới."
+    },
+    {
+      "id": "wf_use_c06",
+      "family": "use",
+      "sentenceWithGap": "The report ___ compares the prices in a clear table.",
+      "answer": "usefully",
+      "audio": "assets/audio/word-formation/wf_use_c06.mp3",
+      "meaningVi": "Bản báo cáo so sánh giá một cách hữu ích trong một bảng rõ ràng."
+    },
+    {
+      "id": "wf_weigh_c01",
+      "family": "weigh",
+      "sentenceWithGap": "The assistant will ___ the vegetables before printing the price label.",
+      "answer": "weigh",
+      "audio": "assets/audio/word-formation/wf_weigh_c01.mp3",
+      "meaningVi": "Nhân viên sẽ cân rau trước khi in nhãn giá."
+    },
+    {
+      "id": "wf_weigh_c02",
+      "family": "weigh",
+      "sentenceWithGap": "The parcel's ___ must not exceed two kilograms.",
+      "answer": "weight",
+      "audio": "assets/audio/word-formation/wf_weigh_c02.mp3",
+      "meaningVi": "Trọng lượng của bưu kiện không được vượt quá hai kilôgam."
+    },
+    {
+      "id": "wf_weigh_c03",
+      "family": "weigh",
+      "sentenceWithGap": "The health check showed that the dog was slightly ___.",
+      "answer": "overweight",
+      "audio": "assets/audio/word-formation/wf_weigh_c03.mp3",
+      "meaningVi": "Buổi kiểm tra sức khỏe cho thấy chú chó hơi thừa cân."
+    },
+    {
+      "id": "wf_weigh_c04",
+      "family": "weigh",
+      "sentenceWithGap": "Remember to ___ your suitcase before leaving for the airport.",
+      "answer": "weigh",
+      "audio": "assets/audio/word-formation/wf_weigh_c04.mp3",
+      "meaningVi": "Hãy nhớ cân va-li trước khi ra sân bay."
+    },
+    {
+      "id": "wf_weigh_c05",
+      "family": "weigh",
+      "sentenceWithGap": "The branches bent under the ___ of the snow.",
+      "answer": "weight",
+      "audio": "assets/audio/word-formation/wf_weigh_c05.mp3",
+      "meaningVi": "Những cành cây cong xuống dưới sức nặng của tuyết."
+    },
+    {
+      "id": "wf_weigh_c06",
+      "family": "weigh",
+      "sentenceWithGap": "Regular walks helped the ___ cat become healthier.",
+      "answer": "overweight",
+      "audio": "assets/audio/word-formation/wf_weigh_c06.mp3",
+      "meaningVi": "Việc đi bộ thường xuyên giúp chú mèo thừa cân khỏe mạnh hơn."
+    },
+    {
+      "id": "wf_wonder_c01",
+      "family": "wonder",
+      "sentenceWithGap": "The waterfall is a natural ___ hidden deep in the forest.",
+      "answer": "wonder",
+      "audio": "assets/audio/word-formation/wf_wonder_c01.mp3",
+      "meaningVi": "Thác nước là một kỳ quan thiên nhiên ẩn sâu trong rừng."
+    },
+    {
+      "id": "wf_wonder_c02",
+      "family": "wonder",
+      "sentenceWithGap": "We had a ___ time at the science festival.",
+      "answer": "wonderful",
+      "audio": "assets/audio/word-formation/wf_wonder_c02.mp3",
+      "meaningVi": "Chúng tôi đã có khoảng thời gian tuyệt vời tại lễ hội khoa học."
+    },
+    {
+      "id": "wf_wonder_c03",
+      "family": "wonder",
+      "sentenceWithGap": "The old theatre has been ___ restored.",
+      "answer": "wonderfully",
+      "audio": "assets/audio/word-formation/wf_wonder_c03.mp3",
+      "meaningVi": "Nhà hát cũ đã được phục hồi một cách tuyệt vời."
+    },
+    {
+      "id": "wf_wonder_c04",
+      "family": "wonder",
+      "sentenceWithGap": "The tiny machine was a ___ of careful engineering.",
+      "answer": "wonder",
+      "audio": "assets/audio/word-formation/wf_wonder_c04.mp3",
+      "meaningVi": "Cỗ máy nhỏ bé là một kỳ công của kỹ thuật tỉ mỉ."
+    },
+    {
+      "id": "wf_wonder_c05",
+      "family": "wonder",
+      "sentenceWithGap": "The weather was ___ throughout our camping trip.",
+      "answer": "wonderful",
+      "audio": "assets/audio/word-formation/wf_wonder_c05.mp3",
+      "meaningVi": "Thời tiết tuyệt vời trong suốt chuyến cắm trại của chúng tôi."
+    },
+    {
+      "id": "wf_wonder_c06",
+      "family": "wonder",
+      "sentenceWithGap": "The dancers moved ___ together across the stage.",
+      "answer": "wonderfully",
+      "audio": "assets/audio/word-formation/wf_wonder_c06.mp3",
+      "meaningVi": "Các vũ công phối hợp di chuyển tuyệt vời trên sân khấu."
     }
   ]
 }

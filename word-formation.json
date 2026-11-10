@@ -4684,7 +4684,7 @@
       "id": "cycle",
       "baseWord": "CYCLE",
       "phonetic": "/ˈsaɪkəl/",
-      "meaningVi": "chu ký, chu trình",
+      "meaningVi": "chu kỳ, chu trình",
       "tier": 3,
       "examCount": 2,
       "forms": {
@@ -4707,7 +4707,7 @@
             "word": "cycle",
             "tag": "plain",
             "starCount": null,
-            "meaningVi": "chu ký, chu trình"
+            "meaningVi": "chu kỳ, chu trình"
           },
           {
             "word": "recycling",
@@ -5305,7 +5305,7 @@
       "id": "fit",
       "baseWord": "FIT",
       "phonetic": "/ˈfɪt/",
-      "meaningVi": "dùng được",
+      "meaningVi": "đủ sức khỏe; phù hợp, dùng được",
       "tier": 3,
       "examCount": 2,
       "forms": {
@@ -5315,7 +5315,7 @@
             "word": "fitness",
             "tag": "star",
             "starCount": 1,
-            "meaningVi": "thể dục"
+            "meaningVi": "thể lực; tình trạng khỏe mạnh"
           }
         ],
         "adjective": [
@@ -5329,7 +5329,7 @@
             "word": "fit",
             "tag": "plain",
             "starCount": null,
-            "meaningVi": "dùng được"
+            "meaningVi": "đủ sức khỏe; phù hợp, dùng được"
           }
         ],
         "adverb": []
