@@ -6027,7 +6027,6 @@
       "family": "load",
       "prompt": "Visitors may ___ a free map from the official website.",
       "options": [
-        "load",
         "overload",
         "upload",
         "download"
@@ -6041,7 +6040,6 @@
       "options": [
         "overload",
         "upload",
-        "load",
         "download"
       ],
       "answer": "overload"
@@ -6073,12 +6071,11 @@
     {
       "id": "wf_load_m05",
       "family": "load",
-      "prompt": "You should ___ the software only from trusted websites.",
+      "prompt": "She wants to ___ the latest episode onto her phone so she can watch it on the train.",
       "options": [
         "upload",
         "download",
-        "overload",
-        "load"
+        "overload"
       ],
       "answer": "download"
     },
@@ -6089,8 +6086,7 @@
       "options": [
         "upload",
         "download",
-        "overload",
-        "load"
+        "overload"
       ],
       "answer": "overload"
     },
@@ -8217,7 +8213,7 @@
     {
       "id": "wf_arrange_m04",
       "family": "arrange",
-      "prompt": "The guide will ___ transport for passengers arriving after midnight.",
+      "prompt": "The class wants to ___ a surprise party for their teacher; nothing has been planned yet.",
       "options": [
         "arrange",
         "rearrange",
@@ -8249,7 +8245,7 @@
     {
       "id": "wf_arrange_m07",
       "family": "arrange",
-      "prompt": "Please ___ a visit to the museum for the whole class before the end of term.",
+      "prompt": "Please ___ a visit to the museum for the whole class; nobody has booked it yet.",
       "options": [
         "arrangement",
         "arrange",
@@ -14954,7 +14950,6 @@
       "prompt": "The art club will ___ old boxes to make storage containers.",
       "options": [
         "reuse",
-        "use",
         "user",
         "useful"
       ],
@@ -14963,7 +14958,7 @@
     {
       "id": "wf_use_m02",
       "family": "use",
-      "prompt": "The field is reserved for school ___ during the week.",
+      "prompt": "There is no ___ in arguing with her; she never changes her mind.",
       "options": [
         "reuse",
         "use",
@@ -15026,7 +15021,6 @@
       "prompt": "Artists can clean and ___ glass bottles in craft projects.",
       "options": [
         "reuse",
-        "use",
         "user",
         "useful"
       ],
@@ -15157,7 +15151,7 @@
     {
       "id": "wf_wonder_m03",
       "family": "wonder",
-      "prompt": "The room was ___ decorated for the celebration.",
+      "prompt": "The twins sang ___ together, and the whole audience clapped.",
       "options": [
         "wonder",
         "wonderful",
@@ -15168,7 +15162,7 @@
     {
       "id": "wf_wonder_m04",
       "family": "wonder",
-      "prompt": "The invention was considered a ___ of modern engineering.",
+      "prompt": "The children stared in ___ at the enormous dinosaur skeleton.",
       "options": [
         "wonder",
         "wonderful",
@@ -15179,7 +15173,7 @@
     {
       "id": "wf_wonder_m05",
       "family": "wonder",
-      "prompt": "The school choir sounded ___ at the festival.",
+      "prompt": "The magic show was ___, so the whole audience asked for more.",
       "options": [
         "wonder",
         "wonderful",
@@ -15201,7 +15195,7 @@
     {
       "id": "wf_wonder_m07",
       "family": "wonder",
-      "prompt": "The waterfall is considered a natural ___.",
+      "prompt": "It is no ___ that the team is tired after such a long match.",
       "options": [
         "wonder",
         "wonderful",

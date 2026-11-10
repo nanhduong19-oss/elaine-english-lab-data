@@ -3108,7 +3108,10 @@
       "sentenceWithGap": "Never ___ a small boat with too many passengers.",
       "answer": "overload",
       "audio": "assets/audio/word-formation/wf_load_c04.mp3",
-      "meaningVi": "Đừng bao giờ chở quá nhiều hành khách khiến một chiếc thuyền nhỏ bị quá tải."
+      "meaningVi": "Đừng bao giờ chở quá nhiều hành khách khiến một chiếc thuyền nhỏ bị quá tải.",
+      "alsoAccept": [
+        "load"
+      ]
     },
     {
       "id": "wf_load_c05",
@@ -4188,7 +4191,10 @@
       "sentenceWithGap": "The organisers will ___ transport for visitors arriving by train.",
       "answer": "arrange",
       "audio": "assets/audio/word-formation/wf_arrange_c01.mp3",
-      "meaningVi": "Ban tổ chức sẽ sắp xếp phương tiện cho du khách đến bằng tàu hỏa."
+      "meaningVi": "Ban tổ chức sẽ sắp xếp phương tiện cho du khách đến bằng tàu hỏa.",
+      "alsoAccept": [
+        "rearrange"
+      ]
     },
     {
       "id": "wf_arrange_c02",
@@ -4215,7 +4221,10 @@
       "sentenceWithGap": "Please ___ a meeting with the director before the end of the week.",
       "answer": "arrange",
       "audio": "assets/audio/word-formation/wf_arrange_c04.mp3",
-      "meaningVi": "Vui lòng sắp xếp một buổi gặp với giám đốc trước cuối tuần."
+      "meaningVi": "Vui lòng sắp xếp một buổi gặp với giám đốc trước cuối tuần.",
+      "alsoAccept": [
+        "rearrange"
+      ]
     },
     {
       "id": "wf_arrange_c05",
@@ -7797,7 +7806,10 @@
       "sentenceWithGap": "The workshop teaches people how to ___ old furniture.",
       "answer": "reuse",
       "audio": "assets/audio/word-formation/wf_use_c01.mp3",
-      "meaningVi": "Buổi thực hành dạy mọi người cách tái sử dụng đồ nội thất cũ."
+      "meaningVi": "Buổi thực hành dạy mọi người cách tái sử dụng đồ nội thất cũ.",
+      "alsoAccept": [
+        "use"
+      ]
     },
     {
       "id": "wf_use_c02",

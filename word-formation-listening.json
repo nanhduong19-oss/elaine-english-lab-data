@@ -2252,7 +2252,10 @@
       "family": "load",
       "sentenceWithGap": "Students can ___ the revision guide onto their tablets.",
       "answer": "download",
-      "audio": "assets/audio/word-formation/wf_load_l02.mp3"
+      "audio": "assets/audio/word-formation/wf_load_l02.mp3",
+      "alsoAccept": [
+        "load"
+      ]
     },
     {
       "id": "wf_load_l03",
@@ -3057,7 +3060,10 @@
       "family": "arrange",
       "sentenceWithGap": "We had to ___ the furniture again after the new shelves arrived.",
       "answer": "rearrange",
-      "audio": "assets/audio/word-formation/wf_arrange_l02.mp3"
+      "audio": "assets/audio/word-formation/wf_arrange_l02.mp3",
+      "alsoAccept": [
+        "arrange"
+      ]
     },
     {
       "id": "wf_arrange_l03",
@@ -3078,7 +3084,10 @@
       "family": "arrange",
       "sentenceWithGap": "They decided to ___ the tables yet again to create a larger performance area.",
       "answer": "rearrange",
-      "audio": "assets/audio/word-formation/wf_arrange_l05.mp3"
+      "audio": "assets/audio/word-formation/wf_arrange_l05.mp3",
+      "alsoAccept": [
+        "arrange"
+      ]
     },
     {
       "id": "wf_assist_l01",
@@ -5678,7 +5687,10 @@
       "family": "use",
       "sentenceWithGap": "Wash and ___ glass jars instead of throwing them away.",
       "answer": "reuse",
-      "audio": "assets/audio/word-formation/wf_use_l01.mp3"
+      "audio": "assets/audio/word-formation/wf_use_l01.mp3",
+      "alsoAccept": [
+        "use"
+      ]
     },
     {
       "id": "wf_use_l02",
